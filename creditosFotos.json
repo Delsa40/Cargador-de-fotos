@@ -112,5 +112,96 @@
   },
   "Lamborghini Miura_trasera": {
     "fuente": "Mr.choppers, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Ferrari 250 GTO_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=120329"
+  },
+  "Ferrari 250 GTO_trasera": {
+    "fuente": "Por Arnaud 25 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20937336"
+  },
+  "Ferrari Testarossa_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168286689"
+  },
+  "Ferrari Testarossa_trasera": {
+    "fuente": "Por Taisyo - photo taken by Taisyo, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=122228"
+  },
+  "Ferrari F40_delantera": {
+    "fuente": "Von Arnaud 25 - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20937300"
+  },
+  "Ferrari F40_trasera": {
+    "fuente": "Von Fishyfool - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51384675"
+  },
+  "Ferrari F50_delantera": {
+    "fuente": "https://www.topspeed.com/cars/ferrari/1995-ferrari-f50/"
+  },
+  "Ferrari F50_trasera": {
+    "fuente": "https://www.topspeed.com/cars/ferrari/1995-ferrari-f50/"
+  },
+  "Ferrari Enzo_delantera": {
+    "fuente": "Por Axion23 - Orange Enzo Ferrari, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=33856031"
+  },
+  "Ferrari Enzo_trasera": {
+    "fuente": "Авторство: Thomas doerfer. Собственная работа, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4002122"
+  },
+  "Ferrari LaFerrari_delantera": {
+    "fuente": "Por Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24998117"
+  },
+  "Ferrari LaFerrari_trasera": {
+    "fuente": "Por Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24998143"
+  },
+  "Ferrari 308 GTB_delantera": {
+    "fuente": "Por Steve Glover from Bolton, Lancs., England, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=160286130"
+  },
+  "Ferrari 308 GTB_trasera": {
+    "fuente": "Di © Jorge Royan / http://www.royan.com.ar, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=155014404"
+  },
+  "Ferrari 348_delantera": {
+    "fuente": "Por Desty - Desty, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2746643"
+  },
+  "Ferrari 348_trasera": {
+    "fuente": "Di Thesupermat - Opera propria, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=154292470"
+  },
+  "Ferrari 360 Modena_delantera": {
+    "fuente": "Por Alexandre Prévot from Nancy, France - Ferrari 360 Modena, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=137899879"
+  },
+  "Ferrari 360 Modena_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - Ferrari 360 Modena, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=91556533"
+  },
+  "Ferrari 458 Italia_delantera": {
+    "fuente": "By Brian Snelson - originally posted to Flickr as Ferrari 458 Italia, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=11225531"
+  },
+  "Ferrari 458 Italia_trasera": {
+    "fuente": "By AlessioMela - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45787003"
+  },
+  "Ferrari 488 GTB_delantera": {
+    "fuente": "Por emperornie - File:Ferrari 488 GTB (17134610179).jpg, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=44935732"
+  },
+  "Ferrari 488 GTB_trasera": {
+    "fuente": "Автор: Alexander Migl - Власна робота, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103881491"
+  },
+  "Ferrari SF90 Stradale_delantera": {
+    "fuente": "By Alexandre Prevot from Nancy, France - Ferrari SF90 Stradale, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=81609795"
+  },
+  "Ferrari SF90 Stradale_trasera": {
+    "fuente": "Por Calreyn88 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125728078"
+  },
+  "Ferrari 812 Superfast_delantera": {
+    "fuente": "By Vauxford - Obra propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73209686"
+  },
+  "Ferrari 812 Superfast_trasera": {
+    "fuente": "By Dennis Elzinga - https://www.flickr.com/photos/97202111@N03/50719522331/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146642157"
+  },
+  "Ferrari Roma_delantera": {
+    "fuente": "Por Tokumeigakarinoaoshima - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125733553"
+  },
+  "Ferrari Roma_trasera": {
+    "fuente": "Par Alexander Migl — Travail personnel, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112508586"
+  },
+  "Ferrari Purosangue_delantera": {
+    "fuente": "Por Calreyn88 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127785261"
+  },
+  "Ferrari Purosangue_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149510064"
   }
 }
+

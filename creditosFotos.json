@@ -221,10 +221,10 @@
   "Ferrari 275 GTB_trasera": {
     "fuente": "Por User:PS2pcGAMER - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1438521"
   },
-  "Ferrari 330 P4_delantera": {
+  "Ferrari 330 P_delantera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=37284209"
   },
-  "Ferrari 330 P4_trasera": {
+  "Ferrari 330 P_trasera": {
     "fuente": "By Marty B from United States of America - Ferrari 1967 330 P4, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=52969964"
   },
   "Ferrari 512 BB_delantera": {
@@ -467,161 +467,167 @@
   "Chevrolet Corvette C8 ZR1_trasera": {
     "fuente": "Chevrolet"
   },
-  "Chevrolet Camaro 1° Generación (1966)_delantera": {
+  "Chevrolet Camaro (1° Gen.)(1966)_delantera": {
     "fuente": "Por John Filiss proprietor SeriousWheels.com - seriouswheels.com, Copyrighted free use, https://commons.wikimedia.org/w/index.php?curid=5942283"
   },
-  "Chevrolet Camaro 1° Generación (1966)_trasera": {
+  "Chevrolet Camaro (1° Gen.)(1966)_trasera": {
     "fuente": "By BUTTON74 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149426501"
   },
-  "Chevrolet Camaro 2° Generación (1970)_delantera": {
+  "Chevrolet Camaro (2° Gen.)(1970)_delantera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1970 Chevrolet Camaro, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146772389"
   },
-  "Chevrolet Camaro 2° Generación (1970)_trasera": {
+  "Chevrolet Camaro (2° Gen.)(1970)_trasera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1970 Chevrolet Camaro, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146772421"
   },
-  "Chevrolet Camaro 2° Generación (1974)_delantera": {
+  "Chevrolet Camaro (2° Gen.)(1974)_delantera": {
     "fuente": "By Berthold Werner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=146772155"
   },
-  "Chevrolet Camaro 2° Generación (1974)_trasera": {
+  "Chevrolet Camaro (2° Gen.)(1974)_trasera": {
     "fuente": "By Berthold Werner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=146772309"
   },
-  "Chevrolet Camaro 3° Generación_delantera": {
+  "Chevrolet Camaro (3° Gen.)_delantera": {
     "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134661891"
   },
-  "Chevrolet Camaro 3° Generación_trasera": {
+  "Chevrolet Camaro (3° Gen.)_trasera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1987 Chevrolet Camaro IROC Z, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=67627160"
   },
-  "Chevrolet Camaro 4° Generación_delantera": {
+  "Chevrolet Camaro (4° Gen.)_delantera": {
     "fuente": "Por Mindlessmaggots - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4324018"
   },
-  "Chevrolet Camaro 4° Generación_trasera": {
+  "Chevrolet Camaro (4° Gen.)_trasera": {
     "fuente": "https://espirituracer.com/cochedeldia/coche-del-dia-chevrolet-camaro-z28-iv/"
   },
-  "Chevrolet Camaro 5° Generación (2009)_delantera": {
+  "Chevrolet Camaro (5° Gen.)(2009)_delantera": {
     "fuente": "By Alexandre Prévot from Nancy, France - Chevrolet Camaro, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=50133763"
   },
-  "Chevrolet Camaro 5° Generación (2009)_trasera": {
+  "Chevrolet Camaro (5° Gen.)(2009)_trasera": {
     "fuente": "By sv1ambo - 2010 Chevrolet Camaro SS Transformers Edition coupe, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38831572"
   },
-  "Chevrolet Camaro 5° Generación (2014)_delantera": {
+  "Chevrolet Camaro (5° Gen.)(2014)_delantera": {
     "fuente": "By Johannes Maximilian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92654940"
   },
-  "Chevrolet Camaro 5° Generación (2014)_trasera": {
+  "Chevrolet Camaro (5° Gen.)(2014)_trasera": {
     "fuente": "By Johannes Maximilian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92654934"
   },
-  "Chevrolet Camaro 6° Generación (2015)_delantera": {
+  "Chevrolet Camaro (6° Gen.)(2015)_delantera": {
     "fuente": "Por RL GNZLZ from Chile - Chevrolet Camaro SS 2016, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=83698676"
   },
-  "Chevrolet Camaro 6° Generación (2015)_trasera": {
+  "Chevrolet Camaro (6° Gen.)(2015)_trasera": {
     "fuente": "https://www.autobild.es/noticias/chevrolet-camaro-2016-232245"
   },
-  "Chevrolet Camaro 6° Generación (2019)_delantera": {
+  "Chevrolet Camaro (6° Gen.)(2019)_delantera": {
     "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84299691"
   },
-  "Chevrolet Camaro 6° Generación (2019)_trasera": {
+  "Chevrolet Camaro (6° Gen.)(2019)_trasera": {
     "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84299692"
   },
-  "Chevrolet Camaro 6° Generación (2020)_delantera": {
+  "Chevrolet Camaro (6° Gen.)(2020)_delantera": {
     "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89194881"
   },
-  "Chevrolet Camaro 6° Generación (2020)_trasera": {
+  "Chevrolet Camaro (6° Gen.)(2020)_trasera": {
     "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89194882"
   },
-  "Chevrolet Bel Air (1955)_delantera": {
-    "fuente": ""
+  "Chevrolet Bel Air (1° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27172905"
   },
-  "Chevrolet Bel Air (1955)_trasera": {
-    "fuente": ""
+  "Chevrolet Bel Air (1° Gen.)_trasera": {
+    "fuente": "Автор: Mr.choppers - Власна робота, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27912419"
   },
-  "Chevrolet Bel Air (1957)_delantera": {
-    "fuente": ""
+  "Chevrolet Bel Air (2° Gen.)(1955)_delantera": {
+    "fuente": "By Rex Gray from Southern California - 1955 Chevrolet Bel Air cnv - fvrT, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=23405092"
   },
-  "Chevrolet Bel Air (1957)_trasera": {
-    "fuente": ""
+  "Chevrolet Bel Air (2° Gen.)(1955)_trasera": {
+    "fuente": "By Alf van Beem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=24558731"
   },
-  "Chevrolet Impala 1° Generación_delantera": {
-    "fuente": ""
+  "Chevrolet Bel Air (2° Gen.)(1956)_delantera": {
+    "fuente": "By Redsimon at en.wikipedia, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=17965793"
   },
-  "Chevrolet Impala 1° Generación_trasera": {
-    "fuente": ""
+  "Chevrolet Bel Air (2° Gen.)(1956)_trasera": {
+    "fuente": "By Redsimon at English Wikipedia, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=10524401"
   },
-  "Chevrolet Impala 4° Generación_delantera": {
-    "fuente": ""
+  "Chevrolet Bel Air (2° Gen.)(1957)_delantera": {
+    "fuente": "By Gunguy09 at en.wikipedia - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11050914"
   },
-  "Chevrolet Impala 4° Generación_trasera": {
-    "fuente": ""
+  "Chevrolet Bel Air (2° Gen.)(1957)_trasera": {
+    "fuente": "By BUTTON74 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150955392"
   },
-  "Chevrolet Chevelle SS_delantera": {
-    "fuente": ""
+  "Chevrolet Bel Air (3° Gen.)_delantera": {
+    "fuente": "By GPS 56 from New Zealand - 1958 Chevrolet Bel-Air, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=57230284"
   },
-  "Chevrolet Chevelle SS_trasera": {
-    "fuente": ""
+  "Chevrolet Bel Air (3° Gen.)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 58 Chevrolet Bel Air, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69279531"
   },
-  "Chevrolet Nova 3° Generación_delantera": {
-    "fuente": ""
+  "Chevrolet Bel Air (4° Gen.)(1959)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1959 Chevrolet Bel AIr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=42473607"
   },
-  "Chevrolet Nova 3° Generación_trasera": {
-    "fuente": ""
+  "Chevrolet Bel Air (4° Gen.)(1959)_trasera": {
+    "fuente": "By Berthold Werner - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4424212"
   },
-  "Chevrolet Monte Carlo 1° Generación_delantera": {
-    "fuente": ""
+  "Chevrolet Bel Air (4° Gen.)(1960)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1960 Chevrolet Bel Air Sport Coupe, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146142096"
   },
-  "Chevrolet Monte Carlo 1° Generación_trasera": {
-    "fuente": ""
+  "Chevrolet Bel Air (4° Gen.)(1960)_trasera": {
+    "fuente": "By sv1ambo - 1960 Chevrolet Bel Air coupe, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38831370"
   },
-  "Chevrolet Monte Carlo SS (1983)_delantera": {
-    "fuente": ""
+  "Chevrolet Bel Air (5° Gen.)(1961)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1961 Chevrolet Bel Air, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=42473718"
   },
-  "Chevrolet Monte Carlo SS (1983)_trasera": {
-    "fuente": ""
+  "Chevrolet Bel Air (5° Gen.)(1961)_trasera": {
+    "fuente": "By Josephew at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6665231"
   },
-  "Chevrolet El Camino 3° Generación_delantera": {
-    "fuente": ""
+  "Chevrolet Bel Air (5° Gen.)(1963)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119539858"
   },
-  "Chevrolet El Camino 3° Generación_trasera": {
-    "fuente": ""
+  "Chevrolet Bel Air (5° Gen.)(1963)_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127656447"
+  },
+  "Chevrolet Bel Air Wagon (5° Gen.)(1964)_delantera": {
+    "fuente": "By order_242 from Chile - Chevrolet Bel Air Wagon 1964, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=41811441"
+  },
+  "Chevrolet Bel Air Wagon (5° Gen.)(1964)_trasera": {
+    "fuente": "By Ryan Hildebrand - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50352705"
+  },
+  "Chevrolet Bel Air (6° Gen.)(1965)_delantera": {
+    "fuente": "By Vegavairbob at en.wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16555970"
+  },
+  "Chevrolet Bel Air (6° Gen.)(1965)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1965 Chevrolet Bel Air, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=42473642"
+  },
+  "Chevrolet Bel Air Wagon (6° Gen.)(1966)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28544903"
+  },
+  "Chevrolet Bel Air Wagon (6° Gen.)(1966)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31534522"
+  },
+  "Chevrolet Bel Air Concept (2002)_delantera": {
+    "fuente": "https://es.motor1.com/photos/850397/chevrolet-bel-air-concept-2002/#7201180_chevrolet-bel-air-concept-2002"
+  },
+  "Chevrolet Bel Air Concept (2002)_trasera": {
+    "fuente": "https://es.motor1.com/photos/850397/chevrolet-bel-air-concept-2002/#7201181_chevrolet-bel-air-concept-2002"
   },
   "Chevrolet SSR_delantera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133883976"
   },
   "Chevrolet SSR_trasera": {
-    "fuente": ""
+    "fuente": "Von Kevauto - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68679130"
   },
   "Chevrolet HHR_delantera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137321512"
   },
   "Chevrolet HHR_trasera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9722113"
   },
-  "Chevrolet Avalanche 1° Generación_delantera": {
-    "fuente": ""
+  "Chevrolet Avalanche (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2154903"
   },
-  "Chevrolet Avalanche 1° Generación_trasera": {
-    "fuente": ""
+  "Chevrolet Avalanche (1° Gen.)_trasera": {
+    "fuente": "By order_242 from Chile - Chevrolet Avalanche Z71 2004, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=37145779"
   },
-  "Chevrolet Avalanche 2° Generación_delantera": {
-    "fuente": ""
+  "Chevrolet Avalanche (2° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=150814122"
   },
-  "Chevrolet Avalanche 2° Generación_trasera": {
-    "fuente": ""
-  },
-  "Chevrolet Trailblazer SS_delantera": {
-    "fuente": ""
-  },
-  "Chevrolet Trailblazer SS_trasera": {
-    "fuente": ""
-  },
-  "Chevrolet Blazer K5_delantera": {
-    "fuente": ""
-  },
-  "Chevrolet Blazer K5_trasera": {
-    "fuente": ""
-  },
-  "Chevrolet Suburban 1° Generación_delantera": {
-    "fuente": ""
-  },
-  "Chevrolet Suburban 1° Generación_trasera": {
-    "fuente": ""
+  "Chevrolet Avalanche (2° Gen.)_trasera": {
+    "fuente": "By order_242 from Chile - Chevrolet Avalanche LT 2010, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34574753"
   }
 }
 

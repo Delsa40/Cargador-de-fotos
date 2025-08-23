@@ -34,9 +34,7 @@ async function subirImagen(nombreArchivo) {
     const result = await cloudinary.uploader.upload(ruta, {
       public_id,
       tags,
-      context: {
-        fuente: infoCredito.fuente || ''
-      },
+      context: { fuente: infoCredito.fuente || '' },
       overwrite: true,
     });
     console.log(`Subido: ${public_id}`);

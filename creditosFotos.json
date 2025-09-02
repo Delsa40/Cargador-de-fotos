@@ -1,4 +1,172 @@
 {
+  "Alfa Romeo 1900_delantera": {
+    "fuente": "By Cloverleaf II - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45786197"
+  },
+  "Alfa Romeo 1900_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13311925"
+  },
+  "Alfa Romeo GT_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7445778"
+  },
+  "Alfa Romeo GT_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7445783"
+  },
+  "Alfa Romeo Nuvola_delantera": {
+    "fuente": "By Matthias v.d. Elbe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64854150"
+  },
+  "Alfa Romeo Nuvola_trasera": {
+    "fuente": "Por Matthias v.d. Elbe - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64854204"
+  },
+  "Alfa Romeo Dardo_delantera": {
+    "fuente": "https://es.motor1.com/photos/847862/alfa-romeo-dardo-concept-1998/#7163536_alfa-romeo-dardo-concept-1998"
+  },
+  "Alfa Romeo Dardo_trasera": {
+    "fuente": "https://es.motor1.com/photos/847862/alfa-romeo-dardo-concept-1998/#7163536_alfa-romeo-dardo-concept-1998"
+  },
+  "Alfa Romeo Junior_delantera": {
+    "fuente": "Av All names i want are taken - Eget arbete, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150023503"
+  },
+  "Alfa Romeo Junior_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156760989"
+  },
+  "Alfa Romeo Junior Z_delantera": {
+    "fuente": "Di Qwertytam - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1718581"
+  },
+  "Alfa Romeo Junior Z_trasera": {
+    "fuente": "Di Alf van Beem - Opera propria, CC0, https://commons.wikimedia.org/w/index.php?curid=26281606"
+  },
+  "Alfa Romeo Stelvio_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71613413"
+  },
+  "Alfa Romeo Stelvio_trasera": {
+    "fuente": "By Jjamieallen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107301835"
+  },
+  "Alfa Romeo Tonale_delantera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=117425603"
+  },
+  "Alfa Romeo Tonale_trasera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118801150"
+  },
+  "Alfa Romeo MiTo_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=37744019"
+  },
+  "Alfa Romeo MiTo_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4779524"
+  },
+  "Alfa Romeo 155_delantera": {
+    "fuente": "Автор: Serge77 з німецька Вікіпедія - Www.cuore-sportivo.com, Суспільне надбання (Public Domain), https://commons.wikimedia.org/w/index.php?curid=3426219"
+  },
+  "Alfa Romeo 155_trasera": {
+    "fuente": "Автор: Marvin Raaijmakers - Власна робота, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1557891"
+  },
+  "Alfa Romeo 155 V6 TI_delantera": {
+    "fuente": "Di richard - originally posted to Flickr as goodwood festival of speed 2010, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=10784711"
+  },
+  "Alfa Romeo 155 V6 TI_trasera": {
+    "fuente": "Di richard - originally posted to Flickr as goodwood festival of speed 2010, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=10784759"
+  },
+  "Alfa Romeo Giulietta (Type 940)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74114785"
+  },
+  "Alfa Romeo Giulietta (Type 940)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74114786"
+  },
+  "Alfa Romeo Giulia (Type 952)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75913821"
+  },
+  "Alfa Romeo Giulia (Type 952)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75036265"
+  },
+  "Alfa Romeo Spider (Series 1)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71708209"
+  },
+  "Alfa Romeo Spider (Series 1)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71708208"
+  },
+  "Alfa Romeo Spider (Series 2)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3503093"
+  },
+  "Alfa Romeo Spider (Series 2)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=79024234"
+  },
+  "Alfa Romeo Spider (Series 3)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4273088"
+  },
+  "Alfa Romeo Spider (Series 3)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=37519088"
+  },
+  "Alfa Romeo Spider (Series 4)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=139918676"
+  },
+  "Alfa Romeo Spider (Series 4)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3593362"
+  },
+  "Alfa Romeo 8C Competizione_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77846299"
+  },
+  "Alfa Romeo 8C Competizione_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19865576"
+  },
+  "Alfa Romeo 4C_delantera": {
+    "fuente": "Por Thesupermat - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=153799134"
+  },
+  "Alfa Romeo 4C_trasera": {
+    "fuente": "Autorstwa Thesupermat - Praca własna, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33420031"
+  },
+  "Alfa Romeo Montreal_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123822330"
+  },
+  "Alfa Romeo Montreal_trasera": {
+    "fuente": "By MB-one - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=141810612"
+  },
+  "Alfa Romeo SZ_delantera": {
+    "fuente": "Por Tony Harrison - Flickr: AutoItalia Brooklands May 2012 THP_7123, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=19348145"
+  },
+  "Alfa Romeo SZ_trasera": {
+    "fuente": "Από Tokumeigakarinoaoshima - Έργο αυτού που το ανεβάζει, CC0, https://commons.wikimedia.org/w/index.php?curid=40825387"
+  },
+  "Alfa Romeo RZ_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=79998761"
+  },
+  "Alfa Romeo RZ_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=80228144"
+  },
+  "Alfa Romeo Brera_delantera": {
+    "fuente": "Por Jeremy from Sydney, Australia - Alfa Romeo Brera, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45565375"
+  },
+  "Alfa Romeo Brera_trasera": {
+    "fuente": "https://www.classicandsportscar.com/features/buyers-guide-alfa-romeo-brera-spider"
+  },
+  "Alfa Romeo 159_delantera": {
+    "fuente": "Af M 93 - Eget arbejde, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4779502"
+  },
+  "Alfa Romeo 159_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4779509"
+  },
+  "Alfa Romeo 164_delantera": {
+    "fuente": "Di Mr.choppers - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=83783923"
+  },
+  "Alfa Romeo 164_trasera": {
+    "fuente": "Di Lanciatype840 - Opera propria, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=69625767"
+  },
+  "Alfa Romeo 75_delantera": {
+    "fuente": "By Matthias v.d. Elbe - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62308021"
+  },
+  "Alfa Romeo 75_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=17325101"
+  },
+  "Alfa Romeo 145_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3812084"
+  },
+  "Alfa Romeo 145_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3812091"
+  },
+  "Alfa Romeo 146_delantera": {
+    "fuente": "Di Rudolf Stricker - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2906471"
+  },
+  "Alfa Romeo 146_trasera": {
+    "fuente": "Di Rudolf Stricker - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2906473"
+  },
   "Ford Fiesta MK1_delantera": {
     "fuente": "Por Kieran White - https://www.flickr.com/photos/117096107@N03/20445599040/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146639522"
   },

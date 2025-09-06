@@ -1,9 +1,27 @@
-{
+{ 
+  "Cizeta Moroder V16T_delantera": {
+    "fuente": "Por Craig Howell from San Carlos, CA, USA - DSC09539, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38341740"
+  },
+  "Cizeta Moroder V16T_trasera": {
+    "fuente": "https://www.topgear.com/car-news/mavericks/cizetas-540bhp-v16t-supercar-almost-made-it"
+  },
   "Aston Martin DB5_delantera": {
     "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81796818"
   },
   "Aston Martin DB5_trasera": {
     "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20231702"
+  },
+  "Aston Martin Valour_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151590780"
+  },
+  "Aston Martin Valour_trasera": {
+    "fuente": "https://www.topgear.com/car-reviews/aston-martin/valour"
+  },
+  "Aston Martin Valiant_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165671508"
+  },
+  "Aston Martin Valiant_trasera": {
+    "fuente": "https://www.topgear.com/car-news/first-look/fernando-alonsos-extreme-aston-martin-v12-manual-only-valiant"
   },
   "Aston Martin DB6_delantera": {
     "fuente": "order_242 from Chile - Aston Martin DB 6 Vantage Superleggera 1967, CC 表示-継承 2.0, https://commons.wikimedia.org/w/index.php?curid=36781533による"
@@ -156,34 +174,28 @@
     "fuente": "Von Mr.choppers - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=80386465"
   },
   "Aston Martin Rapide_delantera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25975090"
   },
   "Aston Martin Rapide_trasera": {
-    "fuente": ""
-  },
-  "Aston Martin Rapide E_delantera": {
-    "fuente": ""
-  },
-  "Aston Martin Rapide E_trasera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=111405209"
   },
   "Aston Martin Cygnet_delantera": {
-    "fuente": ""
+    "fuente": "Por El monty - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=9710019"
   },
   "Aston Martin Cygnet_trasera": {
-    "fuente": ""
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19294023"
   },
   "Aston Martin Bulldog_delantera": {
-    "fuente": ""
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=144099521"
   },
   "Aston Martin Bulldog_trasera": {
-    "fuente": ""
+    "fuente": "Dick Barnatt https://www.topgear.com/car-news/retro/200mph-one-aston-martin-bulldog-has-been-fully-restored"
   },
   "Aston Martin Victor_delantera": {
-    "fuente": ""
+    "fuente": "Por Liam Walker - From Discord server - With their permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94875148"
   },
   "Aston Martin Victor_trasera": {
-    "fuente": ""
+    "fuente": "By Chelsea Jay - Their work - With permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94876452"
   },
   "Alfa Romeo 1900_delantera": {
     "fuente": "By Cloverleaf II - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45786197"

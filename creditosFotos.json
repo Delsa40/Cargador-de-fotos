@@ -1,4 +1,412 @@
 {
+  "Volkswagen Beetle_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5747446"
+  },
+  "Volkswagen Beetle_trasera": {
+    "fuente": "Por Pfan70 de Wikipedia en inglés - Transferido desde en.wikipedia a Commons., Dominio público, https://commons.wikimedia.org/w/index.php?curid=2563118"
+  },
+  "Volkswagen New Beetle_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73571642"
+  },
+  "Volkswagen New Beetle_trasera": {
+    "fuente": "Autorstwa Vauxford - Praca własna, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968118"
+  },
+  "Volkswagen New Beetle (Redesign)_delantera": {
+    "fuente": "Autorstwa Thomas doerfer - Praca własna, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=10817941"
+  },
+  "Volkswagen New Beetle (Redesign)_trasera": {
+    "fuente": "Autorstwa Thomas doerfer - Praca własna, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=10817986"
+  },
+  "Volkswagen Beetle (A5)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=25136542"
+  },
+  "Volkswagen Beetle (A5)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=25136638"
+  },
+  "Volkswagen New Beetle RSi_delantera": {
+    "fuente": "https://periodismodelmotor.com/volkswagen-beetle-rsi-2002/323767/"
+  },
+  "Volkswagen New Beetle RSi_trasera": {
+    "fuente": "https://periodismodelmotor.com/volkswagen-beetle-rsi-2002/323767/"
+  },
+  "Volkswagen Golf MK1_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=5425858"
+  },
+  "Volkswagen Golf MK1_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=5425929"
+  },
+  "Volkswagen Golf MK2_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3513457"
+  },
+  "Volkswagen Golf MK2_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3513459"
+  },
+  "Volkswagen Golf MK3_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=5080083"
+  },
+  "Volkswagen Golf MK3_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=5080087"
+  },
+  "Volkswagen Golf MK3 Variant_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3768159"
+  },
+  "Volkswagen Golf MK3 Variant_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3768160"
+  },
+  "Volkswagen Golf MK4_delantera": {
+    "fuente": "Por No se ha podido leer automáticamente información sobre el autor; se asume que es M 93 (según los derechos de autor reclamados). - No se ha podido leer automáticamente información sobre la fuente; se asume que es trabajo propio (según los derechos de autor reclamados)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5390215"
+  },
+  "Volkswagen Golf MK4_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2978345"
+  },
+  "Volkswagen Golf MK4 R32_delantera": {
+    "fuente": "Af M 93 - Egen affotografering, Attribution, https://commons.wikimedia.org/w/index.php?curid=7829723"
+  },
+  "Volkswagen Golf MK4 R32_trasera": {
+    "fuente": "Af M 93 - Egen affotografering, Attribution, https://commons.wikimedia.org/w/index.php?curid=7829730"
+  },
+  "Volkswagen Golf MK4 Variant_delantera": {
+    "fuente": "Af M 93 - Egen affotografering, Attribution, https://commons.wikimedia.org/w/index.php?curid=7779658"
+  },
+  "Volkswagen Golf MK4 Variant_trasera": {
+    "fuente": "Af M 93 - Egen affotografering, Attribution, https://commons.wikimedia.org/w/index.php?curid=7779666"
+  },
+  "Volkswagen Golf MK4.5_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4322717"
+  },
+  "Volkswagen Golf MK4.5_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=101332684"
+  },
+  "Volkswagen Golf MK5_delantera": {
+    "fuente": "Von Rudolf Stricker - Eigenes Werk, Attribution, https://commons.wikimedia.org/w/index.php?curid=5295221"
+  },
+  "Volkswagen Golf MK5_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4726358"
+  },
+  "Volkswagen Golf MK5 R32_delantera": {
+    "fuente": "Von Rudolf Stricker - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3053211"
+  },
+  "Volkswagen Golf MK5 R32_trasera": {
+    "fuente": "Von Rudolf Stricker - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3053233"
+  },
+  "Volkswagen Golf MK5 Variant_delantera": {
+    "fuente": "Von M 93 - Selbst fotografiert, Attribution, https://commons.wikimedia.org/w/index.php?curid=10862306"
+  },
+  "Volkswagen Golf MK5 Variant_trasera": {
+    "fuente": "Von M 93 - Selbst fotografiert, Attribution, https://commons.wikimedia.org/w/index.php?curid=10862326"
+  },
+  "Volkswagen Golf MK5 GTI W12 650_delantera": {
+    "fuente": "Von MPW57 - Eigenes Werk, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=26626272"
+  },
+  "Volkswagen Golf MK5 GTI W12 650_trasera": {
+    "fuente": "By Bruno Kussler Marques - https://www.flickr.com/photos/bkm_br/7618301436/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=93032548"
+  },
+  "Volkswagen Golf MK6_delantera": {
+    "fuente": "Por Spurzem - Lothar Spurzem - Trabajo propio, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=4969953"
+  },
+  "Volkswagen Golf MK6_trasera": {
+    "fuente": "Por M 93 (talk) 15:52, 24 January 2009 (UTC) - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=5781066"
+  },
+  "Volkswagen Golf MK6 Variant_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=12005682"
+  },
+  "Volkswagen Golf MK6 Variant_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=12005717"
+  },
+  "Volkswagen Golf MK7_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73685218"
+  },
+  "Volkswagen Golf MK7_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73685219"
+  },
+  "Volkswagen Golf MK8_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93888406"
+  },
+  "Volkswagen Golf MK8_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93888408"
+  },
+  "Volkswagen Golf MK8 Variant_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98380648"
+  },
+  "Volkswagen Golf MK8 Variant_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99367312"
+  },
+  "Volkswagen Karmann Ghia (Type 14)_delantera": {
+    "fuente": "Por Robrob42 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27797140"
+  },
+  "Volkswagen Karmann Ghia (Type 14)_trasera": {
+    "fuente": "By Rundvald - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11676184"
+  },
+  "Volkswagen Karmann Ghia (Type 34)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3498520"
+  },
+  "Volkswagen Karmann Ghia (Type 34)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3498521"
+  },
+  "Volkswagen Karmann Ghia TC_delantera": {
+    "fuente": "Por Andrew Bone from Weymouth, England - VW Brazil Karmann Ghia TC145, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39079157"
+  },
+  "Volkswagen Karmann Ghia TC_trasera": {
+    "fuente": "Por Andrew Bone from Weymouth, England - VW Brazil Karmann Ghia TC145, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39079159"
+  },
+  "Volkswagen Polo MK1_delantera": {
+    "fuente": "Por Stahlkocher - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1907949"
+  },
+  "Volkswagen Polo MK1_trasera": {
+    "fuente": "Por Stahlkocher - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1907948"
+  },
+  "Volkswagen Polo MK2_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3080387"
+  },
+  "Volkswagen Polo MK2_trasera": {
+    "fuente": "Af Rudolf Stricker - Eget arbejde, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3080395"
+  },
+  "Volkswagen Polo MK2 Coupé_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4599990"
+  },
+  "Volkswagen Polo MK2 Coupé_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4599996"
+  },
+  "Volkswagen Polo MK2 (Facelift)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2977701"
+  },
+  "Volkswagen Polo MK2 (Facelift)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2977710"
+  },
+  "Volkswagen Polo MK3_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=6369342"
+  },
+  "Volkswagen Polo MK3_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63799337"
+  },
+  "Volkswagen Polo MK3 Variant_delantera": {
+    "fuente": "Автор: Thomas doerfer - Власна робота, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3716463"
+  },
+  "Volkswagen Polo MK3 Variant_trasera": {
+    "fuente": "Автор: Thomas doerfer - Власна робота, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3716466"
+  },
+  "Volkswagen Polo MK3 (Facelift)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=8671741"
+  },
+  "Volkswagen Polo MK3 (Facelift)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=8671751"
+  },
+  "Volkswagen Polo Classic_delantera": {
+    "fuente": "Por Thyago Szoke - Fotografía propia, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1567636"
+  },
+  "Volkswagen Polo Classic_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3716336"
+  },
+  "Volkswagen Polo MK4_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70811201"
+  },
+  "Volkswagen Polo MK4_trasera": {
+    "fuente": "Af Rudolf Stricker - Eget arbejde, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3566590"
+  },
+  "Volkswagen Polo MK4 Fun_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=16114714"
+  },
+  "Volkswagen Polo MK4 Fun_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=16114772"
+  },
+  "Volkswagen Polo MK4 (Facelift)_delantera": {
+    "fuente": "Par Thomas doerfer — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3495364"
+  },
+  "Volkswagen Polo MK4 (Facelift)_trasera": {
+    "fuente": "Par M 93 — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4075339"
+  },
+  "Volkswagen CrossPolo MK4_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabayu propiu, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3876599"
+  },
+  "Volkswagen CrossPolo MK4_trasera": {
+    "fuente": "Автор: Rudolf Stricker - Власна робота, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3876609"
+  },
+  "Volkswagen Polo MK5_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69596805"
+  },
+  "Volkswagen Polo MK5_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15490140"
+  },
+  "Volkswagen CrossPolo MK5_delantera": {
+    "fuente": "Автор: Thomas doerfer - Власна робота, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=11485102"
+  },
+  "Volkswagen CrossPolo MK5_trasera": {
+    "fuente": "Автор: Thomas doerfer - Власна робота, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=11485104"
+  },
+  "Volkswagen Polo MK6_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68976773"
+  },
+  "Volkswagen Polo MK6_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68976775"
+  },
+  "Volkswagen Passat B1_delantera": {
+    "fuente": "Por Sven Storbeck - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=275657"
+  },
+  "Volkswagen Passat B1_trasera": {
+    "fuente": "By Sven Storbeck - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=275658"
+  },
+  "Volkswagen Passat B1 Variant_delantera": {
+    "fuente": "By Sven Storbeck - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=275662"
+  },
+  "Volkswagen Passat B1 Variant_trasera": {
+    "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31563786"
+  },
+  "Volkswagen Passat B2_delantera": {
+    "fuente": "Af Rudolf Stricker - Eget arbejde, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3700869"
+  },
+  "Volkswagen Passat B2_trasera": {
+    "fuente": "Af Rudolf Stricker - Eget arbejde, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3700875"
+  },
+  "Volkswagen Passat B2 Variant_delantera": {
+    "fuente": "Por Zolookas, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11472446"
+  },
+  "Volkswagen Passat B2 Variant_trasera": {
+    "fuente": "Af Sven Storbeck, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11900398"
+  },
+  "Volkswagen Passat B3_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3187632"
+  },
+  "Volkswagen Passat B3_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3187636"
+  },
+  "Volkswagen Passat B3 Variant_delantera": {
+    "fuente": "Autor: Rudolf Stricker – Vlastní dílo, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3561135"
+  },
+  "Volkswagen Passat B3 Variant_trasera": {
+    "fuente": "Autor: Rudolf Stricker – Vlastní dílo, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3561141"
+  },
+  "Volkswagen Passat B4_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3706534"
+  },
+  "Volkswagen Passat B4_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3706536"
+  },
+  "Volkswagen Passat B4 Variant_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3546006"
+  },
+  "Volkswagen Passat B4 Variant_trasera": {
+    "fuente": "Von Rudolf Stricker - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3546019"
+  },
+  "Volkswagen Passat B5_delantera": {
+    "fuente": ""
+  },
+  "Volkswagen Passat B5_trasera": {
+    "fuente": ""
+  },
+  "Volkswagen Scirocco (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volkswagen Scirocco (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volkswagen Jetta (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volkswagen Jetta (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volkswagen Corrado_delantera": {
+    "fuente": "Por Corrado von Hans-Christian H. fotografiert von Bernd H., veröffentlicht von Steve M. (Genehmigung erteilt) - Trabajo propio, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1986200"
+  },
+  "Volkswagen Corrado_trasera": {
+    "fuente": "Por Marcus Benthaus, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=11899281"
+  },
+  "Volkswagen Touareg (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volkswagen Touareg (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volkswagen Tiguan (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volkswagen Tiguan (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volkswagen Up!_delantera": {
+    "fuente": "Di M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18740970"
+  },
+  "Volkswagen Up!_trasera": {
+    "fuente": "Di M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18741016"
+  },
+  "Volkswagen Passat CC_delantera": {
+    "fuente": ""
+  },
+  "Volkswagen Passat CC_trasera": {
+    "fuente": ""
+  },
+  "Volkswagen T-Roc (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volkswagen T-Roc (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volkswagen T-Cross_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=160403117"
+  },
+  "Volkswagen T-Cross_trasera": {
+    "fuente": "Di Matti Blume - Opera propria, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77112269"
+  },
+  "Volkswagen Arteon_delantera": {
+    "fuente": "Von M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=106913457"
+  },
+  "Volkswagen Arteon_trasera": {
+    "fuente": "Von M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=106913479"
+  },
+  "Volkswagen Arteon Shooting Brake_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=99425771"
+  },
+  "Volkswagen Arteon Shooting Brake_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=99425807"
+  },
+  "Volkswagen Sharan (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volkswagen Sharan (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volkswagen Caddy (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volkswagen Caddy (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volkswagen Type 2 (T1)_delantera": {
+    "fuente": "By R-E-AL (talk | contribs | Gallery)  (German Wikipedia) - This photograph was taken with an AIPTEK DV 6800 S, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10243712"
+  },
+  "Volkswagen Type 2 (T1)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=12705279"
+  },
+  "Volkswagen Type 2 (T2)_delantera": {
+    "fuente": "Por ICS Team, Freigabe des Bildes am 30.6.2006 durch ICS Team, Thomas Küster - http://www.brasilienbus.de/bilder/brasilienbus122.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=946914"
+  },
+  "Volkswagen Type 2 (T2)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=12363553"
+  },
+  "Volkswagen Eos_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72759672"
+  },
+  "Volkswagen Eos_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72759673"
+  },
+  "Volkswagen Eos (Redesign)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14769336"
+  },
+  "Volkswagen Eos (Redesign)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15313344"
+  },
+  "Volkswagen Phaeton_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3233722"
+  },
+  "Volkswagen Phaeton_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=6416545"
+  },
+  "Volkswagen Phaeton (Facelift)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74114787"
+  },
+  "Volkswagen Phaeton (Facelift)_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=10803801"
+  },
   "Peugeot 201_delantera": {
     "fuente": "Di Xabi Rome-Hérault, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=21380440"
   },

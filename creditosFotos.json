@@ -1,4 +1,256 @@
 {
+  "Renault 5_delantera": {
+    "fuente": "Por Y.Leclercq© - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116140419"
+  },
+  "Renault 5_trasera": {
+    "fuente": "Por Lebubu93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20028136"
+  },
+  "Renault 5 Turbo_delantera": {
+    "fuente": "Por manarif - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=12123446"
+  },
+  "Renault 5 Turbo_trasera": {
+    "fuente": "Von Joost J. Bakker - Renault 5 Turbo II, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17771351"
+  },
+  "Renault Clio (1° Gen.)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3000508"
+  },
+  "Renault Clio (1° Gen.)_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3343485"
+  },
+  "Renault Clio Williams_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74511802"
+  },
+  "Renault Clio Williams_trasera": {
+    "fuente": "Por AlexJ - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=1161086"
+  },
+  "Renault Clio (2° Gen.)(Phase 1)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4754691"
+  },
+  "Renault Clio (2° Gen.)(Phase 1)_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4754693"
+  },
+  "Renault Clio (2° Gen.)(Phase 2)_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4085229"
+  },
+  "Renault Clio (2° Gen.)(Phase 2)_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4085234"
+  },
+  "Renault Clio (3° Gen.)(Phase 1)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6898013"
+  },
+  "Renault Clio (3° Gen.)(Phase 1)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6898017"
+  },
+  "Renault Clio (3° Gen.)(Phase 2)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6947345"
+  },
+  "Renault Clio (3° Gen.)(Phase 2)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6947347"
+  },
+  "Renault Clio (4° Gen.)_delantera": {
+    "fuente": "Por M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=25162336"
+  },
+  "Renault Clio (4° Gen.)_trasera": {
+    "fuente": "Por M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=25162430"
+  },
+  "Renault Clio (5° Gen.)_delantera": {
+    "fuente": "De la Vauxford - Operă proprie, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832402"
+  },
+  "Renault Clio (5° Gen.)_trasera": {
+    "fuente": "Por Matti Blume - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77242752"
+  },
+  "Renault Clio V6 (Phase 1)_delantera": {
+    "fuente": "Von Calreyn88 - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123364027"
+  },
+  "Renault Clio V6 (Phase 1)_trasera": {
+    "fuente": "By Guillaume Vachey - Renault Clio V6, CC0, https://commons.wikimedia.org/w/index.php?curid=65806902"
+  },
+  "Renault Clio V6 (Phase 2)_delantera": {
+    "fuente": "Von Spanish Coches - 2003 Renault Clio V6, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38113001"
+  },
+  "Renault Clio V6 (Phase 2)_trasera": {
+    "fuente": "Von The Car Spy - 2006 RenaultSport Clio V6 255, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=36604040"
+  },
+  "Renault Twingo (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4351044"
+  },
+  "Renault Twingo (1° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7857209"
+  },
+  "Renault Twingo (2° Gen.)(Phase 1)_delantera": {
+    "fuente": "Von Rudolf Stricker - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3817745"
+  },
+  "Renault Twingo (2° Gen.)(Phase 1)_trasera": {
+    "fuente": "Von Rudolf Stricker - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3817753"
+  },
+  "Renault Twingo (2° Gen.)(Phase 2)_delantera": {
+    "fuente": "By Overlaet - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16725654"
+  },
+  "Renault Twingo (2° Gen.)(Phase 2)_trasera": {
+    "fuente": "By Overlaet - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16725895"
+  },
+  "Renault Twingo (3° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44483664"
+  },
+  "Renault Twingo (3° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44483675"
+  },
+  "Renault 9_delantera": {
+    "fuente": "By Rama - Own work, CC BY-SA 2.0 fr, https://commons.wikimedia.org/w/index.php?curid=949829"
+  },
+  "Renault 9_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25069145"
+  },
+  "Renault 11_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=173621"
+  },
+  "Renault 11_trasera": {
+    "fuente": "Por Guillaume Vachey from Chalon sur Saone, France - Renault 11, CC0, https://commons.wikimedia.org/w/index.php?curid=76880077"
+  },
+  "Renault 19_delantera": {
+    "fuente": "Por M 93 (talk) 18:04, 16 January 2009 (UTC) - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=5728117"
+  },
+  "Renault 19_trasera": {
+    "fuente": "Por M 93 (talk) 18:05, 16 January 2009 (UTC) - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=5728119"
+  },
+  "Renault 21 (Phase 1)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3000823"
+  },
+  "Renault 21 (Phase 1)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3000817"
+  },
+  "Renault 21 (Phase 2)_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=4215846"
+  },
+  "Renault 21 (Phase 2)_trasera": {
+    "fuente": "By Guillaume Vachey from Chalon sur Saone, France - Renault 21, CC0, https://commons.wikimedia.org/w/index.php?curid=76344199"
+  },
+  "Renault 21 Nevada (Phase 2)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3476721"
+  },
+  "Renault 21 Nevada (Phase 2)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3476727"
+  },
+  "Renault 21 Alize_delantera": {
+    "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20015049"
+  },
+  "Renault 21 Alize_trasera": {
+    "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20015048"
+  },
+  "Renault 25 (Phase 1)_delantera": {
+    "fuente": "By order_242 from Chile - Renault 25 GTS 1990, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34577199"
+  },
+  "Renault 25 (Phase 1)_trasera": {
+    "fuente": "By Guillaume Vachey from Chalon sur Saone, France - Renault 25, CC0, https://commons.wikimedia.org/w/index.php?curid=76880097"
+  },
+  "Renault 25 (Phase 2)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3668727"
+  },
+  "Renault 25 (Phase 2)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3668736"
+  },
+  "Renault Laguna (1° Gen.)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=8059632"
+  },
+  "Renault Laguna (1° Gen.)_trasera": {
+    "fuente": "Por Pitak - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=10180320"
+  },
+  "Renault Laguna Grandtour (1° Gen.)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2998981"
+  },
+  "Renault Laguna Grandtour (1° Gen.)_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2922234"
+  },
+  "Renault Laguna (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Renault Laguna (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Renault Laguna Coupé_delantera": {
+    "fuente": ""
+  },
+  "Renault Laguna Coupé_trasera": {
+    "fuente": ""
+  },
+  "Renault Megane (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Renault Megane (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Renault Megane RS_delantera": {
+    "fuente": ""
+  },
+  "Renault Megane RS_trasera": {
+    "fuente": ""
+  },
+  "Renault Fluence_delantera": {
+    "fuente": ""
+  },
+  "Renault Fluence_trasera": {
+    "fuente": ""
+  },
+  "Renault Koleos (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Renault Koleos (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Renault Captur (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Renault Captur (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Renault Kadjar_delantera": {
+    "fuente": ""
+  },
+  "Renault Kadjar_trasera": {
+    "fuente": ""
+  },
+  "Renault Arkana_delantera": {
+    "fuente": ""
+  },
+  "Renault Arkana_trasera": {
+    "fuente": ""
+  },
+  "Renault Austral_delantera": {
+    "fuente": ""
+  },
+  "Renault Austral_trasera": {
+    "fuente": ""
+  },
+  "Renault Vel Satis_delantera": {
+    "fuente": ""
+  },
+  "Renault Vel Satis_trasera": {
+    "fuente": ""
+  },
+  "Renault Avantime_delantera": {
+    "fuente": ""
+  },
+  "Renault Avantime_trasera": {
+    "fuente": ""
+  },
+  "Renault Alpine A310_delantera": {
+    "fuente": ""
+  },
+  "Renault Alpine A310_trasera": {
+    "fuente": ""
+  },
+  "Renault Alpine A610_delantera": {
+    "fuente": ""
+  },
+  "Renault Alpine A610_trasera": {
+    "fuente": ""
+  },
+  "Renault Spider_delantera": {
+    "fuente": ""
+  },
+  "Renault Spider_trasera": {
+    "fuente": ""
+  },
   "Volkswagen Beetle_delantera": {
     "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5747446"
   },

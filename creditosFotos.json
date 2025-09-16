@@ -342,64 +342,88 @@
     "fuente": "https://www.16valvulas.com.ar/prueba-renault-fluence-gt2/"
   },
   "Renault Koleos (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Bull-Doser at English Wikipedia - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=22710549"
   },
   "Renault Koleos (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "Por No se ha podido leer automáticamente información sobre el autor; se asume que es M 93 (según los derechos de autor reclamados). - No se ha podido leer automáticamente información sobre la fuente; se asume que es trabajo propio (según los derechos de autor reclamados)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5167374"
+  },
+  "Renault Koleos (1° Gen.)(Facelift)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=25069284"
+  },
+  "Renault Koleos (1° Gen.)(Facelift)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=25069323"
+  },
+  "Renault Koleos (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77012492"
+  },
+  "Renault Koleos (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77012493"
   },
   "Renault Captur (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75913801"
   },
   "Renault Captur (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=27187416"
+  },
+  "Renault Captur (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87685921"
+  },
+  "Renault Captur (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87685920"
+  },
+  "Renault Captur (2° Gen.)(Facelift)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152673283"
+  },
+  "Renault Captur (2° Gen.)(Facelift)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152673305"
   },
   "Renault Kadjar_delantera": {
-    "fuente": ""
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71259924"
   },
   "Renault Kadjar_trasera": {
-    "fuente": ""
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71259933"
   },
   "Renault Arkana_delantera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=164403672"
   },
   "Renault Arkana_trasera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=164403716"
   },
   "Renault Austral_delantera": {
-    "fuente": ""
+    "fuente": "Par Alexander-93 — Travail personnel, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130154774"
   },
   "Renault Austral_trasera": {
-    "fuente": ""
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127555207"
   },
   "Renault Vel Satis_delantera": {
-    "fuente": ""
+    "fuente": "Di Rudolf Stricker - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3139411"
   },
   "Renault Vel Satis_trasera": {
-    "fuente": ""
+    "fuente": "Di Rudolf Stricker - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3139414"
   },
   "Renault Avantime_delantera": {
-    "fuente": ""
+    "fuente": "Por 328cia - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=1353153"
   },
   "Renault Avantime_trasera": {
-    "fuente": ""
-  },
-  "Renault Alpine A310_delantera": {
-    "fuente": ""
-  },
-  "Renault Alpine A310_trasera": {
-    "fuente": ""
-  },
-  "Renault Alpine A610_delantera": {
-    "fuente": ""
-  },
-  "Renault Alpine A610_trasera": {
-    "fuente": ""
+    "fuente": "Por 328cia - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=5304855"
   },
   "Renault Spider_delantera": {
-    "fuente": ""
+    "fuente": "Por Alexander Migl - Obra do próprio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93113180"
   },
   "Renault Spider_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64106439"
+  },
+  "Renault Safrane (Phase 1)_delantera": {
+    "fuente": "Por Lebubu93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20016775"
+  },
+  "Renault Safrane (Phase 1)_trasera": {
+    "fuente": "Por Lebubu93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20016774"
+  },
+  "Renault Safrane (Phase 2)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=9990759"
+  },
+  "Renault Safrane (Phase 2)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=9990763"
   },
   "Volkswagen Beetle_delantera": {
     "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5747446"

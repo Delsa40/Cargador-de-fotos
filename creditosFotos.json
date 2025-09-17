@@ -1,4 +1,106 @@
 {
+  "Toyota Corolla (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=34341922"
+  },
+  "Toyota Corolla (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=34341920"
+  },
+  "Toyota Corolla (2° Gen.)_delantera": {
+    "fuente": "Par Ypy31 — Travail personnel, CC0, https://commons.wikimedia.org/w/index.php?curid=19950489"
+  },
+  "Toyota Corolla (2° Gen.)_trasera": {
+    "fuente": "Di TTTNIS - Opera propria, CC0, https://commons.wikimedia.org/w/index.php?curid=35320591"
+  },
+  "Toyota Supra (A70)_delantera": {
+    "fuente": "Por Tokumeigakarinoaoshima - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79013202"
+  },
+  "Toyota Supra (A70)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3008921"
+  },
+  "Toyota Supra (A80)_delantera": {
+    "fuente": "Por BedaNo1 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19145520"
+  },
+  "Toyota Supra (A80)_trasera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30187242"
+  },
+  "Toyota Supra (A90)_delantera": {
+    "fuente": "Por Calreyn88 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136551316"
+  },
+  "Toyota Supra (A90)_trasera": {
+    "fuente": "Por Tokumeigakarinoaoshima - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80229530"
+  },
+  "Toyota 2000GT_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=208198"
+  },
+  "Toyota 2000GT_trasera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=165251"
+  },
+  "Toyota MR2 (1° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2365992"
+  },
+  "Toyota MR2 (1° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28039522"
+  },
+  "Toyota MR2 (2° Gen.)_delantera": {
+    "fuente": "Por GreenGhost74 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71987154"
+  },
+  "Toyota MR2 (2° Gen.)_trasera": {
+    "fuente": "Por Tennen-Gas - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3970945"
+  },
+  "Toyota MR2 (3° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2474556"
+  },
+  "Toyota MR2 (3° Gen.)_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79059096"
+  },
+  "Toyota Prius (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=14981250"
+  },
+  "Toyota Prius (1° Gen.)_trasera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6899858"
+  },
+  "Toyota Prius (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4237385"
+  },
+  "Toyota Prius (2° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=14744447"
+  },
+  "Toyota Prius (3° Gen.)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11000620"
+  },
+  "Toyota Prius (3° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7273422"
+  },
+  "Toyota Prius (4° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74910031"
+  },
+  "Toyota Prius (4° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78303757"
+  },
+  "Toyota Prius (5° Gen.)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148183768"
+  },
+  "Toyota Prius (5° Gen.)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148183765"
+  },
+  "Toyota Paseo (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7758026"
+  },
+  "Toyota Paseo (1° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133925904"
+  },
+  "Toyota Paseo (2° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3588407"
+  },
+  "Toyota Paseo (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3588411"
+  },
+  "Toyota Sera_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3493794"
+  },
+  "Toyota Sera_trasera": {
+    "fuente": "Di SG2012 - https://www.flickr.com/photos/57664366@N08/30428377442/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=54991628"
+  },
   "Renault 5_delantera": {
     "fuente": "Por Y.Leclercq© - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116140419"
   },

@@ -1,4 +1,208 @@
 {
+  "Lotus Seven_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68633026"
+  },
+  "Lotus Seven_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68633025"
+  },
+  "Lotus Elite Type 14_delantera": {
+    "fuente": "By SG2012 - https://www.flickr.com/photos/57664366@N08/9000322838/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=57317516"
+  },
+  "Lotus Elite Type 14_trasera": {
+    "fuente": "Di Andrew Bone from Weymouth, England - Lotus Elite Super 95 (1963), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=48382079"
+  },
+  "Lotus Elan (1° Gen.)_delantera": {
+    "fuente": "Por MrWalkr - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119892667"
+  },
+  "Lotus Elan (1° Gen.)_trasera": {
+    "fuente": "By Grenadille - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81904921"
+  },
+  "Lotus Elan +2_delantera": {
+    "fuente": "Por Jaguar, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3493662"
+  },
+  "Lotus Elan +2_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70723829"
+  },
+  "Lotus Elan (M100)_delantera": {
+    "fuente": "By Jeff Greenland - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1487954"
+  },
+  "Lotus Elan (M100)_trasera": {
+    "fuente": "By Charles01 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78282607"
+  },
+  "Lotus Europa S_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67221531"
+  },
+  "Lotus Europa S_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67221530"
+  },
+  "Lotus Europa Special_delantera": {
+    "fuente": "By DeFacto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64731690"
+  },
+  "Lotus Europa Special_trasera": {
+    "fuente": "By DeFacto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64731689"
+  },
+  "Lotus Esprit S1 & S2 & S3_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3503123"
+  },
+  "Lotus Esprit S1 & S2 & S3_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3503124"
+  },
+  "Lotus Esprit S4_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27091585"
+  },
+  "Lotus Esprit S4_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27091394"
+  },
+  "Lotus Esprit V8 (2002)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - Lotus Esprit, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34586537"
+  },
+  "Lotus Esprit V8 (2002)_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 2002 Lotus Esprit 25th Anniversary rear, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34580329"
+  },
+  "Lotus Excel_delantera": {
+    "fuente": "Por DeFacto - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7694515"
+  },
+  "Lotus Excel_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28187067"
+  },
+  "Lotus Eclat_delantera": {
+    "fuente": "By Alexander Migl - Cymy əməle, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117160866"
+  },
+  "Lotus Eclat_trasera": {
+    "fuente": "By Butlers280766 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=38010798"
+  },
+  "Lotus Elite Type 75_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84937714"
+  },
+  "Lotus Elite Type 75_trasera": {
+    "fuente": "By Youngtimerclassic - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=10524445"
+  },
+  "Lotus Elise S1_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135563128"
+  },
+  "Lotus Elise S1_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=7497636"
+  },
+  "Lotus Elise S2_delantera": {
+    "fuente": "Por Starjammer de Wikipedia en inglés - Transferido desde en.wikipedia a Commons., Dominio público, https://commons.wikimedia.org/w/index.php?curid=2007756"
+  },
+  "Lotus Elise S2_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20422519"
+  },
+  "Lotus Elise S3_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66575960"
+  },
+  "Lotus Elise S3_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68152485"
+  },
+  "Lotus Exige S1_delantera": {
+    "fuente": "By Bryn Pinzgauer - originally posted to Flickr as Exige S1 at home, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=7286075"
+  },
+  "Lotus Exige S1_trasera": {
+    "fuente": "By M-Car - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21520014"
+  },
+  "Lotus Exige S2_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18245693"
+  },
+  "Lotus Exige S2_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2736621"
+  },
+  "Lotus Exige S3_delantera": {
+    "fuente": "Por Jeremy from Sydney, Australia - Lotus Exige S, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45548478"
+  },
+  "Lotus Exige S3_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76463835"
+  },
+  "Lotus Evora_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=68606679"
+  },
+  "Lotus Evora_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - Lotus Evora, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=54068819"
+  },
+  "Lotus 2-Eleven_delantera": {
+    "fuente": "By alaindelaunoy;Cropped and adjusted by Mr.choppers - DSC_0153.JPG, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16505679"
+  },
+  "Lotus 2-Eleven_trasera": {
+    "fuente": "By Brian Snelson from Hockley, Essex, England - Lotus Two Eleven, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18393218"
+  },
+  "Lotus 3-Eleven_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129083451"
+  },
+  "Lotus 3-Eleven_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77188706"
+  },
+  "Lotus Carlton_delantera": {
+    "fuente": "By Charles01 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=146364073"
+  },
+  "Lotus Carlton_trasera": {
+    "fuente": "By Jacob Frey 4A - https://www.flickr.com/photos/72637915@N03/43388881622/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146364100"
+  },
+  "Lotus Evija_delantera": {
+    "fuente": "Por MN - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87839961"
+  },
+  "Lotus Evija_trasera": {
+    "fuente": "Par JustAnotherCarDesigner — Travail personnel, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113484902"
+  },
+  "Lotus Emira_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120055908"
+  },
+  "Lotus Emira_trasera": {
+    "fuente": "Por JustAnotherCarDesigner - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113484908"
+  },
+  "Lotus 340R_delantera": {
+    "fuente": "By Brian Snelson from Hockley, Essex, England - Lotus 340R, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18232366"
+  },
+  "Lotus 340R_trasera": {
+    "fuente": "By exfordy (Flickr User) - https://www.flickr.com/photos/exfordy/2863989242/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=6106423"
+  },
+  "Lotus Eletre_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173297779"
+  },
+  "Lotus Eletre_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129663040"
+  },
+  "Toyota GT-One_delantera": {
+    "fuente": "By LSDSL, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=2806527"
+  },
+  "Toyota GT-One_trasera": {
+    "fuente": "By LSDSL, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=2806531"
+  },
+  "Toyota RAV4 (1° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=961231"
+  },
+  "Toyota RAV4 (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71711144"
+  },
+  "Toyota RAV4 (2° Gen.)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7878325"
+  },
+  "Toyota RAV4 (2° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7878335"
+  },
+  "Toyota RAV4 (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71259914"
+  },
+  "Toyota RAV4 (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71259915"
+  },
+  "Toyota RAV4 (4° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31788278"
+  },
+  "Toyota RAV4 (4° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75345220"
+  },
+  "Toyota RAV4 (4° Gen.)(Facelift)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68278564"
+  },
+  "Toyota RAV4 (4° Gen.)(Facelift)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125539464"
+  },
+  "Toyota RAV4 (5° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78160186"
+  },
+  "Toyota RAV4 (5° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=154060935"
+  },
   "Toyota Corolla (1° Gen.)_delantera": {
     "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=34341922"
   },

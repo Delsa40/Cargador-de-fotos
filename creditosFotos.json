@@ -1,4 +1,340 @@
 {
+  "Ford Model T_delantera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107379380"
+  },
+  "Ford Model T_trasera": {
+    "fuente": "Por User Arpingstone on en.wikipedia - Adrian Pingstone, Dominio público, https://commons.wikimedia.org/w/index.php?curid=960920"
+  },
+  "Ford Model A (1927–1931)_delantera": {
+    "fuente": "Por Richard Smith - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=329429"
+  },
+  "Ford Model A (1927–1931)_trasera": {
+    "fuente": "By Alf van Beem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=25476784"
+  },
+  "Ford Thunderbird (1° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1956 Ford Thunderbird, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69265180"
+  },
+  "Ford Thunderbird (1° Gen.)_trasera": {
+    "fuente": "By BUTTON74 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=145473163"
+  },
+  "Ford Thunderbird (2° Gen.)_delantera": {
+    "fuente": "By Sicnag - 1960 Ford Thunderbird Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=147872870"
+  },
+  "Ford Thunderbird (2° Gen.)_trasera": {
+    "fuente": "By BUTTON74 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150949175"
+  },
+  "Ford Thunderbird (3° Gen.)_delantera": {
+    "fuente": "By GPS 56 from New Zealand - 1963 Thunderbird, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38623043"
+  },
+  "Ford Thunderbird (3° Gen.)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 62 Ford Thunderbird Sports Roadster, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40122036"
+  },
+  "Ford Thunderbird (4° Gen.)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - Ford Thunderbird, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34584990"
+  },
+  "Ford Thunderbird (4° Gen.)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 66 Ford Thunderbird, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40121839"
+  },
+  "Ford Thunderbird (5° Gen.)(1967–1969)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123390998"
+  },
+  "Ford Thunderbird (5° Gen.)(1967–1969)_trasera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=122753"
+  },
+  "Ford Thunderbird (5° Gen.)(1970–1971)_delantera": {
+    "fuente": "By nakhon100 - Ford Thunderbird 1971, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37758215"
+  },
+  "Ford Thunderbird (5° Gen.)(1970–1971)_trasera": {
+    "fuente": "By Andrew Bone from Weymouth, England - Ford Thunderbird (1970), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63596013"
+  },
+  "Ford Thunderbird (6° Gen.)_delantera": {
+    "fuente": "By by User:Morven - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=124154"
+  },
+  "Ford Thunderbird (6° Gen.)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4150218"
+  },
+  "Ford Thunderbird (7° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=78708429"
+  },
+  "Ford Thunderbird (7° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33794934"
+  },
+  "Ford Thunderbird (8° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30396773"
+  },
+  "Ford Thunderbird (8° Gen.)_trasera": {
+    "fuente": "By That Hartford Guy - Flickr: 1982 Ford Thunderbird, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=21373230"
+  },
+  "Ford Thunderbird (9° Gen.)(1983–1986)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=150609899"
+  },
+  "Ford Thunderbird (9° Gen.)(1983–1986)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=34177243"
+  },
+  "Ford Thunderbird (9° Gen.)(1987–1988)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11848120"
+  },
+  "Ford Thunderbird (9° Gen.)(1987–1988)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=110884753"
+  },
+  "Ford Thunderbird (10° Gen.)(1989–1995)_delantera": {
+    "fuente": "By Charles01 - My Own Collection, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2418495"
+  },
+  "Ford Thunderbird (10° Gen.)(1989–1995)_trasera": {
+    "fuente": "Par Kevauto — Travail personnel, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68333646"
+  },
+  "Ford Thunderbird (10° Gen.)(1996–1997)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6063975"
+  },
+  "Ford Thunderbird (10° Gen.)(1996–1997)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68333624"
+  },
+  "Ford Thunderbird (11° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68685452"
+  },
+  "Ford Thunderbird (11° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120746765"
+  },
+  "Ford Mustang (1° Gen.)_delantera": {
+    "fuente": "By Kroelleboelle - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4725137"
+  },
+  "Ford Mustang (1° Gen.)_trasera": {
+    "fuente": "By Kroelleboelle - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4725151"
+  },
+  "Ford Mustang Shelby GT350_delantera": {
+    "fuente": ""
+  },
+  "Ford Mustang Shelby GT350_trasera": {
+    "fuente": ""
+  },
+  "Ford Mustang Shelby GT500_delantera": {
+    "fuente": ""
+  },
+  "Ford Mustang Shelby GT500_trasera": {
+    "fuente": ""
+  },
+  "Ford Mustang Boss 302_delantera": {
+    "fuente": ""
+  },
+  "Ford Mustang Boss 302_trasera": {
+    "fuente": ""
+  },
+  "Ford Mustang Mach 1_delantera": {
+    "fuente": ""
+  },
+  "Ford Mustang Mach 1_trasera": {
+    "fuente": ""
+  },
+  "Ford Mustang SVT Cobra_delantera": {
+    "fuente": ""
+  },
+  "Ford Mustang SVT Cobra_trasera": {
+    "fuente": ""
+  },
+  "Ford Mustang Bullitt_delantera": {
+    "fuente": ""
+  },
+  "Ford Mustang Bullitt_trasera": {
+    "fuente": ""
+  },
+  "Ford Mustang GTD_delantera": {
+    "fuente": ""
+  },
+  "Ford Mustang GTD_trasera": {
+    "fuente": ""
+  },
+  "Ford GT40 MkI_delantera": {
+    "fuente": ""
+  },
+  "Ford GT40 MkI_trasera": {
+    "fuente": ""
+  },
+  "Ford GT40 MkII_delantera": {
+    "fuente": ""
+  },
+  "Ford GT40 MkII_trasera": {
+    "fuente": ""
+  },
+  "Ford GT (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford GT (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford GT (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford GT (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Capri (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Capri (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Capri RS3100_delantera": {
+    "fuente": ""
+  },
+  "Ford Capri RS3100_trasera": {
+    "fuente": ""
+  },
+  "Ford Escort (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Escort (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Escort RS Cosworth_delantera": {
+    "fuente": ""
+  },
+  "Ford Escort RS Cosworth_trasera": {
+    "fuente": ""
+  },
+  "Ford Sierra XR4i_delantera": {
+    "fuente": ""
+  },
+  "Ford Sierra XR4i_trasera": {
+    "fuente": ""
+  },
+  "Ford Sierra RS Cosworth_delantera": {
+    "fuente": ""
+  },
+  "Ford Sierra RS Cosworth_trasera": {
+    "fuente": ""
+  },
+  "Ford Anglia 105E_delantera": {
+    "fuente": ""
+  },
+  "Ford Anglia 105E_trasera": {
+    "fuente": ""
+  },
+  "Ford Taunus (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Taunus (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Granada (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Granada (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Cortina Mk1_delantera": {
+    "fuente": ""
+  },
+  "Ford Cortina Mk1_trasera": {
+    "fuente": ""
+  },
+  "Ford Falcon (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Falcon (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Fairlane (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Fairlane (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Torino (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Torino (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Galaxie 500_delantera": {
+    "fuente": ""
+  },
+  "Ford Galaxie 500_trasera": {
+    "fuente": ""
+  },
+  "Ford Crown Victoria_delantera": {
+    "fuente": ""
+  },
+  "Ford Crown Victoria_trasera": {
+    "fuente": ""
+  },
+  "Ford LTD (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford LTD (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Ranchero (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Ranchero (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford F-100 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford F-100 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford F-150 Raptor_delantera": {
+    "fuente": ""
+  },
+  "Ford F-150 Raptor_trasera": {
+    "fuente": ""
+  },
+  "Ford Bronco (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Bronco (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Bronco Raptor_delantera": {
+    "fuente": ""
+  },
+  "Ford Bronco Raptor_trasera": {
+    "fuente": ""
+  },
+  "Ford Explorer (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Explorer (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Expedition (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Expedition (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Edge (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Edge (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Puma (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Puma (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Ka (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Ka (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford Probe (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Ford Probe (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Ford GT90 Concept_delantera": {
+    "fuente": ""
+  },
+  "Ford GT90 Concept_trasera": {
+    "fuente": ""
+  },
   "Lotus Seven_delantera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68633026"
   },

@@ -605,29 +605,173 @@
   "Ford Crown Victoria (2° Gen.)_trasera": {
     "fuente": "Από MercurySable99 - Έργο αυτού που το ανεβάζει, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130069833"
   },
-  "Ford LTD (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Ford LTD (1° Gen.)_trasera": {
-    "fuente": ""
-  },
   "Ford Ranchero (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3896095"
   },
   "Ford Ranchero (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3896093"
   },
-  "Ford F-100 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Ford Ranchero (2° Gen.)_delantera": {
+    "fuente": "By priceman 141 - https://www.flickr.com/photos/115310862@N04/20283409704/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=160807933"
   },
-  "Ford F-100 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Ford Ranchero (2° Gen.)_trasera": {
+    "fuente": "Por https://www.flickr.com/photos/hugo90/ - https://www.flickr.com/photos/hugo90/3281900699/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9912317"
   },
-  "Ford F-150 Raptor_delantera": {
-    "fuente": ""
+  "Ford Ranchero (3° Gen.)_delantera": {
+    "fuente": "By JOHN LLOYD from Concrete, Washington, United States - 1966 Ford Falcon Ranchero, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=66344419"
   },
-  "Ford F-150 Raptor_trasera": {
-    "fuente": ""
+  "Ford Ranchero (3° Gen.)_trasera": {
+    "fuente": "By JOHN LLOYD from Concrete, Washington, United States - 1966 Falcon Ranchero, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=66344989"
+  },
+  "Ford Ranchero (4° Gen.)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1968 Ford Ranchero, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34588677"
+  },
+  "Ford Ranchero (4° Gen.)_trasera": {
+    "fuente": "Авторство: https://www.flickr.com/photos/nickmix01/. https://www.flickr.com/photos/nickmix01/15244520332/in/set-72157647216978128, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=35402582"
+  },
+  "Ford Ranchero (5° Gen.)_delantera": {
+    "fuente": "By Brian Toad Photography - https://www.flickr.com/photos/braintoad/2543705307/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=4519811"
+  },
+  "Ford Ranchero (5° Gen.)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1971 Ford Ranchero GT, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=46871714"
+  },
+  "Ford Ranchero (6° Gen.)(1972)_delantera": {
+    "fuente": "By Sicnag - 1972 Ford Ranchero 500, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40645516"
+  },
+  "Ford Ranchero (6° Gen.)(1972)_trasera": {
+    "fuente": "Autorstwa sv1ambo - 1972 Ford Ranchero GT, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38828164"
+  },
+  "Ford Ranchero (6° Gen.)(1974)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151368757"
+  },
+  "Ford Ranchero (6° Gen.)(1974)_trasera": {
+    "fuente": "By dave_7 - originally posted to Flickr as Ford Ranchero, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9640918"
+  },
+  "Ford Ranchero (7° Gen.)_delantera": {
+    "fuente": "Авторство: https://www.flickr.com/photos/nickmix01. https://www.flickr.com/photos/nickmix01/15274905142/in/set-72157647217590038, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=35549438"
+  },
+  "Ford Ranchero (7° Gen.)_trasera": {
+    "fuente": "Autorstwa dave_7 from Lethbridge, Canada - Ford Ranchero, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=38602766"
+  },
+  "Ford F-Series (1° Gen.)_delantera": {
+    "fuente": "By Gordonrox24 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11166247"
+  },
+  "Ford F-Series (1° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26509114"
+  },
+  "Ford F-Series (2° Gen.)_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=101792"
+  },
+  "Ford F-Series (2° Gen.)_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107352997"
+  },
+  "Ford F-Series (3° Gen.)_delantera": {
+    "fuente": "By Acroterion - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111172808"
+  },
+  "Ford F-Series (3° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=52066012"
+  },
+  "Ford F-Series (4° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/28198998107/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=94336477"
+  },
+  "Ford F-Series (4° Gen.)_trasera": {
+    "fuente": "By sv1ambo - 1966 Ford F-100 pick up, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38827554"
+  },
+  "Ford F-Series (5° Gen.)_delantera": {
+    "fuente": "By Don don03 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=145297910"
+  },
+  "Ford F-Series (5° Gen.)_trasera": {
+    "fuente": "By Robotriot - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14673446"
+  },
+  "Ford F-Series (6° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6266641"
+  },
+  "Ford F-Series (6° Gen.)_trasera": {
+    "fuente": "By Guillaume Vachey from Chalon sur Saone, France - Ford F250, CC0, https://commons.wikimedia.org/w/index.php?curid=74104228"
+  },
+  "Ford F-Series (7° Gen.)_delantera": {
+    "fuente": "By Bretbmorgan - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=142007814"
+  },
+  "Ford F-Series (7° Gen.)_trasera": {
+    "fuente": "By WayneRay - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47663960"
+  },
+  "Ford F-Series (8° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7757915"
+  },
+  "Ford F-Series (8° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121587518"
+  },
+  "Ford F-Series (9° Gen.)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135605588"
+  },
+  "Ford F-Series (9° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150368672"
+  },
+  "Ford F-Series (10° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4828543"
+  },
+  "Ford F-Series (10° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121587512"
+  },
+  "Ford F-Series (11° Gen.)_delantera": {
+    "fuente": "By Lafayette, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=11790189"
+  },
+  "Ford F-Series (11° Gen.)_trasera": {
+    "fuente": "By Michael Dorausch from Venice, USA - 2004 Ford F150, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=87607672"
+  },
+  "Ford F-Series (12° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6063780"
+  },
+  "Ford F-Series (12° Gen.)_trasera": {
+    "fuente": "By Famartin - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39311255"
+  },
+  "Ford F-Series (13° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80385485"
+  },
+  "Ford F-Series (13° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78495865"
+  },
+  "Ford F-Series (14° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105395428"
+  },
+  "Ford F-Series (14° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105395429"
+  },
+  "Ford SVT Lightning (1999)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2224880"
+  },
+  "Ford SVT Lightning (1999)_trasera": {
+    "fuente": "By Draco2008 from UK - Fastlane 2012, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=74615314"
+  },
+  "Ford F-150 Raptor (1° Gen.)_delantera": {
+    "fuente": "By sv1ambo - 2012 Ford F150 SVT Raptor Supercab pickup, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38827640"
+  },
+  "Ford F-150 Raptor (1° Gen.)_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=17723977"
+  },
+  "Ford F-150 Raptor (2° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=93686924"
+  },
+  "Ford F-150 Raptor (2° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=93654805"
+  },
+  "Ford F-150 Raptor (3° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118423218"
+  },
+  "Ford F-150 Raptor (3° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118424080"
+  },
+  "Ford Ranger Raptor (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92622487"
+  },
+  "Ford Ranger Raptor (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92622489"
+  },
+  "Ford Ranger Raptor (2° Gen.)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129296305"
+  },
+  "Ford Ranger Raptor (2° Gen.)_trasera": {
+    "fuente": "Аутор: Alexander-93 - Сопствено дело, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129296299"
   },
   "Ford Bronco (1° Gen.)_delantera": {
     "fuente": ""

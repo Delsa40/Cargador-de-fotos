@@ -1,4 +1,616 @@
 {
+  "Fiat 500 Topolino_delantera": {
+    "fuente": "Por Lothar Spurzem - Trabajo propio, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=58815564"
+  },
+  "Fiat 500 Topolino_trasera": {
+    "fuente": "Por Arend from Oosterhout, Netherlands - Topolino1, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64249720"
+  },
+  "Fiat 500 (1° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=12853276"
+  },
+  "Fiat 500 (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=36551269"
+  },
+  "Fiat 500 Giardiniera_delantera": {
+    "fuente": "By User ChiemseeMan on de.wikipedia - selbst fotografiert, Fotograf: Späth Chr., Domini públic, https://commons.wikimedia.org/w/index.php?curid=908297"
+  },
+  "Fiat 500 Giardiniera_trasera": {
+    "fuente": "By User ChiemseeMan on de.wikipedia - selbst fotografiert, Fotograf: Späth Chr., Domini públic, https://commons.wikimedia.org/w/index.php?curid=908299"
+  },
+  "Fiat 500 Jolly_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26666284"
+  },
+  "Fiat 500 Jolly_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26684888"
+  },
+  "Fiat 500 (2° Gen.)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15141351"
+  },
+  "Fiat 500 (2° Gen.)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15141370"
+  },
+  "Fiat 500 Abarth (2° Gen.)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4669616"
+  },
+  "Fiat 500 Abarth (2° Gen.)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4669608"
+  },
+  "Fiat Abarth 695 (1° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64089702"
+  },
+  "Fiat Abarth 695 (1° Gen.)_trasera": {
+    "fuente": "By andreboeni - https://www.flickr.com/photos/65344061@N06/27057865249/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=110179480"
+  },
+  "Fiat 600_delantera": {
+    "fuente": "Por Renzo Maia;cropped and adjusted by uploader Mr.choppers - DSCF2534.JPG, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18467165"
+  },
+  "Fiat 600_trasera": {
+    "fuente": "By Dvortygirl from Santa Clara, California;cropped and lightly adjusted by uploader Mr.choppers - Car in Uruguay, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=21446368"
+  },
+  "Fiat 600 Multipla_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30705420"
+  },
+  "Fiat 600 Multipla_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30705609"
+  },
+  "Fiat 850_delantera": {
+    "fuente": "By Charles01 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61662448"
+  },
+  "Fiat 850_trasera": {
+    "fuente": "By AlfvanBeem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=20564528"
+  },
+  "Fiat 850 Sport Coupé_delantera": {
+    "fuente": "Autor: User ChiemseeMan on de.wikipedia – selbst fotografiert, Fotograf: Späth Chr., Volné dílo, https://commons.wikimedia.org/w/index.php?curid=908058"
+  },
+  "Fiat 850 Sport Coupé_trasera": {
+    "fuente": "Autor: User ChiemseeMan on de.wikipedia – selbst fotografiert, Fotograf: Späth Chr., Volné dílo, https://commons.wikimedia.org/w/index.php?curid=908057"
+  },
+  "Fiat 850 Spider_delantera": {
+    "fuente": "CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=3107930"
+  },
+  "Fiat 850 Spider_trasera": {
+    "fuente": "Par TuRbO_J from Adelaide, Australia — Fiat 850 Sport, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45994589"
+  },
+  "Fiat 850T_delantera": {
+    "fuente": "Di Tennen-Gas - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3289125"
+  },
+  "Fiat 850T_trasera": {
+    "fuente": "Di Tennen-Gas - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15199382"
+  },
+  "Fiat 850 Visitors Bus by Bertone_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123655781"
+  },
+  "Fiat 850 Visitors Bus by Bertone_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123655774"
+  },
+  "Fiat 1100_delantera": {
+    "fuente": "Di Hugh Llewelyn - ?Uploaded by Oxyman, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=24386670"
+  },
+  "Fiat 1100_trasera": {
+    "fuente": "Di Nessun autore leggibile automaticamente. Luc106 presunto (secondo quanto affermano i diritti d'autore). - Nessuna fonte leggibile automaticamente. Presunta opera propria (secondo quanto affermano i diritti d'autore)., Pubblico dominio, https://commons.wikimedia.org/w/index.php?curid=2110546"
+  },
+  "Fiat 1100-103_delantera": {
+    "fuente": "By No machine-readable author provided. Luc106 assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1891744"
+  },
+  "Fiat 1100-103_trasera": {
+    "fuente": "By user:Luc106 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1891708"
+  },
+  "Fiat 1200 Spider_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3605620"
+  },
+  "Fiat 1200 Spider_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3605623"
+  },
+  "Fiat 1200 TV_delantera": {
+    "fuente": "By Rex Gray from Southern California - 1959 Fiat 1200 TV - lt blue - fvl, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=29518840"
+  },
+  "Fiat 1200 TV_trasera": {
+    "fuente": "By Rex Gray from Southern California - 1959 Fiat 1200 TV - lt blue - rvl, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=29518848"
+  },
+  "Fiat 124_delantera": {
+    "fuente": "Por No se ha podido leer automáticamente información sobre el autor; se asume que es Luc106 (según los derechos de autor reclamados). - No se ha podido leer automáticamente información sobre la fuente; se asume que es trabajo propio (según los derechos de autor reclamados)., Dominio público, https://commons.wikimedia.org/w/index.php?curid=3804509"
+  },
+  "Fiat 124_trasera": {
+    "fuente": "Por No se ha podido leer automáticamente información sobre el autor; se asume que es Luc106 (según los derechos de autor reclamados). - No se ha podido leer automáticamente información sobre la fuente; se asume que es trabajo propio (según los derechos de autor reclamados)., Dominio público, https://commons.wikimedia.org/w/index.php?curid=3804506"
+  },
+  "Fiat 124 Spider (2016)_delantera": {
+    "fuente": "Por Autoweek USA - 9O0A7788, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45114071"
+  },
+  "Fiat 124 Spider (2016)_trasera": {
+    "fuente": "Por Autoweek USA - 9O0A6889, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45113939"
+  },
+  "Fiat 124 Sport Spider_delantera": {
+    "fuente": "By Pujanak - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6725943"
+  },
+  "Fiat 124 Sport Spider_trasera": {
+    "fuente": "By Jakub Flyz1 Maciejewski - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=48097356"
+  },
+  "Fiat 124 Sport Coupe (1969)_delantera": {
+    "fuente": "Por Steve Glover from Bolton, Lancs., England - Fiat 124 Sport Coupe (1969), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38627696"
+  },
+  "Fiat 124 Sport Coupe (1969)_trasera": {
+    "fuente": "Por Steve Glover from Bolton, Lancs., England - Fiat 124 Sport Coupe (1969), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38627699"
+  },
+  "Fiat 124 Sport Coupe (1972)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=70659950"
+  },
+  "Fiat 124 Sport Coupe (1972)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=70659943"
+  },
+  "Fiat 124 Sport Coupe (1973)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148447249"
+  },
+  "Fiat 124 Sport Coupe (1973)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148447233"
+  },
+  "Fiat 125 - 1600_delantera": {
+    "fuente": "Por © Matteo Ianeselli / Wikimedia Commons, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7740443"
+  },
+  "Fiat 125 - 1600_trasera": {
+    "fuente": "Por MartinHansV - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=9865977"
+  },
+  "Fiat 126_delantera": {
+    "fuente": "Por Tony Harrison - originally posted to Flickr as 1973 Fiat 126 IMG_7855, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=6872362"
+  },
+  "Fiat 126_trasera": {
+    "fuente": "Por Xabi Rome-Hérault, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=21381268"
+  },
+  "Fiat 127 (1971)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2570940"
+  },
+  "Fiat 127 (1971)_trasera": {
+    "fuente": "Por Steffs88 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36379479"
+  },
+  "Fiat 147 - 127 (1982)_delantera": {
+    "fuente": "Por Corvettec6r - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=10042412"
+  },
+  "Fiat 147 - 127 (1982)_trasera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=143272426"
+  },
+  "Fiat Oggi_delantera": {
+    "fuente": "Por order_242 from Chile,cropped by uploader Mr.choppers - Fiat Oggi 1300 CS 1984, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=25031724"
+  },
+  "Fiat Oggi_trasera": {
+    "fuente": "Por papurojugarpool;Cropped and minor alterations by uploader Mr.choppers - Fiat Oggi 1300 1984, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=16751437"
+  },
+  "Fiat Panorama_delantera": {
+    "fuente": "Por Corvettec6r - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29134633"
+  },
+  "Fiat Panorama_trasera": {
+    "fuente": "Por Moxmarco - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65434649"
+  },
+  "Fiat 128_delantera": {
+    "fuente": "Por No se ha podido leer automáticamente información sobre el autor; se asume que es Luc106 (según los derechos de autor reclamados). - No se ha podido leer automáticamente información sobre la fuente; se asume que es trabajo propio (según los derechos de autor reclamados)., Dominio público, https://commons.wikimedia.org/w/index.php?curid=3901462"
+  },
+  "Fiat 128_trasera": {
+    "fuente": "Por No se ha podido leer automáticamente información sobre el autor; se asume que es Luc106 (según los derechos de autor reclamados). - No se ha podido leer automáticamente información sobre la fuente; se asume que es trabajo propio (según los derechos de autor reclamados)., Dominio público, https://commons.wikimedia.org/w/index.php?curid=3901485"
+  },
+  "Fiat 128 Europa_delantera": {
+    "fuente": "Por Robotriot - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7393884"
+  },
+  "Fiat 128 Europa_trasera": {
+    "fuente": "Por Robotriot - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7393906"
+  },
+  "Fiat 128 Super Europa_delantera": {
+    "fuente": "By Yocamilo94 - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=4353081"
+  },
+  "Fiat 128 Super Europa_trasera": {
+    "fuente": "By juan elo;Cropped and digitally altered by uploader Mr.choppers - Fiat 128 Super Europa 1.3 1988, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=22663608"
+  },
+  "Fiat 128 Familiare_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=21069529"
+  },
+  "Fiat 128 Familiare_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=21069634"
+  },
+  "Fiat 128 Berlinetta 3P_delantera": {
+    "fuente": "Von Rudolf Stricker - Eigenes Werk, Attribution, https://commons.wikimedia.org/w/index.php?curid=14964100"
+  },
+  "Fiat 128 Berlinetta 3P_trasera": {
+    "fuente": "Von Rudolf Stricker - Eigenes Werk, Attribution, https://commons.wikimedia.org/w/index.php?curid=14964129"
+  },
+  "Fiat 131 Mirafiori_delantera": {
+    "fuente": "By davocano - 1976 Fiat 131 S 1600, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=57007104"
+  },
+  "Fiat 131 Mirafiori_trasera": {
+    "fuente": "By Pitak - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20093877"
+  },
+  "Fiat 131 Abarth_delantera": {
+    "fuente": "Por Tom Marshall from Chonburi, Thailand - Historic GT-TC Race Parade, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=22884253"
+  },
+  "Fiat 131 Abarth_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=131461860"
+  },
+  "Fiat 132 (1972)_delantera": {
+    "fuente": "Von Der Boxermotor (Diskussion) - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=58257137"
+  },
+  "Fiat 132 (1972)_trasera": {
+    "fuente": "Von Der Boxermotor (Diskussion) - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=58257161"
+  },
+  "Fiat 1400_delantera": {
+    "fuente": "By No machine-readable author provided. Luc106 assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1913296"
+  },
+  "Fiat 1400_trasera": {
+    "fuente": "By Threecharlie - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19005259"
+  },
+  "Fiat 1300 - 1500_delantera": {
+    "fuente": "By Aconcagua - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2178419"
+  },
+  "Fiat 1300 - 1500_trasera": {
+    "fuente": "By Aconcagua - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2178432"
+  },
+  "Fiat 1300 - 1500 Familiare_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1621330"
+  },
+  "Fiat 1300 - 1500 Familiare_trasera": {
+    "fuente": "By GTHO - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=22320424"
+  },
+  "Fiat 1500 Coupe - Cabrio_delantera": {
+    "fuente": "By János Tamás - DSC07192Uploaded by Kobac, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=16992163"
+  },
+  "Fiat 1500 Coupe - Cabrio_trasera": {
+    "fuente": "By Brian Snelson from Hockley, Essex, England - Fiat 1500, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18243138"
+  },
+  "Fiat 1500L - 1800 - 2100 - 2300_delantera": {
+    "fuente": "By original: Stribrohorakderivative work: mr.choppers - This file was derived from: 1964 Fiat 1800 B at the Fiat120 celebration, front right.jpg:on 2023-05-23 02:20:54 (UTC), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=132223802"
+  },
+  "Fiat 1500L - 1800 - 2100 - 2300_trasera": {
+    "fuente": "Por User Dk67 on de.wikipedia - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=1259989"
+  },
+  "Fiat Argo_delantera": {
+    "fuente": "Por NicolasRNphoto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68830611"
+  },
+  "Fiat Argo_trasera": {
+    "fuente": "Por NaBUru38 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67480228"
+  },
+  "Fiat Cronos_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Fiat Cronos 1.8 Precision 2019, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76098072"
+  },
+  "Fiat Cronos_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Fiat Cronos 1.3 Drive GSE 2018, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76122631"
+  },
+  "Fiat Duna_delantera": {
+    "fuente": "Por order_242 from Chile - Fiat Duna 70 1300 1987, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=37145725"
+  },
+  "Fiat Duna_trasera": {
+    "fuente": "Por Pil56 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=266442"
+  },
+  "Fiat Duna Weekend_delantera": {
+    "fuente": "Por order_242 from Chile - Fiat Duna 1.6 SE Weekend 1992, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34584686"
+  },
+  "Fiat Duna Weekend_trasera": {
+    "fuente": "Por Overlaet - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16151308"
+  },
+  "Fiat Palio (1996)_delantera": {
+    "fuente": "Di Corvettec6r - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29136206"
+  },
+  "Fiat Palio (1996)_trasera": {
+    "fuente": "Di Corvettec6r - Opera propria, Pubblico dominio, https://commons.wikimedia.org/w/index.php?curid=8792213"
+  },
+  "Fiat Palio Weekend (1998)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=19502698"
+  },
+  "Fiat Palio Weekend (1998)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=19502722"
+  },
+  "Fiat Palio (2001)_delantera": {
+    "fuente": "Di order_242 from Chile - Fiat Palio EX 1.3 Fire 2004, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34577451"
+  },
+  "Fiat Palio (2001)_trasera": {
+    "fuente": "By order_242 from Chile - Fiat Palio 1.3 SX 2003, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34574632"
+  },
+  "Fiat Palio Weekend (2001)_delantera": {
+    "fuente": "Аўтар: Corvettec6r - Уласная праца, CC0, https://commons.wikimedia.org/w/index.php?curid=21524660"
+  },
+  "Fiat Palio Weekend (2001)_trasera": {
+    "fuente": "Аўтар: Corvettec6r - Уласная праца, CC0, https://commons.wikimedia.org/w/index.php?curid=21524659"
+  },
+  "Fiat Palio (2004)_delantera": {
+    "fuente": "Di order_242 from Chile - Fiat Palio ELX 1.3 Fire 2005, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34577762"
+  },
+  "Fiat Palio (2004)_trasera": {
+    "fuente": "By André Gustavo Stumpf from Brasil - PCDF, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=51747604"
+  },
+  "Fiat Palio Weekend (2004)_delantera": {
+    "fuente": "Аўтар: order_242 from Chile - Fiat Palio Weekend 1.8 ELX 2005, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34584332"
+  },
+  "Fiat Palio Weekend (2004)_trasera": {
+    "fuente": "By Antiquarium - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=12146428"
+  },
+  "Fiat Palio Adventure (2004)_delantera": {
+    "fuente": "Аўтар: NaBUru38 - Уласная праца, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7019273"
+  },
+  "Fiat Palio Adventure (2004)_trasera": {
+    "fuente": "Аўтар: NaBUru38 - Уласная праца, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7019276"
+  },
+  "Fiat Palio (2007)_delantera": {
+    "fuente": "Di Tomalotuyo - Opera propria, Pubblico dominio, https://commons.wikimedia.org/w/index.php?curid=2542303"
+  },
+  "Fiat Palio (2007)_trasera": {
+    "fuente": "By Just a Man - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=159718899"
+  },
+  "Fiat Palio Weekend (2007)_delantera": {
+    "fuente": "Аўтар: FilipoGarcìa - Уласная праца, CC0, https://commons.wikimedia.org/w/index.php?curid=75183085"
+  },
+  "Fiat Palio Weekend (2007)_trasera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=143531906"
+  },
+  "Fiat Palio Adventure (2007)_delantera": {
+    "fuente": "Аўтар: Lozowski - Уласная праца, Грамадскі набытак, https://commons.wikimedia.org/w/index.php?curid=10377670"
+  },
+  "Fiat Palio Adventure (2007)_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5121186"
+  },
+  "Fiat Palio (2011)_delantera": {
+    "fuente": "Аўтар: order_242 from Chile - Fiat Palio 1.4 Attractive 2014, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34577777"
+  },
+  "Fiat Palio (2011)_trasera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=143532537"
+  },
+  "Fiat Siena (1996)_delantera": {
+    "fuente": "Por Pudelek (Marcin Szala) - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17728011"
+  },
+  "Fiat Siena (1996)_trasera": {
+    "fuente": "Por Lukas 3z - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=12597448"
+  },
+  "Fiat Siena (2001)_delantera": {
+    "fuente": "Аўтар: Navigator84 - Уласная праца, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30592826"
+  },
+  "Fiat Siena (2001)_trasera": {
+    "fuente": "By order_242 from Chile - Fiat Siena EX 1.4 Fire 2004, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34575365"
+  },
+  "Fiat Siena (2004)_delantera": {
+    "fuente": "Por order_242 from Chile - Fiat Siena 1.4 Fire Classic 2008, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=38872846"
+  },
+  "Fiat Siena (2004)_trasera": {
+    "fuente": "Por Mariordo Mario Roberto Duran Ortiz - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4733982"
+  },
+  "Fiat Siena (2009)_delantera": {
+    "fuente": "Por NaBUru38 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5148868"
+  },
+  "Fiat Siena (2009)_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5148841"
+  },
+  "Fiat Perla_delantera": {
+    "fuente": "Por Navigator84 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23414870"
+  },
+  "Fiat Perla_trasera": {
+    "fuente": "Por Navigator84 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=55339512"
+  },
+  "Fiat Grand Siena_delantera": {
+    "fuente": "By Heduardo55 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=74865174"
+  },
+  "Fiat Grand Siena_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=143798271"
+  },
+  "Fiat Punto (1° Gen.)_delantera": {
+    "fuente": "Por Corvettec6r - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=22043863"
+  },
+  "Fiat Punto (1° Gen.)_trasera": {
+    "fuente": "Por order_242 from Chile - Fiat Punto 55 S 1998, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=36603323"
+  },
+  "Fiat Punto (2° Gen.)(1999)_delantera": {
+    "fuente": "Por M 93 - Fotografía propia, Attribution, https://commons.wikimedia.org/w/index.php?curid=10287469"
+  },
+  "Fiat Punto (2° Gen.)(1999)_trasera": {
+    "fuente": "Por M 93 - Fotografía propia, Attribution, https://commons.wikimedia.org/w/index.php?curid=10287509"
+  },
+  "Fiat Punto (2° Gen.)(2003)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4886678"
+  },
+  "Fiat Punto (2° Gen.)(2003)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4886702"
+  },
+  "Fiat Punto (3° Gen.)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6404449"
+  },
+  "Fiat Punto (3° Gen.)_trasera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6404454"
+  },
+  "Fiat Punto Cabrio_delantera": {
+    "fuente": "By Lanciatype840 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=68505632"
+  },
+  "Fiat Punto Cabrio_trasera": {
+    "fuente": "By Corvettec6r - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9106829"
+  },
+  "Fiat Uno (1° Gen.)_delantera": {
+    "fuente": "Por Prefeitura Municipal Itanhaém from Itanhaém, Brasil;Cropped, plates blanked, and levels adjusted by uploader Mr.choppers - Semana Nacional do Trânsito, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18985163"
+  },
+  "Fiat Uno (1° Gen.)_trasera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=351761"
+  },
+  "Fiat Uno (2° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72759626"
+  },
+  "Fiat Uno (2° Gen.)_trasera": {
+    "fuente": "Por Alfred Lana - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98529450"
+  },
+  "Fiat Uno Fire - Mille_delantera": {
+    "fuente": "Por TO TAL;cropped and lightly altered by uploader Mr.choppers - panfletagemsemaforonorteshopping_jte_construcoesereformas_totalpublicidade-48.JPG, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18705638"
+  },
+  "Fiat Uno Fire - Mille_trasera": {
+    "fuente": "By Goautos Classificados;Levels adjusted and advertising undrawn by uploader Mr.choppers - 02927212.jpg, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18706651"
+  },
+  "Fiat Uno (3° Gen.)_delantera": {
+    "fuente": "Por juan elo;Cropped and digitally altered by uploader Mr.choppers - Fiat Uno 1.4 Attractive 2011, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=22711350"
+  },
+  "Fiat Uno (3° Gen.)_trasera": {
+    "fuente": "By Tiago - Feito por mim, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10620058"
+  },
+  "Fiat Panda (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3199560"
+  },
+  "Fiat Panda (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3199565"
+  },
+  "Fiat Panda (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71876273"
+  },
+  "Fiat Panda (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2821562"
+  },
+  "Fiat Panda Cross 4x4_delantera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6070104"
+  },
+  "Fiat Panda Cross 4x4_trasera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6070114"
+  },
+  "Fiat Panda 100HP_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73571651"
+  },
+  "Fiat Panda 100HP_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73571652"
+  },
+  "Fiat Panda (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74910049"
+  },
+  "Fiat Panda (3° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18496590"
+  },
+  "Fiat Panda Cross_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67221542"
+  },
+  "Fiat Panda Cross_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67221545"
+  },
+  "Fiat Ritmo_delantera": {
+    "fuente": ""
+  },
+  "Fiat Ritmo_trasera": {
+    "fuente": ""
+  },
+  "Fiat Regata_delantera": {
+    "fuente": ""
+  },
+  "Fiat Regata_trasera": {
+    "fuente": ""
+  },
+  "Fiat Tempra_delantera": {
+    "fuente": ""
+  },
+  "Fiat Tempra_trasera": {
+    "fuente": ""
+  },
+  "Fiat Tipo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Fiat Tipo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Fiat Bravo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Fiat Bravo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Fiat Brava_delantera": {
+    "fuente": ""
+  },
+  "Fiat Brava_trasera": {
+    "fuente": ""
+  },
+  "Fiat Stilo_delantera": {
+    "fuente": ""
+  },
+  "Fiat Stilo_trasera": {
+    "fuente": ""
+  },
+  "Fiat Croma (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Fiat Croma (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Fiat Coupe_delantera": {
+    "fuente": ""
+  },
+  "Fiat Coupe_trasera": {
+    "fuente": ""
+  },
+  "Fiat Barchetta_delantera": {
+    "fuente": ""
+  },
+  "Fiat Barchetta_trasera": {
+    "fuente": ""
+  },
+  "Fiat X1/9_delantera": {
+    "fuente": ""
+  },
+  "Fiat X1/9_trasera": {
+    "fuente": ""
+  },
+  "Fiat Multipla (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Fiat Multipla (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Fiat 500L (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Fiat 500L (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Fiat 500X (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Fiat 500X (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Fiat Mobi_delantera": {
+    "fuente": ""
+  },
+  "Fiat Mobi_trasera": {
+    "fuente": ""
+  },
+  "Fiat Toro_delantera": {
+    "fuente": ""
+  },
+  "Fiat Toro_trasera": {
+    "fuente": ""
+  },
+  "Fiat Strada (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Fiat Strada (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Fiat Fiorino_delantera": {
+    "fuente": ""
+  },
+  "Fiat Fiorino_trasera": {
+    "fuente": ""
+  },
+  "Fiat Qubo_delantera": {
+    "fuente": ""
+  },
+  "Fiat Qubo_trasera": {
+    "fuente": ""
+  },
+  "Fiat Doblo_delantera": {
+    "fuente": ""
+  },
+  "Fiat Doblo_trasera": {
+    "fuente": ""
+  },
+  "Fiat Idea_delantera": {
+    "fuente": ""
+  },
+  "Fiat Idea_trasera": {
+    "fuente": ""
+  },
+  "Fiat Sedici_delantera": {
+    "fuente": ""
+  },
+  "Fiat Sedici_trasera": {
+    "fuente": ""
+  },
+  "Saleen S7_delantera": {
+    "fuente": "Por Michael Whalen - https://www.flickr.com/photos/uscfan/86476556/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=1290335"
+  },
+  "Saleen S7_trasera": {
+    "fuente": "Por Dana60Cummins - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15918391"
+  },
   "Ford Model T_delantera": {
     "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107379380"
   },

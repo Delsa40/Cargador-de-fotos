@@ -56,16 +56,6 @@ async function subirTodas() {
     .sort_by('public_id', 'asc')
     .max_results(100)
     .execute();
-
-  for (const recurso of resultado.resources) {
-    const public_id = recurso.public_id;
-    const nombreAuto = public_id.replace('_delantera', '');
-    const urlTrasera = `https://res.cloudinary.com/${cloudinary.config().cloud_name}/image/upload/${nombreAuto}_trasera`;
-
-    console.log(`${nombreAuto}`);
-    console.log(`Delantera: ${recurso.secure_url}`);
-    console.log(`Trasera: ${urlTrasera}.jpg\n`);
-  }
 }
 
 subirTodas();

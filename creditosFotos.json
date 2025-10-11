@@ -1,4 +1,334 @@
 {
+  "Volvo ÖV 4_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84933162"
+  },
+  "Volvo ÖV 4_trasera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=204786"
+  },
+  "Volvo PV36 Carioca_delantera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=79334918"
+  },
+  "Volvo PV36 Carioca_trasera": {
+    "fuente": "By Andrzej Otrębski - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32764927"
+  },
+  "Volvo PV444_delantera": {
+    "fuente": "By Uffebos - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152792887"
+  },
+  "Volvo PV444_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28242455"
+  },
+  "Volvo PV544_delantera": {
+    "fuente": "By © Andreas Axel Kirch / CC BY-SA 4.0 (via Wikimedia Commons), CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=41582143"
+  },
+  "Volvo PV544_trasera": {
+    "fuente": "By © Andreas Axel Kirch / CC BY-SA 4.0 (via Wikimedia Commons), CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=41582144"
+  },
+  "Volvo Duett_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28295168"
+  },
+  "Volvo Duett_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28295148"
+  },
+  "Volvo Amazon_delantera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=47639464"
+  },
+  "Volvo Amazon_trasera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=47639538"
+  },
+  "Volvo 140 Series_delantera": {
+    "fuente": "By User ChiemseeMan on de.wikipedia - selbst fotografiert, Fotograf: Späth Chr., Public Domain, https://commons.wikimedia.org/w/index.php?curid=908379"
+  },
+  "Volvo 140 Series_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112323684"
+  },
+  "Volvo 145_delantera": {
+    "fuente": "By Stahlkocher - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1876609"
+  },
+  "Volvo 145_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28209391"
+  },
+  "Volvo 164_delantera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=107811993"
+  },
+  "Volvo 164_trasera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19620969"
+  },
+  "Volvo 200 Series (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2932896"
+  },
+  "Volvo 200 Series (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2932988"
+  },
+  "Volvo 200 Series (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4880537"
+  },
+  "Volvo 200 Series (2° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=118277559"
+  },
+  "Volvo 200 Series Estate (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=16518646"
+  },
+  "Volvo 200 Series Estate (1° Gen.)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10931230"
+  },
+  "Volvo 200 Series Estate (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64161052"
+  },
+  "Volvo 200 Series Estate (2° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=37643359"
+  },
+  "Volvo 300 Series_delantera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=107812062"
+  },
+  "Volvo 300 Series_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2619642"
+  },
+  "Volvo 400 Series (1° Gen.)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2714635"
+  },
+  "Volvo 400 Series (1° Gen.)_trasera": {
+    "fuente": "By Niels de Wit from Lunteren, The Netherlands - 1989 Volvo 440 1.7 GL, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37748276"
+  },
+  "Volvo 400 Series (2° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3218232"
+  },
+  "Volvo 400 Series (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3218240"
+  },
+  "Volvo 480_delantera": {
+    "fuente": "Von Stahlkocher - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1876636"
+  },
+  "Volvo 480_trasera": {
+    "fuente": "By Norbert Schnitzler - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1386778"
+  },
+  "Volvo 700 Series (1° Gen.)_delantera": {
+    "fuente": "By Spanish Coches - 1988 Volvo 760 GLE Turbodiesel [764], CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38116367"
+  },
+  "Volvo 700 Series (1° Gen.)_trasera": {
+    "fuente": "By Spanish Coches - 1988 Volvo 760 GLE Turbodiesel [764], CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38116366"
+  },
+  "Volvo 700 Series (2° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3757512"
+  },
+  "Volvo 700 Series (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3757517"
+  },
+  "Volvo 700 Series Estate (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3477855"
+  },
+  "Volvo 700 Series Estate (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3477867"
+  },
+  "Volvo 850_delantera": {
+    "fuente": "By VonNortheim - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25798192"
+  },
+  "Volvo 850_trasera": {
+    "fuente": "By VonNortheim - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25798260"
+  },
+  "Volvo 850 Estate_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Volvo 850 T5 Estate 1996, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=68320518"
+  },
+  "Volvo 850 Estate_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2796314"
+  },
+  "Volvo 850 T-5R_delantera": {
+    "fuente": "By Toerme - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14707714"
+  },
+  "Volvo 850 T-5R_trasera": {
+    "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20015426"
+  },
+  "Volvo 850 T-5R Estate_delantera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86069210"
+  },
+  "Volvo 850 T-5R Estate_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45647069"
+  },
+  "Volvo 940_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1787891"
+  },
+  "Volvo 940_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=89486518"
+  },
+  "Volvo 940 Estate_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2671345"
+  },
+  "Volvo 940 Estate_trasera": {
+    "fuente": "By Carluver23 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=46676779"
+  },
+  "Volvo 960_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3807750"
+  },
+  "Volvo 960_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3807762"
+  },
+  "Volvo 960 Estate_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4454136"
+  },
+  "Volvo 960 Estate_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4734208"
+  },
+  "Volvo S40 (1° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=1933314"
+  },
+  "Volvo S40 (1° Gen.)_trasera": {
+    "fuente": "Por Mroski - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3739800"
+  },
+  "Volvo S40 (2° Gen.)_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=220629"
+  },
+  "Volvo S40 (2° Gen.)_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4339393"
+  },
+  "Volvo V40 (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68582830"
+  },
+  "Volvo V40 (1° Gen.)_trasera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2251187"
+  },
+  "Volvo V40 (2° Gen.)_delantera": {
+    "fuente": "Por Makizox - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62359251"
+  },
+  "Volvo V40 (2° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156049707"
+  },
+  "Volvo S60 (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67254928"
+  },
+  "Volvo S60 (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67254936"
+  },
+  "Volvo S60 (2° Gen.)(2010)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=19013357"
+  },
+  "Volvo S60 (2° Gen.)(2010)_trasera": {
+    "fuente": "By Mariordo (Mario Roberto Duran Ortiz) - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36566835"
+  },
+  "Volvo S60 (2° Gen.)(2014)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72471961"
+  },
+  "Volvo S60 (2° Gen.)(2014)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72471962"
+  },
+  "Volvo S60 (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79857015"
+  },
+  "Volvo S60 (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79857017"
+  },
+  "Volvo V60 (1° Gen.)(2010)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15489941"
+  },
+  "Volvo V60 (1° Gen.)(2010)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15489948"
+  },
+  "Volvo V60 (1° Gen.)(2014)_delantera": {
+    "fuente": "By Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24997972"
+  },
+  "Volvo V60 (1° Gen.)(2014)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=54884135"
+  },
+  "Volvo V60 (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72763221"
+  },
+  "Volvo V60 (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76331354"
+  },
+  "Volvo S70_delantera": {
+    "fuente": ""
+  },
+  "Volvo S70_trasera": {
+    "fuente": ""
+  },
+  "Volvo V70 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volvo V70 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volvo C70 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volvo C70 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volvo S80 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volvo S80 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volvo C30_delantera": {
+    "fuente": ""
+  },
+  "Volvo C30_trasera": {
+    "fuente": ""
+  },
+  "Volvo XC40 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volvo XC40 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volvo XC60 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volvo XC60 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volvo XC70 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volvo XC70 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volvo XC90 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volvo XC90 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volvo V90 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volvo V90 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volvo S90 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Volvo S90 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Volvo PV51_delantera": {
+    "fuente": ""
+  },
+  "Volvo PV51_trasera": {
+    "fuente": ""
+  },
+  "Volvo PV60_delantera": {
+    "fuente": ""
+  },
+  "Volvo PV60_trasera": {
+    "fuente": ""
+  },
+  "Volvo L3314 Laplander_delantera": {
+    "fuente": ""
+  },
+  "Volvo L3314 Laplander_trasera": {
+    "fuente": ""
+  },
+  "Volvo Duett (P210)_delantera": {
+    "fuente": ""
+  },
+  "Volvo Duett (P210)_trasera": {
+    "fuente": ""
+  },
+  "Volvo 66_delantera": {
+    "fuente": ""
+  },
+  "Volvo 66_trasera": {
+    "fuente": ""
+  },
   "Fiat 500 Topolino_delantera": {
     "fuente": "Por Lothar Spurzem - Trabajo propio, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=58815564"
   },

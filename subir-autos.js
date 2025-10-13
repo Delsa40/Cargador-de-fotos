@@ -50,7 +50,6 @@ async function subirTodas() {
   }
 
   // Búsqueda de todas las imágenes delanteras
-  console.log('\nBuscando imágenes delanteras...\n');
   const resultado = await cloudinary.search
     .expression('tags=delantera')
     .sort_by('public_id', 'asc')

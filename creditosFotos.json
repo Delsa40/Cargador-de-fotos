@@ -1,4 +1,10 @@
 {
+  "IKA-Renault Torino_delantera": {
+    "fuente": "By Sergio Miller;cropped and lightly adjusted by uploader Mr.choppers - Imagen 770.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21577041"
+  },
+  "IKA-Renault Torino_trasera": {
+    "fuente": "By FCD94 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39413580"
+  },
   "Volvo ÖV 4_delantera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84933162"
   },
@@ -234,100 +240,154 @@
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76331354"
   },
   "Volvo S70_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18588850"
   },
   "Volvo S70_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968096"
   },
   "Volvo V70 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2858506"
   },
   "Volvo V70 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2858512"
+  },
+  "Volvo V70 (2° Gen.)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4345832"
+  },
+  "Volvo V70 (2° Gen.)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4345835"
+  },
+  "Volvo V70 (3° Gen.)_delantera": {
+    "fuente": "Por Rudolf Stricker - Fotografía propia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3292153"
+  },
+  "Volvo V70 (3° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3292156"
   },
   "Volvo C70 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2796372"
   },
   "Volvo C70 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2071975"
+  },
+  "Volvo C70 (2° Gen.)(2006)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69773699"
+  },
+  "Volvo C70 (2° Gen.)(2006)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69773701"
+  },
+  "Volvo C70 (2° Gen.)(2009)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175448934"
+  },
+  "Volvo C70 (2° Gen.)(2009)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175448932"
   },
   "Volvo S80 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=107936410"
   },
   "Volvo S80 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70077181"
   },
-  "Volvo C30_delantera": {
-    "fuente": ""
+  "Volvo S80 (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11717093"
   },
-  "Volvo C30_trasera": {
-    "fuente": ""
+  "Volvo S80 (2° Gen.)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4008195"
   },
-  "Volvo XC40 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Volvo C30 (2006)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10233047"
   },
-  "Volvo XC40 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Volvo C30 (2006)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10233066"
   },
-  "Volvo XC60 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Volvo C30 (2010)_delantera": {
+    "fuente": "By Michael Gil from Calgary, AB, Canada - 2011 Volvo C30, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37165295"
   },
-  "Volvo XC60 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Volvo C30 (2010)_trasera": {
+    "fuente": "By Michael Gil from Calgary, AB, Canada - 2011 Volvo C30, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37165293"
   },
-  "Volvo XC70 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Volvo XC40_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67139425"
   },
-  "Volvo XC70 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Volvo XC40_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67139429"
+  },
+  "Volvo XC60 (1° Gen.)(2008)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=7794813"
+  },
+  "Volvo XC60 (1° Gen.)(2008)_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5944439"
+  },
+  "Volvo XC60 (1° Gen.)(2013)_delantera": {
+    "fuente": "Por Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24997975"
+  },
+  "Volvo XC60 (1° Gen.)(2013)_trasera": {
+    "fuente": "Por Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24997979"
+  },
+  "Volvo XC60 (2° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68643853"
+  },
+  "Volvo XC60 (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68643855"
   },
   "Volvo XC90 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63433257"
   },
   "Volvo XC90 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124065927"
   },
-  "Volvo V90 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Volvo XC90 (2° Gen.)(2015)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71615621"
   },
-  "Volvo V90 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Volvo XC90 (2° Gen.)(2015)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=90702111"
   },
-  "Volvo S90 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Volvo XC90 (2° Gen.)(2025)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=158983885"
   },
-  "Volvo S90 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Volvo XC90 (2° Gen.)(2025)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=158983874"
   },
-  "Volvo PV51_delantera": {
-    "fuente": ""
+  "Volvo V90_delantera": {
+    "fuente": "By Charles01 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81614825"
   },
-  "Volvo PV51_trasera": {
-    "fuente": ""
+  "Volvo V90_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165653951"
+  },
+  "Volvo S90 (2016)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68327438"
+  },
+  "Volvo S90 (2016)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77012467"
+  },
+  "Volvo S90 (2025)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=172196600"
+  },
+  "Volvo S90 (2025)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=172196653"
+  },
+  "Volvo PV52_delantera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=107811842"
+  },
+  "Volvo PV52_trasera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19599054"
   },
   "Volvo PV60_delantera": {
-    "fuente": ""
+    "fuente": "By Herranderssvensson - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=148713553"
   },
   "Volvo PV60_trasera": {
-    "fuente": ""
+    "fuente": "By Alf Helin;Cropped and levels adjusted by uploader Mr.choppers - Volvo PV 60 PKW 1946 sedd i trollhättan 20110702 (4).JPG, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18396772"
   },
-  "Volvo L3314 Laplander_delantera": {
-    "fuente": ""
+  "Volvo C202_delantera": {
+    "fuente": "By Norbert Schnitzler - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1386759"
   },
-  "Volvo L3314 Laplander_trasera": {
-    "fuente": ""
-  },
-  "Volvo Duett (P210)_delantera": {
-    "fuente": ""
-  },
-  "Volvo Duett (P210)_trasera": {
-    "fuente": ""
+  "Volvo C202_trasera": {
+    "fuente": "By Lars A - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=153950579"
   },
   "Volvo 66_delantera": {
-    "fuente": ""
+    "fuente": "By No machine-readable author provided. ChiemseeMan assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=2232635"
   },
   "Volvo 66_trasera": {
-    "fuente": ""
+    "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30397925"
   },
   "Fiat 500 Topolino_delantera": {
     "fuente": "Por Lothar Spurzem - Trabajo propio, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=58815564"

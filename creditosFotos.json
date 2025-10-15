@@ -1,4 +1,484 @@
 {
+  "Citroën Type A_delantera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77975080"
+  },
+  "Citroën Type A_trasera": {
+    "fuente": "By Photo: Eckhard Henkel / Wikimedia Commons / CC BY-SA 3.0 DE, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44884744"
+  },
+  "Citroën Rosalie_delantera": {
+    "fuente": "Por jean-pierre 60;Cropped, plates blanked, and levels adjusted by uploader Mr.choppers - montlhéry 19 septembre 2009 ... jp (480).JPG, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19471059"
+  },
+  "Citroën Rosalie_trasera": {
+    "fuente": "Por Arnaud 25 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15495596"
+  },
+  "Citroën Traction Avant_delantera": {
+    "fuente": "Por User Luna04 on fr.wikipedia - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1187941"
+  },
+  "Citroën Traction Avant_trasera": {
+    "fuente": "By Traction.fr - Seclin 2008, les 70 ans de la 15-SIX, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5909559"
+  },
+  "Citroën 2CV_delantera": {
+    "fuente": "Autor Alexander Migl - Vlastito djelo, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72846120"
+  },
+  "Citroën 2CV_trasera": {
+    "fuente": "Autor Lebubu93 - Vlastito djelo, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20037389"
+  },
+  "Citroën Ami 6_delantera": {
+    "fuente": "By HPS911 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51972882"
+  },
+  "Citroën Ami 6_trasera": {
+    "fuente": "Por HPS911 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51972883"
+  },
+  "Citroën Ami 8_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=28574899"
+  },
+  "Citroën Ami 8_trasera": {
+    "fuente": "By Clément Bucco-Lechat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25786413"
+  },
+  "Citroën Dyane_delantera": {
+    "fuente": "Por Spanish Coches - 1977 Citroën Dyane, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38114005"
+  },
+  "Citroën Dyane_trasera": {
+    "fuente": "Por Matthias v.d. Elbe - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18682220"
+  },
+  "Citroën Méhari_delantera": {
+    "fuente": "By Berthold Werner - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27609323"
+  },
+  "Citroën Méhari_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84960175"
+  },
+  "Citroën Visa_delantera": {
+    "fuente": "Por Clément Bucco-Lechat - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25786465"
+  },
+  "Citroën Visa_trasera": {
+    "fuente": "By Clément Bucco-Lechat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25786463"
+  },
+  "Citroën AX_delantera": {
+    "fuente": "Por Lebubu93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20024253"
+  },
+  "Citroën AX_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3151189"
+  },
+  "Citroën Saxo (1995)_delantera": {
+    "fuente": "Par Rudolf Stricker — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3824379"
+  },
+  "Citroën Saxo (1995)_trasera": {
+    "fuente": "Par Rudolf Stricker — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3824382"
+  },
+  "Citroën Saxo (1999)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66222604"
+  },
+  "Citroën Saxo (1999)_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66222606"
+  },
+  "Citroën C1 (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77823857"
+  },
+  "Citroën C1 (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77823855"
+  },
+  "Citroën C1 (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75913807"
+  },
+  "Citroën C1 (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75913810"
+  },
+  "Citroën C2_delantera": {
+    "fuente": "By Harvey Bold - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=149732961"
+  },
+  "Citroën C2_trasera": {
+    "fuente": "Por Rudolf Stricker - Fotografía propia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3236542"
+  },
+  "Citroën C3 (1° Gen.)_delantera": {
+    "fuente": "By M 93 (talk) 17:30, 29 January 2009 (UTC) - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5820439"
+  },
+  "Citroën C3 (1° Gen.)_trasera": {
+    "fuente": "By M 93 (talk) 17:31, 29 January 2009 (UTC) - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5820453"
+  },
+  "Citroën C3 (2° Gen.)(2010)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832372"
+  },
+  "Citroën C3 (2° Gen.)(2010)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832371"
+  },
+  "Citroën C3 (2° Gen.)(2013)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=31446905"
+  },
+  "Citroën C3 (2° Gen.)(2013)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=31446925"
+  },
+  "Citroën C3 (3° Gen.)_delantera": {
+    "fuente": "Por El monty - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52576336"
+  },
+  "Citroën C3 (3° Gen.)_trasera": {
+    "fuente": "Por El monty - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52576333"
+  },
+  "Citroën C3 (4° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=167596173"
+  },
+  "Citroën C3 (4° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=167596219"
+  },
+  "Citroën C3 (CC21)_delantera": {
+    "fuente": "By Dairokkan9 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132264605"
+  },
+  "Citroën C3 (CC21)_trasera": {
+    "fuente": "By Dairokkan9 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132264604"
+  },
+  "Citroën C3 Picasso_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70832090"
+  },
+  "Citroën C3 Picasso_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70832089"
+  },
+  "Citroën C3 Aircross (1° Gen.)(2010)_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/32403975690/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=95924706"
+  },
+  "Citroën C3 Aircross (1° Gen.)(2010)_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18746276"
+  },
+  "Citroën C3 Aircross (1° Gen.)(2016)_delantera": {
+    "fuente": "Por NaBUru38 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45767406"
+  },
+  "Citroën C3 Aircross (1° Gen.)(2016)_trasera": {
+    "fuente": "Por NaBUru38 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45767407"
+  },
+  "Citroën C3 Aircross (2° Gen.)(2017)_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62608041"
+  },
+  "Citroën C3 Aircross (2° Gen.)(2017)_trasera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62608052"
+  },
+  "Citroën C3 Aircross (2° Gen.)(2021)_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112311540"
+  },
+  "Citroën C3 Aircross (2° Gen.)(2021)_trasera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112311616"
+  },
+  "Citroën C4 (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67595047"
+  },
+  "Citroën C4 (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67595048"
+  },
+  "Citroën C4 (1928)_delantera": {
+    "fuente": "Por Berthold Werner - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=4776822"
+  },
+  "Citroën C4 (1928)_trasera": {
+    "fuente": "Por Berthold Werner - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=4772462"
+  },
+  "Citroën C4 Sedan_delantera": {
+    "fuente": "By order_242 from Chile - Citroen C4 1.6 HDi Sedan 2008, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34578239"
+  },
+  "Citroën C4 Sedan_trasera": {
+    "fuente": "By order_242 from Chile - Citroen C4 1.6 HDi Sedan 2009, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=39058199"
+  },
+  "Citroën C4 Coupe_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=14942337"
+  },
+  "Citroën C4 Coupe_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=14942348"
+  },
+  "Citroën C-Quatre_delantera": {
+    "fuente": "Por Graeme Bray;Cropped, plates blanked and advertising undrawn by uploader Mr.choppers - IMGP1360.JPG, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=16454108"
+  },
+  "Citroën C-Quatre_trasera": {
+    "fuente": "Por Navigator84 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20530219"
+  },
+  "Citroën C4 (2° Gen.)_delantera": {
+    "fuente": "Por M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=45156056"
+  },
+  "Citroën C4 (2° Gen.)_trasera": {
+    "fuente": "Por M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=45156071"
+  },
+  "Citroën C4 Lounge_delantera": {
+    "fuente": "Por NaBUru38 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45767860"
+  },
+  "Citroën C4 Lounge_trasera": {
+    "fuente": "Por NaBUru38 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45767858"
+  },
+  "Citroën C4 X_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=153335420"
+  },
+  "Citroën C4 X_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=153335452"
+  },
+  "Citroën C4 (3° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=98429944"
+  },
+  "Citroën C4 (3° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=98430066"
+  },
+  "Citroën C4 Picasso (1° Gen.)_delantera": {
+    "fuente": "Por A.perezds19 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51056450"
+  },
+  "Citroën C4 Picasso (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2974099"
+  },
+  "Citroën C4 Picasso (2° Gen.)_delantera": {
+    "fuente": "Por Luc106 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=28438593"
+  },
+  "Citroën C4 Picasso (2° Gen.)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Citroen C4 Picasso BlueHDi Feel 2017, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=159892826"
+  },
+  "Citroën Grand C4 Picasso (1° Gen.)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=5899027"
+  },
+  "Citroën Grand C4 Picasso (1° Gen.)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=5899042"
+  },
+  "Citroën Grand C4 Picasso (2° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=59569525"
+  },
+  "Citroën Grand C4 Picasso (2° Gen.)_trasera": {
+    "fuente": "By Rutger van der Maar from Leiden, The Netherlands - Citroën Grand C4 Picasso, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=82846570"
+  },
+  "Citroën C4 Cactus (2014)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=95910913"
+  },
+  "Citroën C4 Cactus (2014)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=95910945"
+  },
+  "Citroën C4 Cactus (2018)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70162491"
+  },
+  "Citroën C4 Cactus (2018)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70162492"
+  },
+  "Citroën C5 (1° Gen.)(2001)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71711148"
+  },
+  "Citroën C5 (1° Gen.)(2001)_trasera": {
+    "fuente": "Por User:Two hundred percent. - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3793855"
+  },
+  "Citroën C5 (1° Gen.)(2005)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67595046"
+  },
+  "Citroën C5 (1° Gen.)(2005)_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3800897"
+  },
+  "Citroën C5 Estate (1° Gen.)(2001)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64932596"
+  },
+  "Citroën C5 Estate (1° Gen.)(2001)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64932598"
+  },
+  "Citroën C5 Estate (1° Gen.)(2005)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2934496"
+  },
+  "Citroën C5 Estate (1° Gen.)(2005)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2934508"
+  },
+  "Citroën C5 (2° Gen.)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4240151"
+  },
+  "Citroën C5 (2° Gen.)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4260120"
+  },
+  "Citroën C5 Tourer (2° Gen.)_delantera": {
+    "fuente": "By Luftfahrrad - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4492973"
+  },
+  "Citroën C5 Tourer (2° Gen.)_trasera": {
+    "fuente": "By Luftfahrrad - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4493013"
+  },
+  "Citroën C5 X_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=141540929"
+  },
+  "Citroën C5 X_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=141540928"
+  },
+  "Citroën C5 Aircross (2018)_delantera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95910663"
+  },
+  "Citroën C5 Aircross (2018)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84296265"
+  },
+  "Citroën C5 Aircross (2022)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121188627"
+  },
+  "Citroën C5 Aircross (2022)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166589812"
+  },
+  "Citroën C6_delantera": {
+    "fuente": "Por Rudolf Stricker - Fotografía propia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2340036"
+  },
+  "Citroën C6_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2340013"
+  },
+  "Citroën C6 (China)_delantera": {
+    "fuente": "Por Morio - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=48619868"
+  },
+  "Citroën C6 (China)_trasera": {
+    "fuente": "Por Navigator84 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=58315847"
+  },
+  "Citroën C8_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4367671"
+  },
+  "Citroën C8_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4367674"
+  },
+  "Citroën DS (1955)_delantera": {
+    "fuente": "Por Klugschnacker - File:Bornholm_Rundt_2012_(2012-07-08),_by_Klugschnacker_in_Wikipedia_(29).JPG, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28638457"
+  },
+  "Citroën DS (1955)_trasera": {
+    "fuente": "By Symac / Sylvain Machefert - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51716967"
+  },
+  "Citroën DS (1967)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3459776"
+  },
+  "Citroën DS (1967)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3459778"
+  },
+  "Citroën SM_delantera": {
+    "fuente": "By Rundvald - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124031492"
+  },
+  "Citroën SM_trasera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=47380"
+  },
+  "Citroën BX_delantera": {
+    "fuente": "Por Fedeesse - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=58818025"
+  },
+  "Citroën BX_trasera": {
+    "fuente": "Por Fedeesse - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=58818008"
+  },
+  "Citroën BX Break_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84295353"
+  },
+  "Citroën BX Break_trasera": {
+    "fuente": "By Hello, see my page at the German Wikipedia. Thank you. :) - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92569780"
+  },
+  "Citroën CX_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=88133901"
+  },
+  "Citroën CX_trasera": {
+    "fuente": "By Spanish Coches - 1986 Citroën CX 25 TRD Turbo, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38116192"
+  },
+  "Citroën CX Break_delantera": {
+    "fuente": "By unknown, affiliated with Garage de l'Est, digitally modified and uploaded by User:328cia - https://www.delest.nl/autoarchief, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1421214"
+  },
+  "Citroën CX Break_trasera": {
+    "fuente": "By Spanish Coches - 1983 Citroën CX 25 D Break, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38113477"
+  },
+  "Citroën XM_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=165925709"
+  },
+  "Citroën XM_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=165925769"
+  },
+  "Citroën ZX_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3000657"
+  },
+  "Citroën ZX_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3000661"
+  },
+  "Citroën ZX Break_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2972815"
+  },
+  "Citroën ZX Break_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2972819"
+  },
+  "Citroën GS_delantera": {
+    "fuente": "By Andrew Bone from Weymouth, England - Citroen GS (1979-80), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=48381133"
+  },
+  "Citroën GS_trasera": {
+    "fuente": "By order_242 from Chile - Citroen GS Club 1978, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34578132"
+  },
+  "Citroën LNA_delantera": {
+    "fuente": "By Julien Bertrand - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12694376"
+  },
+  "Citroën LNA_trasera": {
+    "fuente": "By Julien Bertrand - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12694356"
+  },
+  "Citroën Evasion - Synergie_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84295395"
+  },
+  "Citroën Evasion - Synergie_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84295397"
+  },
+  "Citroën Jumper - Relay (1994)_delantera": {
+    "fuente": "By Stolbovsky - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=82242261"
+  },
+  "Citroën Jumper - Relay (1994)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68740456"
+  },
+  "Citroën Jumper - Relay (2002)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74566047"
+  },
+  "Citroën Jumper - Relay (2002)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74566046"
+  },
+  "Citroën Jumper - Relay (2006)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78495471"
+  },
+  "Citroën Jumper - Relay (2006)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78495473"
+  },
+  "Citroën Jumper - Relay (2014)_delantera": {
+    "fuente": "By BarnCas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=34699861"
+  },
+  "Citroën Jumper - Relay (2014)_trasera": {
+    "fuente": "By BarnCas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=34699852"
+  },
+  "Citroën Jumpy (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Citroën Jumpy (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Citroën Berlingo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Citroën Berlingo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Citroën Nemo_delantera": {
+    "fuente": ""
+  },
+  "Citroën Nemo_trasera": {
+    "fuente": ""
+  },
+  "Citroën C15_delantera": {
+    "fuente": ""
+  },
+  "Citroën C15_trasera": {
+    "fuente": ""
+  },
+  "Citroën Acadiane_delantera": {
+    "fuente": ""
+  },
+  "Citroën Acadiane_trasera": {
+    "fuente": ""
+  },
+  "Citroën DS3_delantera": {
+    "fuente": ""
+  },
+  "Citroën DS3_trasera": {
+    "fuente": ""
+  },
+  "Citroën DS4_delantera": {
+    "fuente": ""
+  },
+  "Citroën DS4_trasera": {
+    "fuente": ""
+  },
+  "Citroën DS5_delantera": {
+    "fuente": ""
+  },
+  "Citroën DS5_trasera": {
+    "fuente": ""
+  },
+  "Isdera Commendatore 112i_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=117634130"
+  },
+  "Isdera Commendatore 112i_trasera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=117660361"
+  },
+  "DMC DeLorean_delantera": {
+    "fuente": "By Oleg Yunakov, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=172118449"
+  },
+  "DMC DeLorean_trasera": {
+    "fuente": "By sv1ambo - 1982 De Lorean DMC12 coupe, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38836652"
+  },
   "IKA-Renault Torino_delantera": {
     "fuente": "By Sergio Miller;cropped and lightly adjusted by uploader Mr.choppers - Imagen 770.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21577041"
   },

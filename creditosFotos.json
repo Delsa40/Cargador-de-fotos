@@ -1,4 +1,298 @@
 {
+  "Lancia Beta (1909)_delantera": {
+    "fuente": "By Semnoz - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=625173"
+  },
+  "Lancia Beta (1909)_trasera": {
+    "fuente": "By Semnoz - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=625155"
+  },
+  "Lancia Theta_delantera": {
+    "fuente": "By Thomas's Pics - Lancia Theta, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=50667335"
+  },
+  "Lancia Theta_trasera": {
+    "fuente": "By Tony Harrison from Farnborough, UK - Lancia Motor Club AGM 2011 DSC_4427, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=17604664"
+  },
+  "Lancia Lambda_delantera": {
+    "fuente": ""
+  },
+  "Lancia Lambda_trasera": {
+    "fuente": ""
+  },
+  "Lancia Artena_delantera": {
+    "fuente": ""
+  },
+  "Lancia Artena_trasera": {
+    "fuente": ""
+  },
+  "Lancia Astura_delantera": {
+    "fuente": ""
+  },
+  "Lancia Astura_trasera": {
+    "fuente": ""
+  },
+  "Lancia Augusta_delantera": {
+    "fuente": ""
+  },
+  "Lancia Augusta_trasera": {
+    "fuente": ""
+  },
+  "Lancia Aprilia_delantera": {
+    "fuente": ""
+  },
+  "Lancia Aprilia_trasera": {
+    "fuente": ""
+  },
+  "Lancia Ardea_delantera": {
+    "fuente": ""
+  },
+  "Lancia Ardea_trasera": {
+    "fuente": ""
+  },
+  "Lancia Aurelia_delantera": {
+    "fuente": ""
+  },
+  "Lancia Aurelia_trasera": {
+    "fuente": ""
+  },
+  "Lancia Appia_delantera": {
+    "fuente": ""
+  },
+  "Lancia Appia_trasera": {
+    "fuente": ""
+  },
+  "Lancia Flaminia_delantera": {
+    "fuente": ""
+  },
+  "Lancia Flaminia_trasera": {
+    "fuente": ""
+  },
+  "Lancia Flavia_delantera": {
+    "fuente": ""
+  },
+  "Lancia Flavia_trasera": {
+    "fuente": ""
+  },
+  "Lancia Fulvia_delantera": {
+    "fuente": ""
+  },
+  "Lancia Fulvia_trasera": {
+    "fuente": ""
+  },
+  "Lancia Beta (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lancia Beta (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lancia Gamma_delantera": {
+    "fuente": ""
+  },
+  "Lancia Gamma_trasera": {
+    "fuente": ""
+  },
+  "Lancia Stratos_delantera": {
+    "fuente": ""
+  },
+  "Lancia Stratos_trasera": {
+    "fuente": ""
+  },
+  "Lancia Montecarlo_delantera": {
+    "fuente": ""
+  },
+  "Lancia Montecarlo_trasera": {
+    "fuente": ""
+  },
+  "Lancia Rally 037_delantera": {
+    "fuente": ""
+  },
+  "Lancia Rally 037_trasera": {
+    "fuente": ""
+  },
+  "Lancia Delta (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lancia Delta (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lancia Prisma_delantera": {
+    "fuente": ""
+  },
+  "Lancia Prisma_trasera": {
+    "fuente": ""
+  },
+  "Lancia Thema_delantera": {
+    "fuente": ""
+  },
+  "Lancia Thema_trasera": {
+    "fuente": ""
+  },
+  "Lancia Dedra_delantera": {
+    "fuente": ""
+  },
+  "Lancia Dedra_trasera": {
+    "fuente": ""
+  },
+  "Lancia Kappa (1994)_delantera": {
+    "fuente": ""
+  },
+  "Lancia Kappa (1994)_trasera": {
+    "fuente": ""
+  },
+  "Lancia Lybra_delantera": {
+    "fuente": ""
+  },
+  "Lancia Lybra_trasera": {
+    "fuente": ""
+  },
+  "Lancia Thesis_delantera": {
+    "fuente": ""
+  },
+  "Lancia Thesis_trasera": {
+    "fuente": ""
+  },
+  "Lancia Phedra_delantera": {
+    "fuente": ""
+  },
+  "Lancia Phedra_trasera": {
+    "fuente": ""
+  },
+  "Lancia Y10_delantera": {
+    "fuente": ""
+  },
+  "Lancia Y10_trasera": {
+    "fuente": ""
+  },
+  "Lancia Ypsilon (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lancia Ypsilon (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lancia Musa_delantera": {
+    "fuente": ""
+  },
+  "Lancia Musa_trasera": {
+    "fuente": ""
+  },
+  "Lancia Zeta_delantera": {
+    "fuente": ""
+  },
+  "Lancia Zeta_trasera": {
+    "fuente": ""
+  },
+  "Lancia Voyager_delantera": {
+    "fuente": ""
+  },
+  "Lancia Voyager_trasera": {
+    "fuente": ""
+  },
+  "Lancia Beta Trevi_delantera": {
+    "fuente": ""
+  },
+  "Lancia Beta Trevi_trasera": {
+    "fuente": ""
+  },
+  "Lancia Trevi_delantera": {
+    "fuente": ""
+  },
+  "Lancia Trevi_trasera": {
+    "fuente": ""
+  },
+  "Lancia Augusta Berlina_delantera": {
+    "fuente": ""
+  },
+  "Lancia Augusta Berlina_trasera": {
+    "fuente": ""
+  },
+  "Lancia Esatau_delantera": {
+    "fuente": ""
+  },
+  "Lancia Esatau_trasera": {
+    "fuente": ""
+  },
+  "Lancia Artena Berlina_delantera": {
+    "fuente": ""
+  },
+  "Lancia Artena Berlina_trasera": {
+    "fuente": ""
+  },
+  "Lancia DiLambda_delantera": {
+    "fuente": ""
+  },
+  "Lancia DiLambda_trasera": {
+    "fuente": ""
+  },
+  "Lancia Augusta Cabriolet_delantera": {
+    "fuente": ""
+  },
+  "Lancia Augusta Cabriolet_trasera": {
+    "fuente": ""
+  },
+  "Lancia Appia Berlina_delantera": {
+    "fuente": ""
+  },
+  "Lancia Appia Berlina_trasera": {
+    "fuente": ""
+  },
+  "Lancia Ardea Furgoncino_delantera": {
+    "fuente": ""
+  },
+  "Lancia Ardea Furgoncino_trasera": {
+    "fuente": ""
+  },
+  "Lancia Augusta Sport_delantera": {
+    "fuente": ""
+  },
+  "Lancia Augusta Sport_trasera": {
+    "fuente": ""
+  },
+  "Lancia Delta III_delantera": {
+    "fuente": ""
+  },
+  "Lancia Delta III_trasera": {
+    "fuente": ""
+  },
+  "Hennessey Venom GT_delantera": {
+    "fuente": "By Mystfire - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14719418"
+  },
+  "Hennessey Venom GT_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174481271"
+  },
+  "Hennessey Venom F5_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122831556"
+  },
+  "Hennessey Venom F5_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125431615"
+  },
+  "Citroën Xsara Picasso_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72759649"
+  },
+  "Citroën Xsara Picasso_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72759652"
+  },
+  "Citroën Xsara (1997)_delantera": {
+    "fuente": "Por User:Two hundred percent. - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5629615"
+  },
+  "Citroën Xsara (1997)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2222843"
+  },
+  "Citroën Xsara (2000)_delantera": {
+    "fuente": "Por M 93 - Fotografía propia, Attribution, https://commons.wikimedia.org/w/index.php?curid=14630584"
+  },
+  "Citroën Xsara (2000)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=14630593"
+  },
+  "Citroën Xsara Break (1998)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7352165"
+  },
+  "Citroën Xsara Break (1998)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7352170"
+  },
+  "Citroën Xsara Break (2000)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66139365"
+  },
+  "Citroën Xsara Break (2000)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66139367"
+  },
   "Citroën Type A_delantera": {
     "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77975080"
   },
@@ -316,6 +610,12 @@
   },
   "Citroën C8_trasera": {
     "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4367674"
+  },
+  "Citroën C-Elysée_delantera": {
+    "fuente": "Por Qwerty242 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24071525"
+  },
+  "Citroën C-Elysée_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90905344"
   },
   "Citroën DS (1955)_delantera": {
     "fuente": "Por Klugschnacker - File:Bornholm_Rundt_2012_(2012-07-08),_by_Klugschnacker_in_Wikipedia_(29).JPG, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28638457"

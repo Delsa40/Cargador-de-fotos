@@ -12,244 +12,334 @@
     "fuente": "By Tony Harrison from Farnborough, UK - Lancia Motor Club AGM 2011 DSC_4427, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=17604664"
   },
   "Lancia Lambda_delantera": {
-    "fuente": ""
+    "fuente": "By MartinHansV - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1810634"
   },
   "Lancia Lambda_trasera": {
-    "fuente": ""
+    "fuente": "By MartinHansV - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1810647"
   },
   "Lancia Artena_delantera": {
-    "fuente": ""
+    "fuente": "Por Tony Harrison from Farnborough, UK - LANCIA IN THE PIAZZA UK CENTENARY Covent Garden London 2007_MG_3273, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3823802"
   },
   "Lancia Artena_trasera": {
-    "fuente": ""
+    "fuente": "By andreboeni - https://www.flickr.com/photos/65344061@N06/49168200887/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=110142804"
   },
   "Lancia Astura_delantera": {
-    "fuente": ""
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7660446"
   },
   "Lancia Astura_trasera": {
-    "fuente": ""
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7660458"
+  },
+  "Lancia Astura 233 C Aerodynamica_delantera": {
+    "fuente": "By MartinHansV - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=9866369"
+  },
+  "Lancia Astura 233 C Aerodynamica_trasera": {
+    "fuente": "By MartinHansV - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=9866374"
   },
   "Lancia Augusta_delantera": {
-    "fuente": ""
+    "fuente": "Por Luc106 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=1909526"
   },
   "Lancia Augusta_trasera": {
-    "fuente": ""
+    "fuente": "Por No se ha podido leer automáticamente información sobre el autor; se asume que es Luc106 (según los derechos de autor reclamados). - No se ha podido leer automáticamente información sobre la fuente; se asume que es trabajo propio (según los derechos de autor reclamados)., Dominio público, https://commons.wikimedia.org/w/index.php?curid=1909592"
   },
   "Lancia Aprilia_delantera": {
-    "fuente": ""
+    "fuente": "By Spanish Coches - 1939 Lancia Aprilia, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115569"
   },
   "Lancia Aprilia_trasera": {
-    "fuente": ""
+    "fuente": "By Spanish Coches - 1939 Lancia Aprilia, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115568"
   },
   "Lancia Ardea_delantera": {
-    "fuente": ""
+    "fuente": "By Luc106 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5261474"
   },
   "Lancia Ardea_trasera": {
-    "fuente": ""
+    "fuente": "By MartinHansV - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1190586"
   },
   "Lancia Aurelia_delantera": {
-    "fuente": ""
+    "fuente": "By No machine-readable author provided. Luc106 assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1909507"
   },
   "Lancia Aurelia_trasera": {
-    "fuente": ""
+    "fuente": "By Andrew Bone from Weymouth, England - Lancia Aurelia Berlina B10 c.1953, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39079526"
   },
-  "Lancia Appia_delantera": {
-    "fuente": ""
+  "Lancia Appia (1953)_delantera": {
+    "fuente": "Por Luc106 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=5261651"
   },
-  "Lancia Appia_trasera": {
-    "fuente": ""
+  "Lancia Appia (1953)_trasera": {
+    "fuente": "By MartinHansV - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=9866340"
   },
-  "Lancia Flaminia_delantera": {
-    "fuente": ""
+  "Lancia Appia (1956)_delantera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=40955514"
   },
-  "Lancia Flaminia_trasera": {
-    "fuente": ""
+  "Lancia Appia (1956)_trasera": {
+    "fuente": "By Rex Gray - 1959 Lancia Appia - blue - rvr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40699696"
+  },
+  "Lancia Appia (1959)_delantera": {
+    "fuente": "By Ekki01 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2757344"
+  },
+  "Lancia Appia (1959)_trasera": {
+    "fuente": "By No machine-readable author provided. Luc106 assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=3183201"
+  },
+  "Lancia Aurelia Spider_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59213016"
+  },
+  "Lancia Aurelia Spider_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59213036"
+  },
+  "Lancia Flaminia Coupé_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2565551"
+  },
+  "Lancia Flaminia Coupé_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19866319"
+  },
+  "Lancia Flaminia Sport_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126829325"
+  },
+  "Lancia Flaminia Sport_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126829352"
   },
   "Lancia Flavia_delantera": {
-    "fuente": ""
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13327596"
   },
   "Lancia Flavia_trasera": {
-    "fuente": ""
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13327981"
   },
-  "Lancia Fulvia_delantera": {
-    "fuente": ""
+  "Lancia Fulvia Berlina_delantera": {
+    "fuente": "By No machine-readable author provided. Luc106 assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=3938739"
   },
-  "Lancia Fulvia_trasera": {
-    "fuente": ""
+  "Lancia Fulvia Berlina_trasera": {
+    "fuente": "By Luc106 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4411336"
   },
-  "Lancia Beta (1° Gen.)_delantera": {
-    "fuente": ""
+  "Lancia Fulvia Coupé_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1111911"
   },
-  "Lancia Beta (1° Gen.)_trasera": {
-    "fuente": ""
+  "Lancia Fulvia Coupé_trasera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1111908"
   },
-  "Lancia Gamma_delantera": {
-    "fuente": ""
+  "Lancia Fulvia Sport Zagato_delantera": {
+    "fuente": "By No machine-readable author provided. Luc106 assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=3185971"
   },
-  "Lancia Gamma_trasera": {
-    "fuente": ""
+  "Lancia Fulvia Sport Zagato_trasera": {
+    "fuente": "By Triple-green - Lancia Fulvia Sport, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=66277705"
+  },
+  "Lancia Beta Berlina_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64091989"
+  },
+  "Lancia Beta Berlina_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129083348"
+  },
+  "Lancia Beta Coupé_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3008762"
+  },
+  "Lancia Beta Coupé_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3008767"
+  },
+  "Lancia Beta HPE_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5335964"
+  },
+  "Lancia Beta HPE_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5335971"
+  },
+  "Lancia Beta Montecarlo_delantera": {
+    "fuente": "By SG2012 - https://www.flickr.com/photos/57664366@N08/20013190183/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=56766842"
+  },
+  "Lancia Beta Montecarlo_trasera": {
+    "fuente": "By SG2012 - https://www.flickr.com/photos/57664366@N08/20447415849/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=56766843"
+  },
+  "Lancia Gamma Coupé_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=88133951"
+  },
+  "Lancia Gamma Coupé_trasera": {
+    "fuente": "By Fjvelsen at nl.wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3224302"
+  },
+  "Lancia Gamma Berlina_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=114197470"
+  },
+  "Lancia Gamma Berlina_trasera": {
+    "fuente": "By Andrew Bone from Weymouth, England - Lancia Gamma Berlina, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=48379944"
   },
   "Lancia Stratos_delantera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=116540374"
   },
   "Lancia Stratos_trasera": {
-    "fuente": ""
+    "fuente": "By Thomas Vogt from Paderborn, Deutschland - Lancia Stratos Stradale, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=69831917"
   },
-  "Lancia Montecarlo_delantera": {
-    "fuente": ""
+  "Lancia New Stratos_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112377725"
   },
-  "Lancia Montecarlo_trasera": {
-    "fuente": ""
+  "Lancia New Stratos_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67118258"
   },
-  "Lancia Rally 037_delantera": {
-    "fuente": ""
+  "Lancia 037 Stradale_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=170450377"
   },
-  "Lancia Rally 037_trasera": {
-    "fuente": ""
+  "Lancia 037 Stradale_trasera": {
+    "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20038075"
+  },
+  "Lancia 037_delantera": {
+    "fuente": "By raffaele sergi from Pinerolo, Italia - Lancia, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=42746237"
+  },
+  "Lancia 037_trasera": {
+    "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20045585"
   },
   "Lancia Delta (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Original picture by Tony Harrison from Farnborough, UKAltered by Cloverleaf II - 1982 Lancia Delta 1500 IMG_9270, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=38001066"
   },
   "Lancia Delta (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Tony Harrison from Farnborough, UK - 1982 Lancia Delta 1500 IMG_9260, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=37999287"
+  },
+  "Lancia Delta HF Integrale_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3920097"
+  },
+  "Lancia Delta HF Integrale_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3920102"
+  },
+  "Lancia Delta HF Integrale Evo 2_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=144706959"
+  },
+  "Lancia Delta HF Integrale Evo 2_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=144706858"
+  },
+  "Lancia Delta (2° Gen.)_delantera": {
+    "fuente": "Por R. Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=18792623"
+  },
+  "Lancia Delta (2° Gen.)_trasera": {
+    "fuente": "By R. Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=18792668"
+  },
+  "Lancia Delta (3° Gen.)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3876058"
+  },
+  "Lancia Delta (3° Gen.)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3876064"
+  },
+  "Lancia Delta S4 Stradale_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=170450168"
+  },
+  "Lancia Delta S4 Stradale_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2111669"
+  },
+  "Lancia Delta S4_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=116025992"
+  },
+  "Lancia Delta S4_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=116645176"
   },
   "Lancia Prisma_delantera": {
-    "fuente": ""
+    "fuente": "By Black92 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4763718"
   },
   "Lancia Prisma_trasera": {
-    "fuente": ""
+    "fuente": "By Black92 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4769463"
   },
   "Lancia Thema_delantera": {
-    "fuente": ""
+    "fuente": "Por nakhon100 - Lancia Thema 8.32, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37753129"
   },
   "Lancia Thema_trasera": {
-    "fuente": ""
+    "fuente": "Por nakhon100 - Lancia Thema 8.32, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37753128"
+  },
+  "Lancia Thema SW_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=62153689"
+  },
+  "Lancia Thema SW_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=62153675"
   },
   "Lancia Dedra_delantera": {
-    "fuente": ""
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=784043"
   },
   "Lancia Dedra_trasera": {
-    "fuente": ""
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2255927"
+  },
+  "Lancia Dedra SW_delantera": {
+    "fuente": "Por Rudolf Stricker - Fotografía propia, Dominio público, https://commons.wikimedia.org/w/index.php?curid=1884171"
+  },
+  "Lancia Dedra SW_trasera": {
+    "fuente": "Por Rudolf Stricker - Fotografía propia, Dominio público, https://commons.wikimedia.org/w/index.php?curid=1884176"
   },
   "Lancia Kappa (1994)_delantera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=12863187"
   },
   "Lancia Kappa (1994)_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=12863213"
   },
   "Lancia Lybra_delantera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2146197"
   },
   "Lancia Lybra_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2146201"
   },
   "Lancia Thesis_delantera": {
-    "fuente": ""
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3213199"
   },
   "Lancia Thesis_trasera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18465182"
   },
   "Lancia Phedra_delantera": {
-    "fuente": ""
+    "fuente": "Di M 93 - Fotografia autoprodotta, Attribution, https://commons.wikimedia.org/w/index.php?curid=7083844"
   },
   "Lancia Phedra_trasera": {
-    "fuente": ""
+    "fuente": "Di M 93 - Fotografia autoprodotta, Attribution, https://commons.wikimedia.org/w/index.php?curid=7083851"
   },
-  "Lancia Y10_delantera": {
-    "fuente": ""
+  "Lancia Y10 (1985)_delantera": {
+    "fuente": "By No machine-readable author provided. Jllprod assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1954221"
   },
-  "Lancia Y10_trasera": {
-    "fuente": ""
+  "Lancia Y10 (1985)_trasera": {
+    "fuente": "By Dennis Elzinga - Lancia Y10, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38639377"
   },
-  "Lancia Ypsilon (1° Gen.)_delantera": {
-    "fuente": ""
+  "Lancia Y10 (1992)_delantera": {
+    "fuente": "Por Rudolf Stricker - Fotografía propia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2048521"
   },
-  "Lancia Ypsilon (1° Gen.)_trasera": {
-    "fuente": ""
+  "Lancia Y10 (1992)_trasera": {
+    "fuente": "Por Rudolf Stricker - Fotografía propia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2048530"
+  },
+  "Lancia Y_delantera": {
+    "fuente": "Por Jota79 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=34647786"
+  },
+  "Lancia Y_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2146218"
+  },
+  "Lancia Ypsilon (2003)_delantera": {
+    "fuente": "Por Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14560663"
+  },
+  "Lancia Ypsilon (2003)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7083858"
+  },
+  "Lancia Ypsilon (2011)_delantera": {
+    "fuente": "Por Overlaet - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15013581"
+  },
+  "Lancia Ypsilon (2011)_trasera": {
+    "fuente": "By Overlaet - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15094287"
+  },
+  "Lancia Ypsilon (2024)_delantera": {
+    "fuente": "By Mihnea Lazăr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166642221"
+  },
+  "Lancia Ypsilon (2024)_trasera": {
+    "fuente": "By Mihnea Lazăr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166642222"
   },
   "Lancia Musa_delantera": {
-    "fuente": ""
+    "fuente": "Por M 93 - Template:Inventor of Turbo for this car, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4753977"
   },
   "Lancia Musa_trasera": {
-    "fuente": ""
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4753986"
   },
   "Lancia Zeta_delantera": {
-    "fuente": ""
+    "fuente": "Di Rudolf Stricker - Fotografia autoprodotta, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2856597"
   },
   "Lancia Zeta_trasera": {
-    "fuente": ""
+    "fuente": "Di Rudolf Stricker - Fotografia autoprodotta, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2856614"
   },
   "Lancia Voyager_delantera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18657203"
   },
   "Lancia Voyager_trasera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18657231"
   },
   "Lancia Beta Trevi_delantera": {
-    "fuente": ""
+    "fuente": "By 天然ガス - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=153710533"
   },
   "Lancia Beta Trevi_trasera": {
-    "fuente": ""
-  },
-  "Lancia Trevi_delantera": {
-    "fuente": ""
-  },
-  "Lancia Trevi_trasera": {
-    "fuente": ""
-  },
-  "Lancia Augusta Berlina_delantera": {
-    "fuente": ""
-  },
-  "Lancia Augusta Berlina_trasera": {
-    "fuente": ""
-  },
-  "Lancia Esatau_delantera": {
-    "fuente": ""
-  },
-  "Lancia Esatau_trasera": {
-    "fuente": ""
-  },
-  "Lancia Artena Berlina_delantera": {
-    "fuente": ""
-  },
-  "Lancia Artena Berlina_trasera": {
-    "fuente": ""
+    "fuente": "By 天然ガス - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=153710473"
   },
   "Lancia DiLambda_delantera": {
-    "fuente": ""
+    "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=22367883"
   },
   "Lancia DiLambda_trasera": {
-    "fuente": ""
-  },
-  "Lancia Augusta Cabriolet_delantera": {
-    "fuente": ""
-  },
-  "Lancia Augusta Cabriolet_trasera": {
-    "fuente": ""
-  },
-  "Lancia Appia Berlina_delantera": {
-    "fuente": ""
-  },
-  "Lancia Appia Berlina_trasera": {
-    "fuente": ""
-  },
-  "Lancia Ardea Furgoncino_delantera": {
-    "fuente": ""
-  },
-  "Lancia Ardea Furgoncino_trasera": {
-    "fuente": ""
-  },
-  "Lancia Augusta Sport_delantera": {
-    "fuente": ""
-  },
-  "Lancia Augusta Sport_trasera": {
-    "fuente": ""
-  },
-  "Lancia Delta III_delantera": {
-    "fuente": ""
-  },
-  "Lancia Delta III_trasera": {
-    "fuente": ""
+    "fuente": "By dave_7 - originally posted to Flickr as 1932 Lancia Dilambda, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=6603638"
   },
   "Hennessey Venom GT_delantera": {
     "fuente": "By Mystfire - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14719418"

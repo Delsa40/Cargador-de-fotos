@@ -341,6 +341,12 @@
   "Lancia DiLambda_trasera": {
     "fuente": "By dave_7 - originally posted to Flickr as 1932 Lancia Dilambda, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=6603638"
   },
+  "Lancia Thema (2011)_delantera": {
+    "fuente": "By HombreDHojalata - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19325846"
+  },
+  "Lancia Thema (2011)_trasera": {
+    "fuente": "By Rutger van der Maar - https://www.flickr.com/photos/rutgervandermaar/49691955856/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=105928865"
+  },
   "Hennessey Venom GT_delantera": {
     "fuente": "By Mystfire - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14719418"
   },
@@ -2832,22 +2838,88 @@
     "fuente": "Аутор: Alexander-93 - Сопствено дело, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129296299"
   },
   "Ford Bronco (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152354379"
   },
   "Ford Bronco (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By AHHNiewohner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=176641297"
+  },
+  "Ford Bronco (2° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6270269"
+  },
+  "Ford Bronco (2° Gen.)_trasera": {
+    "fuente": "Por Magley64 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=3481167"
+  },
+  "Ford Bronco (3° Gen.)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137321458"
+  },
+  "Ford Bronco (3° Gen.)_trasera": {
+    "fuente": "By louisznl from Netherlands - Ford Bronco, J-731-XX, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=108160512"
+  },
+  "Ford Bronco (4° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2958554"
+  },
+  "Ford Bronco (4° Gen.)_trasera": {
+    "fuente": "By Accord14 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=60746393"
+  },
+  "Ford Bronco (5° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2954575"
+  },
+  "Ford Bronco (5° Gen.)_trasera": {
+    "fuente": "Por MercurySable99 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121594031"
+  },
+  "Ford Bronco (6° Gen.)_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127555084"
+  },
+  "Ford Bronco (6° Gen.)_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107431200"
   },
   "Ford Bronco Raptor_delantera": {
-    "fuente": ""
+    "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=145577859"
   },
   "Ford Bronco Raptor_trasera": {
-    "fuente": ""
+    "fuente": "By crudmucosa - Little Kicking Horse, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=145827227"
+  },
+  "Ford Bronco Sport_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164178723"
+  },
+  "Ford Bronco Sport_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164178731"
   },
   "Ford Explorer (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por Spanish Coches - 1992 Ford Explorer Eddie Bauer, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38113951"
   },
   "Ford Explorer (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=124239592"
+  },
+  "Ford Explorer (2° Gen.)_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=44959273"
+  },
+  "Ford Explorer (2° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84429462"
+  },
+  "Ford Explorer (3° Gen.)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6938608"
+  },
+  "Ford Explorer (3° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=118094550"
+  },
+  "Ford Explorer (4° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=18048353"
+  },
+  "Ford Explorer (4° Gen.)_trasera": {
+    "fuente": "By order_242 from Chile - Ford Explorer XLT 2006, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34577232"
+  },
+  "Ford Explorer (5° Gen.)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=16422110"
+  },
+  "Ford Explorer (5° Gen.)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=16422166"
+  },
+  "Ford Explorer (6° Gen.)_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82052506"
+  },
+  "Ford Explorer (6° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135523828"
   },
   "Ford Expedition (1° Gen.)_delantera": {
     "fuente": ""

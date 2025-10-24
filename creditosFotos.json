@@ -1,411 +1,87 @@
 {
-  "Acura Integra (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura Integra (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura Legend (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura Legend (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura Vigor_delantera": {
-    "fuente": ""
-  },
-  "Acura Vigor_trasera": {
-    "fuente": ""
-  },
-  "Acura RL (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura RL (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura TL (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura TL (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura TSX (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura TSX (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura ILX_delantera": {
-    "fuente": ""
-  },
-  "Acura ILX_trasera": {
-    "fuente": ""
-  },
-  "Acura RLX_delantera": {
-    "fuente": ""
-  },
-  "Acura RLX_trasera": {
-    "fuente": ""
-  },
-  "Acura CSX_delantera": {
-    "fuente": ""
-  },
-  "Acura CSX_trasera": {
-    "fuente": ""
-  },
-  "Acura RSX_delantera": {
-    "fuente": ""
-  },
-  "Acura RSX_trasera": {
-    "fuente": ""
-  },
-  "Acura CL_delantera": {
-    "fuente": ""
-  },
-  "Acura CL_trasera": {
-    "fuente": ""
-  },
-  "Acura ZDX_delantera": {
-    "fuente": ""
-  },
-  "Acura ZDX_trasera": {
-    "fuente": ""
-  },
-  "Acura RDX (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura RDX (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura MDX (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura MDX (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura ADX_delantera": {
-    "fuente": ""
-  },
-  "Acura ADX_trasera": {
-    "fuente": ""
-  },
-  "Acura TLX_delantera": {
-    "fuente": ""
-  },
-  "Acura TLX_trasera": {
-    "fuente": ""
-  },
-  "Acura Integra (5° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura Integra (5° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura RDX (5° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura RDX (5° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura MDX (5° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura MDX (5° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura RSX Prototype_delantera": {
-    "fuente": ""
-  },
-  "Acura RSX Prototype_trasera": {
-    "fuente": ""
-  },
-  "Acura ARX-06_delantera": {
-    "fuente": ""
-  },
-  "Acura ARX-06_trasera": {
-    "fuente": ""
-  },
-  "Acura ARX-05_delantera": {
-    "fuente": ""
-  },
-  "Acura ARX-05_trasera": {
-    "fuente": ""
-  },
-  "Acura ARX-01_delantera": {
-    "fuente": ""
-  },
-  "Acura ARX-01_trasera": {
-    "fuente": ""
-  },
-  "Acura NSX (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura NSX (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura NSX (2° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Acura NSX (2° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Acura NSX Type S_delantera": {
-    "fuente": ""
-  },
-  "Acura NSX Type S_trasera": {
-    "fuente": ""
-  },
-  "Acura TLX Type S_delantera": {
-    "fuente": ""
-  },
-  "Acura TLX Type S_trasera": {
-    "fuente": ""
-  },
-  "Acura Integra Type S_delantera": {
-    "fuente": ""
-  },
-  "Acura Integra Type S_trasera": {
-    "fuente": ""
-  },
-  "Acura ZDX Type S_delantera": {
-    "fuente": ""
-  },
-  "Acura ZDX Type S_trasera": {
-    "fuente": ""
-  },
-  "Acura RLX Sport Hybrid_delantera": {
-    "fuente": ""
-  },
-  "Acura RLX Sport Hybrid_trasera": {
-    "fuente": ""
-  },
-  "Acura RDX A-Spec_delantera": {
-    "fuente": ""
-  },
-  "Acura RDX A-Spec_trasera": {
-    "fuente": ""
-  },
-  "Acura MDX A-Spec_delantera": {
-    "fuente": ""
-  },
-  "Acura MDX A-Spec_trasera": {
-    "fuente": ""
-  },
-  "Acura TLX A-Spec_delantera": {
-    "fuente": ""
-  },
-  "Acura TLX A-Spec_trasera": {
-    "fuente": ""
-  },
-  "Acura Integra A-Spec_delantera": {
-    "fuente": ""
-  },
-  "Acura Integra A-Spec_trasera": {
-    "fuente": ""
-  },
-  "Acura ZDX A-Spec_delantera": {
-    "fuente": ""
-  },
-  "Acura ZDX A-Spec_trasera": {
-    "fuente": ""
-  },
   "AC 2-Litre_delantera": {
-    "fuente": ""
+    "fuente": "By SG2012 - https://www.flickr.com/photos/57664366@N08/14567623046/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=58369965"
   },
   "AC 2-Litre_trasera": {
-    "fuente": ""
-  },
-  "AC 289 Sports_delantera": {
-    "fuente": ""
-  },
-  "AC 289 Sports_trasera": {
-    "fuente": ""
+    "fuente": "By Steve Glover - Flickr: AC 2 Litre 2 Door Saloon (1951), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=29326194"
   },
   "AC 378 GT Zagato_delantera": {
-    "fuente": ""
+    "fuente": "By Andrew Bone from Weymouth, England - AC 378 GT Zagato 2012, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39080553"
   },
   "AC 378 GT Zagato_trasera": {
-    "fuente": ""
-  },
-  "AC 427_delantera": {
-    "fuente": ""
-  },
-  "AC 427_trasera": {
-    "fuente": ""
+    "fuente": "By Andrew Bone from Weymouth, England - AC 378 GT Zagato 2012, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39080551"
   },
   "AC 3000ME_delantera": {
-    "fuente": ""
+    "fuente": "By Anders Bot - https://www.flickr.com/photos/65344061@N06/54129268449/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=155427524"
   },
   "AC 3000ME_trasera": {
-    "fuente": ""
+    "fuente": "By Anders Bot - https://www.flickr.com/photos/65344061@N06/54129377160/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=155427528"
   },
-  "AC 428_delantera": {
-    "fuente": ""
+  "AC 428 Frua_delantera": {
+    "fuente": "By EmmanuelD at English Wikipedia - Transferred from en.wikipedia to Commons., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1806238"
   },
-  "AC 428_trasera": {
-    "fuente": ""
+  "AC 428 Frua_trasera": {
+    "fuente": "By EmmanuelD at English Wikipedia - Transferred from en.wikipedia to Commons., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1806264"
   },
   "AC Ace_delantera": {
-    "fuente": ""
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20203322"
   },
   "AC Ace_trasera": {
-    "fuente": ""
+    "fuente": "https://commons.wikimedia.org/w/index.php?curid=30499665"
   },
   "AC Aceca_delantera": {
-    "fuente": ""
+    "fuente": "By AC.ACECA - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75246537"
   },
   "AC Aceca_trasera": {
-    "fuente": ""
+    "fuente": "By AlfvanBeem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=19770263"
   },
-  "AC Autocarrier_delantera": {
-    "fuente": ""
+  "AC Shelby Cobra_delantera": {
+    "fuente": "By Mustang Joe - Cobra, CC0, https://commons.wikimedia.org/w/index.php?curid=147607040"
   },
-  "AC Autocarrier_trasera": {
-    "fuente": ""
-  },
-  "AC Cobra_delantera": {
-    "fuente": ""
-  },
-  "AC Cobra_trasera": {
-    "fuente": ""
+  "AC Shelby Cobra_trasera": {
+    "fuente": "By Falcon® Photography from France - Shelby, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=61455539"
   },
   "AC Cobra GT Roadster_delantera": {
-    "fuente": ""
+    "fuente": "By Y.Leclercq© - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133872432"
   },
   "AC Cobra GT Roadster_trasera": {
-    "fuente": ""
-  },
-  "AC Cobra GT Coupe_delantera": {
-    "fuente": ""
-  },
-  "AC Cobra GT Coupe_trasera": {
-    "fuente": ""
-  },
-  "AC Cobra 260/289_delantera": {
-    "fuente": ""
-  },
-  "AC Cobra 260/289_trasera": {
-    "fuente": ""
-  },
-  "AC Cobra 427/428_delantera": {
-    "fuente": ""
-  },
-  "AC Cobra 427/428_trasera": {
-    "fuente": ""
-  },
-  "AC Cobra FIA_delantera": {
-    "fuente": ""
-  },
-  "AC Cobra FIA_trasera": {
-    "fuente": ""
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155963509"
   },
   "AC Greyhound_delantera": {
-    "fuente": ""
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=176778400"
   },
   "AC Greyhound_trasera": {
-    "fuente": ""
+    "fuente": "By homer----simpson - 240 YPJ - 1962 AC Greyhound, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34329945"
   },
-  "AC Frua_delantera": {
-    "fuente": ""
+  "AC Invalid Carriage_delantera": {
+    "fuente": "By Geni - Photo by user:geni, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98944377"
   },
-  "AC Frua_trasera": {
-    "fuente": ""
+  "AC Invalid Carriage_trasera": {
+    "fuente": "By Tony Harrison - Festival of the Unexceptional 2019, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=121322817"
   },
-  "AC Six_delantera": {
-    "fuente": ""
+  "AC Brooklands Ace_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166958501"
   },
-  "AC Six_trasera": {
-    "fuente": ""
+  "AC Brooklands Ace_trasera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173051497"
   },
-  "AC MK II FIA_delantera": {
-    "fuente": ""
+  "AC Ace V8_delantera": {
+    "fuente": "By Andrew Bone from Weymouth, EnglandCropped and levels adjusted by uploader Mr.choppers - A.C. Ace V8 (2009-2010), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=47836145"
   },
-  "AC MK II FIA_trasera": {
-    "fuente": ""
+  "AC Ace V8_trasera": {
+    "fuente": "By Andrew Bone from Weymouth, EnglandCropped and levels adjusted by uploader Mr.choppers - A.C. Ace V8 (2009-10), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=47835809"
   },
-  "AC Superblower (MK IV)_delantera": {
-    "fuente": ""
+  "AC Acedes_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=79955948"
   },
-  "AC Superblower (MK IV)_trasera": {
-    "fuente": ""
+  "AC Acedes_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=80122035"
   },
-  "AC CRS (MK IV)_delantera": {
-    "fuente": ""
+  "AC 16 80 March_delantera": {
+    "fuente": "By Rex Gray - 1939 AC 16-80 March 2 Seat Sport - fvr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38214928"
   },
-  "AC CRS (MK IV)_trasera": {
-    "fuente": ""
-  },
-  "AC MK III (2002)_delantera": {
-    "fuente": ""
-  },
-  "AC MK III (2002)_trasera": {
-    "fuente": ""
-  },
-  "AC MK II (2002)_delantera": {
-    "fuente": ""
-  },
-  "AC MK II (2002)_trasera": {
-    "fuente": ""
-  },
-  "AC MK II Ace 2.6_delantera": {
-    "fuente": ""
-  },
-  "AC MK II Ace 2.6_trasera": {
-    "fuente": ""
-  },
-  "AC CRS (MK V)_delantera": {
-    "fuente": ""
-  },
-  "AC CRS (MK V)_trasera": {
-    "fuente": ""
-  },
-  "Shelby/AC 427 Cobra_delantera": {
-    "fuente": ""
-  },
-  "Shelby/AC 427 Cobra_trasera": {
-    "fuente": ""
-  },
-  "Shelby/AC FIA Cobra_delantera": {
-    "fuente": ""
-  },
-  "Shelby/AC FIA Cobra_trasera": {
-    "fuente": ""
-  },
-  "AC MK VI_delantera": {
-    "fuente": ""
-  },
-  "AC MK VI_trasera": {
-    "fuente": ""
-  },
-  "AC MK II Classic_delantera": {
-    "fuente": ""
-  },
-  "AC MK II Classic_trasera": {
-    "fuente": ""
-  },
-  "AC 378 GT Zagato (2012)_delantera": {
-    "fuente": ""
-  },
-  "AC 378 GT Zagato (2012)_trasera": {
-    "fuente": ""
-  },
-  "AC Cobra GT Roadster (2023)_delantera": {
-    "fuente": ""
-  },
-  "AC Cobra GT Roadster (2023)_trasera": {
-    "fuente": ""
-  },
-  "AC Cobra GT Coupe (2023)_delantera": {
-    "fuente": ""
-  },
-  "AC Cobra GT Coupe (2023)_trasera": {
-    "fuente": ""
-  },
-  "AC GT SuperSport_delantera": {
-    "fuente": ""
-  },
-  "AC GT SuperSport_trasera": {
-    "fuente": ""
+  "AC 16 80 March_trasera": {
+    "fuente": "By Rex Gray - 1939 AC 16-80 March 2 Seat Sport - rvr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38214981"
   },
   "Kia Picanto (1° Gen.)_delantera": {
     "fuente": ""
@@ -3934,6 +3610,12 @@
   },
   "Cadillac Series 355_trasera": {
     "fuente": ""
+  },
+  "Lancia Hyena_delantera": {
+    "fuente": "By loudumo - https://www.flickr.com/photos/18581204@N06/52101333741/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=118361719"
+  },
+  "Lancia Hyena_trasera": {
+    "fuente": "Por Tony Harrison from Farnborough, UK;cropped, sticker removed and plates anonymized by uploader Mr.choppers - Lancia Motor Club Great Northern Weekend in the Lake District March 2011 DSC_6630, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=16031755"
   },
   "Lancia Beta (1909)_delantera": {
     "fuente": "By Semnoz - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=625173"

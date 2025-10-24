@@ -1,4 +1,3940 @@
 {
+  "Acura Integra (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura Integra (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura Legend (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura Legend (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura Vigor_delantera": {
+    "fuente": ""
+  },
+  "Acura Vigor_trasera": {
+    "fuente": ""
+  },
+  "Acura RL (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura RL (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura TL (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura TL (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura TSX (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura TSX (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura ILX_delantera": {
+    "fuente": ""
+  },
+  "Acura ILX_trasera": {
+    "fuente": ""
+  },
+  "Acura RLX_delantera": {
+    "fuente": ""
+  },
+  "Acura RLX_trasera": {
+    "fuente": ""
+  },
+  "Acura CSX_delantera": {
+    "fuente": ""
+  },
+  "Acura CSX_trasera": {
+    "fuente": ""
+  },
+  "Acura RSX_delantera": {
+    "fuente": ""
+  },
+  "Acura RSX_trasera": {
+    "fuente": ""
+  },
+  "Acura CL_delantera": {
+    "fuente": ""
+  },
+  "Acura CL_trasera": {
+    "fuente": ""
+  },
+  "Acura ZDX_delantera": {
+    "fuente": ""
+  },
+  "Acura ZDX_trasera": {
+    "fuente": ""
+  },
+  "Acura RDX (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura RDX (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura MDX (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura MDX (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura ADX_delantera": {
+    "fuente": ""
+  },
+  "Acura ADX_trasera": {
+    "fuente": ""
+  },
+  "Acura TLX_delantera": {
+    "fuente": ""
+  },
+  "Acura TLX_trasera": {
+    "fuente": ""
+  },
+  "Acura Integra (5° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura Integra (5° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura RDX (5° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura RDX (5° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura MDX (5° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura MDX (5° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura RSX Prototype_delantera": {
+    "fuente": ""
+  },
+  "Acura RSX Prototype_trasera": {
+    "fuente": ""
+  },
+  "Acura ARX-06_delantera": {
+    "fuente": ""
+  },
+  "Acura ARX-06_trasera": {
+    "fuente": ""
+  },
+  "Acura ARX-05_delantera": {
+    "fuente": ""
+  },
+  "Acura ARX-05_trasera": {
+    "fuente": ""
+  },
+  "Acura ARX-01_delantera": {
+    "fuente": ""
+  },
+  "Acura ARX-01_trasera": {
+    "fuente": ""
+  },
+  "Acura NSX (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura NSX (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura NSX (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Acura NSX (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Acura NSX Type S_delantera": {
+    "fuente": ""
+  },
+  "Acura NSX Type S_trasera": {
+    "fuente": ""
+  },
+  "Acura TLX Type S_delantera": {
+    "fuente": ""
+  },
+  "Acura TLX Type S_trasera": {
+    "fuente": ""
+  },
+  "Acura Integra Type S_delantera": {
+    "fuente": ""
+  },
+  "Acura Integra Type S_trasera": {
+    "fuente": ""
+  },
+  "Acura ZDX Type S_delantera": {
+    "fuente": ""
+  },
+  "Acura ZDX Type S_trasera": {
+    "fuente": ""
+  },
+  "Acura RLX Sport Hybrid_delantera": {
+    "fuente": ""
+  },
+  "Acura RLX Sport Hybrid_trasera": {
+    "fuente": ""
+  },
+  "Acura RDX A-Spec_delantera": {
+    "fuente": ""
+  },
+  "Acura RDX A-Spec_trasera": {
+    "fuente": ""
+  },
+  "Acura MDX A-Spec_delantera": {
+    "fuente": ""
+  },
+  "Acura MDX A-Spec_trasera": {
+    "fuente": ""
+  },
+  "Acura TLX A-Spec_delantera": {
+    "fuente": ""
+  },
+  "Acura TLX A-Spec_trasera": {
+    "fuente": ""
+  },
+  "Acura Integra A-Spec_delantera": {
+    "fuente": ""
+  },
+  "Acura Integra A-Spec_trasera": {
+    "fuente": ""
+  },
+  "Acura ZDX A-Spec_delantera": {
+    "fuente": ""
+  },
+  "Acura ZDX A-Spec_trasera": {
+    "fuente": ""
+  },
+  "AC 2-Litre_delantera": {
+    "fuente": ""
+  },
+  "AC 2-Litre_trasera": {
+    "fuente": ""
+  },
+  "AC 289 Sports_delantera": {
+    "fuente": ""
+  },
+  "AC 289 Sports_trasera": {
+    "fuente": ""
+  },
+  "AC 378 GT Zagato_delantera": {
+    "fuente": ""
+  },
+  "AC 378 GT Zagato_trasera": {
+    "fuente": ""
+  },
+  "AC 427_delantera": {
+    "fuente": ""
+  },
+  "AC 427_trasera": {
+    "fuente": ""
+  },
+  "AC 3000ME_delantera": {
+    "fuente": ""
+  },
+  "AC 3000ME_trasera": {
+    "fuente": ""
+  },
+  "AC 428_delantera": {
+    "fuente": ""
+  },
+  "AC 428_trasera": {
+    "fuente": ""
+  },
+  "AC Ace_delantera": {
+    "fuente": ""
+  },
+  "AC Ace_trasera": {
+    "fuente": ""
+  },
+  "AC Aceca_delantera": {
+    "fuente": ""
+  },
+  "AC Aceca_trasera": {
+    "fuente": ""
+  },
+  "AC Autocarrier_delantera": {
+    "fuente": ""
+  },
+  "AC Autocarrier_trasera": {
+    "fuente": ""
+  },
+  "AC Cobra_delantera": {
+    "fuente": ""
+  },
+  "AC Cobra_trasera": {
+    "fuente": ""
+  },
+  "AC Cobra GT Roadster_delantera": {
+    "fuente": ""
+  },
+  "AC Cobra GT Roadster_trasera": {
+    "fuente": ""
+  },
+  "AC Cobra GT Coupe_delantera": {
+    "fuente": ""
+  },
+  "AC Cobra GT Coupe_trasera": {
+    "fuente": ""
+  },
+  "AC Cobra 260/289_delantera": {
+    "fuente": ""
+  },
+  "AC Cobra 260/289_trasera": {
+    "fuente": ""
+  },
+  "AC Cobra 427/428_delantera": {
+    "fuente": ""
+  },
+  "AC Cobra 427/428_trasera": {
+    "fuente": ""
+  },
+  "AC Cobra FIA_delantera": {
+    "fuente": ""
+  },
+  "AC Cobra FIA_trasera": {
+    "fuente": ""
+  },
+  "AC Greyhound_delantera": {
+    "fuente": ""
+  },
+  "AC Greyhound_trasera": {
+    "fuente": ""
+  },
+  "AC Frua_delantera": {
+    "fuente": ""
+  },
+  "AC Frua_trasera": {
+    "fuente": ""
+  },
+  "AC Six_delantera": {
+    "fuente": ""
+  },
+  "AC Six_trasera": {
+    "fuente": ""
+  },
+  "AC MK II FIA_delantera": {
+    "fuente": ""
+  },
+  "AC MK II FIA_trasera": {
+    "fuente": ""
+  },
+  "AC Superblower (MK IV)_delantera": {
+    "fuente": ""
+  },
+  "AC Superblower (MK IV)_trasera": {
+    "fuente": ""
+  },
+  "AC CRS (MK IV)_delantera": {
+    "fuente": ""
+  },
+  "AC CRS (MK IV)_trasera": {
+    "fuente": ""
+  },
+  "AC MK III (2002)_delantera": {
+    "fuente": ""
+  },
+  "AC MK III (2002)_trasera": {
+    "fuente": ""
+  },
+  "AC MK II (2002)_delantera": {
+    "fuente": ""
+  },
+  "AC MK II (2002)_trasera": {
+    "fuente": ""
+  },
+  "AC MK II Ace 2.6_delantera": {
+    "fuente": ""
+  },
+  "AC MK II Ace 2.6_trasera": {
+    "fuente": ""
+  },
+  "AC CRS (MK V)_delantera": {
+    "fuente": ""
+  },
+  "AC CRS (MK V)_trasera": {
+    "fuente": ""
+  },
+  "Shelby/AC 427 Cobra_delantera": {
+    "fuente": ""
+  },
+  "Shelby/AC 427 Cobra_trasera": {
+    "fuente": ""
+  },
+  "Shelby/AC FIA Cobra_delantera": {
+    "fuente": ""
+  },
+  "Shelby/AC FIA Cobra_trasera": {
+    "fuente": ""
+  },
+  "AC MK VI_delantera": {
+    "fuente": ""
+  },
+  "AC MK VI_trasera": {
+    "fuente": ""
+  },
+  "AC MK II Classic_delantera": {
+    "fuente": ""
+  },
+  "AC MK II Classic_trasera": {
+    "fuente": ""
+  },
+  "AC 378 GT Zagato (2012)_delantera": {
+    "fuente": ""
+  },
+  "AC 378 GT Zagato (2012)_trasera": {
+    "fuente": ""
+  },
+  "AC Cobra GT Roadster (2023)_delantera": {
+    "fuente": ""
+  },
+  "AC Cobra GT Roadster (2023)_trasera": {
+    "fuente": ""
+  },
+  "AC Cobra GT Coupe (2023)_delantera": {
+    "fuente": ""
+  },
+  "AC Cobra GT Coupe (2023)_trasera": {
+    "fuente": ""
+  },
+  "AC GT SuperSport_delantera": {
+    "fuente": ""
+  },
+  "AC GT SuperSport_trasera": {
+    "fuente": ""
+  },
+  "Kia Picanto (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Picanto (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Rio (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Rio (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Cerato (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Cerato (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Forte (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Forte (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Optima (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Optima (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Stinger (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Stinger (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Cadenza (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Cadenza (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Soul (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Soul (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Seltos_delantera": {
+    "fuente": ""
+  },
+  "Kia Seltos_trasera": {
+    "fuente": ""
+  },
+  "Kia Sportage (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Sportage (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Sorento (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Sorento (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Telluride_delantera": {
+    "fuente": ""
+  },
+  "Kia Telluride_trasera": {
+    "fuente": ""
+  },
+  "Kia Mohave_delantera": {
+    "fuente": ""
+  },
+  "Kia Mohave_trasera": {
+    "fuente": ""
+  },
+  "Kia Carnival (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Carnival (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Sedona (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Sedona (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Niro_delantera": {
+    "fuente": ""
+  },
+  "Kia Niro_trasera": {
+    "fuente": ""
+  },
+  "Kia EV6_delantera": {
+    "fuente": ""
+  },
+  "Kia EV6_trasera": {
+    "fuente": ""
+  },
+  "Kia e-Niro_delantera": {
+    "fuente": ""
+  },
+  "Kia e-Niro_trasera": {
+    "fuente": ""
+  },
+  "Kia Ray_delantera": {
+    "fuente": ""
+  },
+  "Kia Ray_trasera": {
+    "fuente": ""
+  },
+  "Kia Venga_delantera": {
+    "fuente": ""
+  },
+  "Kia Venga_trasera": {
+    "fuente": ""
+  },
+  "Kia Carens (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Carens (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Pride (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Pride (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Sephia (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Sephia (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Shuma (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Shuma (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Opirus_delantera": {
+    "fuente": ""
+  },
+  "Kia Opirus_trasera": {
+    "fuente": ""
+  },
+  "Kia Cee’d (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Cee’d (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Forte Koup_delantera": {
+    "fuente": ""
+  },
+  "Kia Forte Koup_trasera": {
+    "fuente": ""
+  },
+  "Kia Picanto (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Picanto (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Rio (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Rio (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Soul (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Soul (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Kia Sportage (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Kia Sportage (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Accent (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Accent (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Elantra (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Elantra (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Sonata (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Sonata (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Santa Fe (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Santa Fe (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Tucson (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Tucson (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Kona (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Kona (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Venue_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Venue_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Ioniq (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Ioniq (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Ioniq 5_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Ioniq 5_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Ioniq 6_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Ioniq 6_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Nexo_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Nexo_trasera": {
+    "fuente": ""
+  },
+  "Hyundai H-1_delantera": {
+    "fuente": ""
+  },
+  "Hyundai H-1_trasera": {
+    "fuente": ""
+  },
+  "Hyundai H-100_delantera": {
+    "fuente": ""
+  },
+  "Hyundai H-100_trasera": {
+    "fuente": ""
+  },
+  "Hyundai i10 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai i10 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai i20 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai i20 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai i30 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai i30 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai i40 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai i40 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Creta_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Creta_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Santa Cruz_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Santa Cruz_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Palisade_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Palisade_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Staria_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Staria_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Atos_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Atos_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Getz_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Getz_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Tucson (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Tucson (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Santa Fe (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Santa Fe (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Genesis (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Genesis (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Veloster (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Veloster (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai i20 (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai i20 (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Hyundai Accent (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Hyundai Accent (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Maserati 3500 GT (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Maserati 3500 GT (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Maserati 5000 GT_delantera": {
+    "fuente": ""
+  },
+  "Maserati 5000 GT_trasera": {
+    "fuente": ""
+  },
+  "Maserati Quattroporte (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Maserati Quattroporte (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Maserati Ghibli (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Maserati Ghibli (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Maserati Mistral_delantera": {
+    "fuente": ""
+  },
+  "Maserati Mistral_trasera": {
+    "fuente": ""
+  },
+  "Maserati Indy_delantera": {
+    "fuente": ""
+  },
+  "Maserati Indy_trasera": {
+    "fuente": ""
+  },
+  "Maserati Bora_delantera": {
+    "fuente": ""
+  },
+  "Maserati Bora_trasera": {
+    "fuente": ""
+  },
+  "Maserati Merak_delantera": {
+    "fuente": ""
+  },
+  "Maserati Merak_trasera": {
+    "fuente": ""
+  },
+  "Maserati Khamsin_delantera": {
+    "fuente": ""
+  },
+  "Maserati Khamsin_trasera": {
+    "fuente": ""
+  },
+  "Maserati Kyalami_delantera": {
+    "fuente": ""
+  },
+  "Maserati Kyalami_trasera": {
+    "fuente": ""
+  },
+  "Maserati Biturbo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Maserati Biturbo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Maserati 222_delantera": {
+    "fuente": ""
+  },
+  "Maserati 222_trasera": {
+    "fuente": ""
+  },
+  "Maserati 430_delantera": {
+    "fuente": ""
+  },
+  "Maserati 430_trasera": {
+    "fuente": ""
+  },
+  "Maserati 420_delantera": {
+    "fuente": ""
+  },
+  "Maserati 420_trasera": {
+    "fuente": ""
+  },
+  "Maserati Shamal_delantera": {
+    "fuente": ""
+  },
+  "Maserati Shamal_trasera": {
+    "fuente": ""
+  },
+  "Maserati Spyder (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Maserati Spyder (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Maserati 3200 GT_delantera": {
+    "fuente": ""
+  },
+  "Maserati 3200 GT_trasera": {
+    "fuente": ""
+  },
+  "Maserati Coupé (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Maserati Coupé (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Maserati GranSport_delantera": {
+    "fuente": ""
+  },
+  "Maserati GranSport_trasera": {
+    "fuente": ""
+  },
+  "Maserati Quattroporte V_delantera": {
+    "fuente": ""
+  },
+  "Maserati Quattroporte V_trasera": {
+    "fuente": ""
+  },
+  "Maserati Quattroporte VI_delantera": {
+    "fuente": ""
+  },
+  "Maserati Quattroporte VI_trasera": {
+    "fuente": ""
+  },
+  "Maserati Ghibli III_delantera": {
+    "fuente": ""
+  },
+  "Maserati Ghibli III_trasera": {
+    "fuente": ""
+  },
+  "Maserati Levante_delantera": {
+    "fuente": ""
+  },
+  "Maserati Levante_trasera": {
+    "fuente": ""
+  },
+  "Maserati Alfieri_delantera": {
+    "fuente": ""
+  },
+  "Maserati Alfieri_trasera": {
+    "fuente": ""
+  },
+  "Maserati MC12_delantera": {
+    "fuente": ""
+  },
+  "Maserati MC12_trasera": {
+    "fuente": ""
+  },
+  "Maserati GranTurismo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Maserati GranTurismo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Maserati GranCabrio_delantera": {
+    "fuente": ""
+  },
+  "Maserati GranCabrio_trasera": {
+    "fuente": ""
+  },
+  "Maserati MC20_delantera": {
+    "fuente": ""
+  },
+  "Maserati MC20_trasera": {
+    "fuente": ""
+  },
+  "Porsche 356 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche 356 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche 550 Spyder_delantera": {
+    "fuente": ""
+  },
+  "Porsche 550 Spyder_trasera": {
+    "fuente": ""
+  },
+  "Porsche 718 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche 718 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche 904_delantera": {
+    "fuente": ""
+  },
+  "Porsche 904_trasera": {
+    "fuente": ""
+  },
+  "Porsche 906_delantera": {
+    "fuente": ""
+  },
+  "Porsche 906_trasera": {
+    "fuente": ""
+  },
+  "Porsche 911 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche 911 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche 911 (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche 911 (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche 911 (3° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche 911 (3° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche 912_delantera": {
+    "fuente": ""
+  },
+  "Porsche 912_trasera": {
+    "fuente": ""
+  },
+  "Porsche 914_delantera": {
+    "fuente": ""
+  },
+  "Porsche 914_trasera": {
+    "fuente": ""
+  },
+  "Porsche 924_delantera": {
+    "fuente": ""
+  },
+  "Porsche 924_trasera": {
+    "fuente": ""
+  },
+  "Porsche 928_delantera": {
+    "fuente": ""
+  },
+  "Porsche 928_trasera": {
+    "fuente": ""
+  },
+  "Porsche 944_delantera": {
+    "fuente": ""
+  },
+  "Porsche 944_trasera": {
+    "fuente": ""
+  },
+  "Porsche 959_delantera": {
+    "fuente": ""
+  },
+  "Porsche 959_trasera": {
+    "fuente": ""
+  },
+  "Porsche 968_delantera": {
+    "fuente": ""
+  },
+  "Porsche 968_trasera": {
+    "fuente": ""
+  },
+  "Porsche Boxster (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche Boxster (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche Boxster (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche Boxster (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche Cayman (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche Cayman (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche Cayman (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche Cayman (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche 918 Spyder_delantera": {
+    "fuente": ""
+  },
+  "Porsche 918 Spyder_trasera": {
+    "fuente": ""
+  },
+  "Porsche Panamera (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche Panamera (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche Panamera (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche Panamera (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche Cayenne (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche Cayenne (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche Cayenne (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche Cayenne (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche Macan (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Porsche Macan (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Porsche Taycan_delantera": {
+    "fuente": ""
+  },
+  "Porsche Taycan_trasera": {
+    "fuente": ""
+  },
+  "Porsche 935_delantera": {
+    "fuente": ""
+  },
+  "Porsche 935_trasera": {
+    "fuente": ""
+  },
+  "Porsche Carrera GT_delantera": {
+    "fuente": ""
+  },
+  "Porsche Carrera GT_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 170_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 170_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 180_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 180_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 190 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 190 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 200_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 200_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 220_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 220_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 230_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 230_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 240_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 240_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 250_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 250_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 280_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 280_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 300_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 300_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 350_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 350_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 380_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 380_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 450_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz 450_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz C-Class (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz C-Class (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz E-Class (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz E-Class (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz S-Class (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz S-Class (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz CL-Class_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz CL-Class_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz SL (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz SL (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz SLK (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz SLK (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz CLK (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz CLK (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz CLS (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz CLS (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz B-Class (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz B-Class (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz A-Class (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz A-Class (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz GLK (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz GLK (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz GLC (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz GLC (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz GLE (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz GLE (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz GLS (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz GLS (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz G-Class (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz G-Class (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz M-Class (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz M-Class (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz R-Class_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz R-Class_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz SLC_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz SLC_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz V-Class_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz V-Class_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz Sprinter_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz Sprinter_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz T-Class_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz T-Class_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz Ponton_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz Ponton_trasera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz W108_delantera": {
+    "fuente": ""
+  },
+  "Mercedes-Benz W108_trasera": {
+    "fuente": ""
+  },
+  "Audi 50_delantera": {
+    "fuente": ""
+  },
+  "Audi 50_trasera": {
+    "fuente": ""
+  },
+  "Audi 80 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi 80 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi 90_delantera": {
+    "fuente": ""
+  },
+  "Audi 90_trasera": {
+    "fuente": ""
+  },
+  "Audi 100 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi 100 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi 200_delantera": {
+    "fuente": ""
+  },
+  "Audi 200_trasera": {
+    "fuente": ""
+  },
+  "Audi A1 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi A1 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi A2_delantera": {
+    "fuente": ""
+  },
+  "Audi A2_trasera": {
+    "fuente": ""
+  },
+  "Audi A3 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi A3 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi A4 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi A4 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi A5 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi A5 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi A6 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi A6 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi A7 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi A7 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi A8 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi A8 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi Q2 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi Q2 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi Q3 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi Q3 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi Q4 e-tron (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi Q4 e-tron (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi Q5 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi Q5 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi Q7 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi Q7 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi Q8 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi Q8 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi TT (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi TT (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi R8 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Audi R8 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Audi e-tron GT_delantera": {
+    "fuente": ""
+  },
+  "Audi e-tron GT_trasera": {
+    "fuente": ""
+  },
+  "Audi RS Q8_delantera": {
+    "fuente": ""
+  },
+  "Audi RS Q8_trasera": {
+    "fuente": ""
+  },
+  "Audi Cabriolet_delantera": {
+    "fuente": ""
+  },
+  "Audi Cabriolet_trasera": {
+    "fuente": ""
+  },
+  "Audi V8_delantera": {
+    "fuente": ""
+  },
+  "Audi V8_trasera": {
+    "fuente": ""
+  },
+  "Audi Quattro_delantera": {
+    "fuente": ""
+  },
+  "Audi Quattro_trasera": {
+    "fuente": ""
+  },
+  "Audi Sport quattro_delantera": {
+    "fuente": ""
+  },
+  "Audi Sport quattro_trasera": {
+    "fuente": ""
+  },
+  "Audi 60_delantera": {
+    "fuente": ""
+  },
+  "Audi 60_trasera": {
+    "fuente": ""
+  },
+  "Audi 72_delantera": {
+    "fuente": ""
+  },
+  "Audi 72_trasera": {
+    "fuente": ""
+  },
+  "BMW 507_delantera": {
+    "fuente": ""
+  },
+  "BMW 507_trasera": {
+    "fuente": ""
+  },
+  "BMW 2002_delantera": {
+    "fuente": ""
+  },
+  "BMW 2002_trasera": {
+    "fuente": ""
+  },
+  "BMW 1500_delantera": {
+    "fuente": ""
+  },
+  "BMW 1500_trasera": {
+    "fuente": ""
+  },
+  "BMW 3 Series (E21) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW 3 Series (E21) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW 5 Series (E12) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW 5 Series (E12) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW 6 Series (E24) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW 6 Series (E24) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW 7 Series (E23) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW 7 Series (E23) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW 8 Series (E31) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW 8 Series (E31) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW 1 Series (E87) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW 1 Series (E87) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW 2 Series (F22) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW 2 Series (F22) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW X1 (E84) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW X1 (E84) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW X2 (F39) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW X2 (F39) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW X3 (E83) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW X3 (E83) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW X4 (F26) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW X4 (F26) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW X5 (E53) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW X5 (E53) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW X6 (E71) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW X6 (E71) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW X7 (G07) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW X7 (G07) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW Z1_delantera": {
+    "fuente": ""
+  },
+  "BMW Z1_trasera": {
+    "fuente": ""
+  },
+  "BMW Z3_delantera": {
+    "fuente": ""
+  },
+  "BMW Z3_trasera": {
+    "fuente": ""
+  },
+  "BMW Z4 (E85) (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW Z4 (E85) (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "BMW Z8_delantera": {
+    "fuente": ""
+  },
+  "BMW Z8_trasera": {
+    "fuente": ""
+  },
+  "BMW i3_delantera": {
+    "fuente": ""
+  },
+  "BMW i3_trasera": {
+    "fuente": ""
+  },
+  "BMW i4_delantera": {
+    "fuente": ""
+  },
+  "BMW i4_trasera": {
+    "fuente": ""
+  },
+  "BMW i8_delantera": {
+    "fuente": ""
+  },
+  "BMW i8_trasera": {
+    "fuente": ""
+  },
+  "BMW iX_delantera": {
+    "fuente": ""
+  },
+  "BMW iX_trasera": {
+    "fuente": ""
+  },
+  "BMW M1_delantera": {
+    "fuente": ""
+  },
+  "BMW M1_trasera": {
+    "fuente": ""
+  },
+  "BMW 503_delantera": {
+    "fuente": ""
+  },
+  "BMW 503_trasera": {
+    "fuente": ""
+  },
+  "BMW Neue Klasse (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "BMW Neue Klasse (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Skyline (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Skyline (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan GT-R (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan GT-R (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan 240Z_delantera": {
+    "fuente": ""
+  },
+  "Nissan 240Z_trasera": {
+    "fuente": ""
+  },
+  "Nissan 300ZX (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan 300ZX (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan 350Z_delantera": {
+    "fuente": ""
+  },
+  "Nissan 350Z_trasera": {
+    "fuente": ""
+  },
+  "Nissan 370Z_delantera": {
+    "fuente": ""
+  },
+  "Nissan 370Z_trasera": {
+    "fuente": ""
+  },
+  "Nissan Z (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Z (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Silvia (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Silvia (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Fairlady (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Fairlady (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Pulsar (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Pulsar (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Sentra (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Sentra (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Altima (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Altima (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Maxima (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Maxima (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Micra (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Micra (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan March (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan March (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Versa (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Versa (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Tiida_delantera": {
+    "fuente": ""
+  },
+  "Nissan Tiida_trasera": {
+    "fuente": ""
+  },
+  "Nissan Leaf (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Leaf (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Cube_delantera": {
+    "fuente": ""
+  },
+  "Nissan Cube_trasera": {
+    "fuente": ""
+  },
+  "Nissan Note_delantera": {
+    "fuente": ""
+  },
+  "Nissan Note_trasera": {
+    "fuente": ""
+  },
+  "Nissan Juke (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Juke (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Qashqai (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Qashqai (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan X-Trail (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan X-Trail (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Murano (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Murano (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Pathfinder (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Pathfinder (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Patrol (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Patrol (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Armada (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Armada (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Frontier (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Frontier (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Navara (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Navara (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan Hardbody_delantera": {
+    "fuente": ""
+  },
+  "Nissan Hardbody_trasera": {
+    "fuente": ""
+  },
+  "Nissan Titan (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Nissan Titan (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Nissan NV200_delantera": {
+    "fuente": ""
+  },
+  "Nissan NV200_trasera": {
+    "fuente": ""
+  },
+  "Nissan Prairie_delantera": {
+    "fuente": ""
+  },
+  "Nissan Prairie_trasera": {
+    "fuente": ""
+  },
+  "Honda Civic (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Civic (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Accord (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Accord (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Prelude (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Prelude (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda CRX (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda CRX (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Integra (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Integra (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda NSX (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda NSX (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda S2000_delantera": {
+    "fuente": ""
+  },
+  "Honda S2000_trasera": {
+    "fuente": ""
+  },
+  "Honda Jazz (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Jazz (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Fit (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Fit (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda City (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda City (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Insight (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Insight (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda CR-V (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda CR-V (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda HR-V (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda HR-V (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Passport (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Passport (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Pilot (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Pilot (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Element_delantera": {
+    "fuente": ""
+  },
+  "Honda Element_trasera": {
+    "fuente": ""
+  },
+  "Honda Ridgeline (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Ridgeline (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Odyssey (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Odyssey (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Stream_delantera": {
+    "fuente": ""
+  },
+  "Honda Stream_trasera": {
+    "fuente": ""
+  },
+  "Honda Crosstour_delantera": {
+    "fuente": ""
+  },
+  "Honda Crosstour_trasera": {
+    "fuente": ""
+  },
+  "Honda Stepwgn (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Stepwgn (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Beat_delantera": {
+    "fuente": ""
+  },
+  "Honda Beat_trasera": {
+    "fuente": ""
+  },
+  "Honda Z600_delantera": {
+    "fuente": ""
+  },
+  "Honda Z600_trasera": {
+    "fuente": ""
+  },
+  "Honda Life (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Honda Life (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Honda Logo_delantera": {
+    "fuente": ""
+  },
+  "Honda Logo_trasera": {
+    "fuente": ""
+  },
+  "Honda Vamos_delantera": {
+    "fuente": ""
+  },
+  "Honda Vamos_trasera": {
+    "fuente": ""
+  },
+  "Honda N360_delantera": {
+    "fuente": ""
+  },
+  "Honda N360_trasera": {
+    "fuente": ""
+  },
+  "Honda Quint_delantera": {
+    "fuente": ""
+  },
+  "Honda Quint_trasera": {
+    "fuente": ""
+  },
+  "Subaru 360_delantera": {
+    "fuente": ""
+  },
+  "Subaru 360_trasera": {
+    "fuente": ""
+  },
+  "Subaru 1000_delantera": {
+    "fuente": ""
+  },
+  "Subaru 1000_trasera": {
+    "fuente": ""
+  },
+  "Subaru R-2_delantera": {
+    "fuente": ""
+  },
+  "Subaru R-2_trasera": {
+    "fuente": ""
+  },
+  "Subaru Rex (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Subaru Rex (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Subaru Leone (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Subaru Leone (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Subaru Justy (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Subaru Justy (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Subaru Domingo_delantera": {
+    "fuente": ""
+  },
+  "Subaru Domingo_trasera": {
+    "fuente": ""
+  },
+  "Subaru Libero_delantera": {
+    "fuente": ""
+  },
+  "Subaru Libero_trasera": {
+    "fuente": ""
+  },
+  "Subaru Vivio_delantera": {
+    "fuente": ""
+  },
+  "Subaru Vivio_trasera": {
+    "fuente": ""
+  },
+  "Subaru Pleo_delantera": {
+    "fuente": ""
+  },
+  "Subaru Pleo_trasera": {
+    "fuente": ""
+  },
+  "Subaru Stella_delantera": {
+    "fuente": ""
+  },
+  "Subaru Stella_trasera": {
+    "fuente": ""
+  },
+  "Subaru Sambar (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Subaru Sambar (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Subaru FF-1 Star_delantera": {
+    "fuente": ""
+  },
+  "Subaru FF-1 Star_trasera": {
+    "fuente": ""
+  },
+  "Subaru Impreza (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Subaru Impreza (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Subaru Legacy (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Subaru Legacy (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Subaru Outback (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Subaru Outback (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Subaru Forester (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Subaru Forester (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Subaru Tribeca_delantera": {
+    "fuente": ""
+  },
+  "Subaru Tribeca_trasera": {
+    "fuente": ""
+  },
+  "Subaru Baja_delantera": {
+    "fuente": ""
+  },
+  "Subaru Baja_trasera": {
+    "fuente": ""
+  },
+  "Subaru Alcyone_delantera": {
+    "fuente": ""
+  },
+  "Subaru Alcyone_trasera": {
+    "fuente": ""
+  },
+  "Subaru XT_delantera": {
+    "fuente": ""
+  },
+  "Subaru XT_trasera": {
+    "fuente": ""
+  },
+  "Subaru SVX_delantera": {
+    "fuente": ""
+  },
+  "Subaru SVX_trasera": {
+    "fuente": ""
+  },
+  "Subaru BRAT_delantera": {
+    "fuente": ""
+  },
+  "Subaru BRAT_trasera": {
+    "fuente": ""
+  },
+  "Subaru GL_delantera": {
+    "fuente": ""
+  },
+  "Subaru GL_trasera": {
+    "fuente": ""
+  },
+  "Subaru DL_delantera": {
+    "fuente": ""
+  },
+  "Subaru DL_trasera": {
+    "fuente": ""
+  },
+  "Subaru Loyale_delantera": {
+    "fuente": ""
+  },
+  "Subaru Loyale_trasera": {
+    "fuente": ""
+  },
+  "Subaru G3X Justy_delantera": {
+    "fuente": ""
+  },
+  "Subaru G3X Justy_trasera": {
+    "fuente": ""
+  },
+  "Subaru Exiga_delantera": {
+    "fuente": ""
+  },
+  "Subaru Exiga_trasera": {
+    "fuente": ""
+  },
+  "Subaru Crosstrek (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Subaru Crosstrek (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Subaru Levorg_delantera": {
+    "fuente": ""
+  },
+  "Subaru Levorg_trasera": {
+    "fuente": ""
+  },
+  "Subaru Ascent_delantera": {
+    "fuente": ""
+  },
+  "Subaru Ascent_trasera": {
+    "fuente": ""
+  },
+  "Subaru Rex Combi_delantera": {
+    "fuente": ""
+  },
+  "Subaru Rex Combi_trasera": {
+    "fuente": ""
+  },
+  "Subaru Touring Wagon_delantera": {
+    "fuente": ""
+  },
+  "Subaru Touring Wagon_trasera": {
+    "fuente": ""
+  },
+  "Subaru 1500_delantera": {
+    "fuente": ""
+  },
+  "Subaru 1500_trasera": {
+    "fuente": ""
+  },
+  "Subaru FF-1 G_delantera": {
+    "fuente": ""
+  },
+  "Subaru FF-1 G_trasera": {
+    "fuente": ""
+  },
+  "Subaru Maestro_delantera": {
+    "fuente": ""
+  },
+  "Subaru Maestro_trasera": {
+    "fuente": ""
+  },
+  "Subaru Domingo Wide_delantera": {
+    "fuente": ""
+  },
+  "Subaru Domingo Wide_trasera": {
+    "fuente": ""
+  },
+  "Subaru Sherpa_delantera": {
+    "fuente": ""
+  },
+  "Subaru Sherpa_trasera": {
+    "fuente": ""
+  },
+  "Subaru Rex Sedan_delantera": {
+    "fuente": ""
+  },
+  "Subaru Rex Sedan_trasera": {
+    "fuente": ""
+  },
+  "Subaru Impreza XV_delantera": {
+    "fuente": ""
+  },
+  "Subaru Impreza XV_trasera": {
+    "fuente": ""
+  },
+  "Subaru Leone Van_delantera": {
+    "fuente": ""
+  },
+  "Subaru Leone Van_trasera": {
+    "fuente": ""
+  },
+  "Subaru Dias Wagon_delantera": {
+    "fuente": ""
+  },
+  "Subaru Dias Wagon_trasera": {
+    "fuente": ""
+  },
+  "Subaru Vivio T-top_delantera": {
+    "fuente": ""
+  },
+  "Subaru Vivio T-top_trasera": {
+    "fuente": ""
+  },
+  "Subaru Trezia_delantera": {
+    "fuente": ""
+  },
+  "Subaru Trezia_trasera": {
+    "fuente": ""
+  },
+  "Subaru R1_delantera": {
+    "fuente": ""
+  },
+  "Subaru R1_trasera": {
+    "fuente": ""
+  },
+  "Subaru R2_delantera": {
+    "fuente": ""
+  },
+  "Subaru R2_trasera": {
+    "fuente": ""
+  },
+  "Subaru R1e_delantera": {
+    "fuente": ""
+  },
+  "Subaru R1e_trasera": {
+    "fuente": ""
+  },
+  "Mazda R360_delantera": {
+    "fuente": ""
+  },
+  "Mazda R360_trasera": {
+    "fuente": ""
+  },
+  "Mazda Carol (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda Carol (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda Familia (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda Familia (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda Luce_delantera": {
+    "fuente": ""
+  },
+  "Mazda Luce_trasera": {
+    "fuente": ""
+  },
+  "Mazda Cosmo Sport_delantera": {
+    "fuente": ""
+  },
+  "Mazda Cosmo Sport_trasera": {
+    "fuente": ""
+  },
+  "Mazda RX-2_delantera": {
+    "fuente": ""
+  },
+  "Mazda RX-2_trasera": {
+    "fuente": ""
+  },
+  "Mazda RX-3_delantera": {
+    "fuente": ""
+  },
+  "Mazda RX-3_trasera": {
+    "fuente": ""
+  },
+  "Mazda RX-4_delantera": {
+    "fuente": ""
+  },
+  "Mazda RX-4_trasera": {
+    "fuente": ""
+  },
+  "Mazda RX-5_delantera": {
+    "fuente": ""
+  },
+  "Mazda RX-5_trasera": {
+    "fuente": ""
+  },
+  "Mazda RX-7 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda RX-7 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda RX-8_delantera": {
+    "fuente": ""
+  },
+  "Mazda RX-8_trasera": {
+    "fuente": ""
+  },
+  "Mazda MX-5 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda MX-5 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda MX-3_delantera": {
+    "fuente": ""
+  },
+  "Mazda MX-3_trasera": {
+    "fuente": ""
+  },
+  "Mazda MX-6 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda MX-6 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda Roadpacer_delantera": {
+    "fuente": ""
+  },
+  "Mazda Roadpacer_trasera": {
+    "fuente": ""
+  },
+  "Mazda Chantez_delantera": {
+    "fuente": ""
+  },
+  "Mazda Chantez_trasera": {
+    "fuente": ""
+  },
+  "Mazda Porter_delantera": {
+    "fuente": ""
+  },
+  "Mazda Porter_trasera": {
+    "fuente": ""
+  },
+  "Mazda Bongo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda Bongo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda Titan (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda Titan (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda Proceed (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda Proceed (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda B-Series (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda B-Series (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda Scrum_delantera": {
+    "fuente": ""
+  },
+  "Mazda Scrum_trasera": {
+    "fuente": ""
+  },
+  "Mazda Eunos 500_delantera": {
+    "fuente": ""
+  },
+  "Mazda Eunos 500_trasera": {
+    "fuente": ""
+  },
+  "Mazda Eunos Cosmo_delantera": {
+    "fuente": ""
+  },
+  "Mazda Eunos Cosmo_trasera": {
+    "fuente": ""
+  },
+  "Mazda Millenia_delantera": {
+    "fuente": ""
+  },
+  "Mazda Millenia_trasera": {
+    "fuente": ""
+  },
+  "Mazda Sentia_delantera": {
+    "fuente": ""
+  },
+  "Mazda Sentia_trasera": {
+    "fuente": ""
+  },
+  "Mazda 121_delantera": {
+    "fuente": ""
+  },
+  "Mazda 121_trasera": {
+    "fuente": ""
+  },
+  "Mazda 323 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda 323 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda 626 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda 626 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda 929_delantera": {
+    "fuente": ""
+  },
+  "Mazda 929_trasera": {
+    "fuente": ""
+  },
+  "Mazda Atenza (Mazda6 1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda Atenza (Mazda6 1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda Demio (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda Demio (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda Premacy_delantera": {
+    "fuente": ""
+  },
+  "Mazda Premacy_trasera": {
+    "fuente": ""
+  },
+  "Mazda CX-3_delantera": {
+    "fuente": ""
+  },
+  "Mazda CX-3_trasera": {
+    "fuente": ""
+  },
+  "Mazda CX-30_delantera": {
+    "fuente": ""
+  },
+  "Mazda CX-30_trasera": {
+    "fuente": ""
+  },
+  "Mazda CX-5 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda CX-5 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda CX-7_delantera": {
+    "fuente": ""
+  },
+  "Mazda CX-7_trasera": {
+    "fuente": ""
+  },
+  "Mazda CX-9 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda CX-9 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda Tribute_delantera": {
+    "fuente": ""
+  },
+  "Mazda Tribute_trasera": {
+    "fuente": ""
+  },
+  "Mazda Navajo_delantera": {
+    "fuente": ""
+  },
+  "Mazda Navajo_trasera": {
+    "fuente": ""
+  },
+  "Mazda Parkway_delantera": {
+    "fuente": ""
+  },
+  "Mazda Parkway_trasera": {
+    "fuente": ""
+  },
+  "Mazda Flair_delantera": {
+    "fuente": ""
+  },
+  "Mazda Flair_trasera": {
+    "fuente": ""
+  },
+  "Mazda Carol Van_delantera": {
+    "fuente": ""
+  },
+  "Mazda Carol Van_trasera": {
+    "fuente": ""
+  },
+  "Mazda Persona_delantera": {
+    "fuente": ""
+  },
+  "Mazda Persona_trasera": {
+    "fuente": ""
+  },
+  "Mazda Capella (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Mazda Capella (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Mazda Laputa_delantera": {
+    "fuente": ""
+  },
+  "Mazda Laputa_trasera": {
+    "fuente": ""
+  },
+  "Mazda AZ-1_delantera": {
+    "fuente": ""
+  },
+  "Mazda AZ-1_trasera": {
+    "fuente": ""
+  },
+  "Dodge Brothers Touring_delantera": {
+    "fuente": ""
+  },
+  "Dodge Brothers Touring_trasera": {
+    "fuente": ""
+  },
+  "Dodge Series D_delantera": {
+    "fuente": ""
+  },
+  "Dodge Series D_trasera": {
+    "fuente": ""
+  },
+  "Dodge Custom_delantera": {
+    "fuente": ""
+  },
+  "Dodge Custom_trasera": {
+    "fuente": ""
+  },
+  "Dodge Coronet (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Coronet (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Meadowbrook_delantera": {
+    "fuente": ""
+  },
+  "Dodge Meadowbrook_trasera": {
+    "fuente": ""
+  },
+  "Dodge Royal_delantera": {
+    "fuente": ""
+  },
+  "Dodge Royal_trasera": {
+    "fuente": ""
+  },
+  "Dodge Lancer (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Lancer (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Dart (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Dart (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Polara_delantera": {
+    "fuente": ""
+  },
+  "Dodge Polara_trasera": {
+    "fuente": ""
+  },
+  "Dodge Monaco_delantera": {
+    "fuente": ""
+  },
+  "Dodge Monaco_trasera": {
+    "fuente": ""
+  },
+  "Dodge Charger (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Charger (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Challenger (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Challenger (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Super Bee_delantera": {
+    "fuente": ""
+  },
+  "Dodge Super Bee_trasera": {
+    "fuente": ""
+  },
+  "Dodge Demon (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Demon (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge St. Regis_delantera": {
+    "fuente": ""
+  },
+  "Dodge St. Regis_trasera": {
+    "fuente": ""
+  },
+  "Dodge Aspen_delantera": {
+    "fuente": ""
+  },
+  "Dodge Aspen_trasera": {
+    "fuente": ""
+  },
+  "Dodge Diplomat_delantera": {
+    "fuente": ""
+  },
+  "Dodge Diplomat_trasera": {
+    "fuente": ""
+  },
+  "Dodge Aries_delantera": {
+    "fuente": ""
+  },
+  "Dodge Aries_trasera": {
+    "fuente": ""
+  },
+  "Dodge 600_delantera": {
+    "fuente": ""
+  },
+  "Dodge 600_trasera": {
+    "fuente": ""
+  },
+  "Dodge Omni_delantera": {
+    "fuente": ""
+  },
+  "Dodge Omni_trasera": {
+    "fuente": ""
+  },
+  "Dodge Shadow_delantera": {
+    "fuente": ""
+  },
+  "Dodge Shadow_trasera": {
+    "fuente": ""
+  },
+  "Dodge Spirit_delantera": {
+    "fuente": ""
+  },
+  "Dodge Spirit_trasera": {
+    "fuente": ""
+  },
+  "Dodge Stratus (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Stratus (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Neon (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Neon (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Avenger (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Avenger (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Intrepid_delantera": {
+    "fuente": ""
+  },
+  "Dodge Intrepid_trasera": {
+    "fuente": ""
+  },
+  "Dodge Magnum (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Magnum (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Caliber_delantera": {
+    "fuente": ""
+  },
+  "Dodge Caliber_trasera": {
+    "fuente": ""
+  },
+  "Dodge Journey_delantera": {
+    "fuente": ""
+  },
+  "Dodge Journey_trasera": {
+    "fuente": ""
+  },
+  "Dodge Caravan (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Caravan (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Grand Caravan_delantera": {
+    "fuente": ""
+  },
+  "Dodge Grand Caravan_trasera": {
+    "fuente": ""
+  },
+  "Dodge Ramcharger_delantera": {
+    "fuente": ""
+  },
+  "Dodge Ramcharger_trasera": {
+    "fuente": ""
+  },
+  "Dodge Durango (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Durango (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Nitro_delantera": {
+    "fuente": ""
+  },
+  "Dodge Nitro_trasera": {
+    "fuente": ""
+  },
+  "Dodge Dakota (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Dakota (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Ram (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Ram (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Power Wagon_delantera": {
+    "fuente": ""
+  },
+  "Dodge Power Wagon_trasera": {
+    "fuente": ""
+  },
+  "Dodge WC Series_delantera": {
+    "fuente": ""
+  },
+  "Dodge WC Series_trasera": {
+    "fuente": ""
+  },
+  "Dodge M37_delantera": {
+    "fuente": ""
+  },
+  "Dodge M37_trasera": {
+    "fuente": ""
+  },
+  "Dodge D-Series (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge D-Series (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Dodge Raider_delantera": {
+    "fuente": ""
+  },
+  "Dodge Raider_trasera": {
+    "fuente": ""
+  },
+  "Dodge Stealth_delantera": {
+    "fuente": ""
+  },
+  "Dodge Stealth_trasera": {
+    "fuente": ""
+  },
+  "Dodge La Femme_delantera": {
+    "fuente": ""
+  },
+  "Dodge La Femme_trasera": {
+    "fuente": ""
+  },
+  "Dodge Wayfarer_delantera": {
+    "fuente": ""
+  },
+  "Dodge Wayfarer_trasera": {
+    "fuente": ""
+  },
+  "Dodge Kingsway_delantera": {
+    "fuente": ""
+  },
+  "Dodge Kingsway_trasera": {
+    "fuente": ""
+  },
+  "Dodge Phoenix_delantera": {
+    "fuente": ""
+  },
+  "Dodge Phoenix_trasera": {
+    "fuente": ""
+  },
+  "Dodge Viper (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Dodge Viper (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Six_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Six_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Imperial (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Imperial (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Airflow_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Airflow_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Airstream_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Airstream_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Windsor (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Windsor (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Saratoga (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Saratoga (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler New Yorker (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler New Yorker (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Town & Country (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Town & Country (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Royal_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Royal_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Crown_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Crown_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Newport (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Newport (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler 300 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler 300 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler 300 Letter Series_delantera": {
+    "fuente": ""
+  },
+  "Chrysler 300 Letter Series_trasera": {
+    "fuente": ""
+  },
+  "Chrysler 200 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler 200 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Sebring (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Sebring (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Cirrus_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Cirrus_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Concorde_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Concorde_trasera": {
+    "fuente": ""
+  },
+  "Chrysler LHS_delantera": {
+    "fuente": ""
+  },
+  "Chrysler LHS_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Fifth Avenue (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Fifth Avenue (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Cordoba_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Cordoba_trasera": {
+    "fuente": ""
+  },
+  "Chrysler LeBaron (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler LeBaron (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Dynasty_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Dynasty_trasera": {
+    "fuente": ""
+  },
+  "Chrysler E-Class_delantera": {
+    "fuente": ""
+  },
+  "Chrysler E-Class_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Executive_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Executive_trasera": {
+    "fuente": ""
+  },
+  "Chrysler PT Cruiser_delantera": {
+    "fuente": ""
+  },
+  "Chrysler PT Cruiser_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Neon_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Neon_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Crossfire_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Crossfire_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Pacifica (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Pacifica (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Pacifica (Minivan)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Pacifica (Minivan)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Voyager (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Voyager (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Grand Voyager_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Grand Voyager_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Aspen_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Aspen_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Prowler_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Prowler_trasera": {
+    "fuente": ""
+  },
+  "Chrysler TC by Maserati_delantera": {
+    "fuente": ""
+  },
+  "Chrysler TC by Maserati_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Airflite Concept_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Airflite Concept_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Chronos Concept_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Chronos Concept_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Nassau Concept_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Nassau Concept_trasera": {
+    "fuente": ""
+  },
+  "Chrysler ME Four-Twelve Concept_delantera": {
+    "fuente": ""
+  },
+  "Chrysler ME Four-Twelve Concept_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Atlantic Concept_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Atlantic Concept_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Turbine Car_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Turbine Car_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Falcon Concept_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Falcon Concept_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Java Concept_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Java Concept_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Portofino Concept_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Portofino Concept_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Atlantic_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Atlantic_trasera": {
+    "fuente": ""
+  },
+  "Chrysler Sebring Convertible (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chrysler Sebring Convertible (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Model B_delantera": {
+    "fuente": ""
+  },
+  "Buick Model B_trasera": {
+    "fuente": ""
+  },
+  "Buick Model 10_delantera": {
+    "fuente": ""
+  },
+  "Buick Model 10_trasera": {
+    "fuente": ""
+  },
+  "Buick Model 14_delantera": {
+    "fuente": ""
+  },
+  "Buick Model 14_trasera": {
+    "fuente": ""
+  },
+  "Buick Model 21_delantera": {
+    "fuente": ""
+  },
+  "Buick Model 21_trasera": {
+    "fuente": ""
+  },
+  "Buick Master Six_delantera": {
+    "fuente": ""
+  },
+  "Buick Master Six_trasera": {
+    "fuente": ""
+  },
+  "Buick Roadmaster (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Roadmaster (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Limited (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Limited (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Special (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Special (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Century (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Century (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Super (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Super (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Skylark (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Skylark (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Electra (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Electra (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Riviera (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Riviera (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Wildcat (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Wildcat (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick LeSabre (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick LeSabre (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Invicta_delantera": {
+    "fuente": ""
+  },
+  "Buick Invicta_trasera": {
+    "fuente": ""
+  },
+  "Buick Estate Wagon_delantera": {
+    "fuente": ""
+  },
+  "Buick Estate Wagon_trasera": {
+    "fuente": ""
+  },
+  "Buick Apollo_delantera": {
+    "fuente": ""
+  },
+  "Buick Apollo_trasera": {
+    "fuente": ""
+  },
+  "Buick Opel_delantera": {
+    "fuente": ""
+  },
+  "Buick Opel_trasera": {
+    "fuente": ""
+  },
+  "Buick Skyhawk (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Skyhawk (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Regal (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Regal (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Somerset_delantera": {
+    "fuente": ""
+  },
+  "Buick Somerset_trasera": {
+    "fuente": ""
+  },
+  "Buick Park Avenue (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Park Avenue (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Reatta_delantera": {
+    "fuente": ""
+  },
+  "Buick Reatta_trasera": {
+    "fuente": ""
+  },
+  "Buick Cascada_delantera": {
+    "fuente": ""
+  },
+  "Buick Cascada_trasera": {
+    "fuente": ""
+  },
+  "Buick Terraza_delantera": {
+    "fuente": ""
+  },
+  "Buick Terraza_trasera": {
+    "fuente": ""
+  },
+  "Buick Rendezvous_delantera": {
+    "fuente": ""
+  },
+  "Buick Rendezvous_trasera": {
+    "fuente": ""
+  },
+  "Buick Rainier_delantera": {
+    "fuente": ""
+  },
+  "Buick Rainier_trasera": {
+    "fuente": ""
+  },
+  "Buick Enclave (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Enclave (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Encore (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Encore (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Encore GX_delantera": {
+    "fuente": ""
+  },
+  "Buick Encore GX_trasera": {
+    "fuente": ""
+  },
+  "Buick Envision (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Envision (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick GL6_delantera": {
+    "fuente": ""
+  },
+  "Buick GL6_trasera": {
+    "fuente": ""
+  },
+  "Buick Velite 5_delantera": {
+    "fuente": ""
+  },
+  "Buick Velite 5_trasera": {
+    "fuente": ""
+  },
+  "Buick Velite 6_delantera": {
+    "fuente": ""
+  },
+  "Buick Velite 6_trasera": {
+    "fuente": ""
+  },
+  "Buick Velite 7_delantera": {
+    "fuente": ""
+  },
+  "Buick Velite 7_trasera": {
+    "fuente": ""
+  },
+  "Buick LaCrosse (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick LaCrosse (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Verano (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Verano (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Excelle (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick Excelle (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Excelle GT_delantera": {
+    "fuente": ""
+  },
+  "Buick Excelle GT_trasera": {
+    "fuente": ""
+  },
+  "Buick Excelle XT_delantera": {
+    "fuente": ""
+  },
+  "Buick Excelle XT_trasera": {
+    "fuente": ""
+  },
+  "Buick GL8 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Buick GL8 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Buick Lucerne_delantera": {
+    "fuente": ""
+  },
+  "Buick Lucerne_trasera": {
+    "fuente": ""
+  },
+  "Buick Allure_delantera": {
+    "fuente": ""
+  },
+  "Buick Allure_trasera": {
+    "fuente": ""
+  },
+  "Buick Invista_delantera": {
+    "fuente": ""
+  },
+  "Buick Invista_trasera": {
+    "fuente": ""
+  },
+  "Jaguar SS 100_delantera": {
+    "fuente": ""
+  },
+  "Jaguar SS 100_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XK120_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XK120_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XK140_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XK140_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XK150_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XK150_trasera": {
+    "fuente": ""
+  },
+  "Jaguar C-Type_delantera": {
+    "fuente": ""
+  },
+  "Jaguar C-Type_trasera": {
+    "fuente": ""
+  },
+  "Jaguar D-Type_delantera": {
+    "fuente": ""
+  },
+  "Jaguar D-Type_trasera": {
+    "fuente": ""
+  },
+  "Jaguar E-Type (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar E-Type (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar Mark IV_delantera": {
+    "fuente": ""
+  },
+  "Jaguar Mark IV_trasera": {
+    "fuente": ""
+  },
+  "Jaguar Mark V_delantera": {
+    "fuente": ""
+  },
+  "Jaguar Mark V_trasera": {
+    "fuente": ""
+  },
+  "Jaguar Mark VII_delantera": {
+    "fuente": ""
+  },
+  "Jaguar Mark VII_trasera": {
+    "fuente": ""
+  },
+  "Jaguar Mark VIII_delantera": {
+    "fuente": ""
+  },
+  "Jaguar Mark VIII_trasera": {
+    "fuente": ""
+  },
+  "Jaguar Mark IX_delantera": {
+    "fuente": ""
+  },
+  "Jaguar Mark IX_trasera": {
+    "fuente": ""
+  },
+  "Jaguar Mark X_delantera": {
+    "fuente": ""
+  },
+  "Jaguar Mark X_trasera": {
+    "fuente": ""
+  },
+  "Jaguar S-Type (1963)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar S-Type (1963)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar 240_delantera": {
+    "fuente": ""
+  },
+  "Jaguar 240_trasera": {
+    "fuente": ""
+  },
+  "Jaguar 340_delantera": {
+    "fuente": ""
+  },
+  "Jaguar 340_trasera": {
+    "fuente": ""
+  },
+  "Jaguar 420_delantera": {
+    "fuente": ""
+  },
+  "Jaguar 420_trasera": {
+    "fuente": ""
+  },
+  "Jaguar 420G_delantera": {
+    "fuente": ""
+  },
+  "Jaguar 420G_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XJ6 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XJ6 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XJ12 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XJ12 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XJ-S (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XJ-S (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XJ40_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XJ40_trasera": {
+    "fuente": ""
+  },
+  "Jaguar X300_delantera": {
+    "fuente": ""
+  },
+  "Jaguar X300_trasera": {
+    "fuente": ""
+  },
+  "Jaguar X308_delantera": {
+    "fuente": ""
+  },
+  "Jaguar X308_trasera": {
+    "fuente": ""
+  },
+  "Jaguar X350_delantera": {
+    "fuente": ""
+  },
+  "Jaguar X350_trasera": {
+    "fuente": ""
+  },
+  "Jaguar X351_delantera": {
+    "fuente": ""
+  },
+  "Jaguar X351_trasera": {
+    "fuente": ""
+  },
+  "Jaguar X-Type_delantera": {
+    "fuente": ""
+  },
+  "Jaguar X-Type_trasera": {
+    "fuente": ""
+  },
+  "Jaguar S-Type (1999)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar S-Type (1999)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XF (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XF (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XE (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XE (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XFR_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XFR_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XFR-S_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XFR-S_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XK8 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XK8 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XK (2006)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XK (2006)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar F-Type (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar F-Type (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar F-Pace (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar F-Pace (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar E-Pace (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Jaguar E-Pace (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Jaguar I-Pace_delantera": {
+    "fuente": ""
+  },
+  "Jaguar I-Pace_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XJR_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XJR_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XJR-15_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XJR-15_trasera": {
+    "fuente": ""
+  },
+  "Jaguar XJ220_delantera": {
+    "fuente": ""
+  },
+  "Jaguar XJ220_trasera": {
+    "fuente": ""
+  },
+  "Jaguar C-X75_delantera": {
+    "fuente": ""
+  },
+  "Jaguar C-X75_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Runabout_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Runabout_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Tonneau_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Tonneau_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Model B_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Model B_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Model D_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Model D_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Type 51_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Type 51_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Type 53_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Type 53_trasera": {
+    "fuente": ""
+  },
+  "Cadillac LaSalle (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Cadillac LaSalle (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Series 60_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Series 60_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Series 62 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Series 62 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Series 61_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Series 61_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Series 70_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Series 70_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Series 75_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Series 75_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Series 90_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Series 90_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Eldorado (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Eldorado (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Cadillac DeVille (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Cadillac DeVille (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Fleetwood (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Fleetwood (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Calais_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Calais_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Seville (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Seville (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Cimarron_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Cimarron_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Brougham_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Brougham_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Allanté_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Allanté_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Catera_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Catera_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Escalade (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Escalade (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Escalade EXT_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Escalade EXT_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Escalade ESV_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Escalade ESV_trasera": {
+    "fuente": ""
+  },
+  "Cadillac CTS (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Cadillac CTS (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Cadillac STS_delantera": {
+    "fuente": ""
+  },
+  "Cadillac STS_trasera": {
+    "fuente": ""
+  },
+  "Cadillac SRX (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Cadillac SRX (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Cadillac XLR_delantera": {
+    "fuente": ""
+  },
+  "Cadillac XLR_trasera": {
+    "fuente": ""
+  },
+  "Cadillac ATS (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Cadillac ATS (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Cadillac XTS_delantera": {
+    "fuente": ""
+  },
+  "Cadillac XTS_trasera": {
+    "fuente": ""
+  },
+  "Cadillac CT6_delantera": {
+    "fuente": ""
+  },
+  "Cadillac CT6_trasera": {
+    "fuente": ""
+  },
+  "Cadillac CT4_delantera": {
+    "fuente": ""
+  },
+  "Cadillac CT4_trasera": {
+    "fuente": ""
+  },
+  "Cadillac CT5_delantera": {
+    "fuente": ""
+  },
+  "Cadillac CT5_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Lyriq_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Lyriq_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Celestiq_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Celestiq_trasera": {
+    "fuente": ""
+  },
+  "Cadillac XT4_delantera": {
+    "fuente": ""
+  },
+  "Cadillac XT4_trasera": {
+    "fuente": ""
+  },
+  "Cadillac XT5_delantera": {
+    "fuente": ""
+  },
+  "Cadillac XT5_trasera": {
+    "fuente": ""
+  },
+  "Cadillac XT6_delantera": {
+    "fuente": ""
+  },
+  "Cadillac XT6_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Sixty Special_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Sixty Special_trasera": {
+    "fuente": ""
+  },
+  "Cadillac V16_delantera": {
+    "fuente": ""
+  },
+  "Cadillac V16_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Model Thirty_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Model Thirty_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Type V-63_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Type V-63_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Series 314_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Series 314_trasera": {
+    "fuente": ""
+  },
+  "Cadillac Series 355_delantera": {
+    "fuente": ""
+  },
+  "Cadillac Series 355_trasera": {
+    "fuente": ""
+  },
   "Lancia Beta (1909)_delantera": {
     "fuente": "By Semnoz - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=625173"
   },

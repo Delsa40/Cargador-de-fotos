@@ -83,191 +83,455 @@
   "AC 16 80 March_trasera": {
     "fuente": "By Rex Gray - 1939 AC 16-80 March 2 Seat Sport - rvr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38214981"
   },
-  "Kia Picanto (1° Gen.)_delantera": {
-    "fuente": ""
+  "Kia Picanto - Morning (1° Gen.)(2004)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76680621"
   },
-  "Kia Picanto (1° Gen.)_trasera": {
-    "fuente": ""
+  "Kia Picanto - Morning (1° Gen.)(2004)_trasera": {
+    "fuente": "Por M 93 - Fotografía propia, Attribution, https://commons.wikimedia.org/w/index.php?curid=7749253"
   },
-  "Kia Rio (1° Gen.)_delantera": {
-    "fuente": ""
+  "Kia Picanto - Morning (1° Gen.)(2007)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4739284"
   },
-  "Kia Rio (1° Gen.)_trasera": {
-    "fuente": ""
+  "Kia Picanto - Morning (1° Gen.)(2007)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3998652"
   },
-  "Kia Cerato (1° Gen.)_delantera": {
-    "fuente": ""
+  "Kia Picanto - Morning (2° Gen.)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=15586276"
   },
-  "Kia Cerato (1° Gen.)_trasera": {
-    "fuente": ""
+  "Kia Picanto - Morning (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67139404"
   },
-  "Kia Forte (1° Gen.)_delantera": {
-    "fuente": ""
+  "Kia Picanto - Morning (3° Gen.)(2017)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67221555"
   },
-  "Kia Forte (1° Gen.)_trasera": {
-    "fuente": ""
+  "Kia Picanto - Morning (3° Gen.)(2017)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67221556"
   },
-  "Kia Optima (1° Gen.)_delantera": {
-    "fuente": ""
+  "Kia Picanto - Morning (3° Gen.)(2023)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=162949432"
   },
-  "Kia Optima (1° Gen.)_trasera": {
-    "fuente": ""
+  "Kia Picanto - Morning (3° Gen.)(2023)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=162949570"
   },
-  "Kia Stinger (1° Gen.)_delantera": {
-    "fuente": ""
+  "Kia Rio 4 (1° Gen.)(1997)_delantera": {
+    "fuente": "By Chu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11111019"
   },
-  "Kia Stinger (1° Gen.)_trasera": {
-    "fuente": ""
+  "Kia Rio 4 (1° Gen.)(1997)_trasera": {
+    "fuente": "By Chu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11111023"
   },
-  "Kia Cadenza (1° Gen.)_delantera": {
-    "fuente": ""
+  "Kia Rio 5 (1° Gen.)(1997)_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2807698"
   },
-  "Kia Cadenza (1° Gen.)_trasera": {
-    "fuente": ""
+  "Kia Rio 5 (1° Gen.)(1997)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3013310"
+  },
+  "Kia Rio 4 (1° Gen.)(2002)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3219552"
+  },
+  "Kia Rio 4 (1° Gen.)(2002)_trasera": {
+    "fuente": "By Spanish Coches - 2003 Kia Rio LS, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38114102"
+  },
+  "Kia Rio 5 (1° Gen.)(2002)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968126"
+  },
+  "Kia Rio 5 (1° Gen.)(2002)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968127"
+  },
+  "Kia Cerato - Spectra - Forte (1° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=19011973"
+  },
+  "Kia Cerato - Spectra - Forte (1° Gen.)_trasera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16638426"
+  },
+  "Kia Spectra5_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2728164"
+  },
+  "Kia Spectra5_trasera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=11472138"
+  },
+  "Kia Cerato - Spectra - Forte Sedan (2° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Kia Cerato 1.6 SX 2010, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34586145"
+  },
+  "Kia Cerato - Spectra - Forte Sedan (2° Gen.)_trasera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=9486923"
+  },
+  "Kia Cerato - Spectra - Forte Hatchback (2° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Kia Cerato5 1.6 SX 2012, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=165060984"
+  },
+  "Kia Cerato - Spectra - Forte Hatchback (2° Gen.)_trasera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=15668143"
+  },
+  "Kia Cerato - Forte Koup (2° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=153803999"
+  },
+  "Kia Cerato - Forte Koup (2° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168418996"
+  },
+  "Kia Cerato - Spectra - Forte - K3 Sedan (3° Gen.)_delantera": {
+    "fuente": "Por Aero777 - Trabajo propioPreviously published: Flickr, Aero7s, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31350309"
+  },
+  "Kia Cerato - Spectra - Forte - K3 Sedan (3° Gen.)_trasera": {
+    "fuente": "By Aero777 - Own workPreviously published: Flickr, Aero7s, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31350311"
+  },
+  "Kia Cerato - Spectra - Forte - K3 Hatchback (3° Gen.)_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Kia Cerato5 SX 2016, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76197654"
+  },
+  "Kia Cerato - Spectra - Forte - K3 Hatchback (3° Gen.)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Kia Cerato5 2.0 SX 2014, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=95788237"
+  },
+  "Kia Cerato - Forte Koup (3° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Kia Cerato Koup 2.0 SX 2014, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34577655"
+  },
+  "Kia Cerato - Forte Koup (3° Gen.)_trasera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/25703239786/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=165062303"
+  },
+  "Kia Cerato - Spectra - Forte - K3 Sedan (4° Gen.)_delantera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68029936"
+  },
+  "Kia Cerato - Spectra - Forte - K3 Sedan (4° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68029934"
+  },
+  "Kia Forte5 GT (4° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122713138"
+  },
+  "Kia Forte5 GT (4° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122713139"
+  },
+  "Kia Optima - Magentis (1° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133866480"
+  },
+  "Kia Optima - Magentis (1° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133866481"
+  },
+  "Kia Optima - Magentis - Lotze - K5 (2° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2938786"
+  },
+  "Kia Optima - Magentis - Lotze - K5 (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2938792"
+  },
+  "Kia Optima - Magentis - Lotze - K5 (3° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14417743"
+  },
+  "Kia Optima - Magentis - Lotze - K5 (3° Gen.)_trasera": {
+    "fuente": "By Lord of the Wings© from Toronto, Canada - DSC_0216, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=31855508"
+  },
+  "Kia Optima - Magentis - Lotze - K5 (4° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152433029"
+  },
+  "Kia Optima - Magentis - Lotze - K5 (4° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152433031"
+  },
+  "Kia Optima - Magentis - Lotze - K5 (5° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=98776035"
+  },
+  "Kia Optima - Magentis - Lotze - K5 (5° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=98773229"
+  },
+  "Kia Stinger_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166369100"
+  },
+  "Kia Stinger_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166369183"
+  },
+  "Kia Cadenza - K7 (1° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135696402"
+  },
+  "Kia Cadenza - K7 (1° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135696407"
+  },
+  "Kia Cadenza - K7 (2° Gen.)(2016)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124854049"
+  },
+  "Kia Cadenza - K7 (2° Gen.)(2016)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124854050"
+  },
+  "Kia Cadenza - K7 (2° Gen.)(2019)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118838431"
+  },
+  "Kia Cadenza - K7 (2° Gen.)(2019)_trasera": {
+    "fuente": "By Ki hoon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87672085"
   },
   "Kia Soul (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=144930832"
   },
   "Kia Soul (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Seltos_delantera": {
-    "fuente": ""
-  },
-  "Kia Seltos_trasera": {
-    "fuente": ""
-  },
-  "Kia Sportage (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Sportage (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Sorento (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Sorento (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Telluride_delantera": {
-    "fuente": ""
-  },
-  "Kia Telluride_trasera": {
-    "fuente": ""
-  },
-  "Kia Mohave_delantera": {
-    "fuente": ""
-  },
-  "Kia Mohave_trasera": {
-    "fuente": ""
-  },
-  "Kia Carnival (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Carnival (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Sedona (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Sedona (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Niro_delantera": {
-    "fuente": ""
-  },
-  "Kia Niro_trasera": {
-    "fuente": ""
-  },
-  "Kia EV6_delantera": {
-    "fuente": ""
-  },
-  "Kia EV6_trasera": {
-    "fuente": ""
-  },
-  "Kia e-Niro_delantera": {
-    "fuente": ""
-  },
-  "Kia e-Niro_trasera": {
-    "fuente": ""
-  },
-  "Kia Ray_delantera": {
-    "fuente": ""
-  },
-  "Kia Ray_trasera": {
-    "fuente": ""
-  },
-  "Kia Venga_delantera": {
-    "fuente": ""
-  },
-  "Kia Venga_trasera": {
-    "fuente": ""
-  },
-  "Kia Carens (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Carens (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Pride (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Pride (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Sephia (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Sephia (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Shuma (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Shuma (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Opirus_delantera": {
-    "fuente": ""
-  },
-  "Kia Opirus_trasera": {
-    "fuente": ""
-  },
-  "Kia Cee’d (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Cee’d (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Forte Koup_delantera": {
-    "fuente": ""
-  },
-  "Kia Forte Koup_trasera": {
-    "fuente": ""
-  },
-  "Kia Picanto (2° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Picanto (2° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Kia Rio (2° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Kia Rio (2° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73866413"
   },
   "Kia Soul (2° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=68091050"
   },
   "Kia Soul (2° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=68091065"
+  },
+  "Kia Soul (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95433616"
+  },
+  "Kia Soul (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95433618"
+  },
+  "Kia Seltos_delantera": {
+    "fuente": "By Ki hoon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86121580"
+  },
+  "Kia Seltos_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=133201540"
+  },
+  "Kia Sportage (1° Gen.)_delantera": {
+    "fuente": "By No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=203198"
+  },
+  "Kia Sportage (1° Gen.)_trasera": {
+    "fuente": "By Chu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11157657"
   },
   "Kia Sportage (2° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7973893"
   },
   "Kia Sportage (2° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7973895"
+  },
+  "Kia Sportage (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77742270"
+  },
+  "Kia Sportage (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77742272"
+  },
+  "Kia Sportage (4° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77840494"
+  },
+  "Kia Sportage (4° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77840495"
+  },
+  "Kia Sportage (5° Gen.)(2021)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=165046334"
+  },
+  "Kia Sportage (5° Gen.)(2021)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=165046365"
+  },
+  "Kia Sportage (5° Gen.)(2024)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156402246"
+  },
+  "Kia Sportage (5° Gen.)(2024)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175495014"
+  },
+  "Kia Sorento (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77170179"
+  },
+  "Kia Sorento (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77170183"
+  },
+  "Kia Sorento (2° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108218985"
+  },
+  "Kia Sorento (2° Gen.)_trasera": {
+    "fuente": "By order_242 from Chile - Kia Sorento EX 2.2 CRDi 2010, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=41811306"
+  },
+  "Kia Sorento (3° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133652568"
+  },
+  "Kia Sorento (3° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133652570"
+  },
+  "Kia Sorento (4° Gen.)(2020)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99004876"
+  },
+  "Kia Sorento (4° Gen.)(2020)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99004879"
+  },
+  "Kia Sorento (4° Gen.)(2023)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138470838"
+  },
+  "Kia Sorento (4° Gen.)(2023)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156956811"
+  },
+  "Kia Telluride_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132494752"
+  },
+  "Kia Telluride_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78142727"
+  },
+  "Kia Mohave - Borrego (2008)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5074415"
+  },
+  "Kia Mohave - Borrego (2008)_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97164975"
+  },
+  "Kia Mohave (2019)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138677121"
+  },
+  "Kia Mohave (2019)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138638995"
+  },
+  "Kia Carnival - Sedona (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=8258145"
+  },
+  "Kia Carnival - Sedona (1° Gen.)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151779908"
+  },
+  "Kia Carnival - Sedona (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78495474"
+  },
+  "Kia Carnival - Sedona (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78495475"
+  },
+  "Kia Carnival - Sedona (3° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133246673"
+  },
+  "Kia Carnival - Sedona (3° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133246671"
+  },
+  "Kia Carnival - Sedona (4° Gen.)(2020)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=134032093"
+  },
+  "Kia Carnival - Sedona (4° Gen.)(2020)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=134032310"
+  },
+  "Kia Carnival - Sedona (4° Gen.)(2025)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168432781"
+  },
+  "Kia Carnival - Sedona (4° Gen.)(2025)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168435871"
+  },
+  "Kia Niro (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69281769"
+  },
+  "Kia Niro (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71213074"
+  },
+  "Kia Niro (2° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129653119"
+  },
+  "Kia Niro (2° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129653116"
+  },
+  "Kia EV6_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122574100"
+  },
+  "Kia EV6_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109834343"
+  },
+  "Kia Ray_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133975036"
+  },
+  "Kia Ray_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133975039"
+  },
+  "Kia Venga_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67146371"
+  },
+  "Kia Venga_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67146373"
+  },
+  "Kia Carens (1° Gen.)(1999)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3655993"
+  },
+  "Kia Carens (1° Gen.)(1999)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3656000"
+  },
+  "Kia Carens (1° Gen.)(2002)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74910011"
+  },
+  "Kia Carens (1° Gen.)(2002)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74910014"
+  },
+  "Kia Carens - Rondo (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3097090"
+  },
+  "Kia Carens - Rondo (2° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=141043093"
+  },
+  "Kia Carens - Rondo (3° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138467512"
+  },
+  "Kia Carens - Rondo (3° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138467576"
+  },
+  "Kia Carens (4° Gen.)_delantera": {
+    "fuente": "By Andra Febrian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121698883"
+  },
+  "Kia Carens (4° Gen.)_trasera": {
+    "fuente": "By Andra Febrian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121698885"
+  },
+  "Kia Carens Clavis _delantera": {
+    "fuente": "By Avante2025 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=167008445"
+  },
+  "Kia Carens Clavis _trasera": {
+    "fuente": "By Avante2025 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=167008447"
+  },
+  "Kia Sephia - Mentor (1992)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3199906"
+  },
+  "Kia Sephia - Mentor (1992)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3199910"
+  },
+  "Kia Sephia - Mentor (1995)_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=42595740"
+  },
+  "Kia Sephia - Mentor (1995)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=42595780"
+  },
+  "Kia Sephia - Mentor - Shuma - Spectra (1998)_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17699651"
+  },
+  "Kia Sephia - Mentor - Shuma - Spectra (1998)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17699367"
+  },
+  "Kia Sephia - Mentor - Shuma - Spectra (2002)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=145060696"
+  },
+  "Kia Sephia - Mentor - Shuma - Spectra (2002)_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=145060703"
+  },
+  "Kia Sephia - Mentor - Shuma - Spectra (1999)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4973360"
+  },
+  "Kia Sephia - Mentor - Shuma - Spectra (1999)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4973358"
+  },
+  "Kia Sephia - Mentor - Shuma - Spectra (2003)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6661729"
+  },
+  "Kia Sephia - Mentor - Shuma - Spectra (2003)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6661736"
+  },
+  "Kia Opirus - Amanti_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2631110"
+  },
+  "Kia Opirus - Amanti_trasera": {
+    "fuente": "By Qwerty242 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17636475"
+  },
+  "Kia Ceed (1° Gen.)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2981191"
+  },
+  "Kia Ceed (1° Gen.)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2981190"
+  },
+  "Kia Ceed (2° Gen.)_delantera": {
+    "fuente": "Por M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=19864739"
+  },
+  "Kia Ceed (2° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=19864764"
+  },
+  "Kia Ceed (3° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74910063"
+  },
+  "Kia Ceed (3° Gen.)_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74910064"
+  },
+  "Kia Ceed SW_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75221362"
+  },
+  "Kia Ceed SW_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75221365"
+  },
+  "Kia Proceed_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77053749"
+  },
+  "Kia Proceed_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77053750"
+  },
+  "Kia XCeed_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82139506"
+  },
+  "Kia XCeed_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87478575"
   },
   "Hyundai Accent (1° Gen.)_delantera": {
     "fuente": ""

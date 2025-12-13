@@ -533,179 +533,563 @@
   "Kia XCeed_trasera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87478575"
   },
-  "Hyundai Accent (1° Gen.)_delantera": {
-    "fuente": ""
+  "Austin-Healey 100_delantera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67832043"
   },
-  "Hyundai Accent (1° Gen.)_trasera": {
-    "fuente": ""
+  "Austin-Healey 100_trasera": {
+    "fuente": "By Stahlkocher - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2478836"
   },
-  "Hyundai Elantra (1° Gen.)_delantera": {
-    "fuente": ""
+  "Austin-Healey 100S_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126823711"
   },
-  "Hyundai Elantra (1° Gen.)_trasera": {
-    "fuente": ""
+  "Austin-Healey 100S_trasera": {
+    "fuente": "By trecca - 1955 Austin-Healey 100S, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=101513384"
+  },
+  "Austin-Healey 100-6_delantera": {
+    "fuente": "By SG2012 - https://www.flickr.com/photos/57664366@N08/18509277003/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=58319257"
+  },
+  "Austin-Healey 100-6_trasera": {
+    "fuente": "By SG2012 - https://www.flickr.com/photos/57664366@N08/19129903995/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=58319255"
+  },
+  "Austin-Healey 3000_delantera": {
+    "fuente": "By Bull-Doser at English Wikipedia - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=22917158"
+  },
+  "Austin-Healey 3000_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Austin Healey 3000 MkIII BJ8, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=47355062"
+  },
+  "Austin-Healey Sprite (MK1)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=117134156"
+  },
+  "Austin-Healey Sprite (MK1)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=117201761"
+  },
+  "Austin-Healey Sprite (MK2)_delantera": {
+    "fuente": "By Berthold Werner - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20307810"
+  },
+  "Austin-Healey Sprite (MK2)_trasera": {
+    "fuente": "By Berthold Werner - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20307826"
+  },
+  "Hyundai Accent - Excel (1° Gen.)_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=118775018"
+  },
+  "Hyundai Accent - Excel (1° Gen.)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=118775057"
+  },
+  "Hyundai Accent - Brío (2° Gen.)(1999)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81654427"
+  },
+  "Hyundai Accent - Brío (2° Gen.)(1999)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81654428"
+  },
+  "Hyundai Accent - Brío - Gyro (2° Gen.)(2003)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6579944"
+  },
+  "Hyundai Accent - Brío - Gyro (2° Gen.)(2003)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132494748"
+  },
+  "Hyundai Accent (3° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2923510"
+  },
+  "Hyundai Accent (3° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=106166058"
+  },
+  "Hyundai Accent Hatckback (2006)_delantera": {
+    "fuente": "By U.S. National Highway Traffic Safety Administration - safercar.gov, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14575349"
+  },
+  "Hyundai Accent Hatckback (2006)_trasera": {
+    "fuente": "By U.S. National Highway Traffic Safety Administration - safercar.gov, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14575355"
+  },
+  "Hyundai Accent (4° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=15807033"
+  },
+  "Hyundai Accent (4° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135523832"
+  },
+  "Hyundai Accent Hatckback (2011)_delantera": {
+    "fuente": "By Michael Gil from Calgary, AB, Canada - 2012 Hyundai Accent 5, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37165395"
+  },
+  "Hyundai Accent Hatckback (2011)_trasera": {
+    "fuente": "By Michael Gil from Calgary, AB, Canada - 2012 Hyundai Accent 5, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37165192"
+  },
+  "Hyundai Accent - Verna (5° Gen.)_delantera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83447612"
+  },
+  "Hyundai Accent - Verna (5° Gen.)_trasera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83447613"
+  },
+  "Hyundai Elantra - Lantra (1° Gen.)_delantera": {
+    "fuente": "By Released into public domain by User:Cvalda - english Wikipedia, own photo, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1508426"
+  },
+  "Hyundai Elantra - Lantra (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3587554"
+  },
+  "Hyundai Elantra - Lantra - Avante (2° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3123462"
+  },
+  "Hyundai Elantra - Lantra - Avante (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3123464"
+  },
+  "Hyundai Elantra - Lantra - Avante Touring (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73263538"
+  },
+  "Hyundai Elantra - Lantra - Avante Touring (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73263544"
+  },
+  "Hyundai Elantra Hatchback (3° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127264983"
+  },
+  "Hyundai Elantra Hatchback (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64665695"
+  },
+  "Hyundai Elantra Sedan (3° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6189772"
+  },
+  "Hyundai Elantra Sedan (3° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=160502960"
+  },
+  "Hyundai Elantra - Avante (4° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2414906"
+  },
+  "Hyundai Elantra - Avante (4° Gen.)_trasera": {
+    "fuente": "By User:Two hundred percent. - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3598935"
+  },
+  "Hyundai Elantra - Avante (5° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14700860"
+  },
+  "Hyundai Elantra - Avante (5° Gen.)_trasera": {
+    "fuente": "By Aero7, CC BY-SA 2.5 my, https://commons.wikimedia.org/w/index.php?curid=36561162"
+  },
+  "Hyundai Elantra - Avante (6° Gen.)(2015)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150985753"
+  },
+  "Hyundai Elantra - Avante (6° Gen.)(2015)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150985754"
+  },
+  "Hyundai Elantra - Avante (6° Gen.)(2018)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138304828"
+  },
+  "Hyundai Elantra - Avante (6° Gen.)(2018)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134868821"
+  },
+  "Hyundai Elantra - Avante - i30 Sedán (7° Gen.)(2020)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=150531203"
+  },
+  "Hyundai Elantra - Avante - i30 Sedán (7° Gen.)(2020)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=150531371"
+  },
+  "Hyundai Elantra - Avante - i30 Sedán (7° Gen.)(2023)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136515008"
+  },
+  "Hyundai Elantra - Avante - i30 Sedán (7° Gen.)(2023)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134728342"
   },
   "Hyundai Sonata (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155091968"
   },
   "Hyundai Sonata (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155092008"
+  },
+  "Hyundai Sonata (2° Gen.)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8950321"
+  },
+  "Hyundai Sonata (2° Gen.)_trasera": {
+    "fuente": "By Ki hoon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35802168"
+  },
+  "Hyundai Sonata (3° Gen.)(1993)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2632144"
+  },
+  "Hyundai Sonata (3° Gen.)(1993)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156797476"
+  },
+  "Hyundai Sonata (3° Gen.)(1996)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2154790"
+  },
+  "Hyundai Sonata (3° Gen.)(1996)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3199615"
+  },
+  "Hyundai Marcia_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118791558"
+  },
+  "Hyundai Marcia_trasera": {
+    "fuente": "By Chu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11037420"
+  },
+  "Hyundai Sonata (4° Gen.)(1998)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2086762"
+  },
+  "Hyundai Sonata (4° Gen.)(1998)_trasera": {
+    "fuente": "By User:Two hundred percent. - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4081108"
+  },
+  "Hyundai Sonata (4° Gen.)(2002)_delantera": {
+    "fuente": "By RL GNZLZ - Hyundai Sonata 2.0 GL 2005, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=115364176"
+  },
+  "Hyundai Sonata (4° Gen.)(2002)_trasera": {
+    "fuente": "By M 93 (talk) 19:22, 25 January 2009 (UTC) - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5790580"
+  },
+  "Hyundai Moinca_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28946783"
+  },
+  "Hyundai Moinca_trasera": {
+    "fuente": "By JamesYoung8167 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128619481"
+  },
+  "Hyundai Sonata (5° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3287072"
+  },
+  "Hyundai Sonata (5° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131041228"
+  },
+  "Hyundai Sonata Ling Xiang_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30587466"
+  },
+  "Hyundai Sonata Ling Xiang_trasera": {
+    "fuente": "By JamesYoung8167 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123180617"
+  },
+  "Hyundai Sonata - i45 (6° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133573770"
+  },
+  "Hyundai Sonata - i45 (6° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133573772"
+  },
+  "Hyundai Sonata Hybrid (2011)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=16077838"
+  },
+  "Hyundai Sonata Hybrid (2011)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168350705"
+  },
+  "Hyundai Sonata (7° Gen.)(2014)_delantera": {
+    "fuente": "By Ki hoon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115364818"
+  },
+  "Hyundai Sonata (7° Gen.)(2014)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133573888"
+  },
+  "Hyundai Sonata (7° Gen.)(2017)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149169429"
+  },
+  "Hyundai Sonata (7° Gen.)(2017)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149169430"
+  },
+  "Hyundai Sonata (8° Gen.)(2019)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122986444"
+  },
+  "Hyundai Sonata (8° Gen.)(2019)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133527608"
+  },
+  "Hyundai Sonata (8° Gen.)(2023)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151139011"
+  },
+  "Hyundai Sonata (8° Gen.)(2023)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155059005"
   },
   "Hyundai Santa Fe (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11233856"
   },
   "Hyundai Santa Fe (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Tucson (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Tucson (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Kona (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Kona (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Venue_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Venue_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Ioniq (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Ioniq (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Ioniq 5_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Ioniq 5_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Ioniq 6_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Ioniq 6_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Nexo_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Nexo_trasera": {
-    "fuente": ""
-  },
-  "Hyundai H-1_delantera": {
-    "fuente": ""
-  },
-  "Hyundai H-1_trasera": {
-    "fuente": ""
-  },
-  "Hyundai H-100_delantera": {
-    "fuente": ""
-  },
-  "Hyundai H-100_trasera": {
-    "fuente": ""
-  },
-  "Hyundai i10 (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Hyundai i10 (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Hyundai i20 (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Hyundai i20 (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Hyundai i30 (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Hyundai i30 (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Hyundai i40 (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Hyundai i40 (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Creta_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Creta_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Santa Cruz_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Santa Cruz_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Palisade_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Palisade_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Staria_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Staria_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Atos_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Atos_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Getz_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Getz_trasera": {
-    "fuente": ""
-  },
-  "Hyundai Tucson (2° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Hyundai Tucson (2° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By order_242 from Chile - Hyundai Santa Fe 3.5L 4WD 2003, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=35551535"
   },
   "Hyundai Santa Fe (2° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11716906"
   },
   "Hyundai Santa Fe (2° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83486039"
   },
-  "Hyundai Genesis (1° Gen.)_delantera": {
-    "fuente": ""
+  "Hyundai Santa Fe (3° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=19009546"
   },
-  "Hyundai Genesis (1° Gen.)_trasera": {
-    "fuente": ""
+  "Hyundai Santa Fe (3° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70170681"
   },
-  "Hyundai Veloster (1° Gen.)_delantera": {
-    "fuente": ""
+  "Hyundai Santa Fe (4° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72477956"
   },
-  "Hyundai Veloster (1° Gen.)_trasera": {
-    "fuente": ""
+  "Hyundai Santa Fe (4° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122986468"
+  },
+  "Hyundai Santa Fe (5° Gen.)_delantera": {
+    "fuente": "Por Benespit - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138534898"
+  },
+  "Hyundai Santa Fe (5° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138534897"
+  },
+  "Hyundai Tucson - ix35 (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18737592"
+  },
+  "Hyundai Tucson - ix35 (1° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155499148"
+  },
+  "Hyundai Tucson - ix35 (2° Gen.)_delantera": {
+    "fuente": "Por M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=32009699"
+  },
+  "Hyundai Tucson - ix35 (2° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=32009710"
+  },
+  "Hyundai Tucson (3° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108204530"
+  },
+  "Hyundai Tucson (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83928348"
+  },
+  "Hyundai Tucson (4° Gen.)_delantera": {
+    "fuente": "Por Damian B Oh - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136648792"
+  },
+  "Hyundai Tucson (4° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122306653"
+  },
+  "Hyundai Kona_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86796949"
+  },
+  "Hyundai Kona_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109681809"
+  },
+  "Hyundai Venue_delantera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=88915267"
+  },
+  "Hyundai Venue_trasera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=88914023"
+  },
+  "Hyundai Ioniq_delantera": {
+    "fuente": "Por Benespit - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109482684"
+  },
+  "Hyundai Ioniq_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66227208"
+  },
+  "Hyundai Ioniq 5_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=110437363"
+  },
+  "Hyundai Ioniq 5_trasera": {
+    "fuente": "By Harvey Bold - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=161107465"
+  },
+  "Hyundai Ioniq 6 (2022)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132489652"
+  },
+  "Hyundai Ioniq 6 (2022)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132489650"
+  },
+  "Hyundai Ioniq 6 (2025)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=176055246"
+  },
+  "Hyundai Ioniq 6 (2025)_trasera": {
+    "fuente": "By Treeinkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=163455959"
+  },
+  "Hyundai Nexo_delantera": {
+    "fuente": "Por M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=77382304"
+  },
+  "Hyundai Nexo_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=77382324"
+  },
+  "Hyundai H-1 (1° Gen.)_delantera": {
+    "fuente": "Por Rudolf Stricker - Fotografía propia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2827310"
+  },
+  "Hyundai H-1 (1° Gen.)_trasera": {
+    "fuente": "Por Chu - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11377553"
+  },
+  "Hyundai H-1 (2° Gen.)_delantera": {
+    "fuente": "By Alex Neman - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129933167"
+  },
+  "Hyundai H-1 (2° Gen.)_trasera": {
+    "fuente": "By Alex Neman - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129933445"
+  },
+  "Hyundai H-100 - Grace_delantera": {
+    "fuente": "By Interesting.cars.insta - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134634431"
+  },
+  "Hyundai H-100 - Grace_trasera": {
+    "fuente": "By Interesting.cars.insta - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134634430"
+  },
+  "Hyundai i10 (1° Gen.)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=9856534"
+  },
+  "Hyundai i10 (1° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=9856559"
+  },
+  "Hyundai i10 (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67255013"
+  },
+  "Hyundai i10 (2° Gen.)_trasera": {
+    "fuente": "By Makizox - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62240636"
+  },
+  "Hyundai i10 (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147299986"
+  },
+  "Hyundai i10 (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147299987"
+  },
+  "Hyundai i20 (1° Gen.)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15587238"
+  },
+  "Hyundai i20 (1° Gen.)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15587263"
   },
   "Hyundai i20 (2° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69989163"
   },
   "Hyundai i20 (2° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69989164"
   },
-  "Hyundai Accent (2° Gen.)_delantera": {
-    "fuente": ""
+  "Hyundai i20 (3° Gen.)_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=104798901"
   },
-  "Hyundai Accent (2° Gen.)_trasera": {
-    "fuente": ""
+  "Hyundai i20 (3° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=176582624"
+  },
+  "Hyundai i30 (1° Gen.)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15512520"
+  },
+  "Hyundai i30 (1° Gen.)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15512526"
+  },
+  "Hyundai i30 (2° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133899324"
+  },
+  "Hyundai i30 (2° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133899323"
+  },
+  "Hyundai i30 Tourer (2° Gen.)_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=34206628"
+  },
+  "Hyundai i30 Tourer (2° Gen.)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=70084872"
+  },
+  "Hyundai i30 (3° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70077193"
+  },
+  "Hyundai i30 (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70077195"
+  },
+  "Hyundai i40_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133899338"
+  },
+  "Hyundai i40_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133899339"
+  },
+  "Hyundai i40 Estate_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133899348"
+  },
+  "Hyundai i40 Estate_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133899349"
+  },
+  "Hyundai Creta - ix25 - Cantús (1° Gen.)_delantera": {
+    "fuente": "By Nikhilb239 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50892139"
+  },
+  "Hyundai Creta - ix25 - Cantús (1° Gen.)_trasera": {
+    "fuente": "By Chu - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=44416488"
+  },
+  "Hyundai Creta - ix25 - Cantús (2° Gen.)(2019)_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/51385576780/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=109083596"
+  },
+  "Hyundai Creta - ix25 - Cantús (2° Gen.)(2019)_trasera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/51361987648/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=108282445"
+  },
+  "Hyundai Creta - ix25 - Cantús (2° Gen.)(2021)_delantera": {
+    "fuente": "By Andra Febrian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112437064"
+  },
+  "Hyundai Creta - ix25 - Cantús (2° Gen.)(2021)_trasera": {
+    "fuente": "By Andra Febrian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112437063"
+  },
+  "Hyundai Creta - ix25 - Cantús (2° Gen.)(2024)_delantera": {
+    "fuente": "By CARSWORLDKannada, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=145811142"
+  },
+  "Hyundai Creta - ix25 - Cantús (2° Gen.)(2024)_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168154529"
+  },
+  "Hyundai Santa Cruz_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112359908"
+  },
+  "Hyundai Santa Cruz_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109740014"
+  },
+  "Hyundai Palisade (1° Gen.)_delantera": {
+    "fuente": "By EurovisionNim - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121288631"
+  },
+  "Hyundai Palisade (1° Gen.)_trasera": {
+    "fuente": "By EurovisionNim - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121276474"
+  },
+  "Hyundai Palisade (2° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168807802"
+  },
+  "Hyundai Palisade (2° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=158632432"
+  },
+  "Hyundai Staria_delantera": {
+    "fuente": "Por Damian B Oh - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118608448"
+  },
+  "Hyundai Staria_trasera": {
+    "fuente": "Por Damian B Oh - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118608455"
+  },
+  "Hyundai Atos - Amica - Santro (1998)_delantera": {
+    "fuente": "Por Benespit - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135543762"
+  },
+  "Hyundai Atos - Amica - Santro (1998)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135543763"
+  },
+  "Hyundai Atos - Amica - Santro (2003)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3792299"
+  },
+  "Hyundai Atos - Amica - Santro (2003)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3792303"
+  },
+  "Hyundai Getz_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=111255"
+  },
+  "Hyundai Getz_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64665717"
+  },
+  "Hyundai Genesis - Rohens (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5680389"
+  },
+  "Hyundai Genesis - Rohens (1° Gen.)_trasera": {
+    "fuente": "By Chu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11159417"
+  },
+  "Hyundai Genesis (2° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118745711"
+  },
+  "Hyundai Genesis (2° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70131518"
+  },
+  "Hyundai Genesis Coupe (2010)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=7739575"
+  },
+  "Hyundai Genesis Coupe (2010)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7739545"
+  },
+  "Hyundai Genesis Coupe (2013)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=20076516"
+  },
+  "Hyundai Genesis Coupe (2013)_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92999017"
+  },
+  "Hyundai Veloster (1° Gen.)_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=34206574"
+  },
+  "Hyundai Veloster (1° Gen.)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14767566"
+  },
+  "Hyundai Veloster (2° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116978202"
+  },
+  "Hyundai Veloster (2° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116978215"
+  },
+  "Hyundai Tiburón - Coupe - Tuscani (1° Gen.)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2851974"
+  },
+  "Hyundai Tiburón - Coupe - Tuscani (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3218161"
+  },
+  "Hyundai Tiburón - Coupe - Tuscani (2° Gen.)_delantera": {
+    "fuente": "By Makizox - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61429824"
+  },
+  "Hyundai Tiburón - Coupe - Tuscani (2° Gen.)_trasera": {
+    "fuente": "By Makizox - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61429826"
+  },
+  "Hyundai Tiburón - Coupe - Tuscani (3° Gen.)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2851967"
+  },
+  "Hyundai Tiburón - Coupe - Tuscani (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91022291"
+  },
+  "Hyundai Tiburón - Coupe - Tuscani (4° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77449789"
+  },
+  "Hyundai Tiburón - Coupe - Tuscani (4° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77449790"
   },
   "Maserati 3500 GT (1° Gen.)_delantera": {
     "fuente": ""

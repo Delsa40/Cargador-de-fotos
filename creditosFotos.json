@@ -1091,173 +1091,203 @@
   "Hyundai Tiburón - Coupe - Tuscani (4° Gen.)_trasera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77449790"
   },
-  "Maserati 3500 GT (1° Gen.)_delantera": {
-    "fuente": ""
+  "Hyundai N Vision 74_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122596693"
   },
-  "Maserati 3500 GT (1° Gen.)_trasera": {
-    "fuente": ""
+  "Hyundai N Vision 74_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122596728"
   },
-  "Maserati 5000 GT_delantera": {
-    "fuente": ""
+  "Hyundai Pony (1° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133787568"
   },
-  "Maserati 5000 GT_trasera": {
-    "fuente": ""
+  "Hyundai Pony (1° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133787493"
+  },
+  "Hyundai Pony Wagon (1° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133789361"
+  },
+  "Hyundai Pony Wagon (1° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133789675"
+  },
+  "Hyundai Pony (2° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133789023"
+  },
+  "Hyundai Pony (2° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177709552"
+  },
+  "Hyundai Pony Pickup (2° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133789183"
+  },
+  "Hyundai Pony Pickup (2° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133789223"
+  },
+  "Maserati 3500 GT_delantera": {
+    "fuente": "By Abehn - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=20546615"
+  },
+  "Maserati 3500 GT_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59903254"
+  },
+  "Maserati 5000 GT Scia di Persia_delantera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=34164128"
+  },
+  "Maserati 5000 GT Scia di Persia_trasera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=34164154"
   },
   "Maserati Quattroporte (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Rex Gray - 1967 Maserati Quattroporte 1 Series II - fvl2, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38333479"
   },
   "Maserati Quattroporte (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Rex Gray - 1967 Maserati Quattroporte 1 Series II - rvl, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38333478"
   },
-  "Maserati Ghibli (1° Gen.)_delantera": {
-    "fuente": ""
+  "Maserati Quattroporte (2° Gen.)_delantera": {
+    "fuente": "By Loudumo - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126499289"
   },
-  "Maserati Ghibli (1° Gen.)_trasera": {
-    "fuente": ""
+  "Maserati Quattroporte (2° Gen.)_trasera": {
+    "fuente": "By Buch-t - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6274223"
+  },
+  "Maserati Quattroporte (3° Gen.)_delantera": {
+    "fuente": "By Luc106 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5249251"
+  },
+  "Maserati Quattroporte (3° Gen.)_trasera": {
+    "fuente": "By Tony Harrison from Farnborough, UK;cropped and plates anonymized by uploader Mr.choppers - Auto Italia Stanford Hall June 2010 IMG_9598, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=14139578"
+  },
+  "Maserati Quattroporte (4° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=33291351"
+  },
+  "Maserati Quattroporte (4° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=33291321"
+  },
+  "Maserati Quattroporte (5° Gen.)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=146429441"
+  },
+  "Maserati Quattroporte (5° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122078883"
+  },
+  "Maserati Quattroporte (6° Gen.)_delantera": {
+    "fuente": "Por Alexander-93 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129296545"
+  },
+  "Maserati Quattroporte (6° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73685222"
+  },
+  "Maserati Ghibli (AM115)_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73583754"
+  },
+  "Maserati Ghibli (AM115)_trasera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73461239"
+  },
+  "Maserati Ghibli (AM336)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72975498"
+  },
+  "Maserati Ghibli (AM336)_trasera": {
+    "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20045874"
+  },
+  "Maserati Ghibli (M157)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31751647"
+  },
+  "Maserati Ghibli (M157)_trasera": {
+    "fuente": "By Jakub Flyz1 Maciejewski - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=48136281"
   },
   "Maserati Mistral_delantera": {
-    "fuente": ""
+    "fuente": "Por Rex GrayAltered by Cloverleaf II - 1967 Maserati Mistral Coupe - silver - fvr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38331226"
   },
   "Maserati Mistral_trasera": {
-    "fuente": ""
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129084023"
   },
   "Maserati Indy_delantera": {
-    "fuente": ""
+    "fuente": "By Calreyn88 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=146055618"
   },
   "Maserati Indy_trasera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=64223795"
   },
   "Maserati Bora_delantera": {
-    "fuente": ""
+    "fuente": "By tandemracer - https://www.flickr.com/photo_zoom.gne?id=220789452&size=o, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=2311312"
   },
   "Maserati Bora_trasera": {
-    "fuente": ""
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=48120619"
   },
   "Maserati Merak_delantera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175245623"
   },
   "Maserati Merak_trasera": {
-    "fuente": ""
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13328842"
   },
   "Maserati Khamsin_delantera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112412165"
   },
   "Maserati Khamsin_trasera": {
-    "fuente": ""
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15509671"
   },
   "Maserati Kyalami_delantera": {
-    "fuente": ""
+    "fuente": "By Lucas P - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2682284"
   },
   "Maserati Kyalami_trasera": {
-    "fuente": ""
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2565911"
   },
-  "Maserati Biturbo (1° Gen.)_delantera": {
-    "fuente": ""
+  "Maserati Biturbo_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32887397"
   },
-  "Maserati Biturbo (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Maserati 222_delantera": {
-    "fuente": ""
-  },
-  "Maserati 222_trasera": {
-    "fuente": ""
-  },
-  "Maserati 430_delantera": {
-    "fuente": ""
-  },
-  "Maserati 430_trasera": {
-    "fuente": ""
-  },
-  "Maserati 420_delantera": {
-    "fuente": ""
-  },
-  "Maserati 420_trasera": {
-    "fuente": ""
+  "Maserati Biturbo_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1984 Maserati BiTurbo, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=155270533"
   },
   "Maserati Shamal_delantera": {
-    "fuente": ""
+    "fuente": "By Marco 56, edited by Cloverleaf II - ROMA 6H0621, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=46768151"
   },
   "Maserati Shamal_trasera": {
-    "fuente": ""
-  },
-  "Maserati Spyder (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Maserati Spyder (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Tony Harrison from Farnborough, UK;cropped, levels adjusted, and plates cleared by uploader Mr.choppers - Auto Italia Italian Car Day Brooklands May 2010 IMG_8678, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=16017985"
   },
   "Maserati 3200 GT_delantera": {
-    "fuente": ""
+    "fuente": "By order_242 from Chile - Maserati 3200 GT 2006, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34575459"
   },
   "Maserati 3200 GT_trasera": {
-    "fuente": ""
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=44103048"
   },
-  "Maserati Coupé (1° Gen.)_delantera": {
-    "fuente": ""
+  "Maserati 4200 GT_delantera": {
+    "fuente": "By Rundvald - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148969587"
   },
-  "Maserati Coupé (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Maserati GranSport_delantera": {
-    "fuente": ""
-  },
-  "Maserati GranSport_trasera": {
-    "fuente": ""
-  },
-  "Maserati Quattroporte V_delantera": {
-    "fuente": ""
-  },
-  "Maserati Quattroporte V_trasera": {
-    "fuente": ""
-  },
-  "Maserati Quattroporte VI_delantera": {
-    "fuente": ""
-  },
-  "Maserati Quattroporte VI_trasera": {
-    "fuente": ""
-  },
-  "Maserati Ghibli III_delantera": {
-    "fuente": ""
-  },
-  "Maserati Ghibli III_trasera": {
-    "fuente": ""
+  "Maserati 4200 GT_trasera": {
+    "fuente": "By Rundvald - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148969592"
   },
   "Maserati Levante_delantera": {
-    "fuente": ""
+    "fuente": "By Alexandre Prévot from Nancy, France - Maserati Levante Scropped and edited by EurovisionNim, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=62505589"
   },
   "Maserati Levante_trasera": {
-    "fuente": ""
+    "fuente": "By Alexandre Prévot from Nancy, France - Maserati Levante Scropped and edited by uploader EurovisionNim, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=62505669"
   },
-  "Maserati Alfieri_delantera": {
-    "fuente": ""
+  "Maserati Alfieri Concept_delantera": {
+    "fuente": "By Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=35214141"
   },
-  "Maserati Alfieri_trasera": {
-    "fuente": ""
+  "Maserati Alfieri Concept_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=37693550"
   },
   "Maserati MC12_delantera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=154084147"
   },
   "Maserati MC12_trasera": {
-    "fuente": ""
+    "fuente": "By Thesupermat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73302964"
   },
   "Maserati GranTurismo (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3021246"
   },
   "Maserati GranTurismo (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3021250"
   },
-  "Maserati GranCabrio_delantera": {
-    "fuente": ""
+  "Maserati GranTurismo (2° Gen.)_delantera": {
+    "fuente": "Por MrWalkr - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136982858"
   },
-  "Maserati GranCabrio_trasera": {
-    "fuente": ""
+  "Maserati GranTurismo (2° Gen.)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137748209"
   },
   "Maserati MC20_delantera": {
-    "fuente": ""
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117160948"
   },
   "Maserati MC20_trasera": {
-    "fuente": ""
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109808609"
+  },
+  "Maserati México_delantera": {
+    "fuente": "By Gabriele - originally posted to Flickr as Maserati Mexico, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=7888269"
+  },
+  "Maserati México_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19865689"
   },
   "Porsche 356 (1° Gen.)_delantera": {
     "fuente": ""

@@ -1805,16 +1805,16 @@
   "Mercedes-Benz 170_trasera": {
     "fuente": "By nakhon100 - Mercedes-Benz 170, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37767653"
   },
-  "Mercedes-Benz 220_delantera": {
+  "Mercedes-Benz W128_delantera": {
     "fuente": "By Rainer Persicke - photographed by R. Persicke in Arnis, Germany, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=142431426"
   },
-  "Mercedes-Benz 220_trasera": {
+  "Mercedes-Benz W128_trasera": {
     "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5864909"
   },
-  "Mercedes-Benz 190_delantera": {
+  "Mercedes-Benz 190 (W201)_delantera": {
     "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5299417"
   },
-  "Mercedes-Benz 190_trasera": {
+  "Mercedes-Benz 190 (W201)_trasera": {
     "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5299425"
   },
   "Mercedes-Benz 190E Evo I_delantera": {
@@ -1829,119 +1829,473 @@
   "Mercedes-Benz 190E Evo II_trasera": {
     "fuente": "By GerdeeX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=170287513"
   },
-  "Mercedes-Benz 250_delantera": {
-    "fuente": ""
+  "Mercedes-Benz W187_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=16261733"
   },
-  "Mercedes-Benz 250_trasera": {
-    "fuente": ""
+  "Mercedes-Benz W187_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=16261754"
   },
-  "Mercedes-Benz 280_delantera": {
-    "fuente": ""
+  "Mercedes-Benz W111_delantera": {
+    "fuente": "By Ra Boe / Wikipedia, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=38512593"
   },
-  "Mercedes-Benz 280_trasera": {
-    "fuente": ""
+  "Mercedes-Benz W111_trasera": {
+    "fuente": "By Maly LOLek - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2101663"
   },
-  "Mercedes-Benz 300_delantera": {
-    "fuente": ""
+  "Mercedes-Benz W114-W115_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4570328"
   },
-  "Mercedes-Benz 300_trasera": {
-    "fuente": ""
+  "Mercedes-Benz W114-W115_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4570337"
   },
-  "Mercedes-Benz 350_delantera": {
-    "fuente": ""
+  "Mercedes-Benz W189_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=157832010"
   },
-  "Mercedes-Benz 350_trasera": {
-    "fuente": ""
+  "Mercedes-Benz W189_trasera": {
+    "fuente": "By Berthold Werner - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7509041"
   },
-  "Mercedes-Benz 380_delantera": {
-    "fuente": ""
+  "Mercedes-Benz SL (W113)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1970 Mercedes Benz 280SL, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69236717"
   },
-  "Mercedes-Benz 380_trasera": {
-    "fuente": ""
+  "Mercedes-Benz SL (W113)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20475019"
   },
-  "Mercedes-Benz 450_delantera": {
-    "fuente": ""
+  "Mercedes-Benz W123_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=20974290"
   },
-  "Mercedes-Benz 450_trasera": {
-    "fuente": ""
+  "Mercedes-Benz W123_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117681260"
   },
-  "Mercedes-Benz C-Class (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz W123 Estate_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=6662779"
   },
-  "Mercedes-Benz C-Class (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz W123 Estate_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=6662786"
   },
-  "Mercedes-Benz E-Class (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz 300 SL_delantera": {
+    "fuente": "By Morio - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=57658848"
   },
-  "Mercedes-Benz E-Class (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz 300 SL_trasera": {
+    "fuente": "By Loadsas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86788359"
   },
-  "Mercedes-Benz S-Class (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz W124_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3398893"
   },
-  "Mercedes-Benz S-Class (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz W124_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3398904"
   },
-  "Mercedes-Benz CL-Class_delantera": {
-    "fuente": ""
+  "Mercedes-Benz W124 Estate_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=6568637"
   },
-  "Mercedes-Benz CL-Class_trasera": {
-    "fuente": ""
+  "Mercedes-Benz W124 Estate_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=6568644"
   },
-  "Mercedes-Benz SL (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class (W202)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6770618"
   },
-  "Mercedes-Benz SL (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class (W202)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77511279"
   },
-  "Mercedes-Benz SLK (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class (W203)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=1588045"
   },
-  "Mercedes-Benz SLK (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class (W203)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7712020"
   },
-  "Mercedes-Benz CLK (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class (W204)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=3605317"
   },
-  "Mercedes-Benz CLK (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class (W204)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66746322"
   },
-  "Mercedes-Benz CLS (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class (W205)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69596817"
   },
-  "Mercedes-Benz CLS (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class (W205)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69596816"
   },
-  "Mercedes-Benz B-Class (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class (W206)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=147662683"
   },
-  "Mercedes-Benz B-Class (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class (W206)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=147662694"
   },
-  "Mercedes-Benz A-Class (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class Estate (W206)_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113494949"
   },
-  "Mercedes-Benz A-Class (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz C-Class Estate (W206)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116010146"
   },
-  "Mercedes-Benz GLK (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz E-Class (W124)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3633364"
   },
-  "Mercedes-Benz GLK (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz E-Class (W124)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3633367"
   },
-  "Mercedes-Benz GLC (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz E-Class (W210)_delantera": {
+    "fuente": "By BenYung0531 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65330294"
   },
-  "Mercedes-Benz GLC (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz E-Class (W210)_trasera": {
+    "fuente": "By No machine-readable author provided. M 93 assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5492621"
   },
-  "Mercedes-Benz GLE (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mercedes-Benz E-Class (W211)_delantera": {
+    "fuente": "By order_242 from Chile - Mercedes Benz E 63 AMG 2009, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=35994713"
   },
-  "Mercedes-Benz GLE (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mercedes-Benz E-Class (W211)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=37158500"
+  },
+  "Mercedes-Benz E-Class (W212)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125326540"
+  },
+  "Mercedes-Benz E-Class (W212)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=27957857"
+  },
+  "Mercedes-Benz E-Class Coupe (W212)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6433603"
+  },
+  "Mercedes-Benz E-Class Coupe (W212)_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6433606"
+  },
+  "Mercedes-Benz E-Class (W213)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133402137"
+  },
+  "Mercedes-Benz E-Class (W213)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133402151"
+  },
+  "Mercedes-Benz E-Class Coupe (W213)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67255019"
+  },
+  "Mercedes-Benz E-Class Coupe (W213)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67255022"
+  },
+  "Mercedes-Benz E-Class Estate (W213)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87565248"
+  },
+  "Mercedes-Benz E-Class Estate (W213)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87565247"
+  },
+  "Mercedes-Benz E-Class (W214)_delantera": {
+    "fuente": "Por M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=169358843"
+  },
+  "Mercedes-Benz E-Class (W214)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=169358858"
+  },
+  "Mercedes-Benz E-Class Estate (W214)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=170386714"
+  },
+  "Mercedes-Benz E-Class Estate (W214)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=176612233"
+  },
+  "Mercedes-Benz S-Class (W116)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3935962"
+  },
+  "Mercedes-Benz S-Class (W116)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3936072"
+  },
+  "Mercedes-Benz S-Class (W126)_delantera": {
+    "fuente": "By order_242 from Chile - Mercedes Benz 280 S 1981, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=37145803"
+  },
+  "Mercedes-Benz S-Class (W126)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Mercedes Benz 280 S 1981, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=134124861"
+  },
+  "Mercedes-Benz S-Class Coupe (W126)_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3326678"
+  },
+  "Mercedes-Benz S-Class Coupe (W126)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3326687"
+  },
+  "Mercedes-Benz S-Class (W140)_delantera": {
+    "fuente": "By Spanish Coches - 1990 Mercedes-Benz 500 SEL [W140], CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115587"
+  },
+  "Mercedes-Benz S-Class (W140)_trasera": {
+    "fuente": "By Spanish Coches - 1990 Mercedes-Benz 500 SEL [W140], CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115590"
+  },
+  "Mercedes-Benz S-Class Estate (W140)_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152814421"
+  },
+  "Mercedes-Benz S-Class Estate (W140)_trasera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152814496"
+  },
+  "Mercedes-Benz S-Class (W220)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10914160"
+  },
+  "Mercedes-Benz S-Class (W220)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10914374"
+  },
+  "Mercedes-Benz S-Class (W221)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125326564"
+  },
+  "Mercedes-Benz S-Class (W221)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125326565"
+  },
+  "Mercedes-Benz S-Class (W222)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134673201"
+  },
+  "Mercedes-Benz S-Class (W222)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134673200"
+  },
+  "Mercedes-Benz CL-Class (C140)_delantera": {
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3899910"
+  },
+  "Mercedes-Benz CL-Class (C140)_trasera": {
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3899908"
+  },
+  "Mercedes-Benz CL-Class (C215)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174891222"
+  },
+  "Mercedes-Benz CL-Class (C215)_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174891240"
+  },
+  "Mercedes-Benz CL-Class (C216)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10855028"
+  },
+  "Mercedes-Benz CL-Class (C216)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10855032"
+  },
+  "Mercedes-Benz 190 SL_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=15511853"
+  },
+  "Mercedes-Benz 190 SL_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=15511886"
+  },
+  "Mercedes-Benz SL (R107)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=13292616"
+  },
+  "Mercedes-Benz SL (R107)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=13292625"
+  },
+  "Mercedes-Benz SL (R129)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=14578488"
+  },
+  "Mercedes-Benz SL (R129)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=14578516"
+  },
+  "Mercedes-Benz SL (R230)(2001)_delantera": {
+    "fuente": "By Matti Blume (MB-one) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1980126"
+  },
+  "Mercedes-Benz SL (R230)(2001)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10855013"
+  },
+  "Mercedes-Benz SL (R230)(2008)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4064223"
+  },
+  "Mercedes-Benz SL (R230)(2008)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4064232"
+  },
+  "Mercedes-Benz SL (R231)_delantera": {
+    "fuente": "By order_242 from Chile - Mercedes Benz SL 500 2014, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=41811098"
+  },
+  "Mercedes-Benz SL (R231)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=20581206"
+  },
+  "Mercedes-Benz SLK (R170)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6264681"
+  },
+  "Mercedes-Benz SLK (R170)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134661063"
+  },
+  "Mercedes-Benz SLK (R171)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=3296771"
+  },
+  "Mercedes-Benz SLK (R171)_trasera": {
+    "fuente": "Por M 93 - Fotografía propia, Attribution, https://commons.wikimedia.org/w/index.php?curid=10621225"
+  },
+  "Mercedes-Benz SLK (R172)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66746326"
+  },
+  "Mercedes-Benz SLK (R172)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74710872"
+  },
+  "Mercedes-Benz SLS AMG_delantera": {
+    "fuente": "Por Stefan Krause, Germany - Trabajo propio, FAL, https://commons.wikimedia.org/w/index.php?curid=17235989"
+  },
+  "Mercedes-Benz SLS AMG_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=16056480"
+  },
+  "Mercedes-Benz SLS AMG Black Series_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135603129"
+  },
+  "Mercedes-Benz SLS AMG Black Series_trasera": {
+    "fuente": "By steve lyon from los angeles, ca, usa - Mercedes Benz AMG SLS BlackUploaded by FAEP, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=22962750"
+  },
+  "Mercedes-Benz SL 65 AMG Black Series_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=41626913"
+  },
+  "Mercedes-Benz SL 65 AMG Black Series_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - Mercedes-Benz SL65 AMG Black Series, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=29873630"
+  },
+  "Mercedes-Benz CLK 63 AMG Black Series_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=144050242"
+  },
+  "Mercedes-Benz CLK 63 AMG Black Series_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=143981668"
+  },
+  "Mercedes-Benz C 63 AMG Coupe Black Series_delantera": {
+    "fuente": "By Stephen Hennessey from Murrieta, CA - C63 AMG Black SeriesUploaded by FAEP, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=22842053"
+  },
+  "Mercedes-Benz C 63 AMG Coupe Black Series_trasera": {
+    "fuente": "By Kalvin Chan - IMG_8562, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=116534375"
+  },
+  "Mercedes-Benz AMG GT Black Series_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=171040048"
+  },
+  "Mercedes-Benz AMG GT Black Series_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148975408"
+  },
+  "Mercedes-Benz SLR McLaren_delantera": {
+    "fuente": "Por Cars en travel - nl.wikipedia.org: 17 apr 2006 15:53 . . Cars en travel (Overleg) . . 2592x1944 (1132806 bytes) (Mercedes-Benz SLR McLaren (Brussel 2006). Eigen werk, PD.), Dominio público, https://commons.wikimedia.org/w/index.php?curid=749066"
+  },
+  "Mercedes-Benz SLR McLaren_trasera": {
+    "fuente": "Por Tokumeigakarinoaoshima - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=36889892"
+  },
+  "Mercedes-Benz SLR McLaren Stirling Moss_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=146681975"
+  },
+  "Mercedes-Benz SLR McLaren Stirling Moss_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - Mercedes-Benz SLR Stirling Moss, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=53530849"
+  },
+  "Benz Patent-Motorwagen_delantera": {
+    "fuente": "By Kuroczynski - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119203561"
+  },
+  "Benz Patent-Motorwagen_trasera": {
+    "fuente": "By Kuroczynski - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119203563"
+  },
+  "Mercedes-Benz CLK (W208)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3632417"
+  },
+  "Mercedes-Benz CLK (W208)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3632445"
+  },
+  "Mercedes-Benz CLK GTR_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59225731"
+  },
+  "Mercedes-Benz CLK GTR_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=111977194"
+  },
+  "Mercedes-Benz CLK GTR Roadster_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137927880"
+  },
+  "Mercedes-Benz CLK GTR Roadster_trasera": {
+    "fuente": "By Federal Bureau of Investigation - https://x.com/FBILosAngeles/status/1993118839127601512, Public Domain, https://commons.wikimedia.org/w/index.php?curid=179015100"
+  },
+  "Mercedes-Benz CLK (W209)_delantera": {
+    "fuente": "Por JanS - Fotografía propia, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=848231"
+  },
+  "Mercedes-Benz CLK (W209)_trasera": {
+    "fuente": "By JanS - Self-photographed, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=848237"
+  },
+  "Mercedes-Benz CLS (W219)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4104100"
+  },
+  "Mercedes-Benz CLS (W219)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4104104"
+  },
+  "Mercedes-Benz CLS (W218)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=14937253"
+  },
+  "Mercedes-Benz CLS (W218)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=14937272"
+  },
+  "Mercedes-Benz CLS (W257)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82080962"
+  },
+  "Mercedes-Benz CLS (W257)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127986795"
+  },
+  "Mercedes-Benz B-Class (W245)_delantera": {
+    "fuente": "Por Stahlkocher - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=218841"
+  },
+  "Mercedes-Benz B-Class (W245)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=100329408"
+  },
+  "Mercedes-Benz B-Class (W246)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=16687818"
+  },
+  "Mercedes-Benz B-Class (W246)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=16687823"
+  },
+  "Mercedes-Benz B-Class (W247)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=102925447"
+  },
+  "Mercedes-Benz B-Class (W247)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=102925507"
+  },
+  "Mercedes-Benz A-Class (W168)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7902985"
+  },
+  "Mercedes-Benz A-Class (W168)_trasera": {
+    "fuente": "By M 93 (talk) 13:47, 20 January 2009 (UTC) - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5753315"
+  },
+  "Mercedes-Benz A-Class (W169)_delantera": {
+    "fuente": "Por M 93 - Fotografía propia, Attribution, https://commons.wikimedia.org/w/index.php?curid=7083887"
+  },
+  "Mercedes-Benz A-Class (W169)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7083893"
+  },
+  "Mercedes-Benz A-Class (W176)_delantera": {
+    "fuente": "By Livefields - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23557161"
+  },
+  "Mercedes-Benz A-Class (W176)_trasera": {
+    "fuente": "By Livefields - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23557160"
+  },
+  "Mercedes-Benz A-Class (W177)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74806716"
+  },
+  "Mercedes-Benz A-Class (W177)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74806717"
+  },
+  "Mercedes-Benz GLK_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10278476"
+  },
+  "Mercedes-Benz GLK_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10278490"
+  },
+  "Mercedes-Benz GLC_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67350801"
+  },
+  "Mercedes-Benz GLC_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67350802"
+  },
+  "Mercedes-Benz GLC Coupe_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69281774"
+  },
+  "Mercedes-Benz GLC Coupe_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69281775"
+  },
+  "Mercedes-Benz M-Class (W163)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3049510"
+  },
+  "Mercedes-Benz M-Class (W163)_trasera": {
+    "fuente": "By order_242 from Chile - Mercedes Benz ML 430 1999, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34575899"
+  },
+  "Mercedes-Benz M-Class (W164)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10215400"
+  },
+  "Mercedes-Benz M-Class (W164)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10215420"
+  },
+  "Mercedes-Benz GLE (W166)(2011)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=28158642"
+  },
+  "Mercedes-Benz GLE (W166)(2011)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=28158663"
+  },
+  "Mercedes-Benz GLE (W166)(2016)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77511261"
+  },
+  "Mercedes-Benz GLE (W166)(2016)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77511262"
+  },
+  "Mercedes-Benz GLE (W167)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79770282"
+  },
+  "Mercedes-Benz GLE (W167)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79770279"
+  },
+  "Mercedes-Benz GLE Coupe (W167)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82078340"
+  },
+  "Mercedes-Benz GLE Coupe (W167)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82052579"
   },
   "Mercedes-Benz GLS (1° Gen.)_delantera": {
     "fuente": ""
@@ -1953,12 +2307,6 @@
     "fuente": ""
   },
   "Mercedes-Benz G-Class (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Mercedes-Benz M-Class (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Mercedes-Benz M-Class (1° Gen.)_trasera": {
     "fuente": ""
   },
   "Mercedes-Benz R-Class_delantera": {

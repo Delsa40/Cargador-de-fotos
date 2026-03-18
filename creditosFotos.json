@@ -2969,101 +2969,161 @@
   "Audi A8 (4° Gen.)_trasera": {
     "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62544926"
   },
-  "Audi Q2 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Audi Q2_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68152491"
   },
-  "Audi Q2 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Audi Q2_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68152493"
   },
   "Audi Q3 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=20433852"
   },
   "Audi Q3 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=20433863"
   },
-  "Audi Q4 e-tron (1° Gen.)_delantera": {
-    "fuente": ""
+  "Audi Q3 (2° Gen.)_delantera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78313566"
   },
-  "Audi Q4 e-tron (1° Gen.)_trasera": {
-    "fuente": ""
+  "Audi Q3 (2° Gen.)_trasera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78313565"
+  },
+  "Audi Q4 e-tron_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=159431706"
+  },
+  "Audi Q4 e-tron_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=176960085"
   },
   "Audi Q5 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=21362817"
   },
   "Audi Q5 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=21363035"
+  },
+  "Audi Q5 (2° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70811216"
+  },
+  "Audi Q5 (2° Gen.)_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70811217"
+  },
+  "Audi Q6_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121278360"
+  },
+  "Audi Q6_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121278361"
   },
   "Audi Q7 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=5756077"
   },
   "Audi Q7 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=5756099"
   },
-  "Audi Q8 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Audi Q7 (2° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63195573"
   },
-  "Audi Q8 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Audi Q7 (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63195575"
+  },
+  "Audi Q8_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77511266"
+  },
+  "Audi Q8_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77511267"
+  },
+  "Audi RSQ8_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93369093"
+  },
+  "Audi RSQ8_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93369092"
   },
   "Audi TT (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Mhueltner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36025545"
   },
   "Audi TT (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968107"
+  },
+  "Audi TT (2° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167108530"
+  },
+  "Audi TT (2° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167108548"
+  },
+  "Audi TT RS (2° Gen.)_delantera": {
+    "fuente": "Por Alexandre Prévot from Nancy, France - Audi TT RS, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=48787619"
+  },
+  "Audi TT RS (2° Gen.)_trasera": {
+    "fuente": "Por Alexandre Prévot from Nancy, France - Audi TT RS, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=50356863"
+  },
+  "Audi TT (3° Gen.)_delantera": {
+    "fuente": "By Harvey Bold - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=152458832"
+  },
+  "Audi TT (3° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=181050536"
+  },
+  "Audi TT RS (3° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68093065"
+  },
+  "Audi TT RS (3° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=159762545"
   },
   "Audi R8 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por M 93 - Fotografía propia, Attribution, https://commons.wikimedia.org/w/index.php?curid=14587344"
   },
   "Audi R8 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "Por M 93 - Fotografía propia, Attribution, https://commons.wikimedia.org/w/index.php?curid=14587354"
+  },
+  "Audi R8 (2° Gen.)_delantera": {
+    "fuente": "Por Edvvc from London, UK - 2015 Audi R8 Coupé 5.2 FSI quattro, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43762351"
+  },
+  "Audi R8 (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72472001"
   },
   "Audi e-tron GT_delantera": {
-    "fuente": ""
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=118367630"
   },
   "Audi e-tron GT_trasera": {
-    "fuente": ""
-  },
-  "Audi RS Q8_delantera": {
-    "fuente": ""
-  },
-  "Audi RS Q8_trasera": {
-    "fuente": ""
-  },
-  "Audi Cabriolet_delantera": {
-    "fuente": ""
-  },
-  "Audi Cabriolet_trasera": {
-    "fuente": ""
+    "fuente": "By Ssu - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=100416844"
   },
   "Audi V8_delantera": {
-    "fuente": ""
+    "fuente": "By Jagvar - en:Image:Audi V8Quattro.JPG, Public Domain, https://commons.wikimedia.org/w/index.php?curid=780522"
   },
   "Audi V8_trasera": {
-    "fuente": ""
+    "fuente": "By Rutger van der Maar - https://www.flickr.com/photos/rutgervandermaar/17613492226/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=112579287"
   },
   "Audi Quattro_delantera": {
-    "fuente": ""
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=170137850"
   },
   "Audi Quattro_trasera": {
-    "fuente": ""
+    "fuente": "By Guillaume Vachey from Chalon sur Saone, France - Audi Quattro, CC0, https://commons.wikimedia.org/w/index.php?curid=79713652"
   },
   "Audi Sport quattro_delantera": {
-    "fuente": ""
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118497920"
   },
   "Audi Sport quattro_trasera": {
-    "fuente": ""
+    "fuente": "By Thesupermat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71222610"
   },
-  "Audi 60_delantera": {
-    "fuente": ""
+  "Audi Sport quattro S1_delantera": {
+    "fuente": "By Brian Snelson - originally posted to Flickr as 1985 Audi Sport Quattro S1, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=7286273"
   },
-  "Audi 60_trasera": {
-    "fuente": ""
+  "Audi Sport quattro S1_trasera": {
+    "fuente": "By Neuwieser from Germany - EMS 2011, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=115934216"
   },
-  "Audi 72_delantera": {
-    "fuente": ""
+  "Audi C_delantera": {
+    "fuente": "By Matěj Baťha - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=2914510"
   },
-  "Audi 72_trasera": {
-    "fuente": ""
+  "Audi C_trasera": {
+    "fuente": "By Matěj Baťha - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=2914504"
+  },
+  "Audi SQ6 e-tron_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152836074"
+  },
+  "Audi SQ6 e-tron_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152836097"
+  },
+  "Audi Q8 e-tron_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=167595872"
+  },
+  "Audi Q8 e-tron_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=167595953"
   },
   "BMW 507_delantera": {
     "fuente": ""

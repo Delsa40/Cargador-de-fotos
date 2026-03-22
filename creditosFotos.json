@@ -3186,34 +3186,310 @@
     "fuente": "By Morio - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=22169047"
   },
   "BMW 507_delantera": {
-    "fuente": ""
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=182429989"
   },
   "BMW 507_trasera": {
-    "fuente": ""
+    "fuente": "By Ank Kumar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102304577"
   },
   "BMW 2002_delantera": {
-    "fuente": ""
+    "fuente": "By OlliFoolish - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31698871"
   },
   "BMW 2002_trasera": {
-    "fuente": ""
+    "fuente": "By OWS Photography - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=172251140"
   },
-  "BMW 1500_delantera": {
-    "fuente": ""
+  "BMW 2002 Turbo_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117274408"
   },
-  "BMW 1500_trasera": {
-    "fuente": ""
+  "BMW 2002 Turbo_trasera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA, https://commons.wikimedia.org/w/index.php?curid=155069070"
   },
-  "BMW 3 Series (E21) (1° Gen.)_delantera": {
-    "fuente": ""
+  "BMW 1500 - 1600 - 1800_delantera": {
+    "fuente": "By Ralf Roletschek (talk) - This file was derived from: 12-01-03-autostadtl-by-RalfR-21.jpgBearbeitung: Spurzem (talk) 11:55, 3 December 2023 (UTC) Fahrzeugfront aufgehellt, Bau reduziert, Perspektive korrigiert, FAL, https://commons.wikimedia.org/w/index.php?curid=141674291"
   },
-  "BMW 3 Series (E21) (1° Gen.)_trasera": {
-    "fuente": ""
+  "BMW 1500 - 1600 - 1800_trasera": {
+    "fuente": "By Charles01 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7668997"
   },
-  "BMW 5 Series (E12) (1° Gen.)_delantera": {
-    "fuente": ""
+  "BMW 2000_delantera": {
+    "fuente": "Public Domain, https://commons.wikimedia.org/w/index.php?curid=113159511"
   },
-  "BMW 5 Series (E12) (1° Gen.)_trasera": {
-    "fuente": ""
+  "BMW 2000_trasera": {
+    "fuente": "Public Domain, https://commons.wikimedia.org/w/index.php?curid=113159688"
+  },
+  "BMW 2000 CS_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1660489"
+  },
+  "BMW 2000 CS_trasera": {
+    "fuente": "By Freud - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=44402969"
+  },
+  "BMW 3 Series (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3807548"
+  },
+  "BMW 3 Series (1° Gen.)_trasera": {
+    "fuente": "By Luc106 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17484736"
+  },
+  "BMW 3 Series (2° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3464225"
+  },
+  "BMW 3 Series (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3464232"
+  },
+  "BMW 3 Series (3° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1569600"
+  },
+  "BMW 3 Series (3° Gen.)_trasera": {
+    "fuente": "By Makizox - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61658897"
+  },
+  "BMW 3 Series (4° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3788851"
+  },
+  "BMW 3 Series (4° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3788856"
+  },
+  "BMW 3 Series (5° Gen.)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=9975671"
+  },
+  "BMW 3 Series (5° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=9975687"
+  },
+  "BMW 3 Series (6° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135523823"
+  },
+  "BMW 3 Series (6° Gen.)_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23871956"
+  },
+  "BMW 3 Series (7° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832394"
+  },
+  "BMW 3 Series (7° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832395"
+  },
+  "BMW M3 (1° Gen.)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113984611"
+  },
+  "BMW M3 (1° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=176542851"
+  },
+  "BMW M3 (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70723836"
+  },
+  "BMW M3 (2° Gen.)_trasera": {
+    "fuente": "By nakhon100 - BMW M3 Coupé E36, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37752264"
+  },
+  "BMW M3 (3° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118465242"
+  },
+  "BMW M3 (3° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118465248"
+  },
+  "BMW M3 GTR Straßenversion_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148475234"
+  },
+  "BMW M3 GTR Straßenversion_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148475239"
+  },
+  "BMW M3 (4° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - BMW M3 Sedan 2010, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34577353"
+  },
+  "BMW M3 (4° Gen.)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11044602"
+  },
+  "BMW M3 Coupe (4° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3449924"
+  },
+  "BMW M3 Coupe (4° Gen.)_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - BMW M3 E92, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=48944829"
+  },
+  "BMW M3 GTS_delantera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - BMW M3 GTS, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=48944969"
+  },
+  "BMW M3 GTS_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - BMW M3 GTSUploaded by MB-one, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=155261130"
+  },
+  "BMW M3 (5° Gen.)_delantera": {
+    "fuente": "By EurovisionNim - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72181268"
+  },
+  "BMW M3 (5° Gen.)_trasera": {
+    "fuente": "By EurovisionNim - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62494007"
+  },
+  "BMW M3 (6° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=169918399"
+  },
+  "BMW M3 (6° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=169918622"
+  },
+  "BMW M3 Touring (6° Gen.)_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119824178"
+  },
+  "BMW M3 Touring (6° Gen.)_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=179586521"
+  },
+  "BMW 4 Series (1° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69492589"
+  },
+  "BMW 4 Series (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69492591"
+  },
+  "BMW 4 Series Gran Coupé (1° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77823859"
+  },
+  "BMW 4 Series Gran Coupé (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62811555"
+  },
+  "BMW 4 Series (2° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95939754"
+  },
+  "BMW 4 Series (2° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127986424"
+  },
+  "BMW 4 Series Gran Coupé (2° Gen.)_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115848742"
+  },
+  "BMW 4 Series Gran Coupé (2° Gen.)_trasera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115406044"
+  },
+  "BMW M4 (1° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71051470"
+  },
+  "BMW M4 (1° Gen.)_trasera": {
+    "fuente": "Por Alexandre Prévot from Nancy, France - BMW M4 F82cropped and edited by EurovisionNim, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=62524788"
+  },
+  "BMW M4 GTS_delantera": {
+    "fuente": "Por Obamaweed420 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45540984"
+  },
+  "BMW M4 GTS_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177558312"
+  },
+  "BMW M4 (2° Gen.)_delantera": {
+    "fuente": "By Trans-nyan - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149193510"
+  },
+  "BMW M4 (2° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=162206163"
+  },
+  "BMW M4 CSL_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=170768112"
+  },
+  "BMW M4 CSL_trasera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133608668"
+  },
+  "BMW 3.0 CSL (2022)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155127894"
+  },
+  "BMW 3.0 CSL (2022)_trasera": {
+    "fuente": "By Alexandre Prevot from Nancy, France - BMW 3.0 CSL, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=130408363"
+  },
+  "BMW 5 Series (1° Gen.)_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=381949"
+  },
+  "BMW 5 Series (1° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=27836331"
+  },
+  "BMW 5 Series (2° Gen.)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - BMW E28 528i, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45547828"
+  },
+  "BMW 5 Series (2° Gen.)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - BMW E28 528i, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45547831"
+  },
+  "BMW 5 Series (3° Gen.)_delantera": {
+    "fuente": "By Carluver23 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=42853906"
+  },
+  "BMW 5 Series (3° Gen.)_trasera": {
+    "fuente": "By Carluver23 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=42855624"
+  },
+  "BMW 5 Series (4° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108227091"
+  },
+  "BMW 5 Series (4° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108227090"
+  },
+  "BMW 5 Series (5° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102656039"
+  },
+  "BMW 5 Series (5° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102656046"
+  },
+  "BMW 5 Series (6° Gen.)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10142896"
+  },
+  "BMW 5 Series (6° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10142898"
+  },
+  "BMW 5 Series (7° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99452679"
+  },
+  "BMW 5 Series (7° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99452663"
+  },
+  "BMW 5 Series (8° Gen.)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=143629016"
+  },
+  "BMW 5 Series (8° Gen.)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=143629006"
+  },
+  "BMW 5 Series Touring (8° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=182913090"
+  },
+  "BMW 5 Series Touring (8° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=182913117"
+  },
+  "BMW 5 Series Touring (3° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2827504"
+  },
+  "BMW 5 Series Touring (3° Gen.)_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=184176878"
+  },
+  "BMW 5 Series Touring (4° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65949255"
+  },
+  "BMW 5 Series Touring (4° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119539802"
+  },
+  "BMW 5 Series Touring (5° Gen.)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15639373"
+  },
+  "BMW 5 Series Touring (5° Gen.)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15639405"
+  },
+  "BMW M5 (1° Gen.)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152316410"
+  },
+  "BMW M5 (1° Gen.)_trasera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16693812"
+  },
+  "BMW M5 (2° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=161385226"
+  },
+  "BMW M5 (2° Gen.)_trasera": {
+    "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31896387"
+  },
+  "BMW M5 (3° Gen.)_delantera": {
+    "fuente": "By Neef - 2 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=185250346"
+  },
+  "BMW M5 (3° Gen.)_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - BMW M5 E39, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=29820903"
+  },
+  "BMW M5 (4° Gen.)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1619362"
+  },
+  "BMW M5 (4° Gen.)_trasera": {
+    "fuente": "By Hatsukari715 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2999165"
+  },
+  "BMW M5 (5° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18245740"
+  },
+  "BMW M5 (5° Gen.)_trasera": {
+    "fuente": "By ilikewaffles11 - BMW M5, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43620252"
+  },
+  "BMW M5 (6° Gen.)_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72973925"
+  },
+  "BMW M5 (6° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=150495326"
+  },
+  "BMW M5 (7° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=180335253"
+  },
+  "BMW M5 (7° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173678320"
   },
   "BMW 6 Series (E24) (1° Gen.)_delantera": {
     "fuente": ""

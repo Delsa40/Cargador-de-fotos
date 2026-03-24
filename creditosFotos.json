@@ -3491,76 +3491,280 @@
   "BMW M5 (7° Gen.)_trasera": {
     "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173678320"
   },
-  "BMW 6 Series (E24) (1° Gen.)_delantera": {
+  "BMW 6 Series (1° Gen.)_delantera": {
+    "fuente": "By HLW, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11742849"
+  },
+  "BMW 6 Series (1° Gen.)_trasera": {
+    "fuente": "By Spanish Coches - 1982 BMW 635 CSi [E24], CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115574"
+  },
+  "BMW 6 Series (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67321975"
+  },
+  "BMW 6 Series (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67321976"
+  },
+  "BMW 6 Series (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71051484"
+  },
+  "BMW 6 Series (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71051486"
+  },
+  "BMW 6 Series (4° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71051480"
+  },
+  "BMW 6 Series (4° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71051481"
+  },
+  "BMW M6 (1° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117274628"
+  },
+  "BMW M6 (1° Gen.)_trasera": {
+    "fuente": "By Justin Lippolis - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66526449"
+  },
+  "BMW M6 (2° Gen.)_delantera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - BMW M6 E63, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=29834424"
+  },
+  "BMW M6 (2° Gen.)_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - BMW M6 E63, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=48786852"
+  },
+  "BMW M6 (3° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=27869220"
+  },
+  "BMW M6 (3° Gen.)_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - BMW M6 Gran Coupé, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=62768188"
+  },
+  "BMW 7 Series (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18049224"
+  },
+  "BMW 7 Series (1° Gen.)_trasera": {
+    "fuente": "By Freud - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=45166080"
+  },
+  "BMW 7 Series (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3366338"
+  },
+  "BMW 7 Series (2° Gen.)_trasera": {
+    "fuente": "By Spanish Coches - 1996 BMW 750i [E32], CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=47037678"
+  },
+  "BMW 7 Series (3° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7799982"
+  },
+  "BMW 7 Series (3° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7799986"
+  },
+  "BMW 7 Series (4° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10112307"
+  },
+  "BMW 7 Series (4° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10942615"
+  },
+  "BMW 7 Series (5° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9756601"
+  },
+  "BMW 7 Series (5° Gen.)_trasera": {
+    "fuente": "By nakhon100 - BMW 730d F01, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37760363"
+  },
+  "BMW 7 Series (6° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79856903"
+  },
+  "BMW 7 Series (6° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66413841"
+  },
+  "BMW 7 Series (7° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=144876874"
+  },
+  "BMW 7 Series (7° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=142453369"
+  },
+  "BMW 8 Series (1° Gen.)_delantera": {
+    "fuente": "Por JanS - Fotografía propia, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=804969"
+  },
+  "BMW 8 Series (1° Gen.)_trasera": {
+    "fuente": "By JanS - Self-photographed, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=804965"
+  },
+  "BMW 8 Series (2° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76331334"
+  },
+  "BMW 8 Series (2° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94997200"
+  },
+  "BMW M8_delantera": {
+    "fuente": "By Johannes Maximilian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82255595"
+  },
+  "BMW M8_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82139412"
+  },
+  "BMW 1 Series (1° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=19153336"
+  },
+  "BMW 1 Series (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73685208"
+  },
+  "BMW 1 Series Coupe (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17706271"
+  },
+  "BMW 1 Series Coupe (1° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138266399"
+  },
+  "BMW 1 Series M Coupe (1° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=26894994"
+  },
+  "BMW 1 Series M Coupe (1° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=26895016"
+  },
+  "BMW 1 Series (2° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18657109"
+  },
+  "BMW 1 Series (2° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18657128"
+  },
+  "BMW 1 Series (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91022298"
+  },
+  "BMW 1 Series (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91022301"
+  },
+  "BMW 1 Series (4° Gen.)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152384261"
+  },
+  "BMW 1 Series (4° Gen.)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152384112"
+  },
+  "BMW Isetta_delantera": {
+    "fuente": "By Pujanak - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4223932"
+  },
+  "BMW Isetta_trasera": {
+    "fuente": "By Robotriot - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6817959"
+  },
+  "BMW 2 Series (1° Gen.)_delantera": {
+    "fuente": "By EurovisionNim - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=49373507"
+  },
+  "BMW 2 Series (1° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120406853"
+  },
+  "BMW 2 Series (2° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118360032"
+  },
+  "BMW 2 Series (2° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123077173"
+  },
+  "BMW 2 Series Active Tourer (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74806693"
+  },
+  "BMW 2 Series Active Tourer (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63195567"
+  },
+  "BMW 2 Series Active Tourer (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147299975"
+  },
+  "BMW 2 Series Active Tourer (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147299977"
+  },
+  "BMW 2 Series Gran Tourer_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67139416"
+  },
+  "BMW 2 Series Gran Tourer_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47840960"
+  },
+  "BMW M2 (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66139435"
+  },
+  "BMW M2 (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66139436"
+  },
+  "BMW M2 (2° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=153618048"
+  },
+  "BMW M2 (2° Gen.)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=143628990"
+  },
+  "BMW M2 CS (1° Gen.)_delantera": {
+    "fuente": "By Alexandre Prevot - https://www.flickr.com/photos/alexprevot/51633409338/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=113165144"
+  },
+  "BMW M2 CS (1° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116423342"
+  },
+  "BMW M2 CS (2° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168114339"
+  },
+  "BMW M2 CS (2° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166552326"
+  },
+  "BMW X1 (1° Gen.)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15490163"
+  },
+  "BMW X1 (1° Gen.)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15490171"
+  },
+  "BMW X1 (2° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132681698"
+  },
+  "BMW X1 (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74710899"
+  },
+  "BMW X1 (3° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=160132457"
+  },
+  "BMW X1 (3° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=160132481"
+  },
+  "BMW X2 (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73866436"
+  },
+  "BMW X2 (1° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73919172"
+  },
+  "BMW X2 (2° Gen.)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149183902"
+  },
+  "BMW X2 (2° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=159431951"
+  },
+  "BMW X3 (1° Gen.)_delantera": {
+    "fuente": "By Harvey Bold - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=148335888"
+  },
+  "BMW X3 (1° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11604845"
+  },
+  "BMW X3 (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=16077952"
+  },
+  "BMW X3 (2° Gen.)_trasera": {
+    "fuente": "By DYNOMINA MINARDI - YouTube: https://www.youtube.com/watch?v=r6YH7hMnmhk&t=1s&ab_channel=DYNOMINAMINARDI – View/save archived versions on archive.org, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=114425014"
+  },
+  "BMW X3 (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74806706"
+  },
+  "BMW X3 (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74114798"
+  },
+  "BMW X3 (4° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155887395"
+  },
+  "BMW X3 (4° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164532161"
+  },
+  "BMW X4 (1° Gen.)_delantera": {
     "fuente": ""
   },
-  "BMW 6 Series (E24) (1° Gen.)_trasera": {
+  "BMW X4 (1° Gen.)_trasera": {
     "fuente": ""
   },
-  "BMW 7 Series (E23) (1° Gen.)_delantera": {
+  "BMW X5 (1° Gen.)_delantera": {
     "fuente": ""
   },
-  "BMW 7 Series (E23) (1° Gen.)_trasera": {
+  "BMW X5 (1° Gen.)_trasera": {
     "fuente": ""
   },
-  "BMW 8 Series (E31) (1° Gen.)_delantera": {
+  "BMW X6 (1° Gen.)_delantera": {
     "fuente": ""
   },
-  "BMW 8 Series (E31) (1° Gen.)_trasera": {
+  "BMW X6 (1° Gen.)_trasera": {
     "fuente": ""
   },
-  "BMW 1 Series (E87) (1° Gen.)_delantera": {
+  "BMW X7 (1° Gen.)_delantera": {
     "fuente": ""
   },
-  "BMW 1 Series (E87) (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "BMW 2 Series (F22) (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "BMW 2 Series (F22) (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "BMW X1 (E84) (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "BMW X1 (E84) (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "BMW X2 (F39) (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "BMW X2 (F39) (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "BMW X3 (E83) (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "BMW X3 (E83) (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "BMW X4 (F26) (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "BMW X4 (F26) (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "BMW X5 (E53) (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "BMW X5 (E53) (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "BMW X6 (E71) (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "BMW X6 (E71) (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "BMW X7 (G07) (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "BMW X7 (G07) (1° Gen.)_trasera": {
+  "BMW X7 (1° Gen.)_trasera": {
     "fuente": ""
   },
   "BMW Z1_delantera": {

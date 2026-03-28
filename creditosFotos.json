@@ -1805,6 +1805,36 @@
   "Mercedes-Benz 170_trasera": {
     "fuente": "By nakhon100 - Mercedes-Benz 170, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37767653"
   },
+  "Mercedes-Benz Sauber C9_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=34850677"
+  },
+  "Mercedes-Benz Sauber C9_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=34851172"
+  },
+  "Mercedes-Benz Sauber C11_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175111011"
+  },
+  "Mercedes-Benz Sauber C11_trasera": {
+    "fuente": "By edvvc from London, UK - gt2, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17847650"
+  },
+  "Mercedes-Benz CLR_delantera": {
+    "fuente": "By Marc Oliver John from Wachtberg, Deutschland - Nürburgring, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34443281"
+  },
+  "Mercedes-Benz CLR_trasera": {
+    "fuente": "By Marc Oliver John from Wachtberg, Deutschland - Nürburgring, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34443306"
+  },
+  "Mercedes-Benz CLK LM_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157878716"
+  },
+  "Mercedes-Benz CLK LM_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=146717421"
+  },
+  "Mercedes-Benz W196R Streamliner_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77922924"
+  },
+  "Mercedes-Benz W196R Streamliner_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=139560481"
+  },
   "Mercedes-Benz W128_delantera": {
     "fuente": "By Rainer Persicke - photographed by R. Persicke in Arnis, Germany, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=142431426"
   },
@@ -4157,53 +4187,101 @@
   "Nissan Skyline (V37)_trasera": {
     "fuente": "Por TTTNIS - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=80447568"
   },
-  "Nissan GT-R (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan GT-R_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=34207977"
   },
-  "Nissan GT-R (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan GT-R_trasera": {
+    "fuente": "By steve lyon from los angeles, ca, usa - Nissan GT-RUploaded by FAEP, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=22962267"
   },
-  "Nissan 240Z_delantera": {
-    "fuente": ""
+  "Nissan GT-R Nismo_delantera": {
+    "fuente": "By Ank Kumar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102446307"
   },
-  "Nissan 240Z_trasera": {
-    "fuente": ""
+  "Nissan GT-R Nismo_trasera": {
+    "fuente": "By Ank Kumar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102446319"
   },
-  "Nissan 300ZX (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan - Datsun 240Z - Fairlady Z_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=29470527"
   },
-  "Nissan 300ZX (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan - Datsun 240Z - Fairlady Z_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=29470528"
+  },
+  "Nissan - Datsun 260Z - 280Z_delantera": {
+    "fuente": "By An unusual eye - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12721835"
+  },
+  "Nissan - Datsun 260Z - 280Z_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1976 Datsun 260Z, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=38602720"
+  },
+  "Nissan - Datsun 280ZX_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=132466338"
+  },
+  "Nissan - Datsun 280ZX_trasera": {
+    "fuente": "By Captainpisslord - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=133236870"
+  },
+  "Nissan 300ZX (Z31)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=110884782"
+  },
+  "Nissan 300ZX (Z31)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=110884784"
+  },
+  "Nissan 300ZX (Z32)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=176383377"
+  },
+  "Nissan 300ZX (Z32)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3463764"
   },
   "Nissan 350Z_delantera": {
-    "fuente": ""
+    "fuente": "Por U.S. National Highway Traffic Safety Administration - safercar.gov, Dominio público, https://commons.wikimedia.org/w/index.php?curid=14528033"
   },
   "Nissan 350Z_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83907470"
   },
   "Nissan 370Z_delantera": {
-    "fuente": ""
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6932939"
   },
   "Nissan 370Z_trasera": {
-    "fuente": ""
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6932943"
   },
-  "Nissan Z (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan Z (RZ34)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126959375"
   },
-  "Nissan Z (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan Z (RZ34)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126959374"
   },
-  "Nissan Silvia (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan Silvia (CSP311)_delantera": {
+    "fuente": "Por Rikita - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69815748"
   },
-  "Nissan Silvia (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan Silvia (CSP311)_trasera": {
+    "fuente": "Por Tokumeigakarinoaoshima - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94397846"
   },
-  "Nissan Fairlady (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan Silvia (S10)_delantera": {
+    "fuente": "Por Jimbo 2006, released into PD by original author - Japanese Wikipedia, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6000636"
   },
-  "Nissan Fairlady (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan Silvia (S10)_trasera": {
+    "fuente": "Por Jimbo 2006, released into PD by original author - Japanese Wikipedia, Dominio público, https://commons.wikimedia.org/w/index.php?curid=3535801"
+  },
+  "Nissan Silvia (S110)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106116090"
+  },
+  "Nissan Silvia (S110)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106116089"
+  },
+  "Nissan Gazelle Hatchback XE-II Turbo_delantera": {
+    "fuente": "Por TTTNIS - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=39937988"
+  },
+  "Nissan Gazelle Hatchback XE-II Turbo_trasera": {
+    "fuente": "Por TTTNIS - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=39937989"
+  },
+  "Nissan 240RS_delantera": {
+    "fuente": "Por Tennen-Gas - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3471636"
+  },
+  "Nissan 240RS_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=176741984"
+  },
+  "Nissan Silvia (S12)_delantera": {
+    "fuente": "Por 名古屋太郎 - Trabajo propio PENTAX super A, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24526695"
+  },
+  "Nissan Silvia (S12)_trasera": {
+    "fuente": "Por dave_7 from Lethbridge, Canada - Nissan 200SX XE, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=147677026"
   },
   "Nissan Pulsar (1° Gen.)_delantera": {
     "fuente": ""

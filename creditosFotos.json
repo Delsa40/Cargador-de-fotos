@@ -4667,113 +4667,311 @@
   "Nissan Figaro_trasera": {
     "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10614649"
   },
-  "Nissan Versa (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan Tiida - Latio - Versa Hatchback (C11)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15438919"
   },
-  "Nissan Versa (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan Tiida - Latio - Versa Hatchback (C11)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15438973"
   },
-  "Nissan Tiida_delantera": {
-    "fuente": ""
+  "Nissan Tiida - Latio - Versa Sedan (C11)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3641064"
   },
-  "Nissan Tiida_trasera": {
-    "fuente": ""
+  "Nissan Tiida - Latio - Versa Sedan (C11)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3641093"
+  },
+  "Nissan Tiida - Pulsar (C12)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=32805814"
+  },
+  "Nissan Tiida - Pulsar (C12)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=32805811"
   },
   "Nissan Leaf (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By stevelyon - https://www.flickr.com/photos/chicanerii/8233428545/in/photostream, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=22948675"
   },
   "Nissan Leaf (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=61748245"
   },
-  "Nissan Cube_delantera": {
-    "fuente": ""
+  "Nissan Leaf (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83928366"
   },
-  "Nissan Cube_trasera": {
-    "fuente": ""
+  "Nissan Leaf (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83928367"
   },
-  "Nissan Note_delantera": {
-    "fuente": ""
+  "Nissan Leaf (3° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177800645"
   },
-  "Nissan Note_trasera": {
-    "fuente": ""
+  "Nissan Leaf (3° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178204830"
+  },
+  "Nissan Cube (1° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80155707"
+  },
+  "Nissan Cube (1° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3235477"
+  },
+  "Nissan Cube (2° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5885211"
+  },
+  "Nissan Cube (2° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5947769"
+  },
+  "Nissan Cube (3° Gen.)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137321509"
+  },
+  "Nissan Cube (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68643130"
+  },
+  "Nissan Note (1° Gen.)_delantera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2994382"
+  },
+  "Nissan Note (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5391245"
+  },
+  "Nissan Note (2° Gen.)_delantera": {
+    "fuente": "By Fghaam - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27467107"
+  },
+  "Nissan Note (2° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=20736543"
+  },
+  "Nissan Note (3° Gen.)_delantera": {
+    "fuente": "By Taisyo - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=98327159"
+  },
+  "Nissan Note (3° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97794157"
   },
   "Nissan Juke (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67221541"
   },
   "Nissan Juke (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69988730"
   },
-  "Nissan Qashqai (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan Juke (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=100329459"
   },
-  "Nissan Qashqai (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan Juke (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=100329457"
+  },
+  "Nissan Qashqai - Dualis (1° Gen.)_delantera": {
+    "fuente": "Por Tennen-Gas - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5999815"
+  },
+  "Nissan Qashqai - Dualis (1° Gen.)_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2183610"
+  },
+  "Nissan Qashqai (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63303213"
+  },
+  "Nissan Qashqai (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64418982"
+  },
+  "Nissan Qashqai e-Power_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=176219910"
+  },
+  "Nissan Qashqai e-Power_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=176219944"
   },
   "Nissan X-Trail (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por TTTNIS - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=7201995"
   },
   "Nissan X-Trail (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "Por TTTNIS - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6951840"
+  },
+  "Nissan X-Trail (2° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11802415"
+  },
+  "Nissan X-Trail (2° Gen.)_trasera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25945124"
+  },
+  "Nissan X-Trail (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65398169"
+  },
+  "Nissan X-Trail (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65398170"
+  },
+  "Nissan X-Trail (4° Gen.)_delantera": {
+    "fuente": "Por Alexander-93 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130630343"
+  },
+  "Nissan X-Trail (4° Gen.)_trasera": {
+    "fuente": "By Kazyakuruma - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115195969"
   },
   "Nissan Murano (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3970939"
   },
   "Nissan Murano (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64665750"
+  },
+  "Nissan Murano (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5890385"
+  },
+  "Nissan Murano (2° Gen.)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8455820"
+  },
+  "Nissan Murano CrossCabriolet_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17238607"
+  },
+  "Nissan Murano CrossCabriolet_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18490690"
+  },
+  "Nissan Murano (3° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=92348702"
+  },
+  "Nissan Murano (3° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=92349364"
+  },
+  "Nissan Murano (4° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164537080"
+  },
+  "Nissan Murano (4° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164537084"
   },
   "Nissan Pathfinder (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=9577510"
   },
   "Nissan Pathfinder (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81571925"
   },
-  "Nissan Patrol (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan Pathfinder (2° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=1929655"
   },
-  "Nissan Patrol (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan Pathfinder (2° Gen.)_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107353003"
   },
-  "Nissan Armada (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan Pathfinder (3° Gen.)_delantera": {
+    "fuente": "Por OSX - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=10373530"
   },
-  "Nissan Armada (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan Pathfinder (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65223236"
   },
-  "Nissan Frontier (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan Pathfinder (4° Gen.)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=53678408"
   },
-  "Nissan Frontier (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan Pathfinder (4° Gen.)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135590069"
   },
-  "Nissan Navara (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan - Datsun Patrol (60)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=160975602"
   },
-  "Nissan Navara (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan - Datsun Patrol (60)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=160975603"
   },
-  "Nissan Hardbody_delantera": {
-    "fuente": ""
+  "Nissan - Datsun Patrol - Safari (160)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=160975966"
   },
-  "Nissan Hardbody_trasera": {
-    "fuente": ""
+  "Nissan - Datsun Patrol - Safari (160)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=160975967"
   },
-  "Nissan Titan (1° Gen.)_delantera": {
-    "fuente": ""
+  "Nissan Patrol - Safari (Y60)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45761325"
   },
-  "Nissan Titan (1° Gen.)_trasera": {
-    "fuente": ""
+  "Nissan Patrol - Safari (Y60)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=41188930"
   },
-  "Nissan NV200_delantera": {
-    "fuente": ""
+  "Nissan Patrol - Safari (Y61)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3625933"
   },
-  "Nissan NV200_trasera": {
-    "fuente": ""
+  "Nissan Patrol - Safari (Y61)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3625937"
   },
-  "Nissan Prairie_delantera": {
-    "fuente": ""
+  "Nissan Patrol - Armada (Y62)(2010)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50414619"
   },
-  "Nissan Prairie_trasera": {
-    "fuente": ""
+  "Nissan Patrol - Armada (Y62)(2010)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=53996970"
+  },
+  "Nissan Patrol - Armada (Y62)(2019)_delantera": {
+    "fuente": "By Captainmorlypogi1959 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147479796"
+  },
+  "Nissan Patrol - Armada (Y62)(2019)_trasera": {
+    "fuente": "By Dxbma - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97648219"
+  },
+  "Nissan Patrol - Armada (Y63)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=160975189"
+  },
+  "Nissan Patrol - Armada (Y63)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=160975188"
+  },
+  "Nissan Pathfinder Armada_delantera": {
+    "fuente": "By U.S. National Highway Traffic Safety Administration - safercar.gov, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14528054"
+  },
+  "Nissan Pathfinder Armada_trasera": {
+    "fuente": "By order_242 from Chile - Nissan Armada SL 2011, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34585155"
+  },
+  "Nissan Hardbody (D21)_delantera": {
+    "fuente": "By Bballman35676 - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6444959"
+  },
+  "Nissan Hardbody (D21)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=124239501"
+  },
+  "Nissan Prairie - Multi - Stanza Wagon (M10)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127002037"
+  },
+  "Nissan Prairie - Multi - Stanza Wagon (M10)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=176194894"
+  },
+  "Nissan Prairie - Axxess (M11)_delantera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3530166"
+  },
+  "Nissan Prairie - Axxess (M11)_trasera": {
+    "fuente": "By Toyotacoronaexsaloon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52732650"
+  },
+  "Nissan Prairie Joy (M11)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81654384"
+  },
+  "Nissan Prairie Joy (M11)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3262043"
+  },
+  "Nissan Prairie - Liberty (M12)_delantera": {
+    "fuente": "By XVR 7785 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126743605"
+  },
+  "Nissan Prairie - Liberty (M12)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8628791"
+  },
+  "Chaparral 1_delantera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112907057"
+  },
+  "Chaparral 1_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112907128"
+  },
+  "Chaparral 2A_delantera": {
+    "fuente": "By Craig Howell - Flickr: Chapparal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671806"
+  },
+  "Chaparral 2A_trasera": {
+    "fuente": "By Craig Howell - Flickr: Chapparal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671813"
+  },
+  "Chaparral 2D_delantera": {
+    "fuente": "By Craig Howell - Flickr: Chapparal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671473"
+  },
+  "Chaparral 2D_trasera": {
+    "fuente": "By Craig Howell - Flickr: Chapparal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671400"
+  },
+  "Chaparral 2E_delantera": {
+    "fuente": "Por Oldwizzard - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28728008"
+  },
+  "Chaparral 2E_trasera": {
+    "fuente": "By Craig Howell - Flickr: Chapparal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671865"
+  },
+  "Chaparral 2F_delantera": {
+    "fuente": "By Craig Howell - Flickr: Chapparal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671302"
+  },
+  "Chaparral 2F_trasera": {
+    "fuente": "By Craig Howell - Flickr: Chapparal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671295"
+  },
+  "Chaparral 2H_delantera": {
+    "fuente": "Por Craig Howell - Flickr: Chapparal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671530"
+  },
+  "Chaparral 2H_trasera": {
+    "fuente": "By Craig Howell - Flickr: Chapparal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671594"
+  },
+  "Chaparral 2J_delantera": {
+    "fuente": "By Craig Howell - Flickr: Chapparal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671187"
+  },
+  "Chaparral 2J_trasera": {
+    "fuente": "By Craig Howell - Flickr: Chapparal fan car, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=27671137"
+  },
+  "Chaparral 2K_delantera": {
+    "fuente": "By Dan Wildhirt - photos.wildhirt.com, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11048463"
+  },
+  "Chaparral 2K_trasera": {
+    "fuente": "By Andrew Basterfield - Chaparral-Cosworth 2K, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=18192692"
   },
   "Honda Civic (1° Gen.)_delantera": {
     "fuente": ""

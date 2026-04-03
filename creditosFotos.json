@@ -5225,6 +5225,87 @@
   "Bugatti Type 101 Berline_delantera": {
     "fuente": "By Alf van Beem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=36785308"
   },
+  "Koenigsegg CC8S_delantera": {
+    "fuente": "By Norbert Aepli, Switzerland, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=146042028"
+  },
+  "Koenigsegg CC8S_trasera": {
+    "fuente": "By Andrew Basterfield - 2003 Koenigsegg CCRS, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=134480047"
+  },
+  "Koenigsegg CCR_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=143375956"
+  },
+  "Koenigsegg CCR_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=143376114"
+  },
+  "Koenigsegg CCX_delantera": {
+    "fuente": "By Axion23 - Koenigsegg CCX, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=33855723"
+  },
+  "Koenigsegg CCX_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174114489"
+  },
+  "Koenigsegg CCGT_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=147429512"
+  },
+  "Koenigsegg CCGT_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=147429477"
+  },
+  "Koenigsegg CCXR_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173324992"
+  },
+  "Koenigsegg CCXR_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173325006"
+  },
+  "Koenigsegg Agera_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167941835"
+  },
+  "Koenigsegg Agera_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166866327"
+  },
+  "Koenigsegg One 1_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167002432"
+  },
+  "Koenigsegg One 1_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113902695"
+  },
+  "Koenigsegg Regera_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151246851"
+  },
+  "Koenigsegg Regera_trasera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111748565"
+  },
+  "Koenigsegg Jesko Attack_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79073912"
+  },
+  "Koenigsegg Jesko Attack_trasera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77567287"
+  },
+  "Koenigsegg Jesko Absolut_delantera": {
+    "fuente": "By オーバードライブ83 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116603026"
+  },
+  "Koenigsegg Jesko Absolut_trasera": {
+    "fuente": "By オーバードライブ83 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116603025"
+  },
+  "Koenigsegg Gemera_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119864905"
+  },
+  "Koenigsegg Gemera_trasera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=135581311"
+  },
+  "Koenigsegg CC850_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178207373"
+  },
+  "Koenigsegg CC850_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178208470"
+  },
+  "Koenigsegg CC Concept_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=185423605"
+  },
+  "Koenigsegg Quant_delantera": {
+    "fuente": "By David Villarreal Fernández - Koenigsegg Quant, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=17743474"
+  },
+  "Koenigsegg Quant_trasera": {
+    "fuente": "By David Villarreal Fernández - Flickr: Koenigsegg Quant, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=17743525"
+  },
   "Honda Civic (1° Gen.)_delantera": {
     "fuente": ""
   },

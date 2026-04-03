@@ -5306,6 +5306,252 @@
   "Koenigsegg Quant_trasera": {
     "fuente": "By David Villarreal Fernández - Flickr: Koenigsegg Quant, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=17743525"
   },
+  "McLaren F1_delantera": {
+    "fuente": "Por Chelsea Jay - Their work - With permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81984018"
+  },
+  "McLaren F1_trasera": {
+    "fuente": "Por Chelsea Jay - Their work - With permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81984016"
+  },
+  "McLaren F1 LM_delantera": {
+    "fuente": "By Chelsea Jay - Their work - With permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90677078"
+  },
+  "McLaren F1 LM_trasera": {
+    "fuente": "By Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24996684"
+  },
+  "McLaren F1 GTR_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157416127"
+  },
+  "McLaren F1 GTR_trasera": {
+    "fuente": "By Bill Abbott - McLaren F1 / BMW 6.0 litre road car DSC_0754, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=113134579"
+  },
+  "McLaren F1 GTR Longtail_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=146485079"
+  },
+  "McLaren F1 GTR Longtail_trasera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA, https://commons.wikimedia.org/w/index.php?curid=145845952"
+  },
+  "McLaren MP4-12C_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=20972654"
+  },
+  "McLaren MP4-12C_trasera": {
+    "fuente": "Por M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=20972820"
+  },
+  "McLaren P1_delantera": {
+    "fuente": "By Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=158240950"
+  },
+  "McLaren P1_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174465791"
+  },
+  "McLaren P1 GTR_delantera": {
+    "fuente": "By Norbert Aepli, Switzerland, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=38729029"
+  },
+  "McLaren P1 GTR_trasera": {
+    "fuente": "By Ank kumar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99671887"
+  },
+  "McLaren 540C - 570S - 570GT_delantera": {
+    "fuente": "By zombieite - McLaren, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=132116210"
+  },
+  "McLaren 540C - 570S - 570GT_trasera": {
+    "fuente": "By RL GNZLZ from Chile - McLaren 570S 2017, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76195280"
+  },
+  "McLaren 600LT_delantera": {
+    "fuente": "Por Adrian4297 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107983860"
+  },
+  "McLaren 600LT_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91195402"
+  },
+  "McLaren 620R_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94113792"
+  },
+  "McLaren 620R_trasera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94113806"
+  },
+  "McLaren 650S_delantera": {
+    "fuente": "Por Tokumeigakarinoaoshima - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=158264622"
+  },
+  "McLaren 650S_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=32001648"
+  },
+  "McLaren 675LT_delantera": {
+    "fuente": "Por 根川孝太郎 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=57540407"
+  },
+  "McLaren 675LT_trasera": {
+    "fuente": "Por Falcon® Photography from France - McLaren 675 LT 3.8 '16, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=158241066"
+  },
+  "McLaren 720S_delantera": {
+    "fuente": "By More Cars from Berlin, Germany - McLaren 720S, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63991612"
+  },
+  "McLaren 720S_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79509155"
+  },
+  "McLaren 750S_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=146306840"
+  },
+  "McLaren 750S_trasera": {
+    "fuente": "By Aos.1905 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175096500"
+  },
+  "McLaren 765LT_delantera": {
+    "fuente": "By Liam Walker - From Discord server - With their permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94901412"
+  },
+  "McLaren 765LT_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=101355961"
+  },
+  "McLaren Senna_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67144477"
+  },
+  "McLaren Senna_trasera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=81339545"
+  },
+  "McLaren Senna GTR_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67640749"
+  },
+  "McLaren Senna GTR_trasera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80204667"
+  },
+  "McLaren Elva_delantera": {
+    "fuente": "By Liam Walker - From Discord server - With their permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105224512"
+  },
+  "McLaren Elva_trasera": {
+    "fuente": "By Liam Walker - From Discord server - With their permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105224522"
+  },
+  "McLaren Speedtail_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128934104"
+  },
+  "McLaren Speedtail_trasera": {
+    "fuente": "By el.guy08_11 - https://www.flickr.com/photos/93796665@N03/50690710141/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=99031030"
+  },
+  "McLaren GT_delantera": {
+    "fuente": "By Y.Leclercq© - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80064524"
+  },
+  "McLaren GT_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91195463"
+  },
+  "McLaren Artura_delantera": {
+    "fuente": "Por MrWalkr - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=144776175"
+  },
+  "McLaren Artura_trasera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109986912"
+  },
+  "McLaren Sabre_delantera": {
+    "fuente": "Por pelican-actor - https://www.flickr.com/photos/192005255@N04/52216980594/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=120447344"
+  },
+  "McLaren Sabre_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=141362670"
+  },
+  "McLaren Solus GT_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134698402"
+  },
+  "McLaren Solus GT_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=146306880"
+  },
+  "McLaren M6GT_delantera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59562570"
+  },
+  "McLaren M6GT_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59562569"
+  },
+  "McLaren M8F_delantera": {
+    "fuente": "By https://www.flickr.com/photos/davehamster/ - https://www.flickr.com/photos/davehamster/48490612791/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=81148474"
+  },
+  "McLaren M8F_trasera": {
+    "fuente": "By Brian Snelson from Hockley, Essex, England - McLaren-Chevrolet M8F, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17786121"
+  },
+  "McLaren M8E_delantera": {
+    "fuente": "By Peter Jones12 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=88324517"
+  },
+  "McLaren M8E_trasera": {
+    "fuente": "By Reilly Hamilton,cropped and altered by uploader Mr.choppers - IMG_2205.JPG, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24448925"
+  },
+  "McLaren M8D_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83544829"
+  },
+  "McLaren MP4-4_delantera": {
+    "fuente": "By This photo was taken by Przemysław JahrAutorem zdjęcia jest Przemysław JahrWykorzystując zdjęcie proszę podać jako autora:Przemysław Jahr / Wikimedia Commons - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4318319"
+  },
+  "McLaren MP4-4_trasera": {
+    "fuente": "By Hullian111 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=160202344"
+  },
+  "McLaren M8C_delantera": {
+    "fuente": "By John Chapman (User:Pyrope) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7357950"
+  },
+  "McLaren M1B_delantera": {
+    "fuente": "By DoomWarrior - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10292858"
+  },
+  "McLaren M1B_trasera": {
+    "fuente": "By David Merrett from Daventry, England - 1965 McLaren M1B, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=117482888"
+  },
+  "McLaren M1A_delantera": {
+    "fuente": "By Yu Chu Chin - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=185402549"
+  },
+  "McLaren SC_delantera": {
+    "fuente": "By mark6mauno - https://www.flickr.com/photos/98147195@N00/17843687641/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=88130189"
+  },
+  "McLaren SC_trasera": {
+    "fuente": "By mark6mauno - https://www.flickr.com/photos/98147195@N00/17220832654/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=88130195"
+  },
+  "McLaren M16C_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157487607"
+  },
+  "McLaren M16C_trasera": {
+    "fuente": "By Andrew Basterfield - McLaren-Offenhauser M16C, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=18192705"
+  },
+  "McLaren M7A_delantera": {
+    "fuente": "By Chris Eaton - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18279174"
+  },
+  "McLaren M7A_trasera": {
+    "fuente": "By 111 Emergency from New Zealand - Te Papa - Formula 1, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17700730"
+  },
+  "McLaren M28_delantera": {
+    "fuente": "Por Legends Of Motorsports - originally posted to Flickr as MT Historic GP-53, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12076441"
+  },
+  "McLaren M28_trasera": {
+    "fuente": "By John Chapman (Pyrope) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11525430"
+  },
+  "Spyker C8 Spyder - Laviolette_delantera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30381930"
+  },
+  "Spyker C8 Spyder - Laviolette_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30389429"
+  },
+  "Spyker C8 Double 12_delantera": {
+    "fuente": "By René Cortin - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130562055"
+  },
+  "Spyker C8 Double 12_trasera": {
+    "fuente": "By René Cortin - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130562056"
+  },
+  "Spyker C8 Aileron_delantera": {
+    "fuente": "By Laszlo Daroczy - originally posted to w:Flickr as DSC_0207, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=164424673"
+  },
+  "Spyker C8 Aileron_trasera": {
+    "fuente": "By Brian Snelson - originally posted to Flickr as Spyker C8 Aileron, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=11225544"
+  },
+  "Spyker C8 Preliator_delantera": {
+    "fuente": "By El monty - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=48016200"
+  },
+  "Spyker C8 Preliator_trasera": {
+    "fuente": "By El monty - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=48016201"
+  },
+  "Spyker D12 Peking-to-Paris_delantera": {
+    "fuente": "By Simon Davison from Los Gatos, United States - IMG_4074, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3511080"
+  },
+  "Spyker D12 Peking-to-Paris_trasera": {
+    "fuente": "By Simon Davison ] - Flickr [1], CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=7517761"
+  },
+  "Spyker B6 Venator_delantera": {
+    "fuente": "By Clément Bucco-Lechat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25054873"
+  },
+  "Spyker C12 Zagato_delantera": {
+    "fuente": "By Joosthug - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2678589"
+  },
+  "Spyker 60 HP_delantera": {
+    "fuente": "By Alf van Beem - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=55204224"
+  },
+  "Spyker 60 HP_trasera": {
+    "fuente": "By Alf van Beem - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=55204244"
+  },
+  "Spyker 12-16HP_delantera": {
+    "fuente": "By Zairon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=55924547"
+  },
   "Honda Civic (1° Gen.)_delantera": {
     "fuente": ""
   },

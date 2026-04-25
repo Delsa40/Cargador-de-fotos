@@ -5966,101 +5966,353 @@
   "Honda S2000_trasera": {
     "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=37986067"
   },
-  "Honda Jazz (1° Gen.)_delantera": {
-    "fuente": ""
+  "Honda Fit - Jazz (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9810748"
   },
-  "Honda Jazz (1° Gen.)_trasera": {
-    "fuente": ""
+  "Honda Fit - Jazz (1° Gen.)_trasera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4279441"
   },
-  "Honda Fit (1° Gen.)_delantera": {
-    "fuente": ""
+  "Honda Fit - Jazz (2° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=31494756"
   },
-  "Honda Fit (1° Gen.)_trasera": {
-    "fuente": ""
+  "Honda Fit - Jazz (2° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=31494764"
   },
-  "Honda City (1° Gen.)_delantera": {
-    "fuente": ""
+  "Honda Fit - Jazz (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968491"
   },
-  "Honda City (1° Gen.)_trasera": {
-    "fuente": ""
+  "Honda Fit - Jazz (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968492"
+  },
+  "Honda Fit - Jazz (4° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95939776"
+  },
+  "Honda Fit - Jazz (4° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=95420005"
+  },
+  "Honda Fit - Jazz Crosstar_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=157891569"
+  },
+  "Honda Fit - Jazz Crosstar_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=157891589"
+  },
+  "Honda City - Jazz (1° Gen.)_delantera": {
+    "fuente": "By Hideya - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69176211"
+  },
+  "Honda City - Jazz (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=178198784"
+  },
+  "Honda City Turbo I_delantera": {
+    "fuente": "By Morio - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=41989068"
+  },
+  "Honda City Turbo I_trasera": {
+    "fuente": "By Morio - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=41989073"
+  },
+  "Honda City Turbo II_delantera": {
+    "fuente": "By Rikita - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=176259114"
+  },
+  "Honda City Turbo II_trasera": {
+    "fuente": "By TKOIII - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=147843998"
+  },
+  "Honda City (2° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=175332938"
+  },
+  "Honda City (2° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=175332937"
+  },
+  "Honda City (3° Gen.)_delantera": {
+    "fuente": "By User:Two hundred percent. - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3212637"
+  },
+  "Honda City (3° Gen.)_trasera": {
+    "fuente": "By User:Two hundred percent. - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3212639"
+  },
+  "Honda City (4° Gen.)_delantera": {
+    "fuente": "By User:Two hundred percent. - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2821547"
+  },
+  "Honda City (4° Gen.)_trasera": {
+    "fuente": "By User:Two hundred percent. - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2821544"
+  },
+  "Honda City (5° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Honda City 1.5 LX 2013, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=84703855"
+  },
+  "Honda City (5° Gen.)_trasera": {
+    "fuente": "By Aero777 - Own workPreviously published: Aero7s (Flickr), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29911771"
+  },
+  "Honda City (6° Gen.)_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Honda City 1.5 LX 2016, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76196729"
+  },
+  "Honda City (6° Gen.)_trasera": {
+    "fuente": "By Aero7, CC BY-SA 2.5 my, https://commons.wikimedia.org/w/index.php?curid=34328429"
+  },
+  "Honda City Sedan (7° Gen.)_delantera": {
+    "fuente": "By オーバードライブ83 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118326378"
+  },
+  "Honda City Sedan (7° Gen.)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Honda City 1.5 EX 2022, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=157450753"
+  },
+  "Honda City Hatchback (7° Gen.)_delantera": {
+    "fuente": "By Chanokchon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106961582"
+  },
+  "Honda City Hatchback (7° Gen.)_trasera": {
+    "fuente": "By Chanokchon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106961585"
   },
   "Honda Insight (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By dave_7 - originally posted to Flickr as Honda Insight, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=4200885"
   },
   "Honda Insight (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79059084"
+  },
+  "Honda Insight (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=15275175"
+  },
+  "Honda Insight (2° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=114304745"
+  },
+  "Honda Insight (3° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98537763"
+  },
+  "Honda Insight (3° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98537764"
   },
   "Honda CR-V (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Guyon from Richmond, VA, United States of America - _MG_8742, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=149113416"
   },
   "Honda CR-V (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95241562"
+  },
+  "Honda CR-V (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2633754"
+  },
+  "Honda CR-V (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68740472"
+  },
+  "Honda CR-V (3° Gen.)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123085699"
+  },
+  "Honda CR-V (3° Gen.)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123085709"
+  },
+  "Honda CR-V (4° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=31057586"
+  },
+  "Honda CR-V (4° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=148287323"
+  },
+  "Honda CR-V (5° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968526"
+  },
+  "Honda CR-V (5° Gen.)_trasera": {
+    "fuente": "By Ghostofakina - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85367374"
+  },
+  "Honda CR-V (6° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=148151655"
+  },
+  "Honda CR-V (6° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=148151677"
   },
   "Honda HR-V (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74114779"
   },
   "Honda HR-V (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74114781"
+  },
+  "Honda HR-V (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832396"
+  },
+  "Honda HR-V (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832398"
+  },
+  "Honda HR-V (3° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=143357069"
+  },
+  "Honda HR-V (3° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=143357194"
+  },
+  "Honda ZR-V - HR-V_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=153477684"
+  },
+  "Honda ZR-V - HR-V_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=153477691"
   },
   "Honda Passport (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2795711"
   },
   "Honda Passport (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89795006"
   },
-  "Honda Pilot (1° Gen.)_delantera": {
-    "fuente": ""
+  "Honda Passport (2° Gen.)_delantera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=112713573"
   },
-  "Honda Pilot (1° Gen.)_trasera": {
-    "fuente": ""
+  "Honda Passport (2° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=112713572"
+  },
+  "Honda Passport (3° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82054223"
+  },
+  "Honda Passport (3° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82054224"
+  },
+  "Honda Passport (4° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164537117"
+  },
+  "Honda Passport (4° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164537120"
+  },
+  "Honda Pilot - MR-V (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17041493"
+  },
+  "Honda Pilot - MR-V (1° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76784021"
+  },
+  "Honda Pilot (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5588454"
+  },
+  "Honda Pilot (2° Gen.)_trasera": {
+    "fuente": "By order_242 from Chile - Honda Pilot EXL 2009, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=84828333"
+  },
+  "Honda Pilot (3° Gen.)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=154844819"
+  },
+  "Honda Pilot (3° Gen.)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=154844832"
+  },
+  "Honda Pilot (4° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129669854"
+  },
+  "Honda Pilot (4° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129669862"
   },
   "Honda Element_delantera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3750625"
   },
   "Honda Element_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3750646"
   },
   "Honda Ridgeline (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7065675"
   },
   "Honda Ridgeline (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123076085"
   },
-  "Honda Odyssey (1° Gen.)_delantera": {
-    "fuente": ""
+  "Honda Ridgeline (2° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69276035"
   },
-  "Honda Odyssey (1° Gen.)_trasera": {
-    "fuente": ""
+  "Honda Ridgeline (2° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69276036"
   },
-  "Honda Stream_delantera": {
-    "fuente": ""
+  "Honda Odyssey - Shuttle (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=172577008"
   },
-  "Honda Stream_trasera": {
-    "fuente": ""
+  "Honda Odyssey - Shuttle (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5991313"
   },
-  "Honda Crosstour_delantera": {
-    "fuente": ""
+  "Honda Odyssey - LaGreat (2° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2923403"
   },
-  "Honda Crosstour_trasera": {
-    "fuente": ""
+  "Honda Odyssey - LaGreat (2° Gen.)_trasera": {
+    "fuente": "By Jason Lawrence from New York - Honda Odyssey, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=126605830"
+  },
+  "Honda Odyssey (3° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2634485"
+  },
+  "Honda Odyssey (3° Gen.)_trasera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73919176"
+  },
+  "Honda Odyssey (4° Gen.)_delantera": {
+    "fuente": "Por SsmIntrigue - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95241538"
+  },
+  "Honda Odyssey (4° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130642914"
+  },
+  "Honda Odyssey (5° Gen.)_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103463603"
+  },
+  "Honda Odyssey (5° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70131803"
+  },
+  "Honda Stream (1° Gen.)(2000)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165081942"
+  },
+  "Honda Stream (1° Gen.)(2000)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165077414"
+  },
+  "Honda Stream (1° Gen.)(2003)_delantera": {
+    "fuente": "By オーバードライブ83 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112635446"
+  },
+  "Honda Stream (1° Gen.)(2003)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7367434"
+  },
+  "Honda Stream (2° Gen.)_delantera": {
+    "fuente": "By Kuha455405 - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10997175"
+  },
+  "Honda Stream (2° Gen.)_trasera": {
+    "fuente": "By Kuha455405 - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12166919"
+  },
+  "Honda Accord Crosstour_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125402000"
+  },
+  "Honda Accord Crosstour_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125401997"
   },
   "Honda Stepwgn (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By I, 天然ガス, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=113218795"
   },
   "Honda Stepwgn (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72952358"
+  },
+  "Honda Stepwgn (2° Gen.)_delantera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10282957"
+  },
+  "Honda Stepwgn (2° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4045542"
+  },
+  "Honda Stepwgn (3° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9768573"
+  },
+  "Honda Stepwgn (3° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9252819"
+  },
+  "Honda Stepwgn (4° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=113218737"
+  },
+  "Honda Stepwgn (4° Gen.)_trasera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8459551"
+  },
+  "Honda Stepwgn (5° Gen.)(2015)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=41086797"
+  },
+  "Honda Stepwgn (5° Gen.)(2015)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=41086799"
+  },
+  "Honda Stepwgn (5° Gen.)(2017)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=154327180"
+  },
+  "Honda Stepwgn (5° Gen.)(2017)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=163017425"
+  },
+  "Honda Stepwgn (6° Gen.)_delantera": {
+    "fuente": "By Ypy31 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=162619069"
+  },
+  "Honda Stepwgn (6° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119558014"
   },
   "Honda Beat_delantera": {
-    "fuente": ""
+    "fuente": "By Guyon from Richmond, VA, United States of America - _MG_1108, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=159859100"
   },
   "Honda Beat_trasera": {
-    "fuente": ""
+    "fuente": "By Guyon from Richmond, VA, United States of America - _MG_1159, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=159859063"
   },
-  "Honda Z600_delantera": {
-    "fuente": ""
+  "Honda Z (1970)_delantera": {
+    "fuente": "By Ypy31 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=29527593"
   },
-  "Honda Z600_trasera": {
-    "fuente": ""
+  "Honda Z (1970)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=27482057"
+  },
+  "Honda Z (1998)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6793319"
+  },
+  "Honda Z (1998)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6863713"
   },
   "Honda Life (1° Gen.)_delantera": {
     "fuente": ""

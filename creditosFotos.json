@@ -569,6 +569,24 @@
   "Austin-Healey Sprite (MK2)_trasera": {
     "fuente": "By Berthold Werner - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20307826"
   },
+  "Hyundai HB20 (1° Gen.)_delantera": {
+    "fuente": "By Mariordo (Mario Roberto Durán Ortiz) - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=49632662"
+  },
+  "Hyundai HB20 (1° Gen.)_trasera": {
+    "fuente": "By Mariordo (Mario Roberto Durán Ortiz) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25148934"
+  },
+  "Hyundai Graviti HB20X_delantera": {
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=95136889"
+  },
+  "Hyundai Graviti HB20X_trasera": {
+    "fuente": "By Nave do Conhecimento - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95175028"
+  },
+  "Hyundai HB20 (2° Gen.)_delantera": {
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=120760405"
+  },
+  "Hyundai HB20 (2° Gen.)_trasera": {
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=120760406"
+  },
   "Hyundai Accent - Excel (1° Gen.)_delantera": {
     "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=118775018"
   },
@@ -4049,6 +4067,18 @@
   "Prince Skyline 1500 Van Deluxe_trasera": {
     "fuente": "Por Ypy31 - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=27631190"
   },
+  "Nissan Kicks (1° Gen.)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137324175"
+  },
+  "Nissan Kicks (1° Gen.)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137324178"
+  },
+  "Nissan Kicks (2° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=153618055"
+  },
+  "Nissan Kicks (2° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=176706531"
+  },
   "Nissan Skyline (C10)_delantera": {
     "fuente": "Por I, 天然ガス, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2484384"
   },
@@ -7247,35 +7277,173 @@
   "Panoz Esperante GTR-1_delantera": {
     "fuente": "By ERIC SALARD from Paris, FRANCE - PANOZ ESPERANTE CTR-1 RETROMOBIEL 2023, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=128577008"
   },
+  "Mazda 787B_delantera": {
+    "fuente": "By 韋駄天狗 - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15905941"
+  },
+  "Mazda 787B_trasera": {
+    "fuente": "By dennis bloodnok - Mazda Museum, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=126425180"
+  },
+  "Mazda 767B_delantera": {
+    "fuente": "By Morio - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6285449"
+  },
+  "Mazda 767B_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=26449764"
+  },
   "Mazda R360_delantera": {
-    "fuente": ""
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123822559"
   },
   "Mazda R360_trasera": {
-    "fuente": ""
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=148674452"
   },
   "Mazda Carol (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Ypy31 - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1661292"
   },
   "Mazda Carol (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=33355978"
+  },
+  "Mazda-Autozam Carol (2° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3950274"
+  },
+  "Mazda-Autozam Carol (2° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4343489"
+  },
+  "Mazda-Autozam Carol (3° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=31613072"
+  },
+  "Mazda-Autozam Carol (3° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=31613074"
+  },
+  "Mazda Carol (4° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=38835044"
+  },
+  "Mazda Carol (4° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=38835045"
+  },
+  "Mazda Carol (5° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76773573"
+  },
+  "Mazda Carol (5° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76773572"
+  },
+  "Mazda Carol (6° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8250034"
+  },
+  "Mazda Carol (6° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8250040"
+  },
+  "Mazda Carol (7° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87281877"
+  },
+  "Mazda Carol (7° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87281882"
+  },
+  "Mazda Carol (8° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=165032489"
+  },
+  "Mazda Carol (8° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115510618"
   },
   "Mazda Familia (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By NAParish - https://www.flickr.com/photos/naparish/33597056040/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=121242383"
   },
   "Mazda Familia (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Iwao from Tokyo, Japan;cropped and adjusted by uploader Mr.choppers - Mazda Familia Model SSA, 1966, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=21671503"
   },
-  "Mazda Luce_delantera": {
-    "fuente": ""
+  "Mazda Familia Van (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=32761334"
   },
-  "Mazda Luce_trasera": {
-    "fuente": ""
+  "Mazda Familia Van (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=32761333"
   },
-  "Mazda Cosmo Sport_delantera": {
-    "fuente": ""
+  "Mazda Familia Pickup (1° Gen.)_delantera": {
+    "fuente": "By MartinHansV - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=9866593"
   },
-  "Mazda Cosmo Sport_trasera": {
-    "fuente": ""
+  "Mazda Familia Pickup (1° Gen.)_trasera": {
+    "fuente": "By MartinHansV - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=9866622"
+  },
+  "Mazda Familia Coupe (1° Gen.)_delantera": {
+    "fuente": "By Tobias ToMar Maier - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=110335109"
+  },
+  "Mazda Familia Coupe (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=28077712"
+  },
+  "Mazda Familia (2° Gen.)_delantera": {
+    "fuente": "By 100yen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4935161"
+  },
+  "Mazda Familia (2° Gen.)_trasera": {
+    "fuente": "By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=88418892"
+  },
+  "Mazda Familia (3° Gen.)_delantera": {
+    "fuente": "By Taisyo - photo taken by Taisyo, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=176468660"
+  },
+  "Mazda Familia (3° Gen.)_trasera": {
+    "fuente": "By Robotriot - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21563284"
+  },
+  "Mazda Luce - 1500 - 1800 (1° Gen.)_delantera": {
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21964663"
+  },
+  "Mazda Luce - 1500 - 1800 (1° Gen.)_trasera": {
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21964662"
+  },
+  "Mazda Luce R130 Coupe_delantera": {
+    "fuente": "By pilot_micha - https://www.flickr.com/photos/pilot_michael/36899055676/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=121242363"
+  },
+  "Mazda Luce R130 Coupe_trasera": {
+    "fuente": "By pilot_micha - https://www.flickr.com/photos/pilot_michael/37087367485/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=121242347"
+  },
+  "Mazda 929 - Luce - RX-4 (2° Gen.)_delantera": {
+    "fuente": "By Charles01 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7703686"
+  },
+  "Mazda 929 - Luce - RX-4 (2° Gen.)_trasera": {
+    "fuente": "By JAK SIE MASZ from Adelaide (South Australia), Australia,cropped and altered by uploader Mr.choppers - All Japan Day '09, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=24091705"
+  },
+  "Mazda 929 - Luce - RX-4 Estate (2° Gen.)_delantera": {
+    "fuente": "By Hotdevil1Cropped by Mr.choppers - MAZDA 929 - LA2 - Estate 1975.JPG, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87029591"
+  },
+  "Mazda 929 - Luce - RX-4 Estate (2° Gen.)_trasera": {
+    "fuente": "By Hotdevil1 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36660457"
+  },
+  "Mazda 929 - Luce - RX-9 (3° Gen.)_delantera": {
+    "fuente": "By Robotriot - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11249557"
+  },
+  "Mazda 929 - Luce - RX-9 (3° Gen.)_trasera": {
+    "fuente": "By Robotriot - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11249583"
+  },
+  "Mazda 929 - Luce (4° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=58373260"
+  },
+  "Mazda 929 - Luce (4° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=58373259"
+  },
+  "Mazda 929 - Luce (5° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3015841"
+  },
+  "Mazda 929 - Luce (5° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24926705"
+  },
+  "Mazda Cosmo (1° Gen.)_delantera": {
+    "fuente": "By Morio - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=57658821"
+  },
+  "Mazda Cosmo (1° Gen.)_trasera": {
+    "fuente": "By Morio - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=57658824"
+  },
+  "Mazda Cosmo - RX-5 - 121 (2° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=26438207"
+  },
+  "Mazda Cosmo - RX-5 - 121 (2° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=26438214"
+  },
+  "Mazda Cosmo - 929 (3° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2987674"
+  },
+  "Mazda Cosmo - 929 (3° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2987689"
+  },
+  "Mazda-Eunos Cosmo (4° Gen.)_delantera": {
+    "fuente": "By More Cars - Eunos Cosmo, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=189830736"
+  },
+  "Mazda-Eunos Cosmo (4° Gen.)_trasera": {
+    "fuente": "By More Cars - Eunos Cosmo, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=189830731"
   },
   "Mazda RX-2_delantera": {
     "fuente": ""

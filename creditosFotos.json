@@ -7934,107 +7934,320 @@
   "Mazda 323 - Protegé Hatchback (9° Gen.)_trasera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64932592"
   },
-  "Mazda 626 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mazda Demio - 121 (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6852868"
   },
-  "Mazda 626 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mazda Demio - 121 (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6852870"
   },
-  "Mazda Atenza (Mazda6 1° Gen.)_delantera": {
-    "fuente": ""
+  "Mazda 2 - Demio (2° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5148526"
   },
-  "Mazda Atenza (Mazda6 1° Gen.)_trasera": {
-    "fuente": ""
+  "Mazda 2 - Demio (2° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4568270"
   },
-  "Mazda Demio (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mazda 2 - Demio (3° Gen.)_delantera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27308172"
   },
-  "Mazda Demio (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mazda 2 - Demio (3° Gen.)_trasera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27308171"
   },
-  "Mazda Premacy_delantera": {
-    "fuente": ""
+  "Mazda 2 - Demio (4° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=42253173"
   },
-  "Mazda Premacy_trasera": {
-    "fuente": ""
+  "Mazda 2 - Demio (4° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=161128440"
+  },
+  "Mazda 5 - Premacy (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66139364"
+  },
+  "Mazda 5 - Premacy (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66139369"
+  },
+  "Mazda 5 - Premacy (2° Gen.)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4322685"
+  },
+  "Mazda 5 - Premacy (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3743470"
+  },
+  "Mazda 5 - Premacy (3° Gen.)_delantera": {
+    "fuente": "Por TTTNIS - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=11666353"
+  },
+  "Mazda 5 - Premacy (3° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11666358"
   },
   "Mazda CX-3_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77170202"
   },
   "Mazda CX-3_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77170200"
   },
   "Mazda CX-30_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86796987"
   },
   "Mazda CX-30_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86796989"
   },
   "Mazda CX-5 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=21068947"
   },
   "Mazda CX-5 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=21069067"
+  },
+  "Mazda CX-5 (2° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164994674"
+  },
+  "Mazda CX-5 (2° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164994675"
+  },
+  "Mazda CX-5 (3° Gen.)_delantera": {
+    "fuente": "By Suzuki-Ham - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=190547067"
+  },
+  "Mazda CX-5 (3° Gen.)_trasera": {
+    "fuente": "By Suzuki-Ham - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=190547068"
   },
   "Mazda CX-7_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70811207"
   },
   "Mazda CX-7_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70811211"
   },
   "Mazda CX-9 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134098913"
   },
   "Mazda CX-9 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134098911"
   },
-  "Mazda Tribute_delantera": {
-    "fuente": ""
+  "Mazda CX-9 (2° Gen.)_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Mazda CX-9 GTX AWD 2018, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=136584434"
   },
-  "Mazda Tribute_trasera": {
-    "fuente": ""
+  "Mazda CX-9 (2° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=147594175"
+  },
+  "Mazda Tribute (1° Gen.)_delantera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=121233148"
+  },
+  "Mazda Tribute (1° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=121233124"
+  },
+  "Mazda Tribute (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2631560"
+  },
+  "Mazda Tribute (2° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=119444758"
   },
   "Mazda Navajo_delantera": {
-    "fuente": ""
+    "fuente": "By TKOIII - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117456097"
   },
   "Mazda Navajo_trasera": {
-    "fuente": ""
+    "fuente": "By Interesting.cars.insta - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=184830027"
   },
-  "Mazda Parkway_delantera": {
-    "fuente": ""
+  "Mazda Persona - Eunos 300_delantera": {
+    "fuente": "By Darren Reallyloud from Abingdon, UKCropped, plates and faces blurred by uploader Mr.choppers - Mazda Persona, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=11799020"
   },
-  "Mazda Parkway_trasera": {
-    "fuente": ""
+  "Mazda-ɛ̃fini MS-8_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6061026"
   },
-  "Mazda Flair_delantera": {
-    "fuente": ""
-  },
-  "Mazda Flair_trasera": {
-    "fuente": ""
-  },
-  "Mazda Carol Van_delantera": {
-    "fuente": ""
-  },
-  "Mazda Carol Van_trasera": {
-    "fuente": ""
-  },
-  "Mazda Persona_delantera": {
-    "fuente": ""
-  },
-  "Mazda Persona_trasera": {
-    "fuente": ""
+  "Mazda-ɛ̃fini MS-8_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9074288"
   },
   "Mazda Laputa_delantera": {
-    "fuente": ""
+    "fuente": "By Kuiha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3875000"
   },
   "Mazda Laputa_trasera": {
-    "fuente": ""
+    "fuente": "By Toyotacoronaexsaloon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52583160"
   },
-  "Mazda AZ-1_delantera": {
-    "fuente": ""
+  "Mazda-Autozam AZ-1_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124666139"
   },
-  "Mazda AZ-1_trasera": {
-    "fuente": ""
+  "Mazda-Autozam AZ-1_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124666141"
+  },
+  "Mazda BT-50 (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3331936"
+  },
+  "Mazda BT-50 (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3331942"
+  },
+  "Mazda BT-50 (2° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Mazda BT-50 SDX 2.2 TDCi 4x4 2013, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34576194"
+  },
+  "Mazda BT-50 (2° Gen.)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Mazda BT-50 SDX 2.2 TDCi Hi Rider 2015, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=85163350"
+  },
+  "Mazda BT-50 (3° Gen.)_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/52519461443/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=128591351"
+  },
+  "Mazda BT-50 (3° Gen.)_trasera": {
+    "fuente": "By Chanokchon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99149634"
+  },
+  "Mazda CX-60_delantera": {
+    "fuente": "Por Ethan Llamas - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150197767"
+  },
+  "Mazda CX-60_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155915154"
+  },
+  "Mazda CX-8_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121447151"
+  },
+  "Mazda CX-8_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121447152"
+  },
+  "Mazda CX-80_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=159654585"
+  },
+  "Mazda CX-80_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=159654607"
+  },
+  "Mazda CX-90_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137367130"
+  },
+  "Mazda CX-90_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156959243"
+  },
+  "Mazda CX-70_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165654052"
+  },
+  "Mazda CX-70_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165654073"
+  },
+  "Mazda MPV (1° Gen.)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=1560357"
+  },
+  "Mazda MPV (1° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=124239515"
+  },
+  "Mazda MPV (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2530852"
+  },
+  "Mazda MPV (2° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80385821"
+  },
+  "Mazda CX-4_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61952754"
+  },
+  "Mazda CX-4_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61952752"
+  },
+  "Renault-Dacia Logan (1° Gen.)_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Renault Logan 1.6 Expression 2008, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=134457000"
+  },
+  "Renault-Dacia Logan (1° Gen.)_trasera": {
+    "fuente": "By Throwawayacc222 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=181850202"
+  },
+  "Renault-Dacia Logan (2° Gen.)_delantera": {
+    "fuente": "Por KGC626 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61888178"
+  },
+  "Renault-Dacia Logan (2° Gen.)_trasera": {
+    "fuente": "Por KGC626 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61888180"
+  },
+  "Dacia Logan (3° Gen.)_delantera": {
+    "fuente": "Por JanekJankowski - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=103696760"
+  },
+  "Dacia Logan (3° Gen.)_trasera": {
+    "fuente": "Por JanekJankowski - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107047031"
+  },
+  "Dacia Logan MCV (1° Gen.)_delantera": {
+    "fuente": "By I, Matio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2511903"
+  },
+  "Dacia Logan MCV (1° Gen.)_trasera": {
+    "fuente": "By I, Matio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2511923"
+  },
+  "Dacia Logan MCV (2° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67321992"
+  },
+  "Dacia Logan MCV (2° Gen.)_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67321993"
+  },
+  "Dacia Logan Pick-Up_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7286498"
+  },
+  "Dacia Logan Pick-Up_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7286509"
+  },
+  "Dacia-Renault Sandero (1° Gen.)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7033666"
+  },
+  "Dacia-Renault Sandero (1° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7033668"
+  },
+  "Dacia-Renault Sandero (2° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68741699"
+  },
+  "Dacia-Renault Sandero (2° Gen.)_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68741698"
+  },
+  "Dacia-Renault Sandero (3° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128222320"
+  },
+  "Dacia-Renault Sandero (3° Gen.)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=154844221"
+  },
+  "Dacia-Renault Sandero Stepway (1° Gen.)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=9908584"
+  },
+  "Dacia-Renault Sandero Stepway (1° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11672981"
+  },
+  "Dacia-Renault Sandero Stepway (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91022296"
+  },
+  "Dacia-Renault Sandero Stepway (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91022297"
+  },
+  "Dacia-Renault Sandero Stepway (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107911189"
+  },
+  "Dacia-Renault Sandero Stepway (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107911190"
+  },
+  "Renault Sandero RS_delantera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=143043019"
+  },
+  "Renault Sandero RS_trasera": {
+    "fuente": "By João Pedro Arcuri Baetas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=163720408"
+  },
+  "Renault Kardian_delantera": {
+    "fuente": "Por NaBUru38 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155510930"
+  },
+  "Renault Kardian_trasera": {
+    "fuente": "Por NaBUru38 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155510932"
+  },
+  "Dacia-Renault Duster (1° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Renault Duster 2.0 Dynamique 2014, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=37145773"
+  },
+  "Dacia-Renault Duster (1° Gen.)_trasera": {
+    "fuente": "Por Detectandpreserve - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21965031"
+  },
+  "Dacia-Renault Duster (2° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71051492"
+  },
+  "Dacia-Renault Duster (2° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62608046"
+  },
+  "Dacia Duster (3° Gen.)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148963103"
+  },
+  "Dacia Duster (3° Gen.)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148963083"
+  },
+  "Renault Oroch_delantera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45769552"
+  },
+  "Renault Oroch_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45769551"
+  },
+  "Dacia Jogger_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127040602"
+  },
+  "Dacia Jogger_trasera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127040614"
+  },
+  "Dacia Bigster_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=163252426"
+  },
+  "Dacia Bigster_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=163252462"
   },
   "Dodge Brothers Touring_delantera": {
     "fuente": ""
@@ -14588,6 +14801,12 @@
   "Lamborghini Reventón_trasera": {
     "fuente": "By Arnaud 25 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20913938"
   },
+  "Lamborghini Temerario_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=186234358"
+  },
+  "Lamborghini Temerario_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=186345619"
+  },
   "Lamborghini Veneno_delantera": {
     "fuente": "Por Clément Bucco-Lechat - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25013558"
   },
@@ -14900,6 +15119,12 @@
   "Ferrari SF90 Stradale_trasera": {
     "fuente": "Por Calreyn88 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125728078"
   },
+  "Ferrari SF90 XX_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=153010475"
+  },
+  "Ferrari SF90 XX_trasera": {
+    "fuente": "By Charles from Port Chester, New York - Ferrari SF90 XX Stradale (2026), CC0, https://commons.wikimedia.org/w/index.php?curid=189143949"
+  },
   "Ferrari 812 Superfast_delantera": {
     "fuente": "By Vauxford - Obra propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73209686"
   },
@@ -14917,6 +15142,18 @@
   },
   "Ferrari Purosangue_trasera": {
     "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149510064"
+  },
+  "Ferrari 12Cilindri_delantera": {
+    "fuente": "Por TTTNIS - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=176597126"
+  },
+  "Ferrari 12Cilindri_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=176601623"
+  },
+  "Ferrari Amalfi_delantera": {
+    "fuente": "By Loco Steve - https://www.flickr.com/photos/36989019@N08/55013509351/, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=186231211"
+  },
+  "Ferrari F80_delantera": {
+    "fuente": "By Pauls.127 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=155027395"
   },
   "Ferrari 166 Inter_delantera": {
     "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1303787"

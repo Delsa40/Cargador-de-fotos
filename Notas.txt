@@ -1,0 +1,5 @@
+- Contador de vistos
+- Botón de menú
+- Inicio de sesión
+- Corregir largo de los nombres de los autos
+- Corregir paginación y búsqueda

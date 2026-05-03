@@ -8249,53 +8249,224 @@
   "Dacia Bigster_trasera": {
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=163252462"
   },
-  "Dodge Brothers Touring_delantera": {
-    "fuente": ""
+  "Dodge Brothers Series 116_delantera": {
+    "fuente": "By F. D. Richards from Clinton, MI - Maple Lane Just Off Village Green, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=83002848"
   },
-  "Dodge Brothers Touring_trasera": {
-    "fuente": ""
+  "Dodge Series D (1° Gen.)_delantera": {
+    "fuente": "By JOHN LLOYD - originally posted to Flickr as 1961-64 Dodge 200, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=9505137"
   },
-  "Dodge Series D_delantera": {
-    "fuente": ""
+  "Dodge Series D (1° Gen.)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1964 Dodge D-200 Pick-Up, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69279006"
   },
-  "Dodge Series D_trasera": {
-    "fuente": ""
+  "Dodge Series D (2° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1968 Dodge Custom Camper Special Pick-Up, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69253342"
   },
-  "Dodge Custom_delantera": {
-    "fuente": ""
+  "Dodge Series D (2° Gen.)_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1970 Dodge Dude, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=11848703"
   },
-  "Dodge Custom_trasera": {
-    "fuente": ""
+  "Dodge Series D (3° Gen.)_delantera": {
+    "fuente": "By dave_7 - https://www.flickr.com/photos/daveseven/2616958061/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=7277536"
+  },
+  "Dodge Li'l Red Express Truck_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122623598"
+  },
+  "Dodge Li'l Red Express Truck_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122623596"
   },
   "Dodge Coronet (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By CZmarlin — Christopher Ziemnowicz — photo credit is required if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99713406"
   },
   "Dodge Coronet (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By CZmarlin — Christopher Ziemnowicz — photo credit is required if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99713407"
+  },
+  "Dodge Coronet (2° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/49494559783/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=91210659"
+  },
+  "Dodge Coronet (3° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=83766769"
+  },
+  "Dodge Coronet (3° Gen.)_trasera": {
+    "fuente": "By JOHN LLOYD from Concrete, Washington, United States - 1956 Dodge Coronet D-500, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=66346061"
+  },
+  "Dodge Coronet (4° Gen.)(1957)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 58 Dodge Coronet, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69272033"
+  },
+  "Dodge Coronet (4° Gen.)(1957)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 58 Dodge Coronet, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69268818"
+  },
+  "Dodge Coronet (4° Gen.)(1959)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1959 Dodge Coronet, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=46871526"
+  },
+  "Dodge Coronet (4° Gen.)(1959)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1959 Dodge Coronet, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69269589"
+  },
+  "Dodge Coronet (5° Gen.)(1965)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119281713"
+  },
+  "Dodge Coronet (5° Gen.)(1965)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1965 Dodge Coronet 440, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69276148"
+  },
+  "Dodge Coronet (5° Gen.)(1966)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=40215467"
+  },
+  "Dodge Coronet (5° Gen.)(1966)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=40213570"
+  },
+  "Dodge Coronet Wagon (5° Gen.)(1966)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134471741"
+  },
+  "Dodge Coronet Wagon (5° Gen.)(1966)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134471738"
+  },
+  "Dodge Coronet (5° Gen.)(1967)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=55055277"
+  },
+  "Dodge Coronet (5° Gen.)(1967)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - DSC00935, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=70764562"
+  },
+  "Dodge Coronet (5° Gen.)(1968)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149207150"
+  },
+  "Dodge Coronet (5° Gen.)(1968)_trasera": {
+    "fuente": "By Triple-green - Dodge Coronet R/T, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=66268379"
+  },
+  "Dodge Coronet RT (1969)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120746950"
+  },
+  "Dodge Coronet RT (1969)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120746939"
+  },
+  "Dodge Coronet RT (1970)_delantera": {
+    "fuente": "By Sicnag - 1970 Dodge Coronet RT, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=46872415"
+  },
+  "Dodge Coronet RT (1970)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1970 Dodge Coronet R/T, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39440618"
+  },
+  "Dodge Coronet Super Bee_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1970 Dodge Super Bee, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=55263929"
+  },
+  "Dodge Coronet Super Bee_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 70 Dodge Super Bee, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69280244"
+  },
+  "Dodge Coronet (6° Gen.)_delantera": {
+    "fuente": "By GPS 56 from New Zealand - 1972 Dodge Coronet, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64262622"
+  },
+  "Dodge Coronet (6° Gen.)_trasera": {
+    "fuente": "By GPS 56 from New Zealand - 72 Dodge Coronet, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64262646"
+  },
+  "Dodge Coronet (7° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/48010802867/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=91210773"
   },
   "Dodge Meadowbrook_delantera": {
-    "fuente": ""
+    "fuente": "By Tomás Del Coro from Las Vegas, Nevada, USA - Dodge, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=58273269"
   },
   "Dodge Meadowbrook_trasera": {
-    "fuente": ""
+    "fuente": "By Tomás Del Coro from Las Vegas, Nevada, USA - Dodge, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=58273268"
   },
-  "Dodge Royal_delantera": {
-    "fuente": ""
+  "Dodge Royal (1° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 54 Dodge Royal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69274285"
   },
-  "Dodge Royal_trasera": {
-    "fuente": ""
+  "Dodge Royal (2° Gen.)_delantera": {
+    "fuente": "By Sicnag - 1955 Dodge Royal 2 door Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40645401"
   },
-  "Dodge Lancer (1° Gen.)_delantera": {
-    "fuente": ""
+  "Dodge Royal (2° Gen.)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 55 Dodge Royal, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69279182"
   },
-  "Dodge Lancer (1° Gen.)_trasera": {
-    "fuente": ""
+  "Dodge Royal (3° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1958 Dodge Royal Lancer, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=149187696"
   },
-  "Dodge Dart (1° Gen.)_delantera": {
-    "fuente": ""
+  "Dodge Royal (3° Gen.)_trasera": {
+    "fuente": "By sv1ambo - 1958 Dodge Royal sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38826672"
   },
-  "Dodge Dart (1° Gen.)_trasera": {
-    "fuente": ""
+  "Dodge Lancer_delantera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/7331120844/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=92034954"
+  },
+  "Dodge Lancer_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 62 Dodge Lancer GT, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40120863"
+  },
+  "Dodge Lancer Wagon_delantera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/47999858616/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=92034950"
+  },
+  "Dodge Lancer Wagon_trasera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/48003851347/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=92034953"
+  },
+  "Dodge Dart (1° Gen.)(1960)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1960 Dodge Dart Phoenix Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=117006394"
+  },
+  "Dodge Dart (1° Gen.)(1960)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1960 Dodge Dart Phoenix Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=117006393"
+  },
+  "Dodge Dart Wagon (1° Gen.)(1960)_delantera": {
+    "fuente": "By GPS 56 from New Zealand - 1960 Dodge Pioneer Station Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=57229264"
+  },
+  "Dodge Dart (1° Gen.)(1961)_delantera": {
+    "fuente": "By Riley from Christchurch, New Zealand - 1961 Dodge Dart Pioneer, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38923330"
+  },
+  "Dodge Dart (1° Gen.)(1961)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1961 Dodge Dart Phoenix, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69280299"
+  },
+  "Dodge Dart Wagon (1° Gen.)(1961)_delantera": {
+    "fuente": "By Riley from Christchurch, New Zealand - 1961 Dodge Seneca, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38921559"
+  },
+  "Dodge Dart Wagon (1° Gen.)(1961)_trasera": {
+    "fuente": "By JOHN LLOYD from Concrete, Washington, United States - Dart in the auction, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=21251926"
+  },
+  "Dodge Dart (2° Gen.)_delantera": {
+    "fuente": "By JOHN LLOYD from Concrete, Washington, United States - 1962 Dodge Dart, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=66348560"
+  },
+  "Dodge Dart (2° Gen.)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149207141"
+  },
+  "Dodge Dart Wagon (2° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 62 Dodge Dart 440, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40120592"
+  },
+  "Dodge Dart Wagon (2° Gen.)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 62 Dodge Dart 440, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40120599"
+  },
+  "Dodge Dart (3° Gen.)_delantera": {
+    "fuente": "By Scheinwerfermann - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6829651"
+  },
+  "Dodge Dart (3° Gen.)_trasera": {
+    "fuente": "By sv1ambo - 1964 Dodge Dart GT hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38826538"
+  },
+  "Dodge Dart Wagon (3° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1964 Dodge Dart 270, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69280293"
+  },
+  "Dodge Dart (4° Gen.)(1967)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17033047"
+  },
+  "Dodge Dart (4° Gen.)(1967)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1967 Dodge Dart GT Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63661195"
+  },
+  "Dodge Dart (4° Gen.)(1970)_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7704755"
+  },
+  "Dodge Dart (4° Gen.)(1970)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7704762"
+  },
+  "Dodge Dart Demon (1971)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1971 Dodge Demon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69270801"
+  },
+  "Dodge Dart Demon (1971)_trasera": {
+    "fuente": "By Greg Gjerdingen - Flickr: 71 Dodge Demon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=19582988"
+  },
+  "Dodge Dart Swinger (1972)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1972 Dodge Dart Swinger, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34581593"
+  },
+  "Dodge Dart Swinger (1972)_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1972 Dodge Dart Swinger, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34581597"
+  },
+  "Dodge Dart (4° Gen.)(1973)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130232847"
+  },
+  "Dodge Dart (4° Gen.)(1973)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130232846"
+  },
+  "Dodge Dart (2012)_delantera": {
+    "fuente": "Por order_242 from Chile - Dodge Dart 2.0 Rallye 2014, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34575883"
+  },
+  "Dodge Dart (2012)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78204769"
   },
   "Dodge Polara_delantera": {
     "fuente": ""
@@ -14226,10 +14397,7 @@
     "fuente": "By Brian Snelson from Hockley, Essex, England - 1986 Peugeot Proxima, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17788665"
   },
   "Peugeot Oxia_delantera": {
-    "fuente": "https://forums.forza.net/t/peugeot-oxia-concept-1988/644667/3"
-  },
-  "Peugeot Oxia_trasera": {
-    "fuente": "https://www.topspeed.com/cars/guides/the-forgotten-mid-engined-peugeot-oxia-concept-from-was-a-car-well-ahead-of-its-time/"
+    "fuente": "By Willtron, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=344655"
   },
   "Peugeot Quasar_delantera": {
     "fuente": "Por Alf van Beem - Obra do próprio, CC0, https://commons.wikimedia.org/w/index.php?curid=48558566"
@@ -15053,11 +15221,35 @@
   "Ferrari 250 GTO_trasera": {
     "fuente": "Por Arnaud 25 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20937336"
   },
+  "Ferrari 288 GTO_delantera": {
+    "fuente": "By GTHO - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=43877759"
+  },
+  "Ferrari 288 GTO_trasera": {
+    "fuente": "By Rahil Rupawala - DSC_5072, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=73339815"
+  },
+  "Ferrari 288 GTO Evoluzione_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=142829892"
+  },
+  "Ferrari 288 GTO Evoluzione_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=142829523"
+  },
   "Ferrari Testarossa_delantera": {
     "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168286689"
   },
   "Ferrari Testarossa_trasera": {
     "fuente": "Por Taisyo - photo taken by Taisyo, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=122228"
+  },
+  "Ferrari FF_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=109992773"
+  },
+  "Ferrari FF_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=109955163"
+  },
+  "Ferrari GTC4Lusso_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73345516"
+  },
+  "Ferrari GTC4Lusso_trasera": {
+    "fuente": "By Alexandre Prevot from Nancy, France - Ferrari GTC4Lusso, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177034480"
   },
   "Ferrari F40_delantera": {
     "fuente": "Von Arnaud 25 - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20937300"
@@ -15284,26 +15476,14 @@
   "Ferrari P80 C_delantera": {
     "fuente": "By Arione Leonardo - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127368278"
   },
-  "Ferrari P80 C_trasera": {
-    "fuente": "https://www.excelenciasdelmotor.com/otras-secciones/curiosidades/ferrari-p80-c-un-auto-unico"
-  },
   "Ferrari Omologata_delantera": {
     "fuente": "By pelican-actor - https://www.flickr.com/photos/192005255@N04/52079716816/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=118118217"
   },
   "Ferrari Omologata_trasera": {
     "fuente": "By pelican-actor - https://www.flickr.com/photos/192005255@N04/52079716766/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=118118215"
   },
-  "Ferrari BR20_delantera": {
-    "fuente": "https://www.diariomotor.com/foto-a-foto/ferrari-one-off-special-project/"
-  },
-  "Ferrari BR20_trasera": {
-    "fuente": "https://www.diariomotor.com/foto-a-foto/ferrari-one-off-special-project/"
-  },
   "Ferrari KC23_delantera": {
     "fuente": "Par Calreyn88 — Travail personnel, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=146118453"
-  },
-  "Ferrari KC23_trasera": {
-    "fuente": "https://www.diariomotor.com/noticia/ferrari-kc23-video-circuito-demostracion/"
   },
   "Ferrari 166 MM Barchetta_delantera": {
     "fuente": "By Writegeist - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=4543709"

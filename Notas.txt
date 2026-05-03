@@ -3,3 +3,4 @@
 - Inicio de sesión
 - Corregir largo de los nombres de los autos
 - Corregir paginación y búsqueda
+- Qué pasa con los guardados si yo hago un cambio en el nombre/foto?

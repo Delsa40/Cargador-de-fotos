@@ -8468,47 +8468,230 @@
   "Dodge Dart (2012)_trasera": {
     "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78204769"
   },
+  "Dodge Polara RT_delantera": {
+    "fuente": "By Just a Man - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=177972860"
+  },
+  "Dodge Polara RT_trasera": {
+    "fuente": "By Just a Man - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=177972862"
+  },
+  "Dodge Coronado_delantera": {
+    "fuente": "By Alfredo Sabagni - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74199431"
+  },
+  "Dodge Coronado_trasera": {
+    "fuente": "By Alfredo Sabagni - Others, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74201441"
+  },
+  "Dodge GTX_delantera": {
+    "fuente": "By Moebiusuibeom-en - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18013983"
+  },
+  "Dodge GTX_trasera": {
+    "fuente": "By Dariomutu - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36852198"
+  },
   "Dodge Polara_delantera": {
-    "fuente": ""
+    "fuente": "By Triple-green - IMGP2290, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=66268758"
   },
   "Dodge Polara_trasera": {
-    "fuente": ""
+    "fuente": "By Polara73 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73466926"
   },
-  "Dodge Monaco_delantera": {
-    "fuente": ""
+  "Dodge 1500_delantera": {
+    "fuente": "By Just a Man - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=159781557"
   },
-  "Dodge Monaco_trasera": {
-    "fuente": ""
+  "Dodge 1500_trasera": {
+    "fuente": "By Just a Man - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=159781558"
   },
-  "Dodge Charger (1° Gen.)_delantera": {
-    "fuente": ""
+  "Dodge Monaco (1965)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1965 Dodge Monaco, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=174853570"
   },
-  "Dodge Charger (1° Gen.)_trasera": {
-    "fuente": ""
+  "Dodge Monaco (1965)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1965 Dodge Monaco, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63661218"
   },
-  "Dodge Challenger (1° Gen.)_delantera": {
-    "fuente": ""
+  "Dodge Monaco (1973)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121793095"
   },
-  "Dodge Challenger (1° Gen.)_trasera": {
-    "fuente": ""
+  "Dodge Monaco (1973)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121793097"
   },
-  "Dodge Super Bee_delantera": {
-    "fuente": ""
+  "Dodge Monaco Station Wagon (1971)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 71 Dodge Monaco, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=48786239"
   },
-  "Dodge Super Bee_trasera": {
-    "fuente": ""
+  "Dodge Monaco Station Wagon (1971)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 71 Dodge Monaco, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=48786278"
   },
-  "Dodge Demon (1° Gen.)_delantera": {
-    "fuente": ""
+  "Dodge Monaco Brougham (1974)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=49536940"
   },
-  "Dodge Demon (1° Gen.)_trasera": {
-    "fuente": ""
+  "Dodge Monaco Brougham (1974)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=49536888"
   },
-  "Dodge St. Regis_delantera": {
-    "fuente": ""
+  "Dodge Royal Monaco (1977)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150043803"
   },
-  "Dodge St. Regis_trasera": {
-    "fuente": ""
+  "Dodge Royal Monaco (1977)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150043802"
+  },
+  "Dodge Monaco (1977)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1977 Dodge Monaco, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69278581"
+  },
+  "Dodge Monaco (1977)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1977 Dodge Monaco, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69274877"
+  },
+  "Dodge Monaco (1990)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14622510"
+  },
+  "Dodge Monaco (1990)_trasera": {
+    "fuente": "By Taxiguy57 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7822904"
+  },
+  "Dodge Charger (1966)_delantera": {
+    "fuente": "By Sicnag - 1966 Dodge Charger 383, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17234997"
+  },
+  "Dodge Charger (1966)_trasera": {
+    "fuente": "By Valder137 - Dodge_Charger_1966_RSideRear_LakeMirrorClassic_17Oct09, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=35674199"
+  },
+  "Dodge Charger RT (1968)_delantera": {
+    "fuente": "By Sicnag - 1968 Dodge Charger, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40645228"
+  },
+  "Dodge Charger RT (1968)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1968 Dodge Charger R/T, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38584626"
+  },
+  "Dodge Charger RT (1969)_delantera": {
+    "fuente": "By Sicnag - 1969 Dodge Charger RT, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146892054"
+  },
+  "Dodge Charger RT (1969)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1969 Dodge Charger R/T, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37779506"
+  },
+  "Dodge Charger 500 (1969)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1969 Dodge Charger 500, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63662302"
+  },
+  "Dodge Charger 500 (1969)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1969 Dodge Charger 500, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63662303"
+  },
+  "Dodge Charger Daytona_delantera": {
+    "fuente": "By Karrmann - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2256961"
+  },
+  "Dodge Charger Daytona_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1969 Dodge Daytona, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69274770"
+  },
+  "Dodge Charger RT (1971)_delantera": {
+    "fuente": "By sv1ambo - 1971 Dodge Charger R/T coupe, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38826443"
+  },
+  "Dodge Charger RT (1971)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7847811"
+  },
+  "Dodge Charger Super Bee (1971)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1971 Dodge Charger Super Bee, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=46871490"
+  },
+  "Dodge Charger Super Bee (1971)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1971 Dodge Charger Super Bee, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=46871498"
+  },
+  "Dodge Charger (1973)_delantera": {
+    "fuente": "By priceman 141 - https://www.flickr.com/photos/115310862@N04/22653627876/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=181983015"
+  },
+  "Dodge Charger (1973)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1973 Dodge Charger SE, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69278713"
+  },
+  "Dodge Charger (1975)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1975 Dodge Charger SE, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=145964994"
+  },
+  "Dodge Charger (1975)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1975 Dodge Charger SE, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69268675"
+  },
+  "Dodge Charger (1987)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136666537"
+  },
+  "Dodge Charger (1987)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136666540"
+  },
+  "Dodge Shelby Charger (1982)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=70357437"
+  },
+  "Dodge Shelby Charger (1982)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=70367025"
+  },
+  "Dodge Shelby Charger GLHS_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=78489108"
+  },
+  "Dodge Shelby Charger GLHS_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=70367879"
+  },
+  "Dodge Charger (2006)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2574020"
+  },
+  "Dodge Charger (2006)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4637537"
+  },
+  "Dodge Charger (2011)_delantera": {
+    "fuente": "By U.S. National Highway Traffic Safety Administration - safercar.gov, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18305737"
+  },
+  "Dodge Charger (2011)_trasera": {
+    "fuente": "By qJake - 2012 Dodge Charger, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=93791580"
+  },
+  "Dodge Charger (2015)_delantera": {
+    "fuente": "By Tuner tom - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=189559436"
+  },
+  "Dodge Charger (2015)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118367307"
+  },
+  "Dodge Charger Daytona RT (2024)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164537081"
+  },
+  "Dodge Charger Daytona RT (2024)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164537079"
+  },
+  "Dodge Charger RT Concept (1999)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Dodge Charger R/T Concept, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39959053"
+  },
+  "Dodge Challenger RT (1970)_delantera": {
+    "fuente": "By Sicnag - 1970 Dodge Challenger RT 440 6 pack, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40645263"
+  },
+  "Dodge Challenger RT (1970)_trasera": {
+    "fuente": "By Sicnag - 1970 Dodge Challenger R/T 440 6 pack, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=81849186"
+  },
+  "Dodge Challenger (1973)_delantera": {
+    "fuente": "By Sicnag - 1973 Dodge Challenger Rallye Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=81849179"
+  },
+  "Dodge Challenger (1973)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1973 Dodge Challenger, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69279289"
+  },
+  "Dodge Challenger (1981)_delantera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=41221714"
+  },
+  "Dodge Challenger (1981)_trasera": {
+    "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=41221658"
+  },
+  "Dodge Challenger (2009)_delantera": {
+    "fuente": "By National Highway Traffic Safety Administration - File, Description, Public Domain, https://commons.wikimedia.org/w/index.php?curid=155102524"
+  },
+  "Dodge Challenger (2009)_trasera": {
+    "fuente": "By National Highway Traffic Safety Administration - File, Description, Public Domain, https://commons.wikimedia.org/w/index.php?curid=155102822"
+  },
+  "Dodge Challenger (2015)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118340483"
+  },
+  "Dodge Challenger (2015)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118340484"
+  },
+  "Dodge Challenger SRT Hellcat_delantera": {
+    "fuente": "By Hunttriumph1500 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155249140"
+  },
+  "Dodge Challenger SRT Hellcat_trasera": {
+    "fuente": "By Zytonits - Dodge Challenger SRT Hellcat arriere, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=117911655"
+  },
+  "Dodge Challenger SRT Demon_delantera": {
+    "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=66200702"
+  },
+  "Dodge Challenger SRT Demon_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67640768"
+  },
+  "Dodge Demon Concept (2007)_delantera": {
+    "fuente": "By William J Sisti from Morristown, NJ, USA - Dodge Something else, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=142077654"
+  },
+  "Dodge Demon Concept (2007)_trasera": {
+    "fuente": "By Schneider2001 - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=3808209"
+  },
+  "Dodge St Regis_delantera": {
+    "fuente": "By Matthias v.d. Elbe - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12052525"
+  },
+  "Dodge St Regis_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1980 Dodge St.Regis, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69231915"
   },
   "Dodge Aspen_delantera": {
     "fuente": ""

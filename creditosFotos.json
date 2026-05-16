@@ -8693,101 +8693,218 @@
   "Dodge St Regis_trasera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1980 Dodge St.Regis, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69231915"
   },
-  "Dodge Aspen_delantera": {
-    "fuente": ""
+  "Dodge Aspen Coupe_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6848998"
   },
-  "Dodge Aspen_trasera": {
-    "fuente": ""
+  "Dodge Aspen Coupe_trasera": {
+    "fuente": "By AlfvanBeem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=16736376"
   },
-  "Dodge Diplomat_delantera": {
-    "fuente": ""
+  "Dodge Aspen Sedan_delantera": {
+    "fuente": "By Self-Proclaimed-Car-Enthusiast - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126809654"
   },
-  "Dodge Diplomat_trasera": {
-    "fuente": ""
+  "Dodge Aspen Sedan_trasera": {
+    "fuente": "By Self-Proclaimed-Car-Enthusiast - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126809653"
   },
-  "Dodge Aries_delantera": {
-    "fuente": ""
+  "Dodge Aspen Wagon_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45557112"
   },
-  "Dodge Aries_trasera": {
-    "fuente": ""
+  "Dodge Aspen Wagon_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45557113"
+  },
+  "Dodge Aspen RT_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1976 Dodge Aspen R/T, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146229543"
+  },
+  "Dodge Aspen RT_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1976 Dodge Aspen R/T, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63704128"
+  },
+  "Dodge Diplomat Coupe_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=55138190"
+  },
+  "Dodge Diplomat Coupe_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=55138207"
+  },
+  "Dodge Diplomat Sedan_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 85 Dodge Diplomat, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69276673"
+  },
+  "Dodge Diplomat Sedan_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 85 Dodge Diplomat, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69277475"
+  },
+  "Dodge Diplomat Wagon_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=84454410"
+  },
+  "Dodge Aries Sedan_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2015901"
+  },
+  "Dodge Aries Sedan_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149407482"
+  },
+  "Dodge Aries Coupe_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada;cropped and levels adjusted by uploader Mr.choppers - 1981 Dodge Airies, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18314495"
+  },
+  "Dodge Aries Coupe_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31779906"
+  },
+  "Dodge Aries Wagon_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - Dodge Aries station wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34582858"
+  },
+  "Dodge Aries Wagon_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1984 Dodge Airies K-car wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34582092"
   },
   "Dodge 600_delantera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151102342"
   },
   "Dodge 600_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151102340"
   },
   "Dodge Omni_delantera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=187409266"
   },
   "Dodge Omni_trasera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=187409267"
   },
   "Dodge Shadow_delantera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=186654953"
   },
   "Dodge Shadow_trasera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=186654954"
   },
   "Dodge Spirit_delantera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=101112380"
   },
   "Dodge Spirit_trasera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=101112379"
+  },
+  "Dodge Spirit RT_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6984644"
+  },
+  "Dodge Spirit RT_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1991 Dodge Spirit R/T, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69266971"
   },
   "Dodge Stratus (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6771699"
   },
   "Dodge Stratus (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81616058"
+  },
+  "Dodge Stratus (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2171540"
+  },
+  "Dodge Stratus (2° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=156125525"
   },
   "Dodge Neon (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By TKOIII - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=184694369"
   },
   "Dodge Neon (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=138069917"
   },
-  "Dodge Avenger (1° Gen.)_delantera": {
-    "fuente": ""
+  "Dodge Neon (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1560390"
   },
-  "Dodge Avenger (1° Gen.)_trasera": {
-    "fuente": ""
+  "Dodge Neon (2° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120746944"
   },
-  "Dodge Intrepid_delantera": {
-    "fuente": ""
+  "Dodge Neon SRT4_delantera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/5889662144/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=114892091"
   },
-  "Dodge Intrepid_trasera": {
-    "fuente": ""
+  "Dodge Neon SRT4_trasera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/5889663106/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=114892089"
   },
-  "Dodge Magnum (1° Gen.)_delantera": {
-    "fuente": ""
+  "Dodge Avenger Coupe_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2574007"
   },
-  "Dodge Magnum (1° Gen.)_trasera": {
-    "fuente": ""
+  "Dodge Avenger Coupe_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1998 Dodge Avenger, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63661541"
+  },
+  "Dodge Avenger Sedan_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=15275116"
+  },
+  "Dodge Avenger Sedan_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=43437981"
+  },
+  "Dodge Intrepid (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3189508"
+  },
+  "Dodge Intrepid (1° Gen.)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151135440"
+  },
+  "Dodge Intrepid (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Made by user:IFCAR, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2279847"
+  },
+  "Dodge Intrepid (2° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136008647"
+  },
+  "Dodge Magnum (1978)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112224571"
+  },
+  "Dodge Magnum (1978)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112477640"
+  },
+  "Dodge Magnum (1979)_delantera": {
+    "fuente": "By Simoloko - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18596902"
+  },
+  "Dodge Magnum (1981)_delantera": {
+    "fuente": "By Misael González - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17994587"
+  },
+  "Dodge Magnum (2005)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3579706"
+  },
+  "Dodge Magnum (2005)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 05 Dodge Magnum RT, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40116385"
   },
   "Dodge Caliber_delantera": {
-    "fuente": ""
+    "fuente": "By U.S. National Highway Traffic Safety Administration - safercar.gov, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14575635"
   },
   "Dodge Caliber_trasera": {
-    "fuente": ""
+    "fuente": "By National Highway Traffic Safety Administration - File, Description, Public Domain, https://commons.wikimedia.org/w/index.php?curid=75488020"
+  },
+  "Dodge Caliber SRT4_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6687386"
+  },
+  "Dodge Caliber SRT4_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6687388"
   },
   "Dodge Journey_delantera": {
-    "fuente": ""
+    "fuente": "By U.S. National Highway Traffic Safety Administration - http://www-nrd.nhtsa.dot.gov/database/aspx/vehdb/testtabledetails.aspx?LJC=7471&existphoto=Y&p_tstno=7471&existreport=Y&r_tstno=7471&existvideo=Y&v_tstno=7471&database=v&tstno=7471 safercar.gov, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17325813"
   },
   "Dodge Journey_trasera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118367300"
   },
   "Dodge Caravan (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1984 Dodge Caravan LE, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=147868425"
   },
   "Dodge Caravan (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By order_242 from Chile - Dodge Caravan SE 2.5 Turbo 1989, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=35994504"
   },
-  "Dodge Grand Caravan_delantera": {
-    "fuente": ""
+  "Dodge Caravan (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2796295"
   },
-  "Dodge Grand Caravan_trasera": {
-    "fuente": ""
+  "Dodge Caravan (2° Gen.)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3946064"
+  },
+  "Dodge Caravan (3° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155499198"
+  },
+  "Dodge Caravan (3° Gen.)_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=101332660"
+  },
+  "Dodge Caravan (4° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125367384"
+  },
+  "Dodge Caravan (4° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125367383"
+  },
+  "Dodge Caravan (5° Gen.)(2008)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5101445"
+  },
+  "Dodge Caravan (5° Gen.)(2008)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=176701206"
+  },
+  "Dodge Caravan (5° Gen.)(2011)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=15668185"
+  },
+  "Dodge Caravan (5° Gen.)(2011)_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95241586"
   },
   "Dodge Ramcharger_delantera": {
     "fuente": ""

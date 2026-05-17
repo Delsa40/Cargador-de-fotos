@@ -8906,100 +8906,226 @@
   "Dodge Caravan (5° Gen.)(2011)_trasera": {
     "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95241586"
   },
-  "Dodge Ramcharger_delantera": {
-    "fuente": ""
+  "Dodge Ramcharger (1° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 77 Dodge Ramcharger, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63704287"
   },
-  "Dodge Ramcharger_trasera": {
-    "fuente": ""
+  "Dodge Ramcharger (1° Gen.)_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - Dodge Ram Charger, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34581296"
   },
-  "Dodge Durango (1° Gen.)_delantera": {
-    "fuente": ""
+  "Dodge Ramcharger (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7371222"
   },
-  "Dodge Durango (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Dodge Nitro_delantera": {
-    "fuente": ""
-  },
-  "Dodge Nitro_trasera": {
-    "fuente": ""
-  },
-  "Dodge Dakota (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Dodge Dakota (1° Gen.)_trasera": {
-    "fuente": ""
+  "Dodge Ramcharger (2° Gen.)_trasera": {
+    "fuente": "By dave_7 from Canada - Dodge Ram Charger, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146234099"
   },
   "Dodge Ram (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Scheinwerfermann - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5824195"
   },
   "Dodge Ram (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150611137"
   },
-  "Dodge Power Wagon_delantera": {
-    "fuente": ""
+  "Dodge Ram (2° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89195152"
   },
-  "Dodge Power Wagon_trasera": {
-    "fuente": ""
+  "Dodge Ram (2° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89195151"
   },
-  "Dodge WC Series_delantera": {
-    "fuente": ""
+  "Dodge Ram (3° Gen.)(2002)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17706135"
   },
-  "Dodge WC Series_trasera": {
-    "fuente": ""
+  "Dodge Ram (3° Gen.)(2002)_trasera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71174223"
   },
-  "Dodge M37_delantera": {
-    "fuente": ""
+  "Dodge Ram (3° Gen.)(2006)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18737480"
   },
-  "Dodge M37_trasera": {
-    "fuente": ""
+  "Dodge Ram (3° Gen.)(2006)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112672582"
   },
-  "Dodge D-Series (1° Gen.)_delantera": {
-    "fuente": ""
+  "Dodge Ram SRT10_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178443179"
   },
-  "Dodge D-Series (1° Gen.)_trasera": {
-    "fuente": ""
+  "Dodge Ram SRT10_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178443200"
   },
-  "Dodge Raider_delantera": {
-    "fuente": ""
+  "Dodge Ram (4° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=92611837"
   },
-  "Dodge Raider_trasera": {
-    "fuente": ""
+  "Dodge Ram (4° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78140771"
+  },
+  "Ram 1500_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89195364"
+  },
+  "Ram 1500_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76784763"
+  },
+  "Ram 1500 TRX_delantera": {
+    "fuente": "By Carlito714 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124717256"
+  },
+  "Ram 1500 TRX_trasera": {
+    "fuente": "By Retired electrician - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=173652505"
+  },
+  "Ram 3500_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=169268653"
+  },
+  "Ram 3500_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=169268657"
+  },
+  "Dodge Durango (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2132903"
+  },
+  "Dodge Durango (1° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=118441064"
+  },
+  "Dodge Durango (2° Gen.)(2004)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6661788"
+  },
+  "Dodge Durango (2° Gen.)(2004)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=118277584"
+  },
+  "Dodge Durango (2° Gen.)(2007)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1569591"
+  },
+  "Dodge Durango (2° Gen.)(2007)_trasera": {
+    "fuente": "By Qwerty242 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17670353"
+  },
+  "Dodge Durango (3° Gen.)(2011)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12251259"
+  },
+  "Dodge Durango (3° Gen.)(2011)_trasera": {
+    "fuente": "By order_242 from Chile - Dodge Durango 3.6 Crew 2014, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34576375"
+  },
+  "Dodge Durango (3° Gen.)(2014)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=53646497"
+  },
+  "Dodge Durango (3° Gen.)(2014)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78205712"
+  },
+  "Dodge Durango (3° Gen.)(2021)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120167045"
+  },
+  "Dodge Durango (3° Gen.)(2021)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78205710"
+  },
+  "Dodge Nitro_delantera": {
+    "fuente": "By Karrmann - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2567891"
+  },
+  "Dodge Nitro_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3276937"
+  },
+  "Dodge Shelby Dakota_delantera": {
+    "fuente": "By Latvian98 - I took this photo at a car show in Marysville, Ohio.Previously published: Marysville Burger King Summer Cruise In 183 by Latvian98 on Flickr, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20486843"
+  },
+  "Dodge Shelby Dakota_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119539856"
+  },
+  "Dodge Dakota (1° Gen.)(1988)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=181081801"
+  },
+  "Dodge Dakota (1° Gen.)(1988)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=181085464"
+  },
+  "Dodge Dakota (1° Gen.)(1991)_delantera": {
+    "fuente": "By Gvaughan79 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12808890"
+  },
+  "Dodge Dakota (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2154890"
+  },
+  "Dodge Dakota (2° Gen.)_trasera": {
+    "fuente": "By Greg Goebel from Loveland CO, USA - Yvdak_2b, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=52102231"
+  },
+  "Dodge Dakota (3° Gen.)(2005)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1929922"
+  },
+  "Dodge Dakota (3° Gen.)(2005)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31632398"
+  },
+  "Dodge Dakota (3° Gen.)(2008)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3449988"
+  },
+  "Dodge Dakota (3° Gen.)(2008)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=117774286"
   },
   "Dodge Stealth_delantera": {
-    "fuente": ""
+    "fuente": "By Jeffbond12 - véhicul personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5816845"
   },
   "Dodge Stealth_trasera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=110685089"
   },
   "Dodge La Femme_delantera": {
-    "fuente": ""
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4826120"
   },
   "Dodge La Femme_trasera": {
-    "fuente": ""
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4826080"
   },
   "Dodge Wayfarer_delantera": {
-    "fuente": ""
+    "fuente": "By Greg Gjerdingen from Willmar, USACropped and lightly adjusted by uploader Mr.choppers - 1950 Dodge Wayfarer, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=41376015"
   },
   "Dodge Wayfarer_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1950 Dodge Wayfarer, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69276113"
+  },
+  "Dodge Kingsway (1957)_delantera": {
+    "fuente": "By GPS 56 from New Zealand - 1957 Dodge Kingsway, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64259406"
+  },
+  "Dodge Kingsway (1957)_trasera": {
+    "fuente": "By Spanish Coches - 1957 Dodge Kingsway, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38113143"
+  },
+  "Dodge Kingsway (1959)_delantera": {
+    "fuente": "By Sicnag - 1959 Dodge Kingsway Custom Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64094374"
+  },
+  "Dodge Viper (1° Gen.)(1992)_delantera": {
+    "fuente": "By TaurusEmerald - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155138358"
+  },
+  "Dodge Viper (1° Gen.)(1992)_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - Dodge Viper RT/10, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=170767554"
+  },
+  "Dodge Viper (1° Gen.)(1996)_delantera": {
+    "fuente": "By The original uploader was NineKnuckles at English Wikipedia. - Transferred from en.wikipedia to Commons by MB-one using CommonsHelper., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8863358"
+  },
+  "Dodge Viper (1° Gen.)(1996)_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - Dodge Viper GTS, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=175063488"
+  },
+  "Dodge Viper GTS-R_delantera": {
+    "fuente": "By Unknown author - online, Public Domain, https://commons.wikimedia.org/w/index.php?curid=148168956"
+  },
+  "Dodge Viper GTS-R Concept_delantera": {
+    "fuente": "By Corvair Owner - https://www.flickr.com/photos/59398780@N00/50712742921/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=97706563"
+  },
+  "Dodge Viper Convertible (2° Gen.)_delantera": {
+    "fuente": "By Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14558221"
+  },
+  "Dodge Viper Convertible (2° Gen.)_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - Dodge Viper SRT-10, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=29835901"
+  },
+  "Dodge Viper Coupe (2° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132617343"
+  },
+  "Dodge Viper Coupe (2° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132617342"
+  },
+  "Dodge Viper SRT-10 ACR (2° Gen.)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 09 Dodge Viper ACR, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69280423"
+  },
+  "Dodge Viper SRT-10 ACR (2° Gen.)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 09 Dodge Viper ACR, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69270707"
+  },
+  "Dodge Viper (3° Gen.)_delantera": {
+    "fuente": "By Patrick Corcoran - Flickr: 2014 Viper, CC BY 2.0 it, https://commons.wikimedia.org/w/index.php?curid=142138214"
+  },
+  "Dodge Viper (3° Gen.)_trasera": {
+    "fuente": "By Cjp24 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=42422457"
+  },
+  "Dodge Viper ACR (3° Gen.)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149486290"
+  },
+  "Dodge Viper ACR (3° Gen.)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149486289"
+  },
+  "Dodge Copperhead Concept_delantera": {
     "fuente": ""
   },
-  "Dodge Kingsway_delantera": {
-    "fuente": ""
-  },
-  "Dodge Kingsway_trasera": {
-    "fuente": ""
-  },
-  "Dodge Phoenix_delantera": {
-    "fuente": ""
-  },
-  "Dodge Phoenix_trasera": {
-    "fuente": ""
-  },
-  "Dodge Viper (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Dodge Viper (1° Gen.)_trasera": {
+  "Dodge Copperhead Concept_trasera": {
     "fuente": ""
   },
   "Chrysler Six_delantera": {

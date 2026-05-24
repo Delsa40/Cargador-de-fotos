@@ -8972,6 +8972,12 @@
   "Ram 3500_trasera": {
     "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=169268657"
   },
+  "Ram Rampage_delantera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147603566"
+  },
+  "Ram Rampage_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147603565"
+  },
   "Dodge Durango (1° Gen.)_delantera": {
     "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2132903"
   },
@@ -9872,233 +9878,392 @@
   "Chrysler New Yorker Fifth Avenue (1990)_trasera": {
     "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119539813"
   },
-  "Chrysler Town and Country (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chrysler Town and Country - Voyager (1° Gen.)_delantera": {
+    "fuente": "By Fridolin freudenfett (Peter Kuley) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7026959"
   },
-  "Chrysler Town and Country (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chrysler Town and Country - Voyager (1° Gen.)_trasera": {
+    "fuente": "By Fridolin freudenfett (Peter Kuley) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7027170"
   },
-  "Chrysler Royal_delantera": {
-    "fuente": ""
+  "Chrysler Town and Country - Voyager (2° Gen.)_delantera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=120061635"
   },
-  "Chrysler Royal_trasera": {
-    "fuente": ""
+  "Chrysler Town and Country - Voyager (2° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=120061633"
   },
-  "Chrysler Crown_delantera": {
-    "fuente": ""
+  "Chrysler Town and Country - Voyager (3° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120746794"
   },
-  "Chrysler Crown_trasera": {
-    "fuente": ""
+  "Chrysler Town and Country - Voyager (3° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120746798"
   },
-  "Chrysler Newport (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chrysler Town and Country - Voyager (4° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2334359"
   },
-  "Chrysler Newport (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chrysler Town and Country - Voyager (4° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136851362"
   },
-  "Chrysler 300 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chrysler Town and Country - Voyager (5° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=37064061"
   },
-  "Chrysler 300 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chrysler Town and Country - Voyager (5° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=37064074"
   },
-  "Chrysler 300 Letter Series_delantera": {
-    "fuente": ""
+  "Chrysler Town and Country (1942)_delantera": {
+    "fuente": "By AlfvanBeem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=15790708"
   },
-  "Chrysler 300 Letter Series_trasera": {
-    "fuente": ""
+  "Chrysler Town and Country (1942)_trasera": {
+    "fuente": "By Alf van Beem - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=95752289"
+  },
+  "Chrysler Town and Country (1948)_delantera": {
+    "fuente": "By Morio - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=57658072"
+  },
+  "Chrysler Town and Country (1948)_trasera": {
+    "fuente": "By Morio - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=57658074"
+  },
+  "Chrysler Town and Country (1972)_delantera": {
+    "fuente": "By RJHuffman - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15555823"
+  },
+  "Chrysler Royal Eight_delantera": {
+    "fuente": "By sv1ambo - 1933 Chrysler Royal Eight coupe, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38835201"
+  },
+  "Chrysler Royal Eight_trasera": {
+    "fuente": "By sv1ambo - 1933 Chrysler Royal Eight coupe, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38835203"
+  },
+  "Chrysler Royal AP1_delantera": {
+    "fuente": "By sv1ambo - 1957 Chrysler AP1 Royal sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38825987"
+  },
+  "Chrysler Royal AP1_trasera": {
+    "fuente": "By sv1ambo - 1957 Chrysler AP1 Royal sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38825989"
+  },
+  "Chrysler Newport Phaeton_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1941 Chrysler Newport Phaeton, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=55264310"
+  },
+  "Chrysler Newport Phaeton_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1941 Chrysler Newport Phaeton, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=55264333"
+  },
+  "Chrysler Thunderbolt_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1941 Chrysler Thunderbolt Retractable Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=55264099"
+  },
+  "Chrysler Thunderbolt_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1941 Chrysler Thunderbolt Retractable Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=55264314"
+  },
+  "Chrysler 300C (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6265950"
+  },
+  "Chrysler 300C (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65360626"
+  },
+  "Chrysler 300C (2° Gen.)_delantera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135827779"
+  },
+  "Chrysler 300C (2° Gen.)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131703296"
+  },
+  "Chrysler C-300_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=181087667"
+  },
+  "Chrysler C-300_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=181087666"
+  },
+  "Chrysler 300B_delantera": {
+    "fuente": "By Sicnag - 1956 Chrysler 300 B Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=81849346"
+  },
+  "Chrysler 300B_trasera": {
+    "fuente": "By Sicnag - 1956 Chrysler 300 B Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=81849342"
+  },
+  "Chrysler 300C - 300D - 300E_delantera": {
+    "fuente": "By Sicnag - 1958 Chrysler 300D Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=175394993"
+  },
+  "Chrysler 300C - 300D - 300E_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 58 Chrysler 300-D, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40119687"
+  },
+  "Chrysler 300F_delantera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=70657723"
+  },
+  "Chrysler 300F_trasera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=70657735"
+  },
+  "Chrysler 300G_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 61 Chrysler 300 G, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=175401969"
+  },
+  "Chrysler 300G_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 61 Chrysler 300 G, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40119373"
+  },
+  "Chrysler 300H_delantera": {
+    "fuente": "By Acabashi - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=60473377"
+  },
+  "Chrysler 300H_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1962 Chrysler 300H, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40120062"
+  },
+  "Chrysler 300J - 300K_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1963 Chrysler 300, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146351561"
+  },
+  "Chrysler 300J - 300K_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 63 Chrysler 300, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40120016"
+  },
+  "Chrysler 300L_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 65 Chrysler 300-L, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40119717"
+  },
+  "Chrysler 300L_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 65 Chrysler 300 L, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40119722"
+  },
+  "Chrysler 300 Hurst_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 70 Chrysler 300 Hurst Edition, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40119892"
+  },
+  "Chrysler 300 Hurst_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 70 Chrysler 300 Hurst Edition, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40119867"
+  },
+  "Chrysler 300M_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4645973"
+  },
+  "Chrysler 300M_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134166858"
+  },
+  "Chrysler 300C Touring_delantera": {
+    "fuente": "By Luftfahrrad - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4604999"
+  },
+  "Chrysler 300C Touring_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=169357744"
   },
   "Chrysler 200 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By U.S. National Highway Traffic Safety Administration - safercar.gov, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17325762"
   },
   "Chrysler 200 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97729555"
   },
-  "Chrysler Sebring (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chrysler 200 (2° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78140770"
   },
-  "Chrysler Sebring (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chrysler 200 (2° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78140772"
+  },
+  "Chrysler Sebring Coupe (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=19012171"
+  },
+  "Chrysler Sebring Coupe (1° Gen.)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12221614"
+  },
+  "Chrysler Sebring Convertible - Stratus (1° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122378600"
+  },
+  "Chrysler Sebring Convertible - Stratus (1° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122378640"
+  },
+  "Chrysler Sebring (2° Gen.)(2001)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=33938347"
+  },
+  "Chrysler Sebring (2° Gen.)(2001)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=33938353"
+  },
+  "Chrysler Sebring (2° Gen.)(2004)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2996792"
+  },
+  "Chrysler Sebring (2° Gen.)(2004)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=106117855"
+  },
+  "Chrysler Sebring Convertible (2° Gen.)_delantera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=104981761"
+  },
+  "Chrysler Sebring Convertible (2° Gen.)_trasera": {
+    "fuente": "By Luftfahrrad - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4509774"
+  },
+  "Chrysler Sebring (3° Gen.)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=55338037"
+  },
+  "Chrysler Sebring (3° Gen.)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2166724"
   },
   "Chrysler Cirrus_delantera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137321481"
   },
   "Chrysler Cirrus_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137321484"
   },
-  "Chrysler Concorde_delantera": {
-    "fuente": ""
+  "Chrysler Concorde (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1556755"
   },
-  "Chrysler Concorde_trasera": {
-    "fuente": ""
+  "Chrysler Concorde (1° Gen.)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, taken in Mayland., Public Domain, https://commons.wikimedia.org/w/index.php?curid=7458877"
+  },
+  "Chrysler Concorde (2° Gen.)(1998)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134422573"
+  },
+  "Chrysler Concorde (2° Gen.)(1998)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134422575"
+  },
+  "Chrysler Concorde - LHS (2° Gen.)(2002)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1687572"
+  },
+  "Chrysler Concorde - LHS (2° Gen.)(2002)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19698913"
   },
   "Chrysler LHS_delantera": {
-    "fuente": ""
+    "fuente": "By Brampton80au - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11145841"
   },
   "Chrysler LHS_trasera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31530006"
   },
-  "Chrysler Fifth Avenue (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chrysler Cordoba (1° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=91186852"
   },
-  "Chrysler Fifth Avenue (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chrysler Cordoba (1° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=36687623"
   },
-  "Chrysler Cordoba_delantera": {
-    "fuente": ""
+  "Chrysler Cordoba (2° Gen.)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - Chrysler Cordoba, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34579886"
   },
-  "Chrysler Cordoba_trasera": {
-    "fuente": ""
+  "Chrysler Cordoba (2° Gen.)_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - Chrysler Cordoba, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146963417"
   },
-  "Chrysler LeBaron (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chrysler LeBaron - Phantom_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168846819"
   },
-  "Chrysler LeBaron (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chrysler LeBaron - Phantom_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133405457"
   },
-  "Chrysler Dynasty_delantera": {
-    "fuente": ""
+  "Chrysler LeBaron (1979)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1979 Chrysler LeBaron, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69272430"
   },
-  "Chrysler Dynasty_trasera": {
-    "fuente": ""
+  "Chrysler LeBaron (1979)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1979 Chrysler LeBaron, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69250431"
+  },
+  "Chrysler LeBaron Town and Country (1978)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119829015"
+  },
+  "Chrysler LeBaron Town and Country (1978)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119829016"
+  },
+  "Chrysler LeBaron Town and Country (1985)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1985 Chrysler Town & Country Station Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=191233515"
+  },
+  "Chrysler LeBaron Town and Country (1985)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4159599"
+  },
+  "Chrysler LeBaron Town and Country Convertible (1986)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=37090068"
+  },
+  "Chrysler LeBaron Town and Country Convertible (1986)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=37104660"
   },
   "Chrysler E-Class_delantera": {
-    "fuente": ""
+    "fuente": "By dave_7 from Canada - 1984 Chrysler E-Class, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146352466"
   },
   "Chrysler E-Class_trasera": {
-    "fuente": ""
+    "fuente": "By dave_7 from Canada - 1984 Chrysler E-Class, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=75826473"
   },
   "Chrysler Executive_delantera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=166104054"
   },
   "Chrysler Executive_trasera": {
-    "fuente": ""
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1984 Chrysler Executive Limousine, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=185632128"
   },
   "Chrysler PT Cruiser_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77382516"
   },
   "Chrysler PT Cruiser_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121485689"
   },
-  "Chrysler Neon_delantera": {
-    "fuente": ""
+  "Chrysler PT Cruiser Cabrio_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4066142"
   },
-  "Chrysler Neon_trasera": {
-    "fuente": ""
+  "Chrysler PT Cruiser Cabrio_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4066150"
+  },
+  "Chrysler Neon (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69909985"
+  },
+  "Chrysler Neon (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69909987"
+  },
+  "Chrysler Neon (2° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Dodge Neon 2.0i LX 2003, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34575350"
+  },
+  "Chrysler Neon (2° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131735477"
   },
   "Chrysler Crossfire_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75528973"
   },
   "Chrysler Crossfire_trasera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18932404"
   },
-  "Chrysler Pacifica (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chrysler Pacifica (2003)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=19012590"
   },
-  "Chrysler Pacifica (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chrysler Pacifica (2003)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4384516"
   },
-  "Chrysler Pacifica (Minivan)_delantera": {
-    "fuente": ""
+  "Chrysler Pacifica (2008)_delantera": {
+    "fuente": "By Karrmann - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2567823"
   },
-  "Chrysler Pacifica (Minivan)_trasera": {
-    "fuente": ""
+  "Chrysler Pacifica (2008)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6520427"
   },
-  "Chrysler Voyager (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chrysler Pacifica - Voyager (2017)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=117774319"
   },
-  "Chrysler Voyager (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chrysler Pacifica - Voyager (2017)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77512855"
   },
-  "Chrysler Grand Voyager_delantera": {
-    "fuente": ""
+  "Chrysler Pacifica (2021)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=192171638"
   },
-  "Chrysler Grand Voyager_trasera": {
-    "fuente": ""
+  "Chrysler Pacifica (2021)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112427767"
   },
   "Chrysler Aspen_delantera": {
-    "fuente": ""
+    "fuente": "Por Karrmann - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2567784"
   },
   "Chrysler Aspen_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79494733"
   },
-  "Chrysler Prowler_delantera": {
-    "fuente": ""
+  "Chrysler-Plymouth Prowler_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4425245"
   },
-  "Chrysler Prowler_trasera": {
-    "fuente": ""
+  "Chrysler-Plymouth Prowler_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81561152"
   },
   "Chrysler TC by Maserati_delantera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28867218"
   },
   "Chrysler TC by Maserati_trasera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28867532"
   },
-  "Chrysler Airflite Concept_delantera": {
-    "fuente": ""
+  "Chrysler Airflow Concept_delantera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120169322"
   },
-  "Chrysler Airflite Concept_trasera": {
-    "fuente": ""
+  "Chrysler Airflow Concept_trasera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120169320"
   },
   "Chrysler Chronos Concept_delantera": {
-    "fuente": ""
-  },
-  "Chrysler Chronos Concept_trasera": {
-    "fuente": ""
+    "fuente": "By Karrmann - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2567923"
   },
   "Chrysler Nassau Concept_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1604172"
   },
   "Chrysler Nassau Concept_trasera": {
-    "fuente": ""
+    "fuente": "By Photo by User:AudeVivere - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1612743"
   },
   "Chrysler ME Four-Twelve Concept_delantera": {
-    "fuente": ""
+    "fuente": "By TaurusEmerald - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157746697"
   },
   "Chrysler ME Four-Twelve Concept_trasera": {
-    "fuente": ""
+    "fuente": "By Joe Ross - https://www.flickr.com/photos/joeross/3105615918/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=101012614"
   },
   "Chrysler Atlantic Concept_delantera": {
-    "fuente": ""
+    "fuente": "By zombieite - https://www.flickr.com/photos/zombieite/45635920141/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=101137206"
   },
   "Chrysler Atlantic Concept_trasera": {
-    "fuente": ""
+    "fuente": "By Bill Abbott - https://www.flickr.com/photos/wbaiv/5119682629/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=100773619"
   },
   "Chrysler Turbine Car_delantera": {
-    "fuente": ""
-  },
-  "Chrysler Turbine Car_trasera": {
-    "fuente": ""
+    "fuente": "By Michael Barera, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=20851289"
   },
   "Chrysler Falcon Concept_delantera": {
-    "fuente": ""
+    "fuente": "By Alden Jewell - https://www.flickr.com/photos/autohistorian/48021655213/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=82364349"
   },
   "Chrysler Falcon Concept_trasera": {
-    "fuente": ""
-  },
-  "Chrysler Java Concept_delantera": {
-    "fuente": ""
-  },
-  "Chrysler Java Concept_trasera": {
-    "fuente": ""
-  },
-  "Chrysler Portofino Concept_delantera": {
-    "fuente": ""
-  },
-  "Chrysler Portofino Concept_trasera": {
-    "fuente": ""
-  },
-  "Chrysler Atlantic_delantera": {
-    "fuente": ""
-  },
-  "Chrysler Atlantic_trasera": {
-    "fuente": ""
-  },
-  "Chrysler Sebring Convertible (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Chrysler Sebring Convertible (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Alden Jewell - https://www.flickr.com/photos/autohistorian/48021655268/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=82364407"
   },
   "Buick Model B_delantera": {
     "fuente": ""
@@ -10999,6 +11164,12 @@
   },
   "Lancia Flavia_trasera": {
     "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13327981"
+  },
+  "Lancia Flavia (2011)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=33262524"
+  },
+  "Lancia Flavia (2011)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=33262561"
   },
   "Lancia Fulvia Berlina_delantera": {
     "fuente": "By No machine-readable author provided. Luc106 assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=3938739"

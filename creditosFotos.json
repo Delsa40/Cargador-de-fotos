@@ -1307,6 +1307,12 @@
   "Maserati México_trasera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19865689"
   },
+  "Porsche 64_delantera": {
+    "fuente": "By pelican-actor - https://www.flickr.com/photos/192005255@N04/51595913843/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=111077137"
+  },
+  "Porsche 64_trasera": {
+    "fuente": "By pelican-actor - https://www.flickr.com/photos/192005255@N04/51596584905/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=111077136"
+  },
   "Porsche 356_delantera": {
     "fuente": "By Andrzej Otrębski - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68828403"
   },
@@ -12416,6 +12422,60 @@
   "Cadillac Elmiraj Concept_trasera": {
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66399682"
   },
+  "BAC Mono_delantera": {
+    "fuente": "By Axion23 - https://www.flickr.com/photos/gfreeman23/8606487117/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38619511"
+  },
+  "BAC Mono_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151899815"
+  },
+  "Savage Rivale Roadyacht GTS_delantera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - Savage Rivale Roadyacht GTS, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=29877569"
+  },
+  "Savage Rivale Roadyacht GTS_trasera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - Savage Rivale Roadyacht GTS, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=29876150"
+  },
+  "Icona Vulcano_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33435047"
+  },
+  "Icona Vulcano_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33435374"
+  },
+  "Spania GTA Spano (2011)_delantera": {
+    "fuente": "By Alexandre Prévot from Nancy, France - GTA Spano, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=53497319"
+  },
+  "Spania GTA Spano (2011)_trasera": {
+    "fuente": "By Ben from LONDON, United Kingdom - Gta SpanoUploaded by FAEP, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=53497343"
+  },
+  "Spania GTA Spano (2015)_delantera": {
+    "fuente": "By Mehmet.dundar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111449385"
+  },
+  "Spania GTA Spano (2015)_trasera": {
+    "fuente": "By Mehmet.dundar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111447477"
+  },
+  "Marussia B1_delantera": {
+    "fuente": "Por Silosarg - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23650122"
+  },
+  "Marussia B2_delantera": {
+    "fuente": "By Andrey Motorov - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124971260"
+  },
+  "Marussia B2_trasera": {
+    "fuente": "By Stanislav Kozlovskiy - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115568415"
+  },
+  "VUHL 05_delantera": {
+    "fuente": "Por davidgsteadman - https://www.flickr.com/photos/davidgsteadman/9269492185/, Dominio público, https://commons.wikimedia.org/w/index.php?curid=115917089"
+  },
+  "KTM X-Bow_delantera": {
+    "fuente": "By Neef - 2 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6900306"
+  },
+  "KTM X-Bow_trasera": {
+    "fuente": "By Rutger van der Maar - https://www.flickr.com/photos/rutgervandermaar/49846517067/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=105933897"
+  },
+  "KTM X-Bow GT XR_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173317261"
+  },
+  "KTM X-Bow GT XR_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167743250"
+  },
   "Mitsubishi Model A_delantera": {
     "fuente": ""
   },
@@ -21452,6 +21512,93 @@
   "Renault Megane Sedan (1° Gen.)(Phase 2)_trasera": {
     "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4637621"
   },
+  "Renault Modus_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15403781"
+  },
+  "Renault Modus_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15403790"
+  },
+  "Renault Grand Modus_delantera": {
+    "fuente": "Por M 93 - Fotografía propia, Attribution, https://commons.wikimedia.org/w/index.php?curid=7516985"
+  },
+  "Renault Grand Modus_trasera": {
+    "fuente": "Por M 93 - Fotografía propia, Attribution, https://commons.wikimedia.org/w/index.php?curid=7516987"
+  },
+  "Renault Scénic (1° Gen.)(1996)_delantera": {
+    "fuente": "Por No se ha podido leer automáticamente información sobre el autor; se asume que es Mazurka (según los derechos de autor reclamados). - No se ha podido leer automáticamente información sobre la fuente; se asume que es trabajo propio (según los derechos de autor reclamados)., Dominio público, https://commons.wikimedia.org/w/index.php?curid=539056"
+  },
+  "Renault Scénic (1° Gen.)(1996)_trasera": {
+    "fuente": "Por Rudolf Stricker - Fotografía propia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2750979"
+  },
+  "Renault Scénic (1° Gen.)(1999)_delantera": {
+    "fuente": "Por Pitak - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=10593737"
+  },
+  "Renault Scénic (1° Gen.)(1999)_trasera": {
+    "fuente": "Por Carluver23 - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=46940096"
+  },
+  "Renault Scénic RX4_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4260875"
+  },
+  "Renault Scénic RX4_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4260881"
+  },
+  "Renault Scénic (2° Gen.)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3768120"
+  },
+  "Renault Scénic (2° Gen.)_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3768124"
+  },
+  "Renault Scénic Conquest_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3573147"
+  },
+  "Renault Scénic Conquest_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3573150"
+  },
+  "Renault Scénic (3° Gen.)(2009)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=9940562"
+  },
+  "Renault Scénic (3° Gen.)(2009)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=9940579"
+  },
+  "Renault Scénic (3° Gen.)(2014)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27141395"
+  },
+  "Renault Scénic (3° Gen.)(2014)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=29060184"
+  },
+  "Renault Scénic (4° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67322009"
+  },
+  "Renault Scénic (4° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67322013"
+  },
+  "Renault Scénic XMOD_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968489"
+  },
+  "Renault Scénic E-Tech_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=150079664"
+  },
+  "Renault Scénic E-Tech_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=150079678"
+  },
+  "Renault Grand Scénic (3° Gen.)(2009)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6947095"
+  },
+  "Renault Grand Scénic (3° Gen.)(2009)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6912215"
+  },
+  "Renault Grand Scénic (3° Gen.)(2014)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75913795"
+  },
+  "Renault Grand Scénic (3° Gen.)(2014)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75913798"
+  },
+  "Renault Grand Scénic (4° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67322007"
+  },
+  "Renault Grand Scénic (4° Gen.)_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67322008"
+  },
   "Renault Megane Grandtour (1° Gen.)_delantera": {
     "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2851988"
   },
@@ -23062,6 +23209,18 @@
   },
   "Ford StreetKa_trasera": {
     "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67254941"
+  },
+  "Renault Twizy_delantera": {
+    "fuente": "Por Thesupermat - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12847376"
+  },
+  "Renault Twizy_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12847458"
+  },
+  "Renault Twizy Sport F1 Concept_delantera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66378308"
+  },
+  "Renault Twizy Sport F1 Concept_trasera": {
+    "fuente": "By Lukasdesign - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31762428"
   },
   "Renault 4_delantera": {
     "fuente": "Por Mic from Reading - Berkshire, United Kingdom - Terenure, Co. Dublin - Ireland, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38714319"

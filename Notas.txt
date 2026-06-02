@@ -1,4 +1,5 @@
 - Botón de menú
+- Políticas
 - Inicio de sesión
 - Corregir largo de los nombres de los autos
 - Qué pasa con los guardados si yo hago un cambio en el nombre/foto?

@@ -4,3 +4,4 @@
 - Corregir largo de los nombres de los autos
 - Qué pasa con los guardados si yo hago un cambio en el nombre/foto?
 - Corregir fotos de páginas que no son de Wikipedia
+- Aclarar que los años son de referencia y no son exactos

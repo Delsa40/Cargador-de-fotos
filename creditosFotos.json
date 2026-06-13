@@ -8285,6 +8285,12 @@
   "Dacia Bigster_trasera": {
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=163252462"
   },
+  "Dodge 2000 GTX_delantera": {
+    "fuente": "By dave_7 from Canada - Dodge 2000 GTX, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=75828275"
+  },
+  "Dodge 2000 GTX_trasera": {
+    "fuente": "By dave_7 from Canada - Dodge 2000 GTX, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=75828261"
+  },
   "Dodge Arrow GS_delantera": {
     "fuente": "By dave_7 - originally posted to Flickr as Dodge Arrow GS, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=4548015"
   },
@@ -13334,23 +13340,173 @@
   "Mitsubishi Starion 4WD_trasera": {
     "fuente": "By Phil,cropped and altered by uploader Mr.choppers - Rally Starion AWD, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=24014324"
   },
-  "Mitsubishi Galant (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi Colt Galant (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=27602617"
   },
-  "Mitsubishi Galant (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi Colt Galant (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=27602627"
   },
-  "Mitsubishi Sigma (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi Colt Galant Estate (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=32771271"
   },
-  "Mitsubishi Sigma (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi Colt Galant Estate (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=32771272"
   },
-  "Mitsubishi Diamante_delantera": {
-    "fuente": ""
+  "Mitsubishi Colt Galant (2° Gen.)_delantera": {
+    "fuente": "By 先従隗始 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=133013091"
   },
-  "Mitsubishi Diamante_trasera": {
-    "fuente": ""
+  "Mitsubishi Colt Galant (2° Gen.)_trasera": {
+    "fuente": "By 先従隗始 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=133013088"
+  },
+  "Mitsubishi Colt Galant - Sigma (3° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=39938399"
+  },
+  "Mitsubishi Colt Galant - Sigma (3° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=39938400"
+  },
+  "Mitsubishi Colt Galant - Sigma Estate (3° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=27476934"
+  },
+  "Mitsubishi Colt Galant - Sigma Estate (3° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=27476944"
+  },
+  "Mitsubishi Galant - Sigma - Eterna (4° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=34247648"
+  },
+  "Mitsubishi Galant - Sigma - Eterna (4° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=34247647"
+  },
+  "Mitsubishi Galant - Sigma - Eterna Estate (4° Gen.)_delantera": {
+    "fuente": "By DeepBlueGalant - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69864841"
+  },
+  "Mitsubishi Galant - Sigma - Eterna Estate (4° Gen.)_trasera": {
+    "fuente": "By Rutger van der Maar - https://www.flickr.com/photos/rutgervandermaar/53159343060/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=136857985"
+  },
+  "Mitsubishi Galant - Sigma - Eterna - Magna (5° Gen.)_delantera": {
+    "fuente": "By Riley from Christchurch, New Zealand - 1987 Mitsubishi Sigma Super Touring, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=54291025"
+  },
+  "Mitsubishi Galant - Sigma - Eterna - Magna (5° Gen.)_trasera": {
+    "fuente": "By Riley from Christchurch, New Zealand - 1987 Mitsubishi Sigma Super Touring, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=54291067"
+  },
+  "Mitsubishi Galant - Eterna Sedan (6° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=92137923"
+  },
+  "Mitsubishi Galant - Eterna Sedan (6° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17451822"
+  },
+  "Mitsubishi Galant - Eterna Hatchback (6° Gen.)_delantera": {
+    "fuente": "By Joost J. Bakker - Mitsubishi Galant 1800 GLI hatchback, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18292392"
+  },
+  "Mitsubishi Galant - Eterna Hatchback (6° Gen.)_trasera": {
+    "fuente": "By free photos & art - Mitsubishi Galant 1800 GLI hatchback, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=36348683"
+  },
+  "Mitsubishi Galant Sedan (7° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=29756319"
+  },
+  "Mitsubishi Galant Sedan (7° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=29756318"
+  },
+  "Mitsubishi Galant Liftback (7° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3151463"
+  },
+  "Mitsubishi Galant Liftback (7° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3151468"
+  },
+  "Mitsubishi Galant (8° Gen.)_delantera": {
+    "fuente": "By crash71100 - https://www.flickr.com/photos/152930510@N02/54719950956/, CC0, https://commons.wikimedia.org/w/index.php?curid=175015956"
+  },
+  "Mitsubishi Galant (8° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2848157"
+  },
+  "Mitsubishi Galant Estate (8° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3735959"
+  },
+  "Mitsubishi Galant Estate (8° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3735963"
+  },
+  "Mitsubishi Legnum_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11491637"
+  },
+  "Mitsubishi Legnum_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11491653"
+  },
+  "Mitsubishi Galant - 380 (9° Gen.)(2004)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1799766"
+  },
+  "Mitsubishi Galant - 380 (9° Gen.)(2004)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=191181230"
+  },
+  "Mitsubishi Galant - 380 (9° Gen.)(2009)_delantera": {
+    "fuente": "By U.S. National Highway Traffic Safety Administration - safercar.gov, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14575239"
+  },
+  "Mitsubishi Galant - 380 (9° Gen.)(2009)_trasera": {
+    "fuente": "By Phil - https://www.flickr.com/photos/poqua/2683305627/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=174943281"
+  },
+  "Mitsubishi Galant Grunder_delantera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173191464"
+  },
+  "Mitsubishi Galant Grunder_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173191465"
+  },
+  "Mitsubishi Sapporo - Galant Lambda (1° Gen.)(1976)_delantera": {
+    "fuente": "By Ken T1381 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30121222"
+  },
+  "Mitsubishi Sapporo - Galant Lambda (1° Gen.)(1976)_trasera": {
+    "fuente": "By M.rJirapat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=56794999"
+  },
+  "Mitsubishi Sapporo - Galant Lambda (1° Gen.)(1981)_delantera": {
+    "fuente": "By order_242 from Chile - Mitsubishi Sapporo 2000 GSL 1982, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=35601321"
+  },
+  "Mitsubishi Sapporo - Galant Lambda (1° Gen.)(1981)_trasera": {
+    "fuente": "By Rutger van der Maar - https://www.flickr.com/photos/rutgervandermaar/49019669266/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=106064233"
+  },
+  "Mitsubishi Sapporo (2° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3643276"
+  },
+  "Mitsubishi Sapporo (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3643288"
+  },
+  "Mitsubishi Diamante - Magna - Verada (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=184555533"
+  },
+  "Mitsubishi Diamante - Magna - Verada (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=184555534"
+  },
+  "Mitsubishi Diamante - Magna - Verada Estate (1° Gen.)_delantera": {
+    "fuente": "By Toyotacoronaexsaloon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64349181"
+  },
+  "Mitsubishi Diamante - Magna - Verada Estate (1° Gen.)_trasera": {
+    "fuente": "By Toyotacoronaexsaloon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64349182"
+  },
+  "Mitsubishi Diamante - Magna - Verada (2° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7522882"
+  },
+  "Mitsubishi Diamante - Magna - Verada (2° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7522925"
+  },
+  "Mitsubishi Diamante - Magna - Verada Estate (2° Gen.)_delantera": {
+    "fuente": "By NZ Car Freak - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=46209837"
+  },
+  "Mitsubishi Diamante - Magna - Verada Estate (2° Gen.)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14647904"
+  },
+  "Mitsubishi Diamante - Magna - Verada (3° Gen.)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3968437"
+  },
+  "Mitsubishi Diamante - Magna - Verada (3° Gen.)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7080603"
+  },
+  "Mitsubishi Diamante - Magna - Verada Estate (3° Gen.)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Mitsubishi Magna TW ES Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=48341442"
+  },
+  "Mitsubishi Diamante - Magna - Verada Estate (3° Gen.)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Mitsubishi Magna TW ES Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=48341442"
+  },
+  "Mitsubishi Magna Estate (1989)_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=40728971"
+  },
+  "Mitsubishi Magna Estate (1989)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=40729025"
   },
   "Mitsubishi Debonair (1° Gen.)_delantera": {
     "fuente": ""

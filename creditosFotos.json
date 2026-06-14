@@ -569,6 +569,18 @@
   "Austin-Healey Sprite (MK2)_trasera": {
     "fuente": "By Berthold Werner - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20307826"
   },
+  "Hyundai Equus - Centennial (1° Gen.)_delantera": {
+    "fuente": "By Chu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11079170"
+  },
+  "Hyundai Equus - Centennial (1° Gen.)_trasera": {
+    "fuente": "By Chu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11079178"
+  },
+  "Hyundai Equus - Centennial (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18048191"
+  },
+  "Hyundai Equus - Centennial (2° Gen.)_trasera": {
+    "fuente": "By order_242 from Chile - Hyundai Equus VS 460 GLS 2013, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34576712"
+  },
   "Hyundai HB20 (1° Gen.)_delantera": {
     "fuente": "By Mariordo (Mario Roberto Durán Ortiz) - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=49632662"
   },
@@ -4072,6 +4084,36 @@
   },
   "Prince Skyline 1500 Van Deluxe_trasera": {
     "fuente": "Por Ypy31 - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=27631190"
+  },
+  "Nissan Days (2015)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=31772787"
+  },
+  "Nissan Days (2015)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=31772786"
+  },
+  "Nissan Days Highway Star (2014)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=163229704"
+  },
+  "Nissan Days Highway Star (2014)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=31772783"
+  },
+  "Nissan Days (2019)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=80798891"
+  },
+  "Nissan Days (2019)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=80798881"
+  },
+  "Nissan Days Highway Star (2019)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=174955562"
+  },
+  "Nissan Days Highway Star (2019)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=174955563"
+  },
+  "Nissan Otti_delantera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3294025"
+  },
+  "Nissan Otti_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5705588"
   },
   "Nissan Kicks (1° Gen.)_delantera": {
     "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137324175"
@@ -13953,28 +13995,70 @@
     "fuente": "By Suzuki-Ham - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178072237"
   },
   "Mitsubishi i_delantera": {
-    "fuente": ""
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5839561"
   },
   "Mitsubishi i_trasera": {
-    "fuente": ""
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7202194"
   },
-  "Mitsubishi eK_delantera": {
-    "fuente": ""
+  "Mitsubishi eK (1° Gen.)_delantera": {
+    "fuente": "By S-8500 - S-8500 file, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2204014"
   },
-  "Mitsubishi eK_trasera": {
-    "fuente": ""
+  "Mitsubishi eK (1° Gen.)_trasera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10125935"
   },
-  "Mitsubishi Dignity_delantera": {
-    "fuente": ""
+  "Mitsubishi eK (2° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7080512"
   },
-  "Mitsubishi Dignity_trasera": {
-    "fuente": ""
+  "Mitsubishi eK (2° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7080515"
   },
-  "Mitsubishi Proudia_delantera": {
-    "fuente": ""
+  "Mitsubishi eK (3° Gen.)_delantera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39499843"
   },
-  "Mitsubishi Proudia_trasera": {
-    "fuente": ""
+  "Mitsubishi eK (3° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78358990"
+  },
+  "Mitsubishi eK Custom_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=28955336"
+  },
+  "Mitsubishi eK Custom_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=26296066"
+  },
+  "Mitsubishi eK (4° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83800556"
+  },
+  "Mitsubishi eK (4° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83800555"
+  },
+  "Mitsubishi eK X_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=161187024"
+  },
+  "Mitsubishi eK X_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=161187026"
+  },
+  "Mitsubishi Dignity (1° Gen.)_delantera": {
+    "fuente": "By Loadbeta - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=12783540"
+  },
+  "Mitsubishi Dignity (1° Gen.)_trasera": {
+    "fuente": "By Loadbeta - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=12783551"
+  },
+  "Mitsubishi Dignity (2° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=34212225"
+  },
+  "Mitsubishi Dignity (2° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=34212226"
+  },
+  "Mitsubishi Proudia (1° Gen.)_delantera": {
+    "fuente": "By Toyotacoronaexsaloon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=49147657"
+  },
+  "Mitsubishi Proudia (1° Gen.)_trasera": {
+    "fuente": "By 投稿者 - Own work (投稿者撮影), Public Domain, https://commons.wikimedia.org/w/index.php?curid=7888797"
+  },
+  "Mitsubishi Proudia (2° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=33929828"
+  },
+  "Mitsubishi Proudia (2° Gen.)_trasera": {
+    "fuente": "By CEFICEFI - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25617182"
   },
   "Pontiac Chieftain_delantera": {
     "fuente": ""
@@ -20354,6 +20438,12 @@
   "Volvo 66_trasera": {
     "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30397925"
   },
+  "Czinger 21C_delantera": {
+    "fuente": "By Stacy Sheff from Los Angeles, USA - DSCF1455, CC0, https://commons.wikimedia.org/w/index.php?curid=126233962"
+  },
+  "Czinger 21C_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152981911"
+  },
   "Fiat Titano_delantera": {
     "fuente": "By Elcondelvp - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=190178886"
   },
@@ -23107,6 +23197,30 @@
   },
   "Renault Alpine A110 50 Concept_trasera": {
     "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25746994"
+  },
+  "Volkswagen Taos - Tharu (2022)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150221825"
+  },
+  "Volkswagen Taos - Tharu (2022)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150221824"
+  },
+  "Volkswagen Taos - Tharu (2025)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=176706114"
+  },
+  "Volkswagen Taos - Tharu (2025)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=176706138"
+  },
+  "Volkswagen Tera - Tengo_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/55037943710/, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=185796705"
+  },
+  "Volkswagen Tera - Tengo_trasera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/55007253869/, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=181627539"
+  },
+  "Volkswagen Nivus - Taigo_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/51776820091/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=116452723"
+  },
+  "Volkswagen Nivus - Taigo_trasera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/51310910315/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=107533304"
   },
   "Volkswagen Beetle_delantera": {
     "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5747446"

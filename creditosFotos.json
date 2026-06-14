@@ -4085,6 +4085,12 @@
   "Nissan Kicks (2° Gen.)_trasera": {
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=176706531"
   },
+  "Nissan Kix_delantera": {
+    "fuente": "By Ypy31 - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5109384"
+  },
+  "Nissan Kix_trasera": {
+    "fuente": "By Ypy31 - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5109390"
+  },
   "Nissan Skyline (C10)_delantera": {
     "fuente": "Por I, 天然ガス, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2484384"
   },
@@ -9002,6 +9008,9 @@
   "Dodge Ram (4° Gen.)_trasera": {
     "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78140771"
   },
+  "Ram 1200_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/49051502941/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=89970115"
+  },
   "Ram 1500_delantera": {
     "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89195364"
   },
@@ -13509,130 +13518,439 @@
     "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=40729025"
   },
   "Mitsubishi Debonair (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Ypy31 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=29379330"
   },
   "Mitsubishi Debonair (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Ypy31 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=29379333"
+  },
+  "Mitsubishi Debonair (2° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5818028"
+  },
+  "Mitsubishi Debonair (2° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5818025"
+  },
+  "Mitsubishi Debonair (3° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=38576089"
+  },
+  "Mitsubishi Debonair (3° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7144262"
+  },
+  "Mitsubishi Galant FTO_delantera": {
+    "fuente": "By Mitsupicture - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11953361"
+  },
+  "Mitsubishi Galant FTO_trasera": {
+    "fuente": "By Phil,cropped and altered by uploader Mr.choppers - The original FTO, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=23983042"
   },
   "Mitsubishi FTO_delantera": {
-    "fuente": ""
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147342328"
   },
   "Mitsubishi FTO_trasera": {
-    "fuente": ""
+    "fuente": "By Z-panta - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19573346"
   },
-  "Mitsubishi GTO_delantera": {
-    "fuente": ""
+  "Mitsubishi 3000GT - GTO (1990)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78423288"
   },
-  "Mitsubishi GTO_trasera": {
-    "fuente": ""
+  "Mitsubishi 3000GT - GTO (1990)_trasera": {
+    "fuente": "By Txemari. (Navarra). - https://www.flickr.com/photos/serrvill/52490983865/, CC0, https://commons.wikimedia.org/w/index.php?curid=142125630"
   },
-  "Mitsubishi Eclipse (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi 3000GT - GTO (1994)_delantera": {
+    "fuente": "By User Thaian07 on en.wikipedia - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=988252"
   },
-  "Mitsubishi Eclipse (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi 3000GT - GTO (1994)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6817048"
   },
-  "Mitsubishi Eclipse Cross_delantera": {
-    "fuente": ""
+  "Mitsubishi Eclipse (1° Gen.)(1990)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3555374"
   },
-  "Mitsubishi Eclipse Cross_trasera": {
-    "fuente": ""
+  "Mitsubishi Eclipse (1° Gen.)(1990)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3555379"
   },
-  "Mitsubishi RVR (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi Eclipse (1° Gen.)(1993)_delantera": {
+    "fuente": "By Spanish Coches - 1993 Mitsubishi Eclipse GSX, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=142126052"
   },
-  "Mitsubishi RVR (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi Eclipse (1° Gen.)(1993)_trasera": {
+    "fuente": "By Spanish Coches - 1993 Mitsubishi Eclipse GSX, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115227"
   },
-  "Mitsubishi Chariot (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi Eclipse (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1929985"
   },
-  "Mitsubishi Chariot (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi Eclipse (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3362358"
   },
-  "Mitsubishi Grandis_delantera": {
-    "fuente": ""
+  "Mitsubishi Eclipse (3° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3655916"
   },
-  "Mitsubishi Grandis_trasera": {
-    "fuente": ""
+  "Mitsubishi Eclipse (3° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3655920"
   },
-  "Mitsubishi Space Wagon (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi Eclipse (4° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5588979"
   },
-  "Mitsubishi Space Wagon (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi Eclipse (4° Gen.)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1502239"
   },
-  "Mitsubishi Pajero (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi Eclipse Cross (1° Gen.)(2017)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87770364"
   },
-  "Mitsubishi Pajero (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi Eclipse Cross (1° Gen.)(2017)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74914285"
   },
-  "Mitsubishi Pajero Mini_delantera": {
-    "fuente": ""
+  "Mitsubishi Eclipse Cross (1° Gen.)(2022)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116439133"
   },
-  "Mitsubishi Pajero Mini_trasera": {
-    "fuente": ""
+  "Mitsubishi Eclipse Cross (1° Gen.)(2022)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116439135"
+  },
+  "Mitsubishi Eclipse Cross (2° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=180450240"
+  },
+  "Mitsubishi Eclipse Cross (2° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178204724"
+  },
+  "Mitsubishi RVR - Expo LRV (1° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80388512"
+  },
+  "Mitsubishi RVR - Expo LRV (1° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80388513"
+  },
+  "Mitsubishi Space Runner (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3482416"
+  },
+  "Mitsubishi Space Runner (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2842442"
+  },
+  "Mitsubishi RVR - Space Runner (2° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6721769"
+  },
+  "Mitsubishi RVR - Space Runner (2° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6721787"
+  },
+  "Mitsubishi RVR - ASX - Outlander Sport (3° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=15174314"
+  },
+  "Mitsubishi RVR - ASX - Outlander Sport (3° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123468240"
+  },
+  "Mitsubishi ASX (1° Gen.)(2019)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832413"
+  },
+  "Mitsubishi ASX (1° Gen.)(2019)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832414"
+  },
+  "Mitsubishi ASX (2° Gen.)(2023)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=167596695"
+  },
+  "Mitsubishi ASX (2° Gen.)(2023)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=167596733"
+  },
+  "Mitsubishi ASX (2° Gen.)(2024)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152519155"
+  },
+  "Mitsubishi ASX (2° Gen.)(2024)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152519144"
+  },
+  "Mitsubishi Chariot - Space Wagon - Nimbus - Space Van (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2973991"
+  },
+  "Mitsubishi Chariot - Space Wagon - Nimbus - Space Van (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2973995"
+  },
+  "Mitsubishi Chariot - Space Wagon - Nimbus - Expo (2° Gen.)_delantera": {
+    "fuente": "Por TTTNIS - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6792590"
+  },
+  "Mitsubishi Chariot - Space Wagon - Nimbus - Expo (2° Gen.)_trasera": {
+    "fuente": "Por TTTNIS - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6792591"
+  },
+  "Mitsubishi Chariot - Space Wagon - Nimbus - Savrin (3° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2890616"
+  },
+  "Mitsubishi Chariot - Space Wagon - Nimbus - Savrin (3° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2890623"
+  },
+  "Mitsubishi Grandis - Space Wagon_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=14736873"
+  },
+  "Mitsubishi Grandis - Space Wagon_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=88142278"
+  },
+  "Mitsubishi Pajero - Montero - Shogun (1° Gen.)_delantera": {
+    "fuente": "By T-Y (jp) - [1], Public Domain, https://commons.wikimedia.org/w/index.php?curid=1224746"
+  },
+  "Mitsubishi Pajero - Montero - Shogun (1° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5979707"
+  },
+  "Mitsubishi Pajero - Montero - Shogun (2° Gen.)(1991)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5979431"
+  },
+  "Mitsubishi Pajero - Montero - Shogun (2° Gen.)(1991)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4041339"
+  },
+  "Mitsubishi Pajero - Montero - Shogun (2° Gen.)(1998)_delantera": {
+    "fuente": "By Kabu Sawsaw - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137859068"
+  },
+  "Mitsubishi Pajero - Montero - Shogun (2° Gen.)(1998)_trasera": {
+    "fuente": "By User:Two hundred percent. - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3300769"
+  },
+  "Mitsubishi Pajero Evolution_delantera": {
+    "fuente": "By Comyu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3741295"
+  },
+  "Mitsubishi Pajero Evolution_trasera": {
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18591556"
+  },
+  "Mitsubishi Pajero - Montero - Shogun (3° Gen.)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=14607096"
+  },
+  "Mitsubishi Pajero - Montero - Shogun (3° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=14607107"
+  },
+  "Mitsubishi Pajero - Montero - Shogun (4° Gen.)_delantera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174111606"
+  },
+  "Mitsubishi Pajero - Montero - Shogun (4° Gen.)_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174111608"
+  },
+  "Mitsubishi Pajero Mini (1° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4289559"
+  },
+  "Mitsubishi Pajero Mini (1° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4492454"
+  },
+  "Mitsubishi Pajero Mini (2° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11345390"
+  },
+  "Mitsubishi Pajero Mini (2° Gen.)_trasera": {
+    "fuente": "By Ypy31 - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5157999"
+  },
+  "Mitsubishi Pajero Mini Duke_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80131809"
+  },
+  "Mitsubishi Pajero Mini Duke_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80131818"
   },
   "Mitsubishi Pajero Junior_delantera": {
-    "fuente": ""
+    "fuente": "By Toyotacoronaexsaloon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51401123"
   },
   "Mitsubishi Pajero Junior_trasera": {
-    "fuente": ""
+    "fuente": "By TaitaFkm - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3906555"
   },
-  "Mitsubishi Pajero iO_delantera": {
-    "fuente": ""
+  "Mitsubishi Pajero Junior Flying Pug_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=149487297"
   },
-  "Mitsubishi Pajero iO_trasera": {
-    "fuente": ""
+  "Mitsubishi Pajero Junior Flying Pug_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=149519106"
   },
-  "Mitsubishi Montero Sport (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi Pajero iO - Montero iO - Shogun Pinin_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10428934"
   },
-  "Mitsubishi Montero Sport (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi Pajero iO - Montero iO - Shogun Pinin_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10428966"
+  },
+  "Mitsubishi Pajero Sport - Montero Sport - Shogun Sport (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65305870"
+  },
+  "Mitsubishi Pajero Sport - Montero Sport - Shogun Sport (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65305871"
+  },
+  "Mitsubishi Pajero Sport - Montero Sport - Shogun Sport (2° Gen.)_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Mitsubishi Montero Sport G2 2014, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=106592006"
+  },
+  "Mitsubishi Pajero Sport - Montero Sport - Shogun Sport (2° Gen.)_trasera": {
+    "fuente": "By Alex Neman - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=135069579"
+  },
+  "Mitsubishi Pajero Sport - Montero Sport - Shogun Sport (3° Gen.)_delantera": {
+    "fuente": "By QImaker - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136222451"
+  },
+  "Mitsubishi Pajero Sport - Montero Sport - Shogun Sport (3° Gen.)_trasera": {
+    "fuente": "By Alex Neman - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151692985"
+  },
+  "Mitsubishi Airtrek_delantera": {
+    "fuente": "By I, Mytho88, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2285043"
+  },
+  "Mitsubishi Airtrek_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11345580"
   },
   "Mitsubishi Outlander (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79562100"
   },
   "Mitsubishi Outlander (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79562099"
   },
-  "Mitsubishi ASX (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi Outlander (2° Gen.)(2006)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4090940"
   },
-  "Mitsubishi ASX (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi Outlander (2° Gen.)(2006)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10287425"
+  },
+  "Mitsubishi Outlander (2° Gen.)(2010)_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/50947506668/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=125120714"
+  },
+  "Mitsubishi Outlander (2° Gen.)(2010)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10578220"
+  },
+  "Mitsubishi Outlander (3° Gen.)(2012)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=153301736"
+  },
+  "Mitsubishi Outlander (3° Gen.)(2012)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=153301737"
+  },
+  "Mitsubishi Outlander (3° Gen.)(2018)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=170006971"
+  },
+  "Mitsubishi Outlander (3° Gen.)(2018)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75410328"
+  },
+  "Mitsubishi Outlander (4° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=134198784"
+  },
+  "Mitsubishi Outlander (4° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=134199111"
   },
   "Mitsubishi Endeavor_delantera": {
-    "fuente": ""
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2897094"
   },
   "Mitsubishi Endeavor_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68685449"
   },
   "Mitsubishi Raider_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5625098"
   },
   "Mitsubishi Raider_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125401993"
   },
-  "Mitsubishi Triton (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi L200 - Triton - Forte - Mighty Max (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=148959175"
   },
-  "Mitsubishi Triton (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi L200 - Triton - Strada - Mighty Max - Cyclone - Colt (2° Gen.)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2982141"
+  },
+  "Mitsubishi L200 - Triton - Strada - Mighty Max - Cyclone - Colt (2° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28969958"
+  },
+  "Mitsubishi L200 - Triton - Strada - Cyclone - Colt - Storm - Magnum - Strakar (3° Gen.)_delantera": {
+    "fuente": "By 天然ガス - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108378668"
+  },
+  "Mitsubishi L200 - Triton - Strada - Cyclone - Colt - Storm - Magnum - Strakar (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968119"
+  },
+  "Mitsubishi L200 - Triton - Strada - Strakar - Sportero - Hunter (4° Gen.)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=14942167"
+  },
+  "Mitsubishi L200 - Triton - Strada - Strakar - Sportero - Hunter (4° Gen.)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=14942174"
+  },
+  "Mitsubishi L200 - Triton - Strada (5° Gen.)(2014)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73685224"
+  },
+  "Mitsubishi L200 - Triton - Strada (5° Gen.)(2014)_trasera": {
+    "fuente": "By LSDSL - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=42799235"
+  },
+  "Mitsubishi L200 - Triton - Strada (5° Gen.)(2019)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832401"
+  },
+  "Mitsubishi L200 - Triton - Strada (5° Gen.)(2019)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95433588"
+  },
+  "Mitsubishi L200 - Triton (6° Gen.)_delantera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=187383332"
+  },
+  "Mitsubishi L200 - Triton (6° Gen.)_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=187383333"
+  },
+  "Mitsubishi Xpander_delantera": {
+    "fuente": "By Wilzz99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77152336"
+  },
+  "Mitsubishi Xpander_trasera": {
+    "fuente": "By オーバードライブ83 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116984105"
   },
   "Mitsubishi Delica (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71967821"
   },
   "Mitsubishi Delica (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71967822"
   },
-  "Mitsubishi L200 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Mitsubishi Delica - L300 (2° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118154209"
   },
-  "Mitsubishi L200 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Mitsubishi Delica - L300 (2° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118154210"
+  },
+  "Mitsubishi Delica - L300 (3° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Oun work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4481117"
+  },
+  "Mitsubishi Delica - L300 (3° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4506290"
+  },
+  "Mitsubishi Delica - L400 - Space Gear (4° Gen.)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1332702"
+  },
+  "Mitsubishi Delica - L400 - Space Gear (4° Gen.)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2987829"
+  },
+  "Mitsubishi Delica (5° Gen.)(2007)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165084063"
+  },
+  "Mitsubishi Delica (5° Gen.)(2007)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4407536"
+  },
+  "Mitsubishi Delica (5° Gen.)(2019)_delantera": {
+    "fuente": "By CEFICEFI - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85804709"
+  },
+  "Mitsubishi Delica (5° Gen.)(2019)_trasera": {
+    "fuente": "By CEFICEFI - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85804730"
+  },
+  "Mitsubishi Delica Van (1° Gen.)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4039972"
+  },
+  "Mitsubishi Delica Cargo_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136369991"
+  },
+  "Mitsubishi Delica Cargo_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136369992"
+  },
+  "Mitsubishi Delica Van (2° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119518415"
+  },
+  "Mitsubishi Delica Van (2° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119518411"
+  },
+  "Mitsubishi Delica D2 (1° Gen.)_delantera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37937301"
+  },
+  "Mitsubishi Delica D2 (1° Gen.)_trasera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28232447"
+  },
+  "Mitsubishi Delica D2 (2° Gen.)_delantera": {
+    "fuente": "By Mee-san - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91695224"
+  },
+  "Mitsubishi Delica D2 (2° Gen.)_trasera": {
+    "fuente": "By Mee-san - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91695318"
+  },
+  "Mitsubishi Delica D2 Custom (2° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62949221"
+  },
+  "Mitsubishi Delica D2 Custom (2° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62949226"
+  },
+  "Mitsubishi Delica D2 (3° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98926890"
+  },
+  "Mitsubishi Delica D2 (3° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151139828"
+  },
+  "Mitsubishi Delica D2 Custom (3° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107868473"
+  },
+  "Mitsubishi Delica D2 Custom (3° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107866659"
+  },
+  "Mitsubishi Delica Mini (1° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132281023"
+  },
+  "Mitsubishi Delica Mini (1° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132281025"
+  },
+  "Mitsubishi Delica Mini (2° Gen.)_delantera": {
+    "fuente": "By Suzuki-Ham - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178072237"
   },
   "Mitsubishi i_delantera": {
     "fuente": ""
@@ -13656,12 +13974,6 @@
     "fuente": ""
   },
   "Mitsubishi Proudia_trasera": {
-    "fuente": ""
-  },
-  "Mitsubishi Airtrek_delantera": {
-    "fuente": ""
-  },
-  "Mitsubishi Airtrek_trasera": {
     "fuente": ""
   },
   "Pontiac Chieftain_delantera": {
@@ -20041,6 +20353,15 @@
   },
   "Volvo 66_trasera": {
     "fuente": "By Lebubu93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30397925"
+  },
+  "Fiat Titano_delantera": {
+    "fuente": "By Elcondelvp - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=190178886"
+  },
+  "Fiat Fullback_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69596850"
+  },
+  "Fiat Fullback_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69596854"
   },
   "Fiat 500 Topolino_delantera": {
     "fuente": "Por Lothar Spurzem - Trabajo propio, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=58815564"

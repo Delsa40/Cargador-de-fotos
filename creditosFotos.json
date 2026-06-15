@@ -8321,6 +8321,18 @@
   "Renault Oroch_trasera": {
     "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45769551"
   },
+  "Renault Scala (2010)_delantera": {
+    "fuente": "By The Wikipeadian guy - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80122796"
+  },
+  "Renault Scala (2012)_delantera": {
+    "fuente": "By Prateek Dubey - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=101274449"
+  },
+  "Renault Symbol - Thalia_delantera": {
+    "fuente": "By Basilex - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=4638099"
+  },
+  "Renault Symbol - Thalia_trasera": {
+    "fuente": "By Basilex - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=4638007"
+  },
   "Dacia Jogger_delantera": {
     "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127040602"
   },
@@ -14060,23 +14072,44 @@
   "Mitsubishi Proudia (2° Gen.)_trasera": {
     "fuente": "By CEFICEFI - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25617182"
   },
-  "Pontiac Chieftain_delantera": {
-    "fuente": ""
+  "Pontiac Chieftain (1953)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167772458"
   },
-  "Pontiac Chieftain_trasera": {
-    "fuente": ""
+  "Pontiac Chieftain (1953)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167772459"
   },
-  "Pontiac Streamliner_delantera": {
-    "fuente": ""
+  "Pontiac Chieftain (1955)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1955 Pontiac, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69243773"
   },
-  "Pontiac Streamliner_trasera": {
-    "fuente": ""
+  "Pontiac Chieftain (1955)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1955 Pontiac, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69243741"
   },
-  "Pontiac Torpedo_delantera": {
-    "fuente": ""
+  "Pontiac Chieftain (1957)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134577294"
   },
-  "Pontiac Torpedo_trasera": {
-    "fuente": ""
+  "Pontiac Chieftain (1957)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134577295"
+  },
+  "Pontiac Chieftain (1958)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1958 Pontiac Chieftain, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69250161"
+  },
+  "Pontiac Chieftain (1958)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1958 Pontiac Chieftain, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63663514"
+  },
+  "Pontiac Streamliner (1950)_delantera": {
+    "fuente": "Por SsmIntrigue - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80218154"
+  },
+  "Pontiac Streamliner Station Wagon_delantera": {
+    "fuente": "Por Klaus Nahr from Germany - 0133 Hershey - Antique Automobile Club of America Museum, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=19341104"
+  },
+  "Pontiac Streamliner Station Wagon_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=83147416"
+  },
+  "Pontiac Torpedo (1948)_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13251439"
+  },
+  "Pontiac Torpedo (1948)_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13251487"
   },
   "Pontiac Catalina (1° Gen.)_delantera": {
     "fuente": ""
@@ -23087,9 +23120,6 @@
   "Renault Fluence (Phase 2)_delantera": {
     "fuente": "Por Navigator84 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=43085863"
   },
-  "Renault Fluence (Phase 2)_trasera": {
-    "fuente": "https://www.16valvulas.com.ar/prueba-renault-fluence-gt2/"
-  },
   "Renault Koleos (1° Gen.)_delantera": {
     "fuente": "By Bull-Doser at English Wikipedia - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=22710549"
   },
@@ -24585,7 +24615,7 @@
     "fuente": "Por Craig Howell from San Carlos, CA, USA - DSC09539, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38341740"
   },
   "Cizeta Moroder V16T_trasera": {
-    "fuente": "https://www.topgear.com/car-news/mavericks/cizetas-540bhp-v16t-supercar-almost-made-it"
+    "fuente": "By Pat Durkin - Flickr, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=173391604"
   },
   "Aston Martin DB5_delantera": {
     "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81796818"
@@ -24597,13 +24627,13 @@
     "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151590780"
   },
   "Aston Martin Valour_trasera": {
-    "fuente": "https://www.topgear.com/car-reviews/aston-martin/valour"
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177189783"
   },
   "Aston Martin Valiant_delantera": {
     "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165671508"
   },
   "Aston Martin Valiant_trasera": {
-    "fuente": "https://www.topgear.com/car-news/first-look/fernando-alonsos-extreme-aston-martin-v12-manual-only-valiant"
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177244747"
   },
   "Aston Martin DB6_delantera": {
     "fuente": "order_242 from Chile - Aston Martin DB 6 Vantage Superleggera 1967, CC 表示-継承 2.0, https://commons.wikimedia.org/w/index.php?curid=36781533による"
@@ -24771,7 +24801,7 @@
     "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=144099521"
   },
   "Aston Martin Bulldog_trasera": {
-    "fuente": "Dick Barnatt https://www.topgear.com/car-news/retro/200mph-one-aston-martin-bulldog-has-been-fully-restored"
+    "fuente": "By andreboeni - https://www.flickr.com/photos/65344061@N06/53326957560/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146365051"
   },
   "Aston Martin Victor_delantera": {
     "fuente": "Por Liam Walker - From Discord server - With their permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94875148"
@@ -24796,12 +24826,6 @@
   },
   "Alfa Romeo Nuvola_trasera": {
     "fuente": "Por Matthias v.d. Elbe - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64854204"
-  },
-  "Alfa Romeo Dardo_delantera": {
-    "fuente": "https://es.motor1.com/photos/847862/alfa-romeo-dardo-concept-1998/#7163536_alfa-romeo-dardo-concept-1998"
-  },
-  "Alfa Romeo Dardo_trasera": {
-    "fuente": "https://es.motor1.com/photos/847862/alfa-romeo-dardo-concept-1998/#7163536_alfa-romeo-dardo-concept-1998"
   },
   "Alfa Romeo Junior_delantera": {
     "fuente": "Av All names i want are taken - Eget arbete, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150023503"
@@ -25073,11 +25097,8 @@
   "Lamborghini Estoque_trasera": {
     "fuente": "Por Neef - 2 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6986143"
   },
-  "Lamborghini Egoísta_delantera": {
-    "fuente": "https://www.motorpasion.com/lamborghini/lamborghini-egoista-mas-detalles-oficiales-y-fotografias"
-  },
-  "Lamborghini Egoísta_trasera": {
-    "fuente": "https://soymotor.com/coches/noticias/venden-lamborghini-egoista"
+  "Lamborghini Egoísta Concept_delantera": {
+    "fuente": "By User:Herranderssvensson / Bildbearbeitung & Retusche von Auge=mit - Creative Commons, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=186763688"
   },
   "Lamborghini Miura_delantera": {
     "fuente": "Por Herranderssvensson - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27785068"
@@ -25634,9 +25655,6 @@
   "Chevrolet Corvette C4 Grand Sport_delantera": {
     "fuente": "By GrandSport at English Wikipedia - Transferred from en.wikipedia to Commons by Quadell using CommonsHelper., Public Domain, https://commons.wikimedia.org/w/index.php?curid=6761275"
   },
-  "Chevrolet Corvette C4 Grand Sport_trasera": {
-    "fuente": "https://www.iconicauctioneers.com/1996-chevrolet-corvette-grand-sport-coupe-rec13377-2-sywell-0524"
-  },
   "Chevrolet Corvette C5_delantera": {
     "fuente": "Por SsmIntrigue - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80063939"
   },
@@ -25674,10 +25692,7 @@
     "fuente": "By Chris Yarzab - https://www.flickr.com/photos/chrisyarzab/50539009692/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=102913661"
   },
   "Chevrolet Corvette C8 ZR1_delantera": {
-    "fuente": "Chevrolet"
-  },
-  "Chevrolet Corvette C8 ZR1_trasera": {
-    "fuente": "Chevrolet"
+    "fuente": "By OctaviaCombi - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=192242289"
   },
   "Chevrolet Camaro (1° Gen.)(1966)_delantera": {
     "fuente": "Por John Filiss proprietor SeriousWheels.com - seriouswheels.com, Copyrighted free use, https://commons.wikimedia.org/w/index.php?curid=5942283"
@@ -25811,12 +25826,6 @@
   "Chevrolet Bel Air Wagon (6° Gen.)(1966)_trasera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31534522"
   },
-  "Chevrolet Bel Air Concept (2002)_delantera": {
-    "fuente": "https://es.motor1.com/photos/850397/chevrolet-bel-air-concept-2002/#7201180_chevrolet-bel-air-concept-2002"
-  },
-  "Chevrolet Bel Air Concept (2002)_trasera": {
-    "fuente": "https://es.motor1.com/photos/850397/chevrolet-bel-air-concept-2002/#7201181_chevrolet-bel-air-concept-2002"
-  },
   "Chevrolet SSR_delantera": {
     "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133883976"
   },
@@ -25856,9 +25865,6 @@
   "Pagani Zonda R_delantera": {
     "fuente": "By LarryStevens - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9689214"
   },
-  "Pagani Zonda R_trasera": {
-    "fuente": "https://www.thespeedjournal.com/2010-pagani-zonda-r-evolution-rm-sothebys-private-sales/"
-  },
   "Pagani Zonda Cinque_delantera": {
     "fuente": "By Y.Leclercq© - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80130559"
   },
@@ -25892,9 +25898,6 @@
   "Pagani Huayra Codalunga_delantera": {
     "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119853872"
   },
-  "Pagani Huayra Codalunga_trasera": {
-    "fuente": "https://www.caranddriver.com/es/coches/novedades/a40322101/pagani-huayra-codalunga/"
-  },
   "Pagani Huayra Imola_delantera": {
     "fuente": "By Saggittarius A - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119394113"
   },
@@ -25915,8 +25918,5 @@
   },
   "Pagani Zonda Revo Barchetta_delantera": {
     "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119853585"
-  },
-  "Pagani Zonda Revo Barchetta_trasera": {
-    "fuente": "https://www.motorionline.com/pagani-zonda-revo-barchetta-debutto-goodwood-festival-of-speed-2022-foto/#google_vignette"
   }
 }

@@ -4085,6 +4085,24 @@
   "Prince Skyline 1500 Van Deluxe_trasera": {
     "fuente": "Por Ypy31 - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=27631190"
   },
+  "Nissan Kubistar_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71595381"
+  },
+  "Nissan Kubistar_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71595382"
+  },
+  "Nissan NV250_delantera": {
+    "fuente": "By Liam Walker - From Discord server - With their permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105224526"
+  },
+  "Nissan NV250_trasera": {
+    "fuente": "By Liam Walker - From Discord server - With their permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105224536"
+  },
+  "Nissan Townstar_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=147765664"
+  },
+  "Nissan Townstar_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=147765675"
+  },
   "Nissan Days (2015)_delantera": {
     "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=31772787"
   },
@@ -8332,6 +8350,36 @@
   },
   "Renault Symbol - Thalia_trasera": {
     "fuente": "By Basilex - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=4638007"
+  },
+  "Renault Kangoo (1° Gen.)(1997)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5796996"
+  },
+  "Renault Kangoo (1° Gen.)(1997)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5797005"
+  },
+  "Renault Kangoo (1° Gen.)(2003)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3217681"
+  },
+  "Renault Kangoo (1° Gen.)(2003)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3217697"
+  },
+  "Renault Kangoo (2° Gen.)(2007)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3887491"
+  },
+  "Renault Kangoo (2° Gen.)(2007)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3887493"
+  },
+  "Renault Kangoo (2° Gen.)(2013)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65398171"
+  },
+  "Renault Kangoo (2° Gen.)(2013)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=54660684"
+  },
+  "Renault Kangoo (3° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115406131"
+  },
+  "Renault Kangoo (3° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115848787"
   },
   "Dacia Jogger_delantera": {
     "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127040602"
@@ -14816,66 +14864,6 @@
   "Pontiac Trans Sport (1° Gen.)(1994)_delantera": {
     "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=12861991"
   },
-  "Pontiac Pursuit_delantera": {
-    "fuente": ""
-  },
-  "Pontiac Pursuit_trasera": {
-    "fuente": ""
-  },
-  "Pontiac Wave_delantera": {
-    "fuente": ""
-  },
-  "Pontiac Wave_trasera": {
-    "fuente": ""
-  },
-  "Pontiac Matiz_delantera": {
-    "fuente": ""
-  },
-  "Pontiac Matiz_trasera": {
-    "fuente": ""
-  },
-  "Pontiac Pathfinders_delantera": {
-    "fuente": ""
-  },
-  "Pontiac Pathfinders_trasera": {
-    "fuente": ""
-  },
-  "Pontiac Silver Streak_delantera": {
-    "fuente": ""
-  },
-  "Pontiac Silver Streak_trasera": {
-    "fuente": ""
-  },
-  "Pontiac Deluxe Six_delantera": {
-    "fuente": ""
-  },
-  "Pontiac Deluxe Six_trasera": {
-    "fuente": ""
-  },
-  "Pontiac Chief_delantera": {
-    "fuente": ""
-  },
-  "Pontiac Chief_trasera": {
-    "fuente": ""
-  },
-  "Pontiac Torpedo Eight_delantera": {
-    "fuente": ""
-  },
-  "Pontiac Torpedo Eight_trasera": {
-    "fuente": ""
-  },
-  "Pontiac Custom Sport_delantera": {
-    "fuente": ""
-  },
-  "Pontiac Custom Sport_trasera": {
-    "fuente": ""
-  },
-  "Pontiac Strato Chief_delantera": {
-    "fuente": ""
-  },
-  "Pontiac Strato Chief_trasera": {
-    "fuente": ""
-  },
   "Suzuki Suzulight_delantera": {
     "fuente": ""
   },
@@ -20978,6 +20966,30 @@
   "Czinger 21C_trasera": {
     "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152981911"
   },
+  "Fiat Fiorino (127)_delantera": {
+    "fuente": "By User:Mattes - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=15332047"
+  },
+  "Fiat Fiorino (147)_delantera": {
+    "fuente": "By Corvettec6r - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9039020"
+  },
+  "Fiat Fiorino (2000)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3372750"
+  },
+  "Fiat Fiorino (2000)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3372753"
+  },
+  "Fiat Fiorino (2008)_delantera": {
+    "fuente": "By FiatDoBrasil - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8794282"
+  },
+  "Fiat Fiorino (2008)_trasera": {
+    "fuente": "By FiatDoBrasil - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8794920"
+  },
+  "Fiat Fiorino (2013)_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Fiat Fiorino 1.4 ELX 2014, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=42805459"
+  },
+  "Fiat Fiorino (2023)_delantera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=144283562"
+  },
   "Fiat Titano_delantera": {
     "fuente": "By Elcondelvp - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=190178886"
   },
@@ -21683,10 +21695,10 @@
   "Fiat Strada (2020)_trasera": {
     "fuente": "Por NaBUru38 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122406373"
   },
-  "Fiat Qubo_delantera": {
+  "Fiat Qubo - Fiorino Qubo_delantera": {
     "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10803919"
   },
-  "Fiat Qubo_trasera": {
+  "Fiat Qubo - Fiorino Qubo_trasera": {
     "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10803929"
   },
   "Fiat Doblo (2000)_delantera": {
@@ -24508,6 +24520,54 @@
   },
   "Volkswagen Amarok (2° Gen.)_trasera": {
     "fuente": "By MarcelX42 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128597071"
+  },
+  "Peugeot Bipper_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69833622"
+  },
+  "Peugeot Bipper_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69833624"
+  },
+  "Peugeot Partner (1° Gen.)(1996)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3337666"
+  },
+  "Peugeot Partner (1° Gen.)(1996)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3337673"
+  },
+  "Peugeot Partner (1° Gen.)(2004)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63109811"
+  },
+  "Peugeot Partner (1° Gen.)(2004)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63109814"
+  },
+  "Peugeot Partner (2° Gen.)(2008)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=16535807"
+  },
+  "Peugeot Partner (2° Gen.)(2008)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=16535828"
+  },
+  "Peugeot Partner (2° Gen.)(2015)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75036257"
+  },
+  "Peugeot Partner (2° Gen.)(2015)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68152487"
+  },
+  "Peugeot Partner (3° Gen.)(2018)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968614"
+  },
+  "Peugeot Partner (3° Gen.)(2018)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968615"
+  },
+  "Peugeot Rifter (2018)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72477988"
+  },
+  "Peugeot Rifter (2018)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72477991"
+  },
+  "Peugeot Rifter (2024)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147983066"
+  },
+  "Peugeot Rifter (2024)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164656990"
   },
   "Peugeot 907 Concept_delantera": {
     "fuente": "Por Alf van Beem - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=48558677"

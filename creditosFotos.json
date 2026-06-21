@@ -4085,6 +4085,12 @@
   "Prince Skyline 1500 Van Deluxe_trasera": {
     "fuente": "Por Ypy31 - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=27631190"
   },
+  "Nissan Pixo_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11188318"
+  },
+  "Nissan Pixo_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11188328"
+  },
   "Nissan Kubistar_delantera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71595381"
   },
@@ -7378,6 +7384,12 @@
   },
   "Panoz Esperante GTR-1_delantera": {
     "fuente": "By ERIC SALARD from Paris, FRANCE - PANOZ ESPERANTE CTR-1 RETROMOBIEL 2023, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=128577008"
+  },
+  "Mazda AZ-Offroad_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5285547"
+  },
+  "Mazda AZ-Offroad_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5285558"
   },
   "Mazda 787B_delantera": {
     "fuente": "By 韋駄天狗 - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15905941"
@@ -14144,13 +14156,13 @@
   "Pontiac Chieftain - Star Chief Safari (1955)_trasera": {
     "fuente": "By dave_7 from Lethbridge, Canada - 1955 Pontiac Safari, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=38602585"
   },
-  "Pontiac Chieftain - Star Chief Safari (1958)_delantera": {
+  "Pontiac Chieftain - Star Chief - Parisienne Safari (1958)_delantera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1958 Pontiac Star Chief Custom Safari, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69251766"
   },
-  "Pontiac Chieftain - Star Chief - Bonneville (1958)_delantera": {
+  "Pontiac Chieftain - Star Chief - Bonneville - Parisienne (1958)_delantera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1958 Pontiac Chieftain, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69250161"
   },
-  "Pontiac Chieftain - Star Chief - Bonneville (1958)_trasera": {
+  "Pontiac Chieftain - Star Chief - Bonneville - Parisienne (1958)_trasera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1958 Pontiac Chieftain, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=63663514"
   },
   "Pontiac Streamliner (1950)_delantera": {
@@ -14168,91 +14180,91 @@
   "Pontiac Torpedo (1948)_trasera": {
     "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13251487"
   },
-  "Pontiac Catalina - Star Chief - Bonneville (1959)_delantera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne (1959)_delantera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 59 Pontiac Star Chief, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69245401"
   },
-  "Pontiac Catalina - Star Chief - Bonneville (1959)_trasera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne (1959)_trasera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 59 Pontiac Star Chief, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69245398"
   },
-  "Pontiac Catalina - Star Chief - Bonneville (1960)_delantera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne (1960)_delantera": {
     "fuente": "By Theodulf - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=171313334"
   },
-  "Pontiac Catalina - Star Chief - Bonneville (1960)_trasera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne (1960)_trasera": {
     "fuente": "By sv1ambo - 1960 Pontiac Catalina coupe, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38830122"
   },
-  "Pontiac Catalina - Star Chief - Bonneville (1961)_delantera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne (1961)_delantera": {
     "fuente": "By JOHN LLOYD from Concrete, Washington, United States, cropped by uploader Mr.choppers - Billetproof 1961 Pontiac, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=28331422"
   },
-  "Pontiac Catalina - Star Chief - Bonneville (1961)_trasera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne (1961)_trasera": {
     "fuente": "By JOHN LLOYD from Concrete, Washington, United States, cropped by uploader Mr.choppers - Billetproof - 1961 Pontiac, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=28331532"
   },
-  "Pontiac Catalina - Star Chief - Bonneville - Grand Prix (1962)_delantera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Grand Prix - Parisienne (1962)_delantera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1962 Pontiac Star Chief, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=171325184"
   },
-  "Pontiac Catalina - Star Chief - Bonneville - Grand Prix (1962)_trasera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Grand Prix - Parisienne (1962)_trasera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 62 Pontiac Catalina, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69249080"
   },
-  "Pontiac Catalina - Star Chief - Bonneville Safari (1962)_delantera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne Safari (1962)_delantera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1962 Pontiac Catalina Safari, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69250257"
   },
-  "Pontiac Catalina - Star Chief - Bonneville Safari (1962)_trasera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne Safari (1962)_trasera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 62 Pontiac Safari, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69244049"
   },
-  "Pontiac Catalina - Star Chief - Bonneville (1963)_delantera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne (1963)_delantera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 63 Pontiac Catalina, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69257888"
   },
-  "Pontiac Catalina - Star Chief - Bonneville (1963)_trasera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne (1963)_trasera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 63 Pontiac Catalina, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69257855"
   },
-  "Pontiac Catalina - Star Chief - Bonneville (1964)_delantera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne (1964)_delantera": {
     "fuente": "By JOHN LLOYD from Concrete, Washington, United States - 1964 Catalina, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=66340908"
   },
-  "Pontiac Catalina - Star Chief - Bonneville (1964)_trasera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne (1964)_trasera": {
     "fuente": "By dave_7 from Lethbridge, Canada - 1964 Pontiac Catalina Ventura, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34580743"
   },
-  "Pontiac Catalina - Star Chief - Bonneville Safari (1964)_delantera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne Safari (1964)_delantera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=79749347"
   },
-  "Pontiac Catalina - Star Chief - Bonneville Safari (1964)_trasera": {
+  "Pontiac Catalina - Star Chief - Bonneville - Parisienne Safari (1964)_trasera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=79749288"
   },
-  "Pontiac Catalina - Bonneville (1967)_delantera": {
+  "Pontiac Catalina - Bonneville - Parisienne (1967)_delantera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1967 Pontiac Catalina, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69265948"
   },
-  "Pontiac Catalina - Bonneville (1967)_trasera": {
+  "Pontiac Catalina - Bonneville - Parisienne (1967)_trasera": {
     "fuente": "By JOHN LLOYD from Concrete, Washington, United States,cropped and lightly altered by uploader Mr.choppers - 1967 Catalina, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=25071902"
   },
-  "Pontiac Catalina - Bonneville Wagon (1968)_delantera": {
+  "Pontiac Catalina - Bonneville - Parisienne Wagon (1968)_delantera": {
     "fuente": "By Rcustoms - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15981701"
   },
-  "Pontiac Catalina - Bonneville (1968)_delantera": {
+  "Pontiac Catalina - Bonneville - Parisienne (1968)_delantera": {
     "fuente": "By Mopar89 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12076129"
   },
-  "Pontiac Catalina - Bonneville (1968)_trasera": {
+  "Pontiac Catalina - Bonneville - Parisienne (1968)_trasera": {
     "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=145527899"
   },
-  "Pontiac Catalina - Bonneville (1970)_delantera": {
+  "Pontiac Catalina - Bonneville - Parisienne (1970)_delantera": {
     "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5753577"
   },
-  "Pontiac Catalina - Bonneville (1970)_trasera": {
+  "Pontiac Catalina - Bonneville - Parisienne (1970)_trasera": {
     "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5753572"
   },
-  "Pontiac Catalina - Bonneville Safari (1970)_delantera": {
+  "Pontiac Catalina - Bonneville - Parisienne Safari (1970)_delantera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=89312100"
   },
-  "Pontiac Catalina - Bonneville Safari (1970)_trasera": {
+  "Pontiac Catalina - Bonneville - Parisienne Safari (1970)_trasera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=89312110"
   },
-  "Pontiac Catalina - Bonneville (1971)_delantera": {
+  "Pontiac Catalina - Bonneville - Parisienne (1971)_delantera": {
     "fuente": "Por Michael Spiller from Bradford, UK;cropped and plates blanked by uploader Mr.choppers - Red Pontiac, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=16354444"
   },
-  "Pontiac Catalina - Bonneville (1971)_trasera": {
+  "Pontiac Catalina - Bonneville - Parisienne (1971)_trasera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 71 Pontiac Catalina, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69244528"
   },
-  "Pontiac Catalina - Bonneville (1973)_delantera": {
+  "Pontiac Catalina - Bonneville - Parisienne (1973)_delantera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18249848"
   },
-  "Pontiac Catalina - Bonneville (1978)_delantera": {
+  "Pontiac Catalina - Bonneville - Parisienne (1978)_delantera": {
     "fuente": "Por Bull-Doser - Trabajo propio., Dominio público, https://commons.wikimedia.org/w/index.php?curid=10588796"
   },
   "Pontiac Bonneville Special Concept_delantera": {
@@ -14261,13 +14273,13 @@
   "Pontiac Bonneville Special Concept_trasera": {
     "fuente": "By artistmac - https://www.flickr.com/photos/26329029@N06/7628028936/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=100415253"
   },
-  "Pontiac Bonneville (1976)_delantera": {
+  "Pontiac Bonneville - Parisienne (1976)_delantera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1976 Pontiac Bonneville, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69251005"
   },
-  "Pontiac Bonneville (1978)_delantera": {
+  "Pontiac Bonneville - Parisienne (1978)_delantera": {
     "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122623603"
   },
-  "Pontiac Bonneville (1978)_trasera": {
+  "Pontiac Bonneville - Parisienne (1978)_trasera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33145273"
   },
   "Pontiac Bonneville Safari (1981)_delantera": {
@@ -14864,53 +14876,287 @@
   "Pontiac Trans Sport (1° Gen.)(1994)_delantera": {
     "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=12861991"
   },
-  "Suzuki Suzulight_delantera": {
-    "fuente": ""
+  "Pontiac Banshee Concept_delantera": {
+    "fuente": "By artistmac - https://www.flickr.com/photos/26329029@N06/7628252820/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=100413865"
   },
-  "Suzuki Suzulight_trasera": {
-    "fuente": ""
+  "Pontiac Banshee Concept_trasera": {
+    "fuente": "By artistmac - https://www.flickr.com/photos/26329029@N06/7628255494/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=100413871"
   },
-  "Suzuki Fronte (1° Gen.)_delantera": {
-    "fuente": ""
+  "Pontiac Matiz (2005)_delantera": {
+    "fuente": "By Lmarzuffi - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=22953131"
   },
-  "Suzuki Fronte (1° Gen.)_trasera": {
-    "fuente": ""
+  "Pontiac Matiz (2007)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8609384"
   },
-  "Suzuki Cervo (1° Gen.)_delantera": {
-    "fuente": ""
+  "Pontiac Matiz (2007)_trasera": {
+    "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=8609392"
   },
-  "Suzuki Cervo (1° Gen.)_trasera": {
-    "fuente": ""
+  "Suzuki Suzulight SS_delantera": {
+    "fuente": "By Rainmaker47 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32104708"
   },
-  "Suzuki Alto (1° Gen.)_delantera": {
-    "fuente": ""
+  "Suzuki Suzulight SD_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161523986"
   },
-  "Suzuki Alto (1° Gen.)_trasera": {
-    "fuente": ""
+  "Suzuki Suzulight SD_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161525491"
   },
-  "Suzuki Jimny (1° Gen.)_delantera": {
-    "fuente": ""
+  "Suzuki Suzulight TL_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161518905"
   },
-  "Suzuki Jimny (1° Gen.)_trasera": {
-    "fuente": ""
+  "Suzuki Suzulight TL_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161592266"
   },
-  "Suzuki LJ10_delantera": {
-    "fuente": ""
+  "Suzuki Suzulight Carry_delantera": {
+    "fuente": "By 先従隗始 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=173569538"
   },
-  "Suzuki LJ10_trasera": {
-    "fuente": ""
+  "Suzuki Suzulight FE Van_delantera": {
+    "fuente": "By 攻殼機動隊員 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=189824577"
   },
-  "Suzuki LJ20_delantera": {
-    "fuente": ""
+  "Suzuki Suzulight FE Van_trasera": {
+    "fuente": "By 攻殼機動隊員 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=189824576"
   },
-  "Suzuki LJ20_trasera": {
-    "fuente": ""
+  "Suzuki Suzulight Fronte FEA (1965)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161602343"
   },
-  "Suzuki LJ50_delantera": {
-    "fuente": ""
+  "Suzuki Fronte (1969)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=40045351"
   },
-  "Suzuki LJ50_trasera": {
-    "fuente": ""
+  "Suzuki Fronte (1969)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=40045352"
+  },
+  "Suzuki Fronte Van (1969)_delantera": {
+    "fuente": "By Yones - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16301983"
+  },
+  "Suzuki Fronte Van (1969)_trasera": {
+    "fuente": "By Ypy31 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=27627746"
+  },
+  "Suzuki Fronte (1972)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=29448772"
+  },
+  "Suzuki Fronte (1972)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3472323"
+  },
+  "Suzuki Fronte Coupe (1973)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161426320"
+  },
+  "Suzuki Fronte Coupe (1973)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161348580"
+  },
+  "Suzuki Fronte (1973)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=49771693"
+  },
+  "Suzuki Fronte (1973)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161483758"
+  },
+  "Suzuki Fronte (1976)_delantera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3602180"
+  },
+  "Suzuki Fronte (1976)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161433298"
+  },
+  "Suzuki Fronte 7-S Custom (1976)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161343098"
+  },
+  "Suzuki Fronte 7-S Custom (1976)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161340645"
+  },
+  "Suzuki Fronte (1981)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161902290"
+  },
+  "Suzuki Fronte - Alto (1987)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161030266"
+  },
+  "Suzuki Fronte - Alto (1987)_trasera": {
+    "fuente": "By Toyotacoronaexsaloon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52444632"
+  },
+  "Suzuki Cervo - SC100 (1979)_delantera": {
+    "fuente": "By Ypy31 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=24400071"
+  },
+  "Suzuki Cervo - SC100 (1979)_trasera": {
+    "fuente": "By Ypy31 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=110717150"
+  },
+  "Suzuki Cervo (1982)_delantera": {
+    "fuente": "By Ypy31 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=16464068"
+  },
+  "Suzuki Cervo (1982)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=34590285"
+  },
+  "Suzuki Mighty Boy_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3199083"
+  },
+  "Suzuki Mighty Boy_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3199090"
+  },
+  "Suzuki Cervo (1988)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=161164405"
+  },
+  "Suzuki Cervo (1988)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=48843015"
+  },
+  "Suzuki Cervo (1990)_delantera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2667004"
+  },
+  "Suzuki Cervo (1990)_trasera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3307926"
+  },
+  "Suzuki Cervo C (1996)_delantera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6907972"
+  },
+  "Suzuki Cervo C (1996)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=35430037"
+  },
+  "Suzuki Cervo (2006)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13921117"
+  },
+  "Suzuki Cervo (2006)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13921043"
+  },
+  "Suzuki Alto (1979)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8243175"
+  },
+  "Suzuki Alto (1979)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8243561"
+  },
+  "Suzuki Alto Works RS-R_delantera": {
+    "fuente": "By TTTNIS - vikas sharma [Sr. Engg. in MSIL]-=91 9650266166}, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10220127"
+  },
+  "Suzuki Alto Works RS-R_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10220131"
+  },
+  "Suzuki Alto (1992)_delantera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2663579"
+  },
+  "Suzuki Alto (1992)_trasera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7549933"
+  },
+  "Suzuki Alto Works (1990)_delantera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7632511"
+  },
+  "Suzuki Alto Works (1990)_trasera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7632519"
+  },
+  "Suzuki Alto (1994)_delantera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2663574"
+  },
+  "Suzuki Alto (1994)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10787883"
+  },
+  "Suzuki Alto (1997)_delantera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2667007"
+  },
+  "Suzuki Alto (1997)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6782307"
+  },
+  "Suzuki Alto Works RS-Z_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78970338"
+  },
+  "Suzuki Alto Works RS-Z_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78970339"
+  },
+  "Suzuki Alto (2000)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72471924"
+  },
+  "Suzuki Alto (2000)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72471928"
+  },
+  "Suzuki Alto C (2000)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12561485"
+  },
+  "Suzuki Alto (K10)_delantera": {
+    "fuente": "By order_242 from Chile - Suzuki Alto K10 DLX 2011, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=85064225"
+  },
+  "Suzuki Alto Works RS-Z (2000)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=162504024"
+  },
+  "Suzuki Alto Works RS-Z (2000)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=34733846"
+  },
+  "Suzuki Alto (2004)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6952416"
+  },
+  "Suzuki Alto (2004)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6952230"
+  },
+  "Suzuki Alto (2009)_delantera": {
+    "fuente": "By Kuha455405 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9726278"
+  },
+  "Suzuki Alto (2009)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=162206178"
+  },
+  "Suzuki Alto (2014)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73866417"
+  },
+  "Suzuki Alto (2014)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73866418"
+  },
+  "Suzuki Alto (2014)(China)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44021347"
+  },
+  "Suzuki Alto (2015)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=162708606"
+  },
+  "Suzuki Alto (2015)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=85064402"
+  },
+  "Suzuki Alto Turbo RS_delantera": {
+    "fuente": "By Ten-nen Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=41460514"
+  },
+  "Suzuki Alto Turbo RS_trasera": {
+    "fuente": "https://commons.wikimedia.org/w/index.php?curid=109668649"
+  },
+  "Suzuki Alto (2021)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=161117436"
+  },
+  "Suzuki Alto (2021)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=161117435"
+  },
+  "Suzuki Jimny (1970)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=178196874"
+  },
+  "Suzuki Jimny (1970)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=178196873"
+  },
+  "Suzuki Jimny (1979)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=27481881"
+  },
+  "Suzuki Jimny (1979)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=14989934"
+  },
+  "Suzuki Jimny - Samurai (1987)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=190077511"
+  },
+  "Suzuki Jimny - Samurai (1987)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=190030526"
+  },
+  "Suzuki Jimny - Samurai (1995)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3233988"
+  },
+  "Suzuki Jimny - Samurai (1995)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3948814"
+  },
+  "Suzuki Jimny (1998)_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4279203"
+  },
+  "Suzuki Jimny (1998)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=118049145"
+  },
+  "Suzuki Jimny Sierra (1998)_delantera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2994386"
+  },
+  "Suzuki Jimny Sierra (1998)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=14872784"
+  },
+  "Suzuki Jimny (2018)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=167706118"
+  },
+  "Suzuki Jimny (2018)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=167706120"
+  },
+  "Suzuki Jimny Sierra (2018)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=166964761"
+  },
+  "Suzuki Jimny Sierra (2018)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=166964762"
   },
   "Suzuki Carry (1° Gen.)_delantera": {
     "fuente": ""
@@ -15080,12 +15326,6 @@
   "Suzuki Equator_trasera": {
     "fuente": ""
   },
-  "Suzuki Mighty Boy_delantera": {
-    "fuente": ""
-  },
-  "Suzuki Mighty Boy_trasera": {
-    "fuente": ""
-  },
   "Suzuki Cappuccino_delantera": {
     "fuente": ""
   },
@@ -15102,6 +15342,12 @@
     "fuente": ""
   },
   "Suzuki Twin_trasera": {
+    "fuente": ""
+  },
+  "Suzuki Fun_delantera": {
+    "fuente": ""
+  },
+  "Suzuki Fun_trasera": {
     "fuente": ""
   },
   "Suzuki Verona_delantera": {
@@ -19650,6 +19896,24 @@
     "fuente": ""
   },
   "Land Rover Defender Adventure Concept_trasera": {
+    "fuente": ""
+  },
+  "Saab_delantera": {
+    "fuente": ""
+  },
+  "Saab_trasera": {
+    "fuente": ""
+  },
+  "Mini_delantera": {
+    "fuente": ""
+  },
+  "Mini_trasera": {
+    "fuente": ""
+  },
+  "Isuzu_delantera": {
+    "fuente": ""
+  },
+  "Isuzu_trasera": {
     "fuente": ""
   },
   "Lancia Hyena_delantera": {

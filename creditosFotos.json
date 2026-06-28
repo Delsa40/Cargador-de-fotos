@@ -13208,6 +13208,12 @@
   "Casalini M20_delantera": {
     "fuente": "By SirWallace2 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115903502"
   },
+  "Lotec Sirius_delantera": {
+    "fuente": "By Pyrosuwu - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=185006599"
+  },
+  "Lotec C1000_delantera": {
+    "fuente": "By Lamboshane - https://www.flickr.com/photos/47822791@N07/5885621312/sizes/o/in/photostream/, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=25877047"
+  },
   "Mitsubishi Model A_delantera": {
     "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8324222"
   },
@@ -15710,149 +15716,416 @@
   "Suzuki Palette SW_trasera": {
     "fuente": "By Kuha455405 - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10997443"
   },
-  "Suzuki Spacia_delantera": {
-    "fuente": ""
+  "Suzuki Spacia (1° Gen.)_delantera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26698532"
   },
-  "Suzuki Spacia_trasera": {
-    "fuente": ""
+  "Suzuki Spacia (1° Gen.)_trasera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26698533"
   },
-  "Suzuki Hustler_delantera": {
-    "fuente": ""
+  "Suzuki Spacia (2° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=154327869"
   },
-  "Suzuki Hustler_trasera": {
-    "fuente": ""
+  "Suzuki Spacia (2° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=154327870"
   },
-  "Suzuki Lapin_delantera": {
-    "fuente": ""
+  "Suzuki Spacia (3° Gen.)_delantera": {
+    "fuente": "By Oq10pass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=156918114"
   },
-  "Suzuki Lapin_trasera": {
-    "fuente": ""
+  "Suzuki Spacia (3° Gen.)_trasera": {
+    "fuente": "By Oq10pass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=156918113"
   },
-  "Suzuki X-90_delantera": {
-    "fuente": ""
+  "Suzuki Spacia Custom (1° Gen.)_delantera": {
+    "fuente": "By Oq10pass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=156914609"
   },
-  "Suzuki X-90_trasera": {
-    "fuente": ""
+  "Suzuki Spacia Custom (1° Gen.)_trasera": {
+    "fuente": "By Oq10pass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=156914610"
   },
-  "Suzuki Sidekick_delantera": {
-    "fuente": ""
+  "Suzuki Spacia Custom (2° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=155254525"
   },
-  "Suzuki Sidekick_trasera": {
-    "fuente": ""
+  "Suzuki Spacia Custom (2° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65821524"
   },
-  "Suzuki Escudo (1° Gen.)_delantera": {
-    "fuente": ""
+  "Suzuki Spacia Custom (3° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=171205473"
   },
-  "Suzuki Escudo (1° Gen.)_trasera": {
-    "fuente": ""
+  "Suzuki Spacia Custom (3° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=142954828"
   },
-  "Suzuki Vitara (1° Gen.)_delantera": {
-    "fuente": ""
+  "Suzuki Spacia Gear (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=176124777"
   },
-  "Suzuki Vitara (1° Gen.)_trasera": {
-    "fuente": ""
+  "Suzuki Spacia Gear (1° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=176124778"
   },
-  "Suzuki Grand Vitara (1° Gen.)_delantera": {
-    "fuente": ""
+  "Suzuki Spacia Gear (2° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=156740846"
   },
-  "Suzuki Grand Vitara (1° Gen.)_trasera": {
-    "fuente": ""
+  "Suzuki Spacia Gear (2° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=156740847"
   },
-  "Suzuki XL7 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Suzuki Hustler (1° Gen.)_delantera": {
+    "fuente": "By Oq10pass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=159297689"
   },
-  "Suzuki XL7 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Suzuki Hustler (1° Gen.)_trasera": {
+    "fuente": "By Oq10pass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=159297688"
+  },
+  "Suzuki Hustler (2° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86267238"
+  },
+  "Suzuki Hustler (2° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121145085"
+  },
+  "Suzuki Alto Lapin (1° Gen.)_delantera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2667008"
+  },
+  "Suzuki Alto Lapin (1° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4486080"
+  },
+  "Suzuki Alto Lapin (2° Gen.)_delantera": {
+    "fuente": "By Ypy31 - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5387756"
+  },
+  "Suzuki Alto Lapin (2° Gen.)_trasera": {
+    "fuente": "By Oq10pass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=167650076"
+  },
+  "Suzuki Alto Lapin (3° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=166966897"
+  },
+  "Suzuki Alto Lapin (3° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=166966899"
+  },
+  "Suzuki Alto Lapin Chocolat_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=35855103"
+  },
+  "Suzuki Alto Lapin Chocolat_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=35855104"
+  },
+  "Suzuki Alto Lapin SS_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11491560"
+  },
+  "Suzuki Alto Lapin SS_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11491568"
+  },
+  "Suzuki Alto Lapin LC_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119561049"
+  },
+  "Suzuki Alto Lapin LC_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=162705706"
+  },
+  "Suzuki Vitara X-90_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4233429"
+  },
+  "Suzuki Vitara X-90_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4233432"
+  },
+  "Suzuki Vitara - Escudo - Sidekick - Nomade (1° Gen.)_delantera": {
+    "fuente": "By Just a Man - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=169665825"
+  },
+  "Suzuki Vitara - Escudo - Sidekick - Nomade (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75036244"
+  },
+  "Suzuki Vitara - Escudo - Sidekick - Nomade (2° Gen.)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3937608"
+  },
+  "Suzuki Vitara - Escudo - Sidekick - Nomade (2° Gen.)_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12561250"
+  },
+  "Suzuki Grand Vitara - Nomade - Escudo (2005)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10480586"
+  },
+  "Suzuki Grand Vitara - Nomade - Escudo (2005)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3972182"
+  },
+  "Suzuki Vitara - Escudo (4° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67595053"
+  },
+  "Suzuki Vitara - Escudo (4° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79214170"
+  },
+  "Suzuki Vitara Brezza_delantera": {
+    "fuente": "By オーバードライブ83 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80755552"
+  },
+  "Suzuki Vitara Brezza_trasera": {
+    "fuente": "By Andra Febrian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94742838"
+  },
+  "Suzuki Grand Vitara (2022)_delantera": {
+    "fuente": "By Siddharth Antre Vlogs, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=124830586"
+  },
+  "Suzuki Grand Vitara (2022)_trasera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/54717288636/, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=172436552"
+  },
+  "Suzuki e Vitara_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177630473"
+  },
+  "Suzuki e Vitara_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177630484"
+  },
+  "Suzuki XL7_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=89839513"
+  },
+  "Suzuki XL7_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150254556"
+  },
+  "Suzuki Grand Vitara - Escudo XL-7 (1998)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1638605"
+  },
+  "Suzuki Grand Vitara - Escudo XL-7 (1998)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83071134"
+  },
+  "Suzuki Grand Vitara - Escudo XL-7 (2004)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2588242"
+  },
+  "Suzuki Grand Vitara - Escudo XL-7 (2004)_trasera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26078159"
   },
   "Suzuki SX4 (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By order_242 from Chile - Suzuki SX4 1.6 GLX Sport 2009, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=96959379"
   },
   "Suzuki SX4 (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By order_242 from Chile - Suzuki SX4 1.6 GLX 2010, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=117769411"
   },
-  "Suzuki S-Cross (1° Gen.)_delantera": {
-    "fuente": ""
+  "Suzuki SX4 Sedan (1° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Suzuki SX4 1.6 GLX Sport Sedan 2008, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=128062693"
   },
-  "Suzuki S-Cross (1° Gen.)_trasera": {
-    "fuente": ""
+  "Suzuki SX4 Sedan (1° Gen.)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Suzuki SX4 1.6 GLX Sport Sedan 2008, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=156877073"
+  },
+  "Suzuki SX4 WRC_delantera": {
+    "fuente": "By order_242 from Chile - Suzuki SX4 2.0T Sport Sedan, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34585313"
+  },
+  "Suzuki SX4 WRC_trasera": {
+    "fuente": "By LSDSL, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=2785322"
+  },
+  "Suzuki SX4 S-Cross (2° Gen.)(2013)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64932623"
+  },
+  "Suzuki SX4 S-Cross (2° Gen.)(2013)_trasera": {
+    "fuente": "By TuRbO_J from Adelaide, Australia - 2014 Suzuki SX4 S-Cross GL, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38717144"
+  },
+  "Suzuki SX4 S-Cross (2° Gen.)(2016)_delantera": {
+    "fuente": "By Harvey Bold - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=146497427"
+  },
+  "Suzuki SX4 S-Cross (2° Gen.)(2016)_trasera": {
+    "fuente": "By Harvey Bold - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=146497429"
+  },
+  "Suzuki SX4 S-Cross (3° Gen.)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131384999"
+  },
+  "Suzuki SX4 S-Cross (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129543569"
   },
   "Suzuki Across_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=110437322"
   },
   "Suzuki Across_trasera": {
-    "fuente": ""
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112355230"
+  },
+  "Suzuki Victoris - Across_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=177994685"
   },
   "Suzuki Equator_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6266401"
   },
   "Suzuki Equator_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134422594"
   },
-  "Suzuki Ignis (1° Gen.)_delantera": {
-    "fuente": ""
+  "Suzuki Ignis - Swift (1° Gen.)(2000)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78372139"
   },
-  "Suzuki Ignis (1° Gen.)_trasera": {
-    "fuente": ""
+  "Suzuki Ignis - Swift (1° Gen.)(2000)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78372137"
+  },
+  "Suzuki Ignis (1° Gen.)(2003)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69517782"
+  },
+  "Suzuki Ignis (1° Gen.)(2003)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69517786"
+  },
+  "Suzuki Ignis (2° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164792166"
+  },
+  "Suzuki Ignis (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74910076"
+  },
+  "Suzuki Ignis Sport S1600 (2000)_delantera": {
+    "fuente": "By ゴリバー - 投稿者自身による作品 (本人撮影), CC0, https://commons.wikimedia.org/w/index.php?curid=12680233"
+  },
+  "Suzuki Ignis Sport S1600 (2004)_delantera": {
+    "fuente": "By Rally Paradise / Pasi Piesanen, Mauri, Joni, Henri and Markus Lehtiranta - http://gamma.nic.fi/~globe1/rally/paradise/gallery.htm, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4802996"
   },
   "Suzuki Cara_delantera": {
-    "fuente": ""
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=27462932"
   },
   "Suzuki Cara_trasera": {
-    "fuente": ""
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=27462950"
   },
   "Suzuki Twin_delantera": {
-    "fuente": ""
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5878989"
   },
   "Suzuki Twin_trasera": {
-    "fuente": ""
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5138808"
   },
-  "Suzuki Fun_delantera": {
-    "fuente": ""
+  "Suzuki Fun (2004)_delantera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=145431048"
   },
-  "Suzuki Fun_trasera": {
-    "fuente": ""
+  "Suzuki Fun (2006)_delantera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=145326227"
   },
   "Suzuki Verona_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2751958"
   },
   "Suzuki Verona_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80386356"
   },
   "Suzuki Forenza_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5304059"
   },
   "Suzuki Forenza_trasera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=112713395"
   },
   "Suzuki Reno_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3097207"
   },
   "Suzuki Reno_trasera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2826604"
   },
   "Suzuki Solio (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27953102"
   },
   "Suzuki Solio (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27953103"
+  },
+  "Suzuki Solio (2° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=160898462"
+  },
+  "Suzuki Solio (2° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97470553"
+  },
+  "Suzuki Solio (3° Gen.)_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97372026"
+  },
+  "Suzuki Solio (3° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132479120"
+  },
+  "Suzuki Solio Bandit (1° Gen.)_delantera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27516839"
+  },
+  "Suzuki Solio Bandit (1° Gen.)_trasera": {
+    "fuente": "By DY5W-sport - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27516838"
+  },
+  "Suzuki Solio Bandit (2° Gen.)_delantera": {
+    "fuente": "By Oq10pass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=156917171"
+  },
+  "Suzuki Solio Bandit (2° Gen.)_trasera": {
+    "fuente": "By Oq10pass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=156917172"
+  },
+  "Suzuki Solio Bandit (3° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=155228356"
+  },
+  "Suzuki Solio Bandit (3° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97431432"
   },
   "Suzuki Ertiga (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By オーバードライブ83 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91008424"
   },
   "Suzuki Ertiga (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By オーバードライブ83 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91008423"
   },
-  "Suzuki XL6_delantera": {
-    "fuente": ""
+  "Suzuki Ertiga (2° Gen.)_delantera": {
+    "fuente": "By Andra Febrian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109480238"
   },
-  "Suzuki XL6_trasera": {
-    "fuente": ""
+  "Suzuki Ertiga (2° Gen.)_trasera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/54559211721/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=166546315"
   },
-  "Suzuki Swift (1° Gen.)_delantera": {
-    "fuente": ""
+  "Suzuki XL6 - Ertiga XL7_delantera": {
+    "fuente": "By オーバードライブ83 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105557945"
   },
-  "Suzuki Swift (1° Gen.)_trasera": {
-    "fuente": ""
+  "Suzuki XL6 - Ertiga XL7_trasera": {
+    "fuente": "By オーバードライブ83 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105557944"
+  },
+  "Suzuki Swift - Cultus (1° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Suzuki SA 413 1989, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=37335544"
+  },
+  "Suzuki Swift - Cultus (1° Gen.)_trasera": {
+    "fuente": "By Schumi4ever - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=6222368"
+  },
+  "Suzuki Swift - Cultus (2° Gen.)_delantera": {
+    "fuente": "By Makizox - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61429851"
+  },
+  "Suzuki Swift - Cultus (2° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=16988921"
+  },
+  "Suzuki Swift - Cultus Sedan (2° Gen.)_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/32052359730/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=120232033"
+  },
+  "Suzuki Swift - Cultus Sedan (2° Gen.)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Suzuki Swift 1.3 Sedan 1994, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76197394"
+  },
+  "Suzuki Swift (3° Gen.)_delantera": {
+    "fuente": "By Luftfahrrad - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4507835"
+  },
+  "Suzuki Swift (3° Gen.)_trasera": {
+    "fuente": "By Luftfahrrad - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4507837"
+  },
+  "Suzuki Swift (4° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74806687"
+  },
+  "Suzuki Swift (4° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74806685"
+  },
+  "Suzuki Swift (5° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95777086"
+  },
+  "Suzuki Swift (5° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95777085"
+  },
+  "Suzuki Swift (6° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=156343717"
+  },
+  "Suzuki Swift (6° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=156343313"
+  },
+  "Suzuki Swift Dzire (1° Gen.)_delantera": {
+    "fuente": "By Aman Gupta - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9975584"
+  },
+  "Suzuki Swift Dzire (1° Gen.)_trasera": {
+    "fuente": "By MikeSense80 - https://www.flickr.com/photos/46705492@N03/4290416407/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=149948633"
+  },
+  "Suzuki Swift Dzire (2° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Suzuki Swift Dzire 1.2 GL 2013, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=85069742"
+  },
+  "Suzuki Swift Dzire (2° Gen.)_trasera": {
+    "fuente": "By order_242 from Chile - Suzuki Swift DZire 1.2 GL 2013, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=85069787"
+  },
+  "Suzuki Swift Sedan - Dzire (3° Gen.)_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Suzuki Dzire 1.2 GL 2022, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=158785919"
+  },
+  "Suzuki Swift Sedan - Dzire (3° Gen.)_trasera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/54609949250/, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168400025"
+  },
+  "Suzuki Dzire (4° Gen.)_delantera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177395758"
+  },
+  "Suzuki Dzire (4° Gen.)_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177395757"
+  },
+  "Suzuki Swift+_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7496407"
+  },
+  "Suzuki Swift+_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89414937"
+  },
+  "Suzuki Celerio (2014)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=41868930"
+  },
+  "Suzuki Celerio (2014)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73573029"
+  },
+  "Suzuki Celerio (2021)_delantera": {
+    "fuente": "By Captainmorlypogi1959 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=168230606"
+  },
+  "Suzuki Celerio (2021)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Suzuki Celerio 1.0 GLX Sport 2023, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=156877122"
   },
   "Suzuki Esteem_delantera": {
     "fuente": ""
@@ -21704,6 +21977,18 @@
   "Czinger 21C_trasera": {
     "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152981911"
   },
+  "Fiat Fastback_delantera": {
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=130264595"
+  },
+  "Fiat Fastback_trasera": {
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=130264597"
+  },
+  "Fiat Pulse_delantera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=145787132"
+  },
+  "Fiat Pulse_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=145787133"
+  },
   "Fiat Fiorino (127)_delantera": {
     "fuente": "By User:Mattes - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=15332047"
   },
@@ -23632,6 +23917,12 @@
   },
   "Lotus Eletre_trasera": {
     "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129663040"
+  },
+  "Toyota Urban Cruiser_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177584108"
+  },
+  "Toyota Urban Cruiser_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177584090"
   },
   "Toyota Belta (2005)_delantera": {
     "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1715733"
@@ -26914,6 +27205,18 @@
   },
   "Ferrari 500 Superfast_trasera": {
     "fuente": "By AlfvanBeem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=15791148"
+  },
+  "Chevrolet Celta (2000)_delantera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7019186"
+  },
+  "Chevrolet Celta (2000)_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7019190"
+  },
+  "Chevrolet Celta (2006)_delantera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=145282367"
+  },
+  "Chevrolet Celta (2006)_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7019200"
   },
   "Chevrolet Corvette C1 (1954)_delantera": {
     "fuente": "By Morio - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=57657876"

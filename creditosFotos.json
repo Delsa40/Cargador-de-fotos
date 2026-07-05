@@ -4085,6 +4085,12 @@
   "Prince Skyline 1500 Van Deluxe_trasera": {
     "fuente": "Por Ypy31 - Trabajo propio, CC0, https://commons.wikimedia.org/w/index.php?curid=27631190"
   },
+  "Nissan Kait - Kicks e-Power_delantera": {
+    "fuente": "Por Andra Febrian - Trabajo propio, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=187228756"
+  },
+  "Nissan Kait - Kicks e-Power_trasera": {
+    "fuente": "Por Andra Febrian - Trabajo propio, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=187228757"
+  },
   "Nissan Moco (1° Gen.)_delantera": {
     "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7874114"
   },
@@ -16433,65 +16439,236 @@
   "Lincoln Continental Mark V_trasera": {
     "fuente": "By Greg Gjerdingen from Willmar, USA - 1960 Continental Mark V, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69242292"
   },
-  "Lincoln Continental el Mark VI viene después_delantera": {
-    "fuente": ""
+  "Lincoln Continental (1961)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1961 Lincoln Continental Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69269790"
   },
-  "Lincoln Continental el Mark VI viene después_trasera": {
-    "fuente": ""
+  "Lincoln Continental (1961)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1961 Lincoln Continental Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69270583"
   },
-  "Lincoln Cosmopolitan_delantera": {
-    "fuente": ""
+  "Lincoln Continental (1964)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1964 Lincoln Continental Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69269084"
   },
-  "Lincoln Cosmopolitan_trasera": {
-    "fuente": ""
+  "Lincoln Continental (1964)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1964 Lincoln Continental, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=50977826"
   },
-  "Lincoln Capri_delantera": {
-    "fuente": ""
+  "Lincoln Continental (1965)_delantera": {
+    "fuente": "By Sicnag - 1965 Lincoln Continental Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64094071"
   },
-  "Lincoln Capri_trasera": {
-    "fuente": ""
+  "Lincoln Continental (1965)_trasera": {
+    "fuente": "By Norbert Schnitzler - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2262823"
   },
-  "Lincoln Premiere_delantera": {
-    "fuente": ""
+  "Lincoln Continental (1966)_delantera": {
+    "fuente": "By AlfvanBeem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=16615866"
   },
-  "Lincoln Premiere_trasera": {
-    "fuente": ""
+  "Lincoln Continental (1966)_trasera": {
+    "fuente": "By Peter Tritthart - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=15567817"
   },
-  "Lincoln Town Car (1° Gen.)_delantera": {
-    "fuente": ""
+  "Lincoln Continental (1968)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1968 Lincoln Continental, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69266561"
   },
-  "Lincoln Town Car (1° Gen.)_trasera": {
-    "fuente": ""
+  "Lincoln Continental (1968)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1968 Lincoln Continental, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=46871751"
+  },
+  "Lincoln Continental (1970)_delantera": {
+    "fuente": "By 1970 Lincoln Continental - https://www.flickr.com/photos/39311243@N05/16685825813/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=121092372"
+  },
+  "Lincoln Continental (1970)_trasera": {
+    "fuente": "By Brougham Geezer - https://www.flickr.com/photos/39311243@N05/23665317062/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=142733626"
+  },
+  "Lincoln Continental (1974)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1974 Lincoln Continental, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69251437"
+  },
+  "Lincoln Continental (1974)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1974 Lincoln Continental, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69249650"
+  },
+  "Lincoln Continental (1975)_delantera": {
+    "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=35498671"
+  },
+  "Lincoln Continental (1975)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 75 Lincoln Continental Town Coupe, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69266511"
+  },
+  "Lincoln Continental (1980)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=83903254"
+  },
+  "Lincoln Continental (1980)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=83903263"
+  },
+  "Lincoln Continental (1984)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11375678"
+  },
+  "Lincoln Continental (1984)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1986-7 Lincoln Continental Givenchy Series, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69270253"
+  },
+  "Lincoln Mark VII (1989)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129963633"
+  },
+  "Lincoln Mark VII (1989)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129963635"
+  },
+  "Lincoln Continental (1990)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1996715"
+  },
+  "Lincoln Continental (1990)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 94 Lincoln Continental, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69266085"
+  },
+  "Lincoln Continental (1995)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17491349"
+  },
+  "Lincoln Continental (1995)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77088420"
+  },
+  "Lincoln Continental (1998)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136501979"
+  },
+  "Lincoln Continental (1998)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=192743607"
+  },
+  "Lincoln Continental (2017)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83909188"
+  },
+  "Lincoln Continental (2017)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83909190"
+  },
+  "Lincoln Cosmopolitan (1949)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 49 Lincoln Cosmopolitan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69250120"
+  },
+  "Lincoln Cosmopolitan (1949)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 49 Lincoln Cosmopolitan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69246304"
+  },
+  "Lincoln Cosmopolitan (1952)_delantera": {
+    "fuente": "By Trio3D - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106135890"
+  },
+  "Lincoln Capri (1954)_delantera": {
+    "fuente": "By JOHN LLOYD from Concrete, Washington, United States - 1954 Lincoln, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=66347678"
+  },
+  "Lincoln Capri (1954)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112467225"
+  },
+  "Lincoln Capri (1955)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1955 Lincoln Capri, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69252657"
+  },
+  "Lincoln Capri (1955)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1955 Lincoln Capri, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69267766"
+  },
+  "Lincoln Capri (1956)_delantera": {
+    "fuente": "By Sicnag - 1956 Lincoln Capri 2 door Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64093715"
+  },
+  "Lincoln Capri (1956)_trasera": {
+    "fuente": "By Rex Gray - 1956 Lincoln Capri Coupe - rvl, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12263221"
+  },
+  "Lincoln Capri (1957)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1957 Lincoln Capri, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38601015"
+  },
+  "Lincoln Capri (1957)_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1957 Lincoln Capri, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38601506"
+  },
+  "Lincoln Premiere (1956)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1956 Lincoln Premiere Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69269448"
+  },
+  "Lincoln Premiere (1956)_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1956 Lincoln Premiere Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34579578"
+  },
+  "Lincoln Premiere (1957)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1957 Lincoln Premiere Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69251329"
+  },
+  "Lincoln Premiere (1957)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1957 Lincoln Premiere Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69256950"
+  },
+  "Lincoln Premiere (1960)_delantera": {
+    "fuente": "By Sicnag - 1960 Lincoln Premiere 2 door Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64094064"
+  },
+  "Lincoln Premiere (1960)_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1960 Lincoln Premiere Coupe, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34579286"
+  },
+  "Lincoln Town Car (1984)_delantera": {
+    "fuente": "By That Hartford Guy - Flickr: 1984 Lincoln Towncar, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=22538490"
+  },
+  "Lincoln Town Car (1984)_trasera": {
+    "fuente": "By That Hartford Guy - Flickr: 1984 Lincoln Towncar, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=22538524"
+  },
+  "Lincoln Town Car (1986)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80147171"
+  },
+  "Lincoln Town Car (1986)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80188686"
+  },
+  "Lincoln Town Car (1987)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133405451"
+  },
+  "Lincoln Town Car (1987)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133405452"
+  },
+  "Lincoln Town Car (1988)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=89277836"
+  },
+  "Lincoln Town Car (1988)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=89278043"
+  },
+  "Lincoln Town Car (1990)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=102209923"
+  },
+  "Lincoln Town Car (1990)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=176696906"
+  },
+  "Lincoln Town Car (1995)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2334753"
+  },
+  "Lincoln Town Car (1995)_trasera": {
+    "fuente": "By Lincoln Owner - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=181745595"
+  },
+  "Lincoln Town Car (1998)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4542880"
+  },
+  "Lincoln Town Car (1998)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=158177772"
+  },
+  "Lincoln Town Car (2003)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9207190"
+  },
+  "Lincoln Town Car (2003)_trasera": {
+    "fuente": "By Spanish Coches - 2008 Lincoln Town Car, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38117249"
   },
   "Lincoln Versailles_delantera": {
-    "fuente": ""
+    "fuente": "By 55allegro - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20151846"
   },
   "Lincoln Versailles_trasera": {
-    "fuente": ""
+    "fuente": "By CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44026456"
   },
-  "Lincoln Continental Mark Series_delantera": {
-    "fuente": ""
+  "Lincoln Mark VIII (1995)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116947663"
   },
-  "Lincoln Continental Mark Series_trasera": {
-    "fuente": ""
+  "Lincoln Mark VIII (1995)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 96 Lincoln Mark VIII, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69245576"
+  },
+  "Lincoln Mark VIII (1997)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2647789"
+  },
+  "Lincoln Mark VIII (1997)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=42663486"
   },
   "Lincoln LS_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4354669"
   },
   "Lincoln LS_trasera": {
-    "fuente": ""
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106332316"
   },
   "Lincoln Blackwood_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3296879"
   },
   "Lincoln Blackwood_trasera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=105760014"
   },
   "Lincoln Aviator (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2660293"
   },
   "Lincoln Aviator (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3858112"
+  },
+  "Lincoln Aviator (2° Gen.)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=95622226"
+  },
+  "Lincoln Aviator (2° Gen.)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=157778632"
   },
   "Lincoln Navigator (1° Gen.)_delantera": {
     "fuente": ""

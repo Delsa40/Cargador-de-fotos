@@ -1427,12 +1427,6 @@
   "Porsche 911 GT1 Evolution (1997)_delantera": {
     "fuente": "By questa_ta - Musée de l'automobile - Mulhouse - Porsche - BH5A5976, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38785735"
   },
-  "Porsche 911 GT1 Evolution Straßenversion (1997)_delantera": {
-    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73329319"
-  },
-  "Porsche 911 GT1 Evolution Straßenversion (1997)_trasera": {
-    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73323288"
-  },
   "Porsche RS Spyder_delantera": {
     "fuente": "By Sergey Galyonkin from Kyiv, Ukraine - Porsche RS SpyderUploaded by High Contrast, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=29074840"
   },
@@ -24750,10 +24744,34 @@
     "fuente": "By عالم السيارات, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=135875338"
   },
   "Toyota GT-One_delantera": {
-    "fuente": "By LSDSL, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=2806527"
+    "fuente": "By kitmasterbloke - https://www.flickr.com/photos/kitmasterbloke/4699832767/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=106502759"
   },
   "Toyota GT-One_trasera": {
-    "fuente": "By LSDSL, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=2806531"
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51080005"
+  },
+  "Toyota TS030 Hybrid_delantera": {
+    "fuente": "By Ad Meskens - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32452514"
+  },
+  "Toyota TS030 Hybrid_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24678540"
+  },
+  "Toyota TS040 Hybrid_delantera": {
+    "fuente": "By Falcon® Photography from France - Toyota TS040 Hybrid, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=61455861"
+  },
+  "Toyota TS040 Hybrid_trasera": {
+    "fuente": "By Falcon® Photography from France - Toyota TS040 Hybrid, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=61455860"
+  },
+  "Toyota TS050 Hybrid_delantera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA, https://commons.wikimedia.org/w/index.php?curid=145850826"
+  },
+  "Toyota GR010 Hybrid_delantera": {
+    "fuente": "By MarcelX42 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132113081"
+  },
+  "Toyota GR010 Hybrid_trasera": {
+    "fuente": "By MarcelX42 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132184159"
+  },
+  "Toyota TR010 Hybrid_delantera": {
+    "fuente": "By MarcelX42 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=192199006"
   },
   "Toyota RAV4 (1° Gen.)_delantera": {
     "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=961231"
@@ -25114,6 +25132,48 @@
   },
   "Toyota FJ Cruiser_trasera": {
     "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165654096"
+  },
+  "Toyota 7_delantera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4681806"
+  },
+  "Toyota 7_trasera": {
+    "fuente": "By Morio - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8998258"
+  },
+  "Toyota-Dome 85C_delantera": {
+    "fuente": "By Morio - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6285476"
+  },
+  "Toyota 88C_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=189235184"
+  },
+  "Toyota 89C-V_delantera": {
+    "fuente": "By Mclarensenna - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=51317866"
+  },
+  "Toyota 90C-V_delantera": {
+    "fuente": "By Morio - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11668442"
+  },
+  "Toyota 91C-V_delantera": {
+    "fuente": "By Morio - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=22090879"
+  },
+  "Toyota 92C-V_delantera": {
+    "fuente": "By ERIC SALARD from Paris, FRANCE - TOYOTA 92C-V RETROMOBILE 2023, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=128715186"
+  },
+  "Toyota Eagle MkIII_delantera": {
+    "fuente": "By Motohide Miwa from USA - IMSA GTP EAGLE #99, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17572272"
+  },
+  "Toyota Eagle HF89_delantera": {
+    "fuente": "By TaurusEmerald - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155084755"
+  },
+  "Toyota TS010_delantera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4807968"
+  },
+  "Toyota TS010_trasera": {
+    "fuente": "By Mytho88 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4807972"
+  },
+  "Toyota 94C-V_delantera": {
+    "fuente": "By Morio - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59893331"
+  },
+  "Toyota 94C-V_trasera": {
+    "fuente": "By Morio - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59893335"
   },
   "Renault 5_delantera": {
     "fuente": "Por Y.Leclercq© - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116140419"
@@ -27542,6 +27602,48 @@
   "Renault 18_trasera": {
     "fuente": "By Kroelleboelle - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4941565"
   },
+  "Lamborghini SC63_delantera": {
+    "fuente": "Por MarcelX42 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148745907"
+  },
+  "Lamborghini SC63_trasera": {
+    "fuente": "Por Henryk Jachimski - Henryk Jachimski, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134789443"
+  },
+  "Lamborghini Essenza SCV12_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=192457226"
+  },
+  "Lamborghini Essenza SCV12_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=104327633"
+  },
+  "Lamborghini Fenomeno_delantera": {
+    "fuente": "Por MrWalkr - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=183105387"
+  },
+  "Lamborghini Fenomeno_trasera": {
+    "fuente": "By Charles from Port Chester, New York - Lamborghini Fenomeno (2026), CC0, https://commons.wikimedia.org/w/index.php?curid=189141645"
+  },
+  "Lamborghini Flying Star II Concept_delantera": {
+    "fuente": "By alfone45 - movit, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2641041"
+  },
+  "Lamborghini Flying Star II Concept_trasera": {
+    "fuente": "By alfone45 - movit, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2640994"
+  },
+  "Lamborghini 350 GTV Concept_delantera": {
+    "fuente": "By Craig Howell from San Carlos, CA, USA;(cropped and adjusted by uploader Mr.choppers) - Lamborghini 350 GTV, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17959174"
+  },
+  "Lamborghini 350 GTV Concept_trasera": {
+    "fuente": "By Craig Howell from San Carlos, CA, USA;cropped and adjusted by uploader Mr.choppers - Lamborghini 350 GTV, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17959273"
+  },
+  "Lamborghini Athon Concept_delantera": {
+    "fuente": "By Buch-t - Own work, GFDL, https://commons.wikimedia.org/w/index.php?curid=15995801"
+  },
+  "Lamborghini Bravo Concept_delantera": {
+    "fuente": "By Buch-t - Own work, GFDL, https://commons.wikimedia.org/w/index.php?curid=15995809"
+  },
+  "Lamborghini Calà Concept_delantera": {
+    "fuente": "Por Odysseus 86 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11598860"
+  },
+  "Lamborghini Calà Concept_trasera": {
+    "fuente": "Por Odysseus 86 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11598893"
+  },
   "Lamborghini Reventón_delantera": {
     "fuente": "Por Taco Ekkel from Amsterdam - Lamborghini Reventon, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=2783697"
   },
@@ -27559,6 +27661,18 @@
   },
   "Lamborghini Veneno_trasera": {
     "fuente": "Por Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24996779"
+  },
+  "Lamborghini Urus_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84296271"
+  },
+  "Lamborghini Urus_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84296270"
+  },
+  "Lamborghini Urus SE_delantera": {
+    "fuente": "By Harvey Bold - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=159759428"
+  },
+  "Lamborghini Urus SE_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=147787756"
   },
   "Lamborghini Murciélago_delantera": {
     "fuente": "Por Lamborghini_LP640_Murcielago.jpg: Ian Hughesderivative work: AniRaptor2001 (talk) - Lamborghini_LP640_Murcielago.jpg, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=10527278"
@@ -27616,6 +27730,18 @@
   },
   "Lamborghini Jarama_trasera": {
     "fuente": "Por Robotriot - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21564802"
+  },
+  "Lamborghini LM002_delantera": {
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18801268"
+  },
+  "Lamborghini LM002_trasera": {
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18801267"
+  },
+  "Lamborghini Marzal Concept_delantera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67258512"
+  },
+  "Lamborghini Pregunta Concept_delantera": {
+    "fuente": "Por Zonda - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4070234"
   },
   "Lamborghini Islero_delantera": {
     "fuente": "Di Rex Gray - originally posted to Flickr as 1969 Lamborghini Islero S - fvr, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=10477073"
@@ -27784,6 +27910,12 @@
   },
   "Lamborghini Countach LPI 800-4_trasera": {
     "fuente": "Авторство: Mingyu Tang. Собственная работа, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120247453"
+  },
+  "Lamborghini Terzo Millennio Concept_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82092067"
+  },
+  "Lamborghini Terzo Millennio Concept_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72472048"
   },
   "Lamborghini Revuelto_delantera": {
     "fuente": "Por 江草慧至 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131514998"

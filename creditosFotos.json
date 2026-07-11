@@ -9464,6 +9464,12 @@
   "Ram Rampage_trasera": {
     "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147603565"
   },
+  "Dodge Rampage_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=83761824"
+  },
+  "Dodge Rampage_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83467794"
+  },
   "Dodge Durango (1° Gen.)_delantera": {
     "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2132903"
   },
@@ -17714,185 +17720,386 @@
   "Plymouth Caravelle (1978)_delantera": {
     "fuente": "By 55allegro - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20124022"
   },
-  "Plymouth Valiant (1° Gen.)_delantera": {
-    "fuente": ""
+  "Plymouth Valiant (1960)_delantera": {
+    "fuente": "By Emdx - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27657776"
   },
-  "Plymouth Valiant (1° Gen.)_trasera": {
-    "fuente": ""
+  "Plymouth Valiant (1960)_trasera": {
+    "fuente": "By Janee - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19531209"
   },
-  "Plymouth Barracuda (1° Gen.)_delantera": {
-    "fuente": ""
+  "Plymouth Valiant Suburban (1960)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79509469"
   },
-  "Plymouth Barracuda (1° Gen.)_trasera": {
-    "fuente": ""
+  "Plymouth Valiant Suburban (1960)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=145514706"
   },
-  "Plymouth GTX_delantera": {
-    "fuente": ""
+  "Plymouth Valiant (1962)_delantera": {
+    "fuente": "By JOHN LLOYD from Concrete, Washington, United States - 1962 Valiant Signet, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=66340998"
   },
-  "Plymouth GTX_trasera": {
-    "fuente": ""
+  "Plymouth Valiant (1962)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 62 Plymouth Valiant, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69266866"
   },
-  "Plymouth Road Runner_delantera": {
-    "fuente": ""
+  "Plymouth Valiant (1963)_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=114051959"
   },
-  "Plymouth Road Runner_trasera": {
-    "fuente": ""
+  "Plymouth Valiant (1963)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=114051958"
   },
-  "Plymouth Duster_delantera": {
-    "fuente": ""
+  "Plymouth Valiant (1964)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=104653200"
   },
-  "Plymouth Duster_trasera": {
-    "fuente": ""
+  "Plymouth Valiant (1964)_trasera": {
+    "fuente": "By OlliFoolish - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31667434"
+  },
+  "Plymouth Valiant (1966)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 66 Plymouth Valiant Signet, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69277081"
+  },
+  "Plymouth Valiant (1966)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 66 Plymouth Valiant Signet, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69257762"
+  },
+  "Plymouth Valiant Wagon (1966)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1966 Plymouth Valiant 200, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69271666"
+  },
+  "Plymouth Valiant Wagon (1966)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 66 Plymouth Valiant 100, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69268021"
+  },
+  "Plymouth Valiant (1968)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1968 Plymouth Valiant 200, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69271270"
+  },
+  "Plymouth Valiant (1968)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 68 Plymouth Valiant 100, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69246686"
+  },
+  "Plymouth Valiant (1969)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1578327"
+  },
+  "Plymouth Valiant (1969)_trasera": {
+    "fuente": "By Tx-re - 投稿者自身の作品, CC0, https://commons.wikimedia.org/w/index.php?curid=13870957"
+  },
+  "Plymouth Valiant (1970)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3489891"
+  },
+  "Plymouth Valiant Scamp (1971)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1971 Plymouth Valiant Scamp, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69253192"
+  },
+  "Plymouth Valiant Scamp (1973)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1973 Plymouth Valiant Scamp, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69271690"
+  },
+  "Plymouth Valiant (1974)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1974 Plymouth Valiant, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=69253328"
+  },
+  "Plymouth Valiant (1974)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1974 Plymouth Valiant, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=69279037"
+  },
+  "Plymouth Valiant (1975)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119539739"
+  },
+  "Plymouth Valiant (1975)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119539740"
+  },
+  "Plymouth Barracuda (1964)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134577298"
+  },
+  "Plymouth Barracuda (1964)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134577312"
+  },
+  "Plymouth Barracuda (1966)_delantera": {
+    "fuente": "By Sicnag - 1966 Plymouth Barracuda, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17235006"
+  },
+  "Plymouth Barracuda (1966)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 66 Plymouth Barracuda Formula S, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69276854"
+  },
+  "Plymouth Barracuda (1967)_delantera": {
+    "fuente": "By Sicnag - 1967 Plymouth Barracuda Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=81848642"
+  },
+  "Plymouth Barracuda (1967)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - 1967 Plymouth Barracuda Formula S Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38584656"
+  },
+  "Plymouth Barracuda (1968)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116441644"
+  },
+  "Plymouth Barracuda (1968)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 68 Plymouth Barracuda, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69247962"
+  },
+  "Plymouth Barracuda - Cuda (1970)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1970 Plymouth Hemi 'Cuda, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=55263827"
+  },
+  "Plymouth Barracuda - Cuda (1970)_trasera": {
+    "fuente": "By Valder137 - Plymouth_Barracuda_1970_Hemi_LSideRear_Lake_Mirror_Cassic_16Oct2010, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=35676035"
+  },
+  "Plymouth Barracuda - Cuda (1971)_delantera": {
+    "fuente": "By BUTTON74 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=145435274"
+  },
+  "Plymouth Barracuda - Cuda (1971)_trasera": {
+    "fuente": "By Captainpisslord - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=133236880"
+  },
+  "Plymouth Barracuda - Cuda (1972)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=145527910"
+  },
+  "Plymouth Barracuda - Cuda (1972)_trasera": {
+    "fuente": "By order_242 from Chile - Plymouth Barracuda 440-6 1972, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=36602475"
+  },
+  "Plymouth GTX (1968)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 68 Plymouth GTX, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69250958"
+  },
+  "Plymouth GTX (1968)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 68 Plymouth GTX, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40124260"
+  },
+  "Plymouth GTX (1969)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134683633"
+  },
+  "Plymouth GTX (1969)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134683634"
+  },
+  "Plymouth GTX (1970)_delantera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/48702175943/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=91211219"
+  },
+  "Plymouth GTX (1970)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 70 Plymouth GTX, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40124305"
+  },
+  "Plymouth GTX (1971)_delantera": {
+    "fuente": "By BUTTON74 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=145490033"
+  },
+  "Plymouth GTX (1971)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=116802686"
+  },
+  "Plymouth Road Runner (1968)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1968 Plymouth Roadrunner, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=147092063"
+  },
+  "Plymouth Road Runner (1968)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1968 Plymouth Roadrunner, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69269513"
+  },
+  "Plymouth Road Runner (1969)_delantera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=150558837"
+  },
+  "Plymouth Road Runner (1969)_trasera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=150558851"
+  },
+  "Plymouth Road Runner (1970)_delantera": {
+    "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=29161072"
+  },
+  "Plymouth Road Runner (1970)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 70 Plymouth Road Runner, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69278742"
+  },
+  "Plymouth Road Runner (1971)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1971 Plymouth Road Runner, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69271999"
+  },
+  "Plymouth Road Runner (1971)_trasera": {
+    "fuente": "By nakhon100 - Plymouth Roadrunner 440, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37754574"
+  },
+  "Plymouth Road Runner (1973)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1973 Plymouth Roadrunner, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69252822"
+  },
+  "Plymouth Road Runner (1973)_trasera": {
+    "fuente": "By Captainpisslord - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=133256770"
+  },
+  "Plymouth Road Runner (1975)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1975 Plymouth Road Runner, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38601480"
+  },
+  "Plymouth Road Runner (1975)_trasera": {
+    "fuente": "By DanTD - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69975030"
+  },
+  "Plymouth Duster (1970)_delantera": {
+    "fuente": "Por Greg Gjerdingen from Willmar, USA - 1970 Plymouth Valiant Duster 340, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=54998159"
+  },
+  "Plymouth Duster (1970)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1970 Plymouth Valiant Duster 340, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=54997882"
+  },
+  "Plymouth Duster (1973)_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4405254"
+  },
+  "Plymouth Duster (1973)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 73 Plymouth Valiant Duster, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=55037988"
   },
   "Plymouth Scamp_delantera": {
-    "fuente": ""
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1983 Plymouth Scamp, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69270318"
   },
-  "Plymouth Scamp_trasera": {
-    "fuente": ""
+  "Plymouth Volaré Wagon (1977)_delantera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=161579695"
   },
-  "Plymouth Cricket_delantera": {
-    "fuente": ""
+  "Plymouth Volaré (1978)_delantera": {
+    "fuente": "By Orangechallenger - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=146229620"
   },
-  "Plymouth Cricket_trasera": {
-    "fuente": ""
+  "Plymouth Volaré (1980)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1980 Plymouth Volare Roadrunner, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69264322"
   },
-  "Plymouth Volaré_delantera": {
-    "fuente": ""
+  "Plymouth Volaré Wagon (1980)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1980 Plymouth Volare, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69276457"
   },
-  "Plymouth Volaré_trasera": {
-    "fuente": ""
-  },
-  "Plymouth Arrow_delantera": {
-    "fuente": ""
-  },
-  "Plymouth Arrow_trasera": {
-    "fuente": ""
-  },
-  "Plymouth Trailduster_delantera": {
-    "fuente": ""
-  },
-  "Plymouth Trailduster_trasera": {
-    "fuente": ""
+  "Plymouth Volaré Wagon (1980)_trasera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=24076886"
   },
   "Plymouth Horizon_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1814876"
   },
   "Plymouth Horizon_trasera": {
-    "fuente": ""
-  },
-  "Plymouth TC3_delantera": {
-    "fuente": ""
-  },
-  "Plymouth TC3_trasera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1814882"
   },
   "Plymouth Reliant_delantera": {
-    "fuente": ""
+    "fuente": "By Distancerunner15 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20665783"
   },
   "Plymouth Reliant_trasera": {
-    "fuente": ""
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 88 Plymouth Reliant Executive Classic, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69248157"
+  },
+  "Plymouth Reliant Wagon_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134471779"
+  },
+  "Plymouth Reliant Wagon_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134471778"
   },
   "Plymouth Turismo_delantera": {
-    "fuente": ""
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=26433180"
   },
-  "Plymouth Turismo_trasera": {
-    "fuente": ""
+  "Plymouth Horizon TC3_delantera": {
+    "fuente": "By Hkw2121 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8949542"
   },
-  "Plymouth Voyager (1° Gen.)_delantera": {
-    "fuente": ""
+  "Plymouth Voyager (1978)_delantera": {
+    "fuente": "By Captainpisslord - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=133236865"
   },
-  "Plymouth Voyager (1° Gen.)_trasera": {
-    "fuente": ""
+  "Plymouth Voyager (1978)_trasera": {
+    "fuente": "By Captainpisslord - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=133236857"
   },
-  "Plymouth Colt (1° Gen.)_delantera": {
-    "fuente": ""
+  "Plymouth Voyager (1985)_delantera": {
+    "fuente": "By Bull-Doser at English Wikipedia - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=21940313"
   },
-  "Plymouth Colt (1° Gen.)_trasera": {
-    "fuente": ""
+  "Plymouth Voyager (1985)_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156010398"
   },
-  "Plymouth Laser_delantera": {
-    "fuente": ""
+  "Plymouth Voyager (1987)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2574022"
   },
-  "Plymouth Laser_trasera": {
-    "fuente": ""
+  "Plymouth Voyager (1991)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2366095"
+  },
+  "Plymouth Voyager (1991)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=119411672"
+  },
+  "Plymouth Voyager (1996)_delantera": {
+    "fuente": "By TheMercMan - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20204535"
+  },
+  "Plymouth Voyager (1996)_trasera": {
+    "fuente": "By TheMercMan - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20204536"
+  },
+  "Plymouth Champ - Colt (1979)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada;cropped, rust and heater cord removed by uploader Mr.choppers - Plymouth Champ, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=15100142"
+  },
+  "Plymouth Champ - Colt (1979)_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - Plymouth Champ, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=15066854"
+  },
+  "Plymouth Colt (1978)_delantera": {
+    "fuente": "By dave_7 - originally posted to Flickr as 1978 Plymouth Colt, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=4542380"
+  },
+  "Plymouth Colt Sedan (1987)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=180531590"
+  },
+  "Plymouth Colt Sedan (1987)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=180531251"
+  },
+  "Plymouth Colt (1989)_delantera": {
+    "fuente": "By Ryanandlenny - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14876123"
+  },
+  "Plymouth Colt (1989)_trasera": {
+    "fuente": "By Ryanandlenny - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14876170"
+  },
+  "Plymouth Colt (1993)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7248503"
+  },
+  "Plymouth Colt (1993)_trasera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - Plymouth Colt, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38601295"
+  },
+  "Plymouth Colt Vista_delantera": {
+    "fuente": "By order_242 from Chile - Plymouth Colt Vista 2.0 1988, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=35994754"
+  },
+  "Plymouth Colt Vista_trasera": {
+    "fuente": "By order_242 from Chile - Plymouth Colt Vista 2.0 1988, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34576804"
+  },
+  "Plymouth Colt Wagon_delantera": {
+    "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=17590116"
+  },
+  "Plymouth Colt Wagon_trasera": {
+    "fuente": "By Michael Gil from Calgary, AB, Canada - Plymouth Colt Vista, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37165676"
+  },
+  "Plymouth Laser (1990)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2574026"
+  },
+  "Plymouth Laser (1992)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=110297932"
   },
   "Plymouth Acclaim_delantera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=138069855"
   },
   "Plymouth Acclaim_trasera": {
-    "fuente": ""
+    "fuente": "By Ryanandlenny - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10432635"
   },
   "Plymouth Sundance_delantera": {
-    "fuente": ""
+    "fuente": "By 55allegro - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20151849"
   },
   "Plymouth Sundance_trasera": {
-    "fuente": ""
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18921049"
   },
   "Plymouth Neon (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Karrmann - Own work (Original text: self made photo), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1846327"
   },
   "Plymouth Neon (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108277595"
   },
-  "Plymouth Prowler_delantera": {
-    "fuente": ""
+  "Plymouth Neon (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10480846"
   },
-  "Plymouth Prowler_trasera": {
-    "fuente": ""
+  "Plymouth Neon (2° Gen.)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 00 Plymouth Neon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69247148"
   },
   "Plymouth Breeze_delantera": {
-    "fuente": ""
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=4269695"
   },
   "Plymouth Breeze_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132489219"
   },
-  "Plymouth Expresso_delantera": {
-    "fuente": ""
+  "Plymouth Belmont Concept_delantera": {
+    "fuente": "By JOHN LLOYD from Concrete, Washington, United States - Plymouth Belmont, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=150712810"
   },
-  "Plymouth Expresso_trasera": {
-    "fuente": ""
+  "Plymouth Belmont Concept_trasera": {
+    "fuente": "By _salguod - https://www.flickr.com/photos/d_schaefer/25194756207/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=150712764"
   },
-  "Plymouth Gran Fury_delantera": {
-    "fuente": ""
+  "Plymouth Explorer Concept by Ghia_delantera": {
+    "fuente": "By Rex Gray from Southern California - 1952 Plymouth Explorer Ghia Sport Coupe fvr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=23380617"
   },
-  "Plymouth Gran Fury_trasera": {
-    "fuente": ""
+  "Plymouth Explorer Concept by Ghia_trasera": {
+    "fuente": "By Rex Gray from Southern California - 1952 Plymouth Explorer Ghia Sport Coupe rvl, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=23380624"
   },
-  "Plymouth Fury Salon_delantera": {
-    "fuente": ""
+  "Plymouth Pronto Spyder Concept_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1998 Plymouth Pronto Spyder Concept, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=55264035"
   },
-  "Plymouth Fury Salon_trasera": {
-    "fuente": ""
+  "Plymouth Slingshot Concept_delantera": {
+    "fuente": "By Wolowski - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8933257"
   },
-  "Plymouth PB-Series_delantera": {
-    "fuente": ""
+  "Plymouth XNR Concept_delantera": {
+    "fuente": "By zombieite - Petersen Museum, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=132117618"
   },
-  "Plymouth PB-Series_trasera": {
-    "fuente": ""
+  "Plymouth XNR Concept_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=37283365"
   },
-  "Plymouth PT50_delantera": {
-    "fuente": ""
+  "Plymouth Deluxe Suburban (1950)_delantera": {
+    "fuente": "By Michael Barera, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=20850599"
   },
-  "Plymouth PT50_trasera": {
-    "fuente": ""
+  "Plymouth Suburban (1958)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - 1958 Plymouth Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34585855"
   },
-  "Plymouth Suburban_delantera": {
-    "fuente": ""
+  "Plymouth Suburban (1960)_delantera": {
+    "fuente": "By Valder137 - Plymouth_Fury_1961_Station_Wagon_LSideFront_TBS_09Feb2014, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=180780995"
   },
-  "Plymouth Suburban_trasera": {
-    "fuente": ""
+  "Plymouth Suburban (1960)_trasera": {
+    "fuente": "By Valder137 - Plymouth_Fury_1961_Station_Wagon_LSideRear_TBS_09Feb2014, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=35683989"
+  },
+  "Plymouth Suburban (1961)_delantera": {
+    "fuente": "By JOHN LLOYD from Concrete, Washington, United States - 1961 Plymouth at Hershey 2009, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=180780926"
+  },
+  "Plymouth Suburban (1961)_trasera": {
+    "fuente": "By JOHN LLOYD from Concrete, Washington, United States - 1961 Plymouth, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=66341857"
   },
   "Plymouth Superbird_delantera": {
-    "fuente": ""
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152510392"
   },
   "Plymouth Superbird_trasera": {
-    "fuente": ""
-  },
-  "Plymouth AAR 'Cuda_delantera": {
-    "fuente": ""
-  },
-  "Plymouth AAR 'Cuda_trasera": {
-    "fuente": ""
+    "fuente": "By Accord14 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74920641"
   },
   "Rolls-Royce 10 hp_delantera": {
     "fuente": ""

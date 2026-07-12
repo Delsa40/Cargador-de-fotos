@@ -18335,107 +18335,257 @@
   "Rolls-Royce Boat Tail_trasera": {
     "fuente": "By pelican-actor - https://www.flickr.com/photos/192005255@N04/52086845288/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=118189756"
   },
-  "Oldsmobile Curved Dash_delantera": {
-    "fuente": ""
+  "Oldsmobile Curved Dash - Model R_delantera": {
+    "fuente": "By Jackdude101 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=160122492"
   },
-  "Oldsmobile Curved Dash_trasera": {
-    "fuente": ""
+  "Oldsmobile Series 60 (1939)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=83123888"
   },
-  "Oldsmobile Series 40_delantera": {
-    "fuente": ""
+  "Oldsmobile Series 60 (1940)_delantera": {
+    "fuente": "By Sicnag - 1940 Oldsmobile Series 60 Sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17223261"
   },
-  "Oldsmobile Series 40_trasera": {
-    "fuente": ""
+  "Oldsmobile Series 60 Wagon (1940)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1940 Oldsmobile Series 60 Woodie, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69252148"
   },
-  "Oldsmobile Series 60_delantera": {
-    "fuente": ""
+  "Oldsmobile Series 60 (1948)_delantera": {
+    "fuente": "By Alf van Beem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=35038003"
   },
-  "Oldsmobile Series 60_trasera": {
-    "fuente": ""
+  "Oldsmobile Series 60 Wagon (1948)_delantera": {
+    "fuente": "By Rex Gray from Southern California - 1948 Oldsmobile 66 Series Woodie - green - fvr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=23378564"
   },
-  "Oldsmobile Series 70_delantera": {
-    "fuente": ""
+  "Oldsmobile Series 70 (1940)_delantera": {
+    "fuente": "By Sicnag - 1940 Oldsmobile Dynamic Series 70 Sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40646075"
   },
-  "Oldsmobile Series 70_trasera": {
-    "fuente": ""
+  "Oldsmobile Series 70 (1941)_delantera": {
+    "fuente": "By GPS 56 from New Zealand - 1941 Oldsmobile, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=57227745"
   },
-  "Oldsmobile Series 90_delantera": {
-    "fuente": ""
+  "Oldsmobile Series 70 (1941)_trasera": {
+    "fuente": "By GPS 56 from New Zealand - 1941 Oldsmobile, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=57227755"
   },
-  "Oldsmobile Series 90_trasera": {
-    "fuente": ""
+  "Oldsmobile 88 - Series 70 (1949)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1949 Oldsmobile 76, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69251937"
   },
-  "Oldsmobile F-28_delantera": {
-    "fuente": ""
+  "Oldsmobile 88 Wagon (1950)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - DSC00072, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=70451855"
   },
-  "Oldsmobile F-28_trasera": {
-    "fuente": ""
+  "Oldsmobile 88 (1952)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - DSC00058, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=70450316"
   },
-  "Oldsmobile Dynamic Cruiser_delantera": {
-    "fuente": ""
+  "Oldsmobile 88 (1952)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - DSC00059, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=70450381"
   },
-  "Oldsmobile Dynamic Cruiser_trasera": {
-    "fuente": ""
+  "Oldsmobile F-Series (1931)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1931 Oldsmobile, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=67266413"
   },
-  "Oldsmobile Dynamic 66_delantera": {
-    "fuente": ""
+  "Oldsmobile F-Series (1931)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1931 Oldsmobile, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=67266444"
   },
-  "Oldsmobile Dynamic 66_trasera": {
-    "fuente": ""
+  "Oldsmobile F-Series (1935)_delantera": {
+    "fuente": "By Zairon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85350624"
   },
-  "Oldsmobile Dynamic 76_delantera": {
-    "fuente": ""
+  "Oldsmobile F-Series (1937)_delantera": {
+    "fuente": "By 先従隗始 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=116760832"
   },
-  "Oldsmobile Dynamic 76_trasera": {
-    "fuente": ""
+  "Oldsmobile 98 (1941)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1941 Oldsmobile Ninety-Eight, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69251782"
   },
-  "Oldsmobile Dynamic 88_delantera": {
-    "fuente": ""
+  "Oldsmobile 98 (1942)_delantera": {
+    "fuente": "By JOHN LLOYD - https://www.flickr.com/photos/hugo90/36411343825/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=91403364"
   },
-  "Oldsmobile Dynamic 88_trasera": {
-    "fuente": ""
+  "Oldsmobile 98 (1942)_trasera": {
+    "fuente": "By Joe Ross from Lansing, Michigan - 1942 Oldsmobile R E Olds Museum 107 N, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=67264974"
   },
-  "Oldsmobile Futuramic 88_delantera": {
-    "fuente": ""
+  "Oldsmobile 98 (1947)_delantera": {
+    "fuente": "By Alf van Beem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=48151773"
   },
-  "Oldsmobile Futuramic 88_trasera": {
-    "fuente": ""
+  "Oldsmobile 98 (1948)_delantera": {
+    "fuente": "By Joe Ross - https://www.flickr.com/photos/joeross/2253401671/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=92967761"
   },
-  "Oldsmobile Super 88_delantera": {
-    "fuente": ""
+  "Oldsmobile 88 - 98 (1951)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1951 Oldsmobile Ninety Eight, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69250711"
   },
-  "Oldsmobile Super 88_trasera": {
-    "fuente": ""
+  "Oldsmobile 88 - Ninety-Eight Fiesta (1953)_delantera": {
+    "fuente": "By Joe deSousa - 1953 Oldsmobile Ninety-Eight Fiesta Convertible, CC0, https://commons.wikimedia.org/w/index.php?curid=42476339"
   },
-  "Oldsmobile Jetstar 88_delantera": {
-    "fuente": ""
+  "Oldsmobile 88 - Ninety-Eight (1954)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1954 Oldsmobile Ninety Eight Holiday, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69264792"
   },
-  "Oldsmobile Jetstar 88_trasera": {
-    "fuente": ""
+  "Oldsmobile 88 - Ninety-Eight (1955)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 55 Oldsmobile 98 Holiday, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69249998"
   },
-  "Oldsmobile Delta 88_delantera": {
-    "fuente": ""
+  "Oldsmobile 88 - Ninety-Eight (1955)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Oldsmobile Ninety Eight Sedan 1955, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76102168"
   },
-  "Oldsmobile Delta 88_trasera": {
-    "fuente": ""
+  "Oldsmobile 88 - Ninety-Eight (1956)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=194309785"
   },
-  "Oldsmobile Ninety-Eight (1° Gen.)_delantera": {
-    "fuente": ""
+  "Oldsmobile Starfire 98 (1957)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=35576709"
   },
-  "Oldsmobile Ninety-Eight (1° Gen.)_trasera": {
-    "fuente": ""
+  "Oldsmobile Starfire 98 (1957)_trasera": {
+    "fuente": "By User ChiemseeMan on de.wikipedia - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=908041"
   },
-  "Oldsmobile Starfire (1° Gen.)_delantera": {
-    "fuente": ""
+  "Oldsmobile 88 - Ninety-Eight (1958)_delantera": {
+    "fuente": "By sv1ambo - 1958 Oldsmobile Ninety-Eight Holiday hardtop sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38830049"
   },
-  "Oldsmobile Starfire (1° Gen.)_trasera": {
-    "fuente": ""
+  "Oldsmobile 88 - Ninety-Eight (1958)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1958 Oldsmobile Ninety Eight Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=70450657"
   },
-  "Oldsmobile Jetfire_delantera": {
-    "fuente": ""
+  "Oldsmobile 88 - Ninety-Eight (1959)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1959 Oldsmobile Ninety-Eight Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69266391"
   },
-  "Oldsmobile Jetfire_trasera": {
-    "fuente": ""
+  "Oldsmobile 88 - Ninety-Eight (1959)_trasera": {
+    "fuente": "By Alf Helin;Cropped and levels adjusted by uploader Mr.choppers - Oldsmobile 98 1959 Focus 20090509 (6).jpg, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=18401157"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1960)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=151134783"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1960)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=151137291"
+  },
+  "Oldsmobile 88 - Classic Ninety-Eight (1961)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1961 Oldsmobile Ninety Eight, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69267073"
+  },
+  "Oldsmobile 88 - Classic Ninety-Eight (1961)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 61 Oldsmobile 98, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69245176"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1962)_delantera": {
+    "fuente": "By Herranderssvensson - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=150557965"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1962)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 62 Oldsmobile Ninety Eight, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69243997"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1963)_delantera": {
+    "fuente": "By GPS 56 from New Zealand - 1963 Oldsmobile 98, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64260645"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1963)_trasera": {
+    "fuente": "By Nadablue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35833335"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1964)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1964 Oldsmobile Ninety-Eight, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69250738"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1964)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 64 Oldsmobile Ninety-Eight, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69247538"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1965)_delantera": {
+    "fuente": "By Sicnag - 1965 Oldsmobile 98 2 door Hardtop, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45448413"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1965)_trasera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/35432750912/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=116667068"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1966)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=42479713"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1966)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - DSC00040, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=70450430"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1967)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111577217"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1967)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1967 Oldsmobile Ninety-Eight, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69257291"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1968)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 68 Oldsmobile 98, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69245474"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1968)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 68 Oldsmobile 98, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69245512"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1969)_delantera": {
+    "fuente": "By Stripedtomato, Minneapolis, MN - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3610594"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1969)_trasera": {
+    "fuente": "By Stripedtomato, Minneapolis, MNStripedtomato - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3610603"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1970)_delantera": {
+    "fuente": "By Greg Gjerdingen - https://www.flickr.com/photos/greggjerdingen/48294403481/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=116667069"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1970)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1970 Oldsmobile Ninety Eight, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69243862"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1971)_delantera": {
+    "fuente": "By Ksderby - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10108878"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1974)_delantera": {
+    "fuente": "By That Hartford Guy - https://www.flickr.com/photos/that_chrysler_guy/11529929275/sizes/l/in/photostream/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=30372846"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1976)_delantera": {
+    "fuente": "By Distancerunner15 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14801686"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1976)_trasera": {
+    "fuente": "By Abodysite, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2974733"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1977)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31528774"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1977)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31528658"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1981)_delantera": {
+    "fuente": "By Spanish Coches - 1981 Oldsmobile Ninety-Eight Regency, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38114658"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1984)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=42455038"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1984)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=42455166"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1989)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18049398"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1989)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134422567"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1991)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1511199"
+  },
+  "Oldsmobile 88 - Ninety-Eight (1991)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=128933392"
+  },
+  "Oldsmobile Custom Cruiser (1973)_delantera": {
+    "fuente": "By Justin666 w - Justin Wesolowski, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6684249"
+  },
+  "Oldsmobile Custom Cruiser (1977)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1977 Oldsmobile Custom Cruiser, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69266441"
+  },
+  "Oldsmobile Custom Cruiser (1977)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1977 Oldsmobile Custom Cruiser, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69266573"
+  },
+  "Oldsmobile Custom Cruiser (1989)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1989 Oldsmobile Custom Cruiser, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69266353"
+  },
+  "Oldsmobile Custom Cruiser (1989)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1989 Oldsmobile Custom Cruiser, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69266282"
+  },
+  "Oldsmobile Custom Cruiser (1992)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1992 Oldsmobile Custom Cruiser, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69250941"
+  },
+  "Oldsmobile Custom Cruiser (1992)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152354456"
+  },
+  "Oldsmobile Eighty-Eight - LSS - Regency (1992)_delantera": {
+    "fuente": "By Karrmann - Own work (Original text: self made photo), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1814943"
+  },
+  "Oldsmobile Eighty-Eight - LSS - Regency (1992)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=109149290"
+  },
+  "Oldsmobile Eighty-Eight - LSS - Regency (1996)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=99556382"
+  },
+  "Oldsmobile Eighty-Eight - LSS - Regency (1996)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=99575598"
+  },
+  "Oldsmobile 88 Wagon (1964)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=59055061"
+  },
+  "Oldsmobile 88 Wagon (1964)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=59055041"
+  },
+  "Oldsmobile Jetstar 88 (1964)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA, cropped and plate blanked by uploader Mr.choppers - 64 Oldsmobile Jetstar 88, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=31626733"
+  },
+  "Oldsmobile Jetstar 88 (1964)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA, cropped and levels adjusted by uploader Mr.choppers - 64 Oldsmobile Jetstar 88, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=31627372"
   },
   "Oldsmobile F-85_delantera": {
     "fuente": ""
@@ -18471,12 +18621,6 @@
     "fuente": ""
   },
   "Oldsmobile Omega (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Oldsmobile Custom Cruiser_delantera": {
-    "fuente": ""
-  },
-  "Oldsmobile Custom Cruiser_trasera": {
     "fuente": ""
   },
   "Oldsmobile Firenza_delantera": {

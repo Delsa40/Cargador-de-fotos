@@ -569,6 +569,18 @@
   "Austin-Healey Sprite (MK2)_trasera": {
     "fuente": "By Berthold Werner - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20307826"
   },
+  "Hyundai Matrix - Lavita (2000)_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3616592"
+  },
+  "Hyundai Matrix - Lavita (2000)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2856726"
+  },
+  "Hyundai Matrix - Lavita (2008)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=16103430"
+  },
+  "Hyundai Matrix - Lavita (2008)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=16103441"
+  },
   "Hyundai Equus - Centennial (1° Gen.)_delantera": {
     "fuente": "By Chu - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11079170"
   },
@@ -21857,12 +21869,6 @@
   "Isuzu_trasera": {
     "fuente": ""
   },
-  "DS_delantera": {
-    "fuente": ""
-  },
-  "DS_trasera": {
-    "fuente": ""
-  },
   "Tata_delantera": {
     "fuente": ""
   },
@@ -21891,6 +21897,18 @@
     "fuente": ""
   },
   "Zagato_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu_trasera": {
+    "fuente": ""
+  },
+  "Daewoo_delantera": {
+    "fuente": ""
+  },
+  "Daewoo_trasera": {
     "fuente": ""
   },
   "Lancia Hyena_delantera": {
@@ -22264,6 +22282,78 @@
   },
   "Hennessey Venom F5_trasera": {
     "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125431615"
+  },
+  "DS 3 Crossback_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86796960"
+  },
+  "DS 3 Crossback_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86796961"
+  },
+  "DS 4_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138712465"
+  },
+  "DS 4_trasera": {
+    "fuente": "Por Alexander Migl - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112288657"
+  },
+  "DS 4S_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63236860"
+  },
+  "DS 4S_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63236861"
+  },
+  "DS 5LS_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45674238"
+  },
+  "DS 5LS_trasera": {
+    "fuente": "Por Navigator84 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=35991847"
+  },
+  "DS 6_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45674396"
+  },
+  "DS 6_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118790074"
+  },
+  "DS 7 Crossback_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71613424"
+  },
+  "DS 7 Crossback_trasera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73573035"
+  },
+  "DS 9_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=186114199"
+  },
+  "DS 9_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=186114165"
+  },
+  "DS N°4_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177598389"
+  },
+  "DS N°4_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177598399"
+  },
+  "DS N°8_delantera": {
+    "fuente": "By Alexander Migl, retouched by NearEMPTiness - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174625283"
+  },
+  "DS N°8_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174576048"
+  },
+  "Citroën DS 3_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=176960116"
+  },
+  "Citroën DS 3_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=176960165"
+  },
+  "Citroën DS 4_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78372245"
+  },
+  "Citroën DS 4_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78372246"
+  },
+  "Citroën DS 5_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95091989"
+  },
+  "Citroën DS 5_trasera": {
+    "fuente": "By Jakub flyz1 Maciejewski - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=58853180"
   },
   "Citroën Xsara Picasso_delantera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72759649"
@@ -25189,6 +25279,81 @@
   },
   "Lotus Eletre_trasera": {
     "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129663040"
+  },
+  "Toyota Avensis - Corona Sedan (1° Gen.)_delantera": {
+    "fuente": "By order_242 from Chile - Toyota Corona Avensis 2.0 1999, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=133845793"
+  },
+  "Toyota Avensis - Corona Sedan (1° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=9847385"
+  },
+  "Toyota Avensis GS (1° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75528905"
+  },
+  "Toyota Avensis GS (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75529149"
+  },
+  "Toyota Avensis Estate - Caldina (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4522868"
+  },
+  "Toyota Avensis Estate - Caldina (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4522870"
+  },
+  "Toyota Avensis (2° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=27991188"
+  },
+  "Toyota Avensis (2° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=27991204"
+  },
+  "Toyota Avensis Estate (2° Gen.)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7084270"
+  },
+  "Toyota Avensis Estate (2° Gen.)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7084276"
+  },
+  "Toyota Avensis (3° Gen.)(2009)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=7561698"
+  },
+  "Toyota Avensis (3° Gen.)(2009)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=7561691"
+  },
+  "Toyota Avensis Estate (3° Gen.)(2009)_delantera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6229158"
+  },
+  "Toyota Avensis Estate (3° Gen.)(2009)_trasera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6229170"
+  },
+  "Toyota Avensis (3° Gen.)(2012)_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Toyota Avensis 2.0 GLi 2013, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76893887"
+  },
+  "Toyota Avensis Estate (3° Gen.)(2012)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18932262"
+  },
+  "Toyota Avensis Estate (3° Gen.)(2012)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18932298"
+  },
+  "Toyota Avensis (3° Gen.)(2015)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65610149"
+  },
+  "Toyota Avensis (3° Gen.)(2015)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65610151"
+  },
+  "Toyota Avensis Estate (3° Gen.)(2015)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72763219"
+  },
+  "Toyota Avensis Estate (3° Gen.)(2015)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72763220"
+  },
+  "Toyota Ipsum - Picnic - SportsVan (1° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11491809"
+  },
+  "Toyota Ipsum - Picnic - SportsVan (1° Gen.)_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95175620"
+  },
+  "Toyota Ipsum - Picnic - SportsVan - Avensis Verso (2° Gen.)_delantera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7020024"
+  },
+  "Toyota Ipsum - Picnic - SportsVan - Avensis Verso (2° Gen.)_trasera": {
+    "fuente": "By TTTNIS - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7020026"
   },
   "Toyota Etios Sedan_delantera": {
     "fuente": "Por Lingeswaran Marimuthukumar from Chennai, India;cropped and digitally edited by uploader Mr.choppers - Etios, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=22866773"

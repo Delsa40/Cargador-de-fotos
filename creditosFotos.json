@@ -19007,569 +19007,185 @@
   "Oldsmobile Aerotech Concept_delantera": {
     "fuente": "By Karrmann - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2257136"
   },
-  "SEAT 1400_delantera": {
-    "fuente": ""
+  "Saturn SC (1° Gen.)(1992)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=19013140"
   },
-  "SEAT 1400_trasera": {
-    "fuente": ""
+  "Saturn SC (1° Gen.)(1992)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=84426643"
   },
-  "SEAT 600_delantera": {
-    "fuente": ""
+  "Saturn SC2 (1° Gen.)(1995)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1569503"
   },
-  "SEAT 600_trasera": {
-    "fuente": ""
+  "Saturn SC1 (1° Gen.)(1995)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3157786"
   },
-  "SEAT 800_delantera": {
-    "fuente": ""
+  "Saturn SC (2° Gen.)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173185453"
   },
-  "SEAT 800_trasera": {
-    "fuente": ""
+  "Saturn SC (2° Gen.)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173185452"
   },
-  "SEAT 1500_delantera": {
-    "fuente": ""
+  "Saturn SC (3° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2796128"
   },
-  "SEAT 1500_trasera": {
-    "fuente": ""
+  "Saturn SC (3° Gen.)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167081206"
   },
-  "SEAT 850_delantera": {
-    "fuente": ""
+  "Saturn SL1 (1° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1935595"
   },
-  "SEAT 850_trasera": {
-    "fuente": ""
+  "Saturn SL1 (1° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70155459"
   },
-  "SEAT 850 Sport_delantera": {
-    "fuente": ""
+  "Saturn SL2 (1° Gen.)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119526741"
   },
-  "SEAT 850 Sport_trasera": {
-    "fuente": ""
+  "Saturn SL2 (1° Gen.)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119526748"
   },
-  "SEAT 124_delantera": {
-    "fuente": ""
+  "Saturn SL (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18736686"
   },
-  "SEAT 124_trasera": {
-    "fuente": ""
+  "Saturn SL (2° Gen.)_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76714553"
   },
-  "SEAT 1430_delantera": {
-    "fuente": ""
+  "Saturn SL1 (3° Gen.)_delantera": {
+    "fuente": "By Sam Kennedy - Discord, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=154795631"
   },
-  "SEAT 1430_trasera": {
-    "fuente": ""
+  "Saturn SL1 (3° Gen.)_trasera": {
+    "fuente": "By Sam Kennedy - Discord, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=154795632"
   },
-  "SEAT 127_delantera": {
-    "fuente": ""
-  },
-  "SEAT 127_trasera": {
-    "fuente": ""
-  },
-  "SEAT 132_delantera": {
-    "fuente": ""
-  },
-  "SEAT 132_trasera": {
-    "fuente": ""
-  },
-  "SEAT 133_delantera": {
-    "fuente": ""
-  },
-  "SEAT 133_trasera": {
-    "fuente": ""
-  },
-  "SEAT 131_delantera": {
-    "fuente": ""
-  },
-  "SEAT 131_trasera": {
-    "fuente": ""
-  },
-  "SEAT Panda (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "SEAT Panda (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "SEAT Fura_delantera": {
-    "fuente": ""
-  },
-  "SEAT Fura_trasera": {
-    "fuente": ""
-  },
-  "SEAT Ronda_delantera": {
-    "fuente": ""
-  },
-  "SEAT Ronda_trasera": {
-    "fuente": ""
-  },
-  "SEAT Málaga_delantera": {
-    "fuente": ""
-  },
-  "SEAT Málaga_trasera": {
-    "fuente": ""
-  },
-  "SEAT Marbella_delantera": {
-    "fuente": ""
-  },
-  "SEAT Marbella_trasera": {
-    "fuente": ""
-  },
-  "SEAT Ibiza (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "SEAT Ibiza (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "SEAT Terra_delantera": {
-    "fuente": ""
-  },
-  "SEAT Terra_trasera": {
-    "fuente": ""
-  },
-  "SEAT Toledo (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "SEAT Toledo (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "SEAT Inca_delantera": {
-    "fuente": ""
-  },
-  "SEAT Inca_trasera": {
-    "fuente": ""
-  },
-  "SEAT Córdoba (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "SEAT Córdoba (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "SEAT Arosa_delantera": {
-    "fuente": ""
-  },
-  "SEAT Arosa_trasera": {
-    "fuente": ""
-  },
-  "SEAT Alhambra (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "SEAT Alhambra (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "SEAT León (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "SEAT León (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "SEAT Exeo_delantera": {
-    "fuente": ""
-  },
-  "SEAT Exeo_trasera": {
-    "fuente": ""
-  },
-  "SEAT Mii_delantera": {
-    "fuente": ""
-  },
-  "SEAT Mii_trasera": {
-    "fuente": ""
-  },
-  "SEAT Ateca_delantera": {
-    "fuente": ""
-  },
-  "SEAT Ateca_trasera": {
-    "fuente": ""
-  },
-  "SEAT Arona_delantera": {
-    "fuente": ""
-  },
-  "SEAT Arona_trasera": {
-    "fuente": ""
-  },
-  "SEAT Tarraco_delantera": {
-    "fuente": ""
-  },
-  "SEAT Tarraco_trasera": {
-    "fuente": ""
-  },
-  "SEAT el-Born_delantera": {
-    "fuente": ""
-  },
-  "SEAT el-Born_trasera": {
-    "fuente": ""
-  },
-  "SEAT Tribu Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Tribu Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Salsa Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Salsa Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Tango Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Tango Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Altea_delantera": {
-    "fuente": ""
-  },
-  "SEAT Altea_trasera": {
-    "fuente": ""
-  },
-  "SEAT Altea XL_delantera": {
-    "fuente": ""
-  },
-  "SEAT Altea XL_trasera": {
-    "fuente": ""
-  },
-  "SEAT Bocanegra Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Bocanegra Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT IBE Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT IBE Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT IBL Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT IBL Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT IBX Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT IBX Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Minimo Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Minimo Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Fórmula Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Fórmula Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Bolero Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Bolero Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Ronda Crono_delantera": {
-    "fuente": ""
-  },
-  "SEAT Ronda Crono_trasera": {
-    "fuente": ""
-  },
-  "SEAT Proto C_delantera": {
-    "fuente": ""
-  },
-  "SEAT Proto C_trasera": {
-    "fuente": ""
-  },
-  "SEAT Proto TL_delantera": {
-    "fuente": ""
-  },
-  "SEAT Proto TL_trasera": {
-    "fuente": ""
-  },
-  "SEAT Cupra GT_delantera": {
-    "fuente": ""
-  },
-  "SEAT Cupra GT_trasera": {
-    "fuente": ""
-  },
-  "Saturn SC (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Saturn SC (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Saturn SL (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Saturn SL (1° Gen.)_trasera": {
-    "fuente": ""
+  "Saturn SL2 (3° Gen.)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149701364"
   },
   "Saturn SW (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1604270"
   },
   "Saturn SW (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2923515"
   },
-  "Saturn LS_delantera": {
-    "fuente": ""
+  "Saturn SW (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1996753"
   },
-  "Saturn LS_trasera": {
-    "fuente": ""
+  "Saturn SW (2° Gen.)_trasera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4174302"
   },
-  "Saturn LW_delantera": {
-    "fuente": ""
+  "Saturn SW (3° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1889053"
   },
-  "Saturn LW_trasera": {
-    "fuente": ""
+  "Saturn L-Series (2000)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6580077"
   },
-  "Saturn L-Series_delantera": {
-    "fuente": ""
+  "Saturn L-Series (2000)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97270082"
   },
-  "Saturn L-Series_trasera": {
-    "fuente": ""
+  "Saturn L-Series (2003)_delantera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=138069921"
   },
-  "Saturn Vue (1° Gen.)_delantera": {
-    "fuente": ""
+  "Saturn L-Series (2003)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=138069926"
   },
-  "Saturn Vue (1° Gen.)_trasera": {
-    "fuente": ""
+  "Saturn LW (2000)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2609061"
   },
-  "Saturn Ion (1° Gen.)_delantera": {
-    "fuente": ""
+  "Saturn LW (2000)_trasera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3003176"
   },
-  "Saturn Ion (1° Gen.)_trasera": {
-    "fuente": ""
+  "Saturn LW (2003)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2063142"
+  },
+  "Saturn LW (2003)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3258684"
+  },
+  "Saturn Vue (1° Gen.)(2002)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4795750"
+  },
+  "Saturn Vue (1° Gen.)(2002)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - Saturn Vue, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40125648"
+  },
+  "Saturn Vue (1° Gen.)(2006)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11848071"
+  },
+  "Saturn Vue RedLine (1° Gen.)(2002)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8353632"
+  },
+  "Saturn Vue RedLine (1° Gen.)(2002)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1318116"
+  },
+  "Saturn Vue RedLine (1° Gen.)(2006)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122378572"
+  },
+  "Saturn Vue (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7687003"
+  },
+  "Saturn Vue (2° Gen.)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164455322"
+  },
+  "Saturn Vue RedLine (2° Gen.)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124487956"
+  },
+  "Saturn Vue RedLine (2° Gen.)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124487955"
+  },
+  "Saturn Ion (2003)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=7275190"
+  },
+  "Saturn Ion (2003)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=186654072"
+  },
+  "Saturn Ion (2005)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=1569494"
+  },
+  "Saturn Ion (2005)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=113216583"
+  },
+  "Saturn Ion Coupe_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175436394"
+  },
+  "Saturn Ion Coupe_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175436395"
+  },
+  "Saturn Ion RedLine_delantera": {
+    "fuente": "By Interesting.cars.insta - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=176814492"
+  },
+  "Saturn Ion RedLine_trasera": {
+    "fuente": "By Interesting.cars.insta - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=176814491"
   },
   "Saturn Relay_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1996699"
   },
   "Saturn Relay_trasera": {
-    "fuente": ""
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=171590582"
   },
   "Saturn Sky_delantera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137321504"
   },
   "Saturn Sky_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149007295"
   },
   "Saturn Aura_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7687014"
   },
   "Saturn Aura_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150043783"
   },
   "Saturn Outlook_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2127525"
   },
   "Saturn Outlook_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69035659"
   },
   "Saturn Astra_delantera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=40278389"
   },
   "Saturn Astra_trasera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=40278376"
   },
-  "Saturn Vue Green Line_delantera": {
-    "fuente": ""
+  "GM EV1_delantera": {
+    "fuente": "By RightBrainPhotography (Rick Rowen) - https://www.flickr.com/photos/rightbrainphotography/2223301595/in/set-72157603803274612/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=14735792"
   },
-  "Saturn Vue Green Line_trasera": {
-    "fuente": ""
-  },
-  "Saturn Curve Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Curve Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn CV1 Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn CV1 Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn EV1_delantera": {
-    "fuente": ""
-  },
-  "Saturn EV1_trasera": {
-    "fuente": ""
-  },
-  "Saturn SCX Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn SCX Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Sport Sedan Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Sport Sedan Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn SUV Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn SUV Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Coupe Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Coupe Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Sedan Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Sedan Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Wagon Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Wagon Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn VUE Red Line Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn VUE Red Line Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Flextreme Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Flextreme Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Antares Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Antares Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Aura Hybrid_delantera": {
-    "fuente": ""
-  },
-  "Saturn Aura Hybrid_trasera": {
-    "fuente": ""
-  },
-  "Saturn Vue Plug-In Hybrid Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Vue Plug-In Hybrid Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn PreVue Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn PreVue Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Portico Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Portico Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Curve Roadster Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Curve Roadster Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn LST Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn LST Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Ion Quad Coupe_delantera": {
-    "fuente": ""
-  },
-  "Saturn Ion Quad Coupe_trasera": {
-    "fuente": ""
-  },
-  "Saturn Sky Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Sky Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Aura Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Aura Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Outlook Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Outlook Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Vue Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Vue Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Ion Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Ion Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Relay Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Relay Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Emphasis Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Emphasis Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Vision Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Vision Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn XC Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn XC Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Advanced Vehicle Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Advanced Vehicle Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Urban EV Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Urban EV Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Compact Crossover Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Compact Crossover Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Family Sedan Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Family Sedan Concept_trasera": {
-    "fuente": ""
-  },
-  "Saturn Performance Coupe Concept_delantera": {
-    "fuente": ""
-  },
-  "Saturn Performance Coupe Concept_trasera": {
-    "fuente": ""
+  "GM EV1_trasera": {
+    "fuente": "By RightBrainPhotography (Rick Rowen) - https://www.flickr.com/photos/rightbrainphotography/2223296621/in/set-72157603803274612/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=14735800"
   },
   "GMC Model 16_delantera": {
     "fuente": ""
@@ -19857,6 +19473,288 @@
     "fuente": ""
   },
   "GMC Granite Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT 1400_delantera": {
+    "fuente": ""
+  },
+  "SEAT 1400_trasera": {
+    "fuente": ""
+  },
+  "SEAT 600_delantera": {
+    "fuente": ""
+  },
+  "SEAT 600_trasera": {
+    "fuente": ""
+  },
+  "SEAT 800_delantera": {
+    "fuente": ""
+  },
+  "SEAT 800_trasera": {
+    "fuente": ""
+  },
+  "SEAT 1500_delantera": {
+    "fuente": ""
+  },
+  "SEAT 1500_trasera": {
+    "fuente": ""
+  },
+  "SEAT 850_delantera": {
+    "fuente": ""
+  },
+  "SEAT 850_trasera": {
+    "fuente": ""
+  },
+  "SEAT 850 Sport_delantera": {
+    "fuente": ""
+  },
+  "SEAT 850 Sport_trasera": {
+    "fuente": ""
+  },
+  "SEAT 124_delantera": {
+    "fuente": ""
+  },
+  "SEAT 124_trasera": {
+    "fuente": ""
+  },
+  "SEAT 1430_delantera": {
+    "fuente": ""
+  },
+  "SEAT 1430_trasera": {
+    "fuente": ""
+  },
+  "SEAT 127_delantera": {
+    "fuente": ""
+  },
+  "SEAT 127_trasera": {
+    "fuente": ""
+  },
+  "SEAT 132_delantera": {
+    "fuente": ""
+  },
+  "SEAT 132_trasera": {
+    "fuente": ""
+  },
+  "SEAT 133_delantera": {
+    "fuente": ""
+  },
+  "SEAT 133_trasera": {
+    "fuente": ""
+  },
+  "SEAT 131_delantera": {
+    "fuente": ""
+  },
+  "SEAT 131_trasera": {
+    "fuente": ""
+  },
+  "SEAT Panda (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "SEAT Panda (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "SEAT Fura_delantera": {
+    "fuente": ""
+  },
+  "SEAT Fura_trasera": {
+    "fuente": ""
+  },
+  "SEAT Ronda_delantera": {
+    "fuente": ""
+  },
+  "SEAT Ronda_trasera": {
+    "fuente": ""
+  },
+  "SEAT Málaga_delantera": {
+    "fuente": ""
+  },
+  "SEAT Málaga_trasera": {
+    "fuente": ""
+  },
+  "SEAT Marbella_delantera": {
+    "fuente": ""
+  },
+  "SEAT Marbella_trasera": {
+    "fuente": ""
+  },
+  "SEAT Ibiza (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "SEAT Ibiza (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "SEAT Terra_delantera": {
+    "fuente": ""
+  },
+  "SEAT Terra_trasera": {
+    "fuente": ""
+  },
+  "SEAT Toledo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "SEAT Toledo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "SEAT Inca_delantera": {
+    "fuente": ""
+  },
+  "SEAT Inca_trasera": {
+    "fuente": ""
+  },
+  "SEAT Córdoba (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "SEAT Córdoba (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "SEAT Arosa_delantera": {
+    "fuente": ""
+  },
+  "SEAT Arosa_trasera": {
+    "fuente": ""
+  },
+  "SEAT Alhambra (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "SEAT Alhambra (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "SEAT León (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "SEAT León (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "SEAT Exeo_delantera": {
+    "fuente": ""
+  },
+  "SEAT Exeo_trasera": {
+    "fuente": ""
+  },
+  "SEAT Mii_delantera": {
+    "fuente": ""
+  },
+  "SEAT Mii_trasera": {
+    "fuente": ""
+  },
+  "SEAT Ateca_delantera": {
+    "fuente": ""
+  },
+  "SEAT Ateca_trasera": {
+    "fuente": ""
+  },
+  "SEAT Arona_delantera": {
+    "fuente": ""
+  },
+  "SEAT Arona_trasera": {
+    "fuente": ""
+  },
+  "SEAT Tarraco_delantera": {
+    "fuente": ""
+  },
+  "SEAT Tarraco_trasera": {
+    "fuente": ""
+  },
+  "SEAT el-Born_delantera": {
+    "fuente": ""
+  },
+  "SEAT el-Born_trasera": {
+    "fuente": ""
+  },
+  "SEAT Tribu Concept_delantera": {
+    "fuente": ""
+  },
+  "SEAT Tribu Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT Salsa Concept_delantera": {
+    "fuente": ""
+  },
+  "SEAT Salsa Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT Tango Concept_delantera": {
+    "fuente": ""
+  },
+  "SEAT Tango Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT Altea_delantera": {
+    "fuente": ""
+  },
+  "SEAT Altea_trasera": {
+    "fuente": ""
+  },
+  "SEAT Altea XL_delantera": {
+    "fuente": ""
+  },
+  "SEAT Altea XL_trasera": {
+    "fuente": ""
+  },
+  "SEAT Bocanegra Concept_delantera": {
+    "fuente": ""
+  },
+  "SEAT Bocanegra Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT IBE Concept_delantera": {
+    "fuente": ""
+  },
+  "SEAT IBE Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT IBL Concept_delantera": {
+    "fuente": ""
+  },
+  "SEAT IBL Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT IBX Concept_delantera": {
+    "fuente": ""
+  },
+  "SEAT IBX Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT Minimo Concept_delantera": {
+    "fuente": ""
+  },
+  "SEAT Minimo Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT Fórmula Concept_delantera": {
+    "fuente": ""
+  },
+  "SEAT Fórmula Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT Bolero Concept_delantera": {
+    "fuente": ""
+  },
+  "SEAT Bolero Concept_trasera": {
+    "fuente": ""
+  },
+  "SEAT Ronda Crono_delantera": {
+    "fuente": ""
+  },
+  "SEAT Ronda Crono_trasera": {
+    "fuente": ""
+  },
+  "SEAT Proto C_delantera": {
+    "fuente": ""
+  },
+  "SEAT Proto C_trasera": {
+    "fuente": ""
+  },
+  "SEAT Proto TL_delantera": {
+    "fuente": ""
+  },
+  "SEAT Proto TL_trasera": {
+    "fuente": ""
+  },
+  "SEAT Cupra GT_delantera": {
+    "fuente": ""
+  },
+  "SEAT Cupra GT_trasera": {
     "fuente": ""
   },
   "Acura Integra (1° Gen.)_delantera": {

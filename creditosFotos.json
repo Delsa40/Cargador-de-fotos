@@ -19370,119 +19370,203 @@
   "GMC Sierra EV Denali_trasera": {
     "fuente": "By Deathpallie325 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152972495"
   },
-  "GMC Envoy (1° Gen.)_delantera": {
-    "fuente": ""
+  "GMC Sierra (1989)_delantera": {
+    "fuente": "By No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=218374"
   },
-  "GMC Envoy (1° Gen.)_trasera": {
-    "fuente": ""
+  "GMC Sierra (1989)_trasera": {
+    "fuente": "By No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=218375"
   },
-  "GMC Denali_delantera": {
-    "fuente": ""
+  "GMC Sierra (2003)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18305862"
   },
-  "GMC Denali_trasera": {
-    "fuente": ""
+  "GMC Sierra (2003)_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95241542"
+  },
+  "GMC Sierra (2008)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3970874"
+  },
+  "GMC Sierra (2008)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132494244"
+  },
+  "GMC Sierra (2018)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90654217"
+  },
+  "GMC Sierra (2018)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90654218"
+  },
+  "GMC Sierra (2019)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79433076"
+  },
+  "GMC Sierra (2019)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79433077"
+  },
+  "GMC Sierra (2024)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=149391356"
+  },
+  "GMC Sierra (2024)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=150762216"
+  },
+  "GMC Envoy (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2742801"
+  },
+  "GMC Envoy (2° Gen.)_trasera": {
+    "fuente": "By SsmIntrigue - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95241370"
+  },
+  "GMC Envoy XUV_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3097506"
+  },
+  "GMC Envoy XUV_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=121233126"
   },
   "GMC Canyon (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136501988"
   },
   "GMC Canyon (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136501989"
   },
-  "GMC Acadia (1° Gen.)_delantera": {
-    "fuente": ""
+  "GMC Canyon (2° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131037928"
   },
-  "GMC Acadia (1° Gen.)_trasera": {
-    "fuente": ""
+  "GMC Canyon (2° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69271340"
+  },
+  "GMC Canyon (3° Gen.)_delantera": {
+    "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=128702093"
+  },
+  "GMC Canyon (3° Gen.)_trasera": {
+    "fuente": "By deathpallie325 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136633144"
+  },
+  "GMC Acadia (1° Gen.)(2007)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2634395"
+  },
+  "GMC Acadia (1° Gen.)(2007)_trasera": {
+    "fuente": "By Lord of the Wings© from Toronto, Canada - GMC Acadia, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=70201712"
+  },
+  "GMC Acadia (1° Gen.)(2013)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68659569"
+  },
+  "GMC Acadia (1° Gen.)(2013)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=149609061"
+  },
+  "GMC Acadia (2° Gen.)(2017)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67671086"
+  },
+  "GMC Acadia (2° Gen.)(2017)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67147118"
+  },
+  "GMC Acadia (2° Gen.)(2020)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116439439"
+  },
+  "GMC Acadia (2° Gen.)(2020)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116439434"
+  },
+  "GMC Acadia (3° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164530264"
+  },
+  "GMC Acadia (3° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164530258"
   },
   "GMC Terrain (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8449248"
   },
   "GMC Terrain (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=133843617"
   },
-  "GMC Savana_delantera": {
-    "fuente": ""
+  "GMC Terrain (2° Gen.)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67961742"
   },
-  "GMC Savana_trasera": {
-    "fuente": ""
+  "GMC Terrain (2° Gen.)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67961741"
+  },
+  "GMC Terrain (3° Gen.)_delantera": {
+    "fuente": "By Deathpallie325 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=165079516"
+  },
+  "GMC Terrain (3° Gen.)_trasera": {
+    "fuente": "By Deathpallie325 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=165079559"
+  },
+  "GMC Savana (1996)_delantera": {
+    "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=12093160"
+  },
+  "GMC Savana (1999)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4407342"
+  },
+  "GMC Savana (1999)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4407348"
+  },
+  "GMC Savana (2003)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80386125"
+  },
+  "GMC Savana (2003)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80386126"
+  },
+  "GMC Savana (2010)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79171898"
+  },
+  "GMC Savana (2010)_trasera": {
+    "fuente": "By Rjluna2 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40110891"
   },
   "GMC Hummer EV Pickup_delantera": {
-    "fuente": ""
+    "fuente": "By Erik Drost - 2022 Cleveland Auto Show, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=116275329"
   },
   "GMC Hummer EV Pickup_trasera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=146988712"
   },
   "GMC Hummer EV SUV_delantera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=139781847"
   },
   "GMC Hummer EV SUV_trasera": {
-    "fuente": ""
-  },
-  "GMC S-15_delantera": {
-    "fuente": ""
-  },
-  "GMC S-15_trasera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=139781855"
   },
   "GMC MotorHome_delantera": {
-    "fuente": ""
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1978 GMC Motorhome RV, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69235755"
   },
   "GMC MotorHome_trasera": {
-    "fuente": ""
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1978 GMC Motorhome RV, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69235757"
   },
-  "GMC Palm Beach_delantera": {
-    "fuente": ""
+  "GMC Tracker_delantera": {
+    "fuente": "By dave_7 - originally posted to Flickr as GMC Tracker, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=11253873"
   },
-  "GMC Palm Beach_trasera": {
-    "fuente": ""
+  "GMC Suburban (1950)_delantera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1950 GMC Suburban, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69235196"
   },
-  "GMC Crackerbox_delantera": {
-    "fuente": ""
+  "GMC Suburban (1970)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - GMC, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=38603512"
   },
-  "GMC Crackerbox_trasera": {
-    "fuente": ""
+  "GMC Suburban (1977)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4425331"
   },
-  "GMC MH9500_delantera": {
-    "fuente": ""
+  "GMC Suburban (1989)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17706196"
   },
-  "GMC MH9500_trasera": {
-    "fuente": ""
+  "GMC Suburban (1989)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134683648"
   },
-  "GMC W-Series_delantera": {
-    "fuente": ""
+  "GMC Suburban (1995)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10209384"
   },
-  "GMC W-Series_trasera": {
-    "fuente": ""
+  "GMC Suburban (1996)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=131258873"
   },
-  "GMC T-Series_delantera": {
-    "fuente": ""
+  "GMC Suburban (1996)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=131260078"
   },
-  "GMC T-Series_trasera": {
-    "fuente": ""
+  "GMC Suburban (2002)_delantera": {
+    "fuente": "By Jorby guy - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126178332"
   },
-  "GMC B-Series_delantera": {
-    "fuente": ""
+  "GMC Chevette_delantera": {
+    "fuente": "By Diego HC - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=4729038"
   },
-  "GMC B-Series_trasera": {
-    "fuente": ""
+  "GMC Denali XT Concept_delantera": {
+    "fuente": "By Mark Ordonez from Schaumburg, IL, USA - DSC02952, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=115939817"
   },
-  "GMC P-Series_delantera": {
-    "fuente": ""
-  },
-  "GMC P-Series_trasera": {
-    "fuente": ""
-  },
-  "GMC Tilt Cab_delantera": {
-    "fuente": ""
-  },
-  "GMC Tilt Cab_trasera": {
-    "fuente": ""
+  "GMC Denali XT Concept_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3757778"
   },
   "GMC Granite Concept_delantera": {
-    "fuente": ""
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9218020"
   },
   "GMC Granite Concept_trasera": {
-    "fuente": ""
+    "fuente": "By Michael Gil from Calgary, AB, Canada - GMC Granite Concept, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37165269"
   },
   "SEAT 1400_delantera": {
     "fuente": ""

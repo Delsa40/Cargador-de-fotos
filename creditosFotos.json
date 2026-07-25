@@ -20076,286 +20076,400 @@
     "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195825438"
   },
   "SEAT 1400_delantera": {
-    "fuente": ""
+    "fuente": "By Spanish Coches - 1958 Seat 1400 B Especial, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115124"
   },
   "SEAT 1400_trasera": {
-    "fuente": ""
+    "fuente": "By MARC912374 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45368949"
+  },
+  "SEAT 1400 C_delantera": {
+    "fuente": "By Spanish Coches - 1963 Seat 1400 C, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38113871"
+  },
+  "SEAT 1400 C_trasera": {
+    "fuente": "By Spanish Coches - 1962 Seat 1400 C, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38117491"
   },
   "SEAT 600_delantera": {
-    "fuente": ""
+    "fuente": "Por Matti Blume - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67833768"
   },
   "SEAT 600_trasera": {
-    "fuente": ""
+    "fuente": "Por Matti Blume - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67833750"
   },
   "SEAT 800_delantera": {
-    "fuente": ""
+    "fuente": "Por El monty - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64187062"
   },
   "SEAT 800_trasera": {
-    "fuente": ""
+    "fuente": "Por El monty - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64187065"
   },
   "SEAT 1500_delantera": {
-    "fuente": ""
+    "fuente": "By Spanish Coches - 1970 Seat 1500 'bifaro', CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38113428"
   },
   "SEAT 1500_trasera": {
-    "fuente": ""
+    "fuente": "By Txemari. (Navarra). from Navarra, España - Seat 1500 Bifaro (1972)., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=181834725"
+  },
+  "SEAT 1500 Wagon_delantera": {
+    "fuente": "By Spanish Coches - 1968 Seat 1500 Familiar Monofaro, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115921"
+  },
+  "SEAT 1500 Wagon_trasera": {
+    "fuente": "By Spanish Coches - 1968 Seat 1500 Familiar Monofaro, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115919"
   },
   "SEAT 850_delantera": {
-    "fuente": ""
+    "fuente": "By Spanish Coches - 1973 Seat 850 D Especial 4 puertas, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115951"
   },
   "SEAT 850_trasera": {
-    "fuente": ""
+    "fuente": "By Spanish Coches - 1971 Seat 850 Especial, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115941"
   },
-  "SEAT 850 Sport_delantera": {
-    "fuente": ""
+  "SEAT 850 Coupe_delantera": {
+    "fuente": "By Dario Alvarez from Orense, España - HPIM5497, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=15693485"
   },
-  "SEAT 850 Sport_trasera": {
-    "fuente": ""
+  "SEAT 850 Sport Coupe_delantera": {
+    "fuente": "By Matt Kieffer - https://www.flickr.com/photos/mattkieffer/26883676556/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=90593359"
   },
-  "SEAT 124_delantera": {
-    "fuente": ""
+  "SEAT 850 Sport Coupe_trasera": {
+    "fuente": "By Paco Rives Manresa - SEAT CUPÉ, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=12138103"
   },
-  "SEAT 124_trasera": {
-    "fuente": ""
+  "SEAT 850 Spider_delantera": {
+    "fuente": "By Stahlkocher - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1907897"
+  },
+  "SEAT 850 Spider_trasera": {
+    "fuente": "By Stahlkocher - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1907895"
+  },
+  "SEAT 124 (1975)_delantera": {
+    "fuente": "By Spanish Coches - 1975 Seat 124 D, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115709"
+  },
+  "SEAT 124 (1975)_trasera": {
+    "fuente": "By Spanish Coches - 1973 Seat 124 LS, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38113311"
+  },
+  "SEAT 124 (1978)_delantera": {
+    "fuente": "By Spanish Coches - 1978 Seat 124 D LS, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115975"
+  },
+  "SEAT 124 (1978)_trasera": {
+    "fuente": "By Spanish Coches - 1978 Seat 124 D LS, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115978"
+  },
+  "SEAT 124 Familiar (1975)_delantera": {
+    "fuente": "By David Perez - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99197939"
+  },
+  "SEAT 124 Familiar (1975)_trasera": {
+    "fuente": "By David Perez - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99197940"
+  },
+  "SEAT 124 Familiar (1978)_delantera": {
+    "fuente": "By Txemari. (Navarra). from Navarra, España - Seat 124 Familiar/Ambulancia de Cruz Roja., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=183642073"
+  },
+  "SEAT 124 Sport 1600_delantera": {
+    "fuente": "By Txemari. (Navarra). from Navarra, España - Seat 124 Sport 1600. (1971)., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=181835092"
+  },
+  "SEAT 124 Sport 1600_trasera": {
+    "fuente": "By Txemari. (Navarra). from Navarra, España - Seat 124 Sport 1600. (1971)., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=181835096"
+  },
+  "SEAT 124 Sport 1800_delantera": {
+    "fuente": "By Spanish Coches - 1975 Seat 124 Sport Coupé 1800, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38116007"
+  },
+  "SEAT 124 Sport 1800_trasera": {
+    "fuente": "By Spanish Coches - 1975 Seat 124 Sport Coupé 1800, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38116005"
   },
   "SEAT 1430_delantera": {
-    "fuente": ""
+    "fuente": "Por Spanish Coches - 1973 Seat 1430, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115170"
   },
   "SEAT 1430_trasera": {
-    "fuente": ""
+    "fuente": "Por Spanish Coches - 1974 Seat 1430 Especial 1600, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38115990"
   },
-  "SEAT 127_delantera": {
-    "fuente": ""
+  "SEAT 127 (1972)_delantera": {
+    "fuente": "By Juancar22 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37408483"
   },
-  "SEAT 127_trasera": {
-    "fuente": ""
+  "SEAT 127 (1972)_trasera": {
+    "fuente": "By David Perez - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99197944"
+  },
+  "SEAT 127 (1977)_delantera": {
+    "fuente": "By Juancar22 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37408477"
+  },
+  "SEAT 127 (1977)_trasera": {
+    "fuente": "By Juancar22 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37408478"
   },
   "SEAT 132_delantera": {
-    "fuente": ""
+    "fuente": "By Carlosseat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64057547"
   },
   "SEAT 132_trasera": {
-    "fuente": ""
+    "fuente": "By Mark Gasoline - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=151360668"
   },
   "SEAT 133_delantera": {
-    "fuente": ""
+    "fuente": "By Spanish Coches - 1976 Seat 133 Especial, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38114721"
   },
   "SEAT 133_trasera": {
-    "fuente": ""
+    "fuente": "By Spanish Coches - 1976 Seat 133 Especial, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38114723"
   },
-  "SEAT 131_delantera": {
-    "fuente": ""
+  "SEAT 131 (1975)_delantera": {
+    "fuente": "By Spanish Coches - 1977 Seat 131 L 1430, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38114006"
   },
-  "SEAT 131_trasera": {
-    "fuente": ""
+  "SEAT 131 (1979)_delantera": {
+    "fuente": "By Spanish Coches - 1979 Seat 131 Supermirafiori, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38116038"
   },
-  "SEAT Panda (1° Gen.)_delantera": {
-    "fuente": ""
+  "SEAT 131 (1979)_trasera": {
+    "fuente": "By Spanish Coches - 1979 Seat 131 Supermirafiori, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38116036"
   },
-  "SEAT Panda (1° Gen.)_trasera": {
-    "fuente": ""
+  "SEAT 131 (1981)_delantera": {
+    "fuente": "By Spanish Coches - 1983 Seat 131 Supermirafiori, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38114707"
+  },
+  "SEAT 131 (1981)_trasera": {
+    "fuente": "By Spanish Coches - 1983 Seat 131 Supermirafiori, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38114709"
   },
   "SEAT Fura_delantera": {
-    "fuente": ""
+    "fuente": "By Schumi4ever - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=163767587"
   },
   "SEAT Fura_trasera": {
-    "fuente": ""
+    "fuente": "Por MARC912374 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32478660"
   },
   "SEAT Ronda_delantera": {
-    "fuente": ""
+    "fuente": "By Pandalia - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9858165"
   },
   "SEAT Ronda_trasera": {
-    "fuente": ""
+    "fuente": "By Pandalia - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9858318"
   },
-  "SEAT Málaga_delantera": {
-    "fuente": ""
+  "SEAT Málaga - Gredos_delantera": {
+    "fuente": "Por No se ha podido leer automáticamente información sobre el autor; se asume que es Randroide~commonswiki (según los derechos de autor reclamados). - No se ha podido leer automáticamente información sobre la fuente; se asume que es trabajo propio (según los derechos de autor reclamados)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1403315"
   },
-  "SEAT Málaga_trasera": {
-    "fuente": ""
+  "SEAT Málaga - Gredos_trasera": {
+    "fuente": "By No machine-readable author provided. Randroide~commonswiki assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1403325"
+  },
+  "SEAT Panda Marbella_delantera": {
+    "fuente": "By Spanish Coches - 1983 Seat Panda, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38114252"
+  },
+  "SEAT Panda Marbella_trasera": {
+    "fuente": "By Spanish Coches - 1986 Seat Panda 40, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38117936"
   },
   "SEAT Marbella_delantera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2906396"
   },
   "SEAT Marbella_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2906400"
   },
-  "SEAT Ibiza (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "SEAT Ibiza (1° Gen.)_trasera": {
-    "fuente": ""
+  "SEAT Trans_delantera": {
+    "fuente": "By No machine-readable author provided. Randroide~commonswiki assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1403437"
   },
   "SEAT Terra_delantera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3481434"
   },
   "SEAT Terra_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3481441"
+  },
+  "SEAT Ibiza (1° Gen.)(1984)_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=38746621"
+  },
+  "SEAT Ibiza (1° Gen.)(1984)_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=184606663"
+  },
+  "SEAT Ibiza Cabrio (1° Gen.)_delantera": {
+    "fuente": "By Gartenkater - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15387242"
+  },
+  "SEAT Ibiza Cabrio (1° Gen.)_trasera": {
+    "fuente": "By Gartenkater - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15379573"
+  },
+  "SEAT Ibiza (1° Gen.)(1991)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4402735"
+  },
+  "SEAT Ibiza (1° Gen.)(1991)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4402745"
+  },
+  "SEAT Ibiza (2° Gen.)(1993)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2857164"
+  },
+  "SEAT Ibiza (2° Gen.)(1993)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2857171"
+  },
+  "SEAT Ibiza (2° Gen.)(1999)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64108433"
+  },
+  "SEAT Ibiza (2° Gen.)(1999)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72759647"
+  },
+  "SEAT Ibiza (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71212940"
+  },
+  "SEAT Ibiza (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71212941"
+  },
+  "SEAT Ibiza (4° Gen.)(2008)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72763185"
+  },
+  "SEAT Ibiza (4° Gen.)(2008)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=7301054"
+  },
+  "SEAT Ibiza ST_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14815054"
+  },
+  "SEAT Ibiza ST_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14815143"
+  },
+  "SEAT Ibiza (4° Gen.)(2012)_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=38745822"
+  },
+  "SEAT Ibiza (4° Gen.)(2012)_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=38843923"
+  },
+  "SEAT Ibiza (5° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72606012"
+  },
+  "SEAT Ibiza (5° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72606014"
   },
   "SEAT Toledo (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2890537"
   },
   "SEAT Toledo (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2890540"
+  },
+  "SEAT Toledo (2° Gen.)_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=5602475"
+  },
+  "SEAT Toledo (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5602482"
+  },
+  "SEAT Toledo (3° Gen.)_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3625738"
+  },
+  "SEAT Toledo (3° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3625747"
+  },
+  "SEAT Toledo (4° Gen.)_delantera": {
+    "fuente": "By Clément Bucco-Lechat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=38141611"
+  },
+  "SEAT Toledo (4° Gen.)_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=38746994"
   },
   "SEAT Inca_delantera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147298800"
   },
   "SEAT Inca_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147298801"
   },
-  "SEAT Córdoba (1° Gen.)_delantera": {
-    "fuente": ""
+  "SEAT Córdoba (1° Gen.)(1993)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3789969"
   },
-  "SEAT Córdoba (1° Gen.)_trasera": {
-    "fuente": ""
+  "SEAT Córdoba (1° Gen.)(1993)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3789988"
   },
-  "SEAT Arosa_delantera": {
-    "fuente": ""
+  "SEAT Córdoba (1° Gen.)(1999)_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=5280552"
   },
-  "SEAT Arosa_trasera": {
-    "fuente": ""
+  "SEAT Córdoba (1° Gen.)(1999)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5280591"
   },
-  "SEAT Alhambra (1° Gen.)_delantera": {
-    "fuente": ""
+  "SEAT Córdoba (2° Gen.)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77401141"
   },
-  "SEAT Alhambra (1° Gen.)_trasera": {
-    "fuente": ""
+  "SEAT Córdoba (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77401140"
+  },
+  "SEAT Arosa (1997)_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=4427413"
+  },
+  "SEAT Arosa (1997)_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=4427426"
+  },
+  "SEAT Arosa (2000)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77511229"
+  },
+  "SEAT Arosa (2000)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77511230"
+  },
+  "SEAT Alhambra (1° Gen.)(1996)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65397699"
+  },
+  "SEAT Alhambra (1° Gen.)(1996)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65397701"
+  },
+  "SEAT Alhambra (1° Gen.)(2000)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4352241"
+  },
+  "SEAT Alhambra (1° Gen.)(2000)_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4352240"
+  },
+  "SEAT Alhambra (2° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=105654513"
+  },
+  "SEAT Alhambra (2° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=105654542"
   },
   "SEAT León (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=4529684"
   },
   "SEAT León (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4529691"
+  },
+  "SEAT León (2° Gen.)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=14947659"
+  },
+  "SEAT León (2° Gen.)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=14947680"
+  },
+  "SEAT León (3° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66018733"
+  },
+  "SEAT León (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68800883"
+  },
+  "SEAT León (4° Gen.)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=104799129"
+  },
+  "SEAT León (4° Gen.)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112182250"
   },
   "SEAT Exeo_delantera": {
-    "fuente": ""
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70162479"
   },
   "SEAT Exeo_trasera": {
-    "fuente": ""
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70162481"
+  },
+  "SEAT Exeo ST_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14814929"
+  },
+  "SEAT Exeo ST_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=14814931"
   },
   "SEAT Mii_delantera": {
-    "fuente": ""
+    "fuente": "Por Thesupermat - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=38745886"
   },
   "SEAT Mii_trasera": {
-    "fuente": ""
+    "fuente": "Por Thesupermat - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=38745895"
   },
   "SEAT Ateca_delantera": {
-    "fuente": ""
+    "fuente": "Por Matti Blume - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73747912"
   },
   "SEAT Ateca_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64271412"
   },
   "SEAT Arona_delantera": {
-    "fuente": ""
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69773728"
   },
   "SEAT Arona_trasera": {
-    "fuente": ""
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69773730"
   },
   "SEAT Tarraco_delantera": {
-    "fuente": ""
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78106039"
   },
   "SEAT Tarraco_trasera": {
-    "fuente": ""
-  },
-  "SEAT el-Born_delantera": {
-    "fuente": ""
-  },
-  "SEAT el-Born_trasera": {
-    "fuente": ""
-  },
-  "SEAT Tribu Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Tribu Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Salsa Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Salsa Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Tango Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Tango Concept_trasera": {
-    "fuente": ""
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78106042"
   },
   "SEAT Altea_delantera": {
-    "fuente": ""
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=15704230"
   },
   "SEAT Altea_trasera": {
-    "fuente": ""
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=15704235"
   },
   "SEAT Altea XL_delantera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=25855129"
   },
   "SEAT Altea XL_trasera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=25855153"
   },
-  "SEAT Bocanegra Concept_delantera": {
-    "fuente": ""
+  "SEAT Altea Freetrack_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5916761"
   },
-  "SEAT Bocanegra Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT IBE Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT IBE Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT IBL Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT IBL Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT IBX Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT IBX Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Minimo Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Minimo Concept_trasera": {
-    "fuente": ""
+  "SEAT Altea Freetrack_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5916766"
   },
   "SEAT Fórmula Concept_delantera": {
-    "fuente": ""
+    "fuente": "By Juancar22 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=46699897"
   },
   "SEAT Fórmula Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Bolero Concept_delantera": {
-    "fuente": ""
-  },
-  "SEAT Bolero Concept_trasera": {
-    "fuente": ""
-  },
-  "SEAT Ronda Crono_delantera": {
-    "fuente": ""
-  },
-  "SEAT Ronda Crono_trasera": {
-    "fuente": ""
-  },
-  "SEAT Proto C_delantera": {
-    "fuente": ""
-  },
-  "SEAT Proto C_trasera": {
-    "fuente": ""
-  },
-  "SEAT Proto TL_delantera": {
-    "fuente": ""
-  },
-  "SEAT Proto TL_trasera": {
-    "fuente": ""
-  },
-  "SEAT Cupra GT_delantera": {
-    "fuente": ""
-  },
-  "SEAT Cupra GT_trasera": {
-    "fuente": ""
+    "fuente": "By Stahlkocher - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1907899"
   },
   "Acura Integra (1° Gen.)_delantera": {
     "fuente": ""

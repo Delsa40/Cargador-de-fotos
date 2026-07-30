@@ -29264,18 +29264,6 @@
   "Alfa Romeo 146_trasera": {
     "fuente": "Di Rudolf Stricker - Opera propria, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2906473"
   },
-  "Ford Fiesta MK1_delantera": {
-    "fuente": "Por Kieran White - https://www.flickr.com/photos/117096107@N03/20445599040/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146639522"
-  },
-  "Ford Fiesta MK1_trasera": {
-    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2960567"
-  },
-  "Ford Fiesta MK2_delantera": {
-    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2784193"
-  },
-  "Ford Fiesta MK2_trasera": {
-    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2784250"
-  },
   "Ford Focus (1° Gen.)(1998)_delantera": {
     "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75221280"
   },
@@ -29503,6 +29491,168 @@
   },
   "Ford StreetKa_trasera": {
     "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67254941"
+  },
+  "Ford Fiesta (1° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2960563"
+  },
+  "Ford Fiesta (1° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2960567"
+  },
+  "Ford Fiesta (2° Gen.)_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2784193"
+  },
+  "Ford Fiesta (2° Gen.)_trasera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2784250"
+  },
+  "Ford Fiesta (3° Gen.)_delantera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=7003755"
+  },
+  "Ford Fiesta (3° Gen.)_trasera": {
+    "fuente": "Por M 93 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=7003756"
+  },
+  "Ford Fiesta (4° Gen.)(1995)_delantera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3373618"
+  },
+  "Ford Fiesta (4° Gen.)(1995)_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3373617"
+  },
+  "Ford Fiesta (4° Gen.)(1999)_delantera": {
+    "fuente": "Por Rudolf Stricker - Trabajo propio, Attribution, https://commons.wikimedia.org/w/index.php?curid=6054449"
+  },
+  "Ford Fiesta (4° Gen.)(1999)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=6054456"
+  },
+  "Ford Fiesta (5° Gen.)(2003)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74606092"
+  },
+  "Ford Fiesta (5° Gen.)(2003)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74606094"
+  },
+  "Ford Fiesta (5° Gen.)(2008)_delantera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=145431584"
+  },
+  "Ford Fiesta (5° Gen.)(2008)_trasera": {
+    "fuente": "By order_242 from Chile - Ford Fiesta 1.6 Trend 2008, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=36602518"
+  },
+  "Ford Fiesta XR2 (1° Gen.)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138563197"
+  },
+  "Ford Fiesta XR2 (1° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70966905"
+  },
+  "Ford Fiesta XR2 (2° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70855224"
+  },
+  "Ford Fiesta XR2 (2° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70855226"
+  },
+  "Ford Fiesta XR2i_delantera": {
+    "fuente": "By FotoSleuth - Fiesta XR2i, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=67119873"
+  },
+  "Ford Fiesta XR2i_trasera": {
+    "fuente": "By FotoSleuth - Fiesta XR2i, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=67119902"
+  },
+  "Ford Fiesta RS Turbo_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79989456"
+  },
+  "Ford Fiesta RS Turbo_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79989460"
+  },
+  "Ford Fiesta Sedan (4° Gen.)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51622631"
+  },
+  "Ford Fiesta Sedan (4° Gen.)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51622634"
+  },
+  "Ford Fiesta Sedan (5° Gen.)(2008)_delantera": {
+    "fuente": "By Bull-Doser at English Wikipedia - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=22679947"
+  },
+  "Ford Fiesta Sedan (5° Gen.)(2003)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=45374726"
+  },
+  "Ford Fiesta Sedan (5° Gen.)(2003)_trasera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=143707735"
+  },
+  "Ford Fiesta Sedan (5° Gen.)(2011)_delantera": {
+    "fuente": "By order_242 from Chile - Ford Fiesta Max 1.6 Ambiente 2011, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34584649"
+  },
+  "Ford Fiesta Sedan (5° Gen.)(2011)_trasera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=144182896"
+  },
+  "Ford Fiesta ST - XR4 (5° Gen.)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3368292"
+  },
+  "Ford Fiesta ST - XR4 (5° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3368295"
+  },
+  "Ford Fiesta (6° Gen.)(2008)_delantera": {
+    "fuente": "By steve lyon from yosemite, ca, usa - Ford Fiesta, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=117718566"
+  },
+  "Ford Fiesta (6° Gen.)(2008)_trasera": {
+    "fuente": "By steve lyon from yosemite, ca, usa - Ford Fiesta, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=117718567"
+  },
+  "Ford Fiesta (6° Gen.)(2013)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64896465"
+  },
+  "Ford Fiesta (6° Gen.)(2013)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64896470"
+  },
+  "Ford Fiesta Sedan (6° Gen.)(2008)_delantera": {
+    "fuente": "By U.S. National Highway Traffic Safety Administration - safercar.gov, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14575679"
+  },
+  "Ford Fiesta Sedan (6° Gen.)(2008)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10854845"
+  },
+  "Ford Fiesta Sedan (6° Gen.)(2013)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70574260"
+  },
+  "Ford Fiesta Sedan (6° Gen.)(2013)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70574259"
+  },
+  "Ford Fiesta ST (6° Gen.)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67321994"
+  },
+  "Ford Fiesta ST (6° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67321995"
+  },
+  "Ford Fiesta (7° Gen.)(2017)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62811564"
+  },
+  "Ford Fiesta (7° Gen.)(2017)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62811566"
+  },
+  "Ford Fiesta (7° Gen.)(2022)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136951334"
+  },
+  "Ford Fiesta (7° Gen.)(2022)_trasera": {
+    "fuente": "By Harvey Bold - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=145408421"
+  },
+  "Ford Fiesta Active_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72763214"
+  },
+  "Ford Fiesta Active_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72763215"
+  },
+  "Ford Fiesta ST (7° Gen.)(2018)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74806708"
+  },
+  "Ford Fiesta ST (7° Gen.)(2018)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74806710"
+  },
+  "Ford Fiesta ST (7° Gen.)(2022)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123077188"
+  },
+  "Ford Fiesta ST (7° Gen.)(2022)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123077197"
+  },
+  "Ford Courier (2000)_delantera": {
+    "fuente": "By Corvettec6r - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8983954"
+  },
+  "Ford Courier (2000)_trasera": {
+    "fuente": "By Corvettec6r - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8984137"
+  },
+  "Ford Courier (1996)_delantera": {
+    "fuente": "By order_242 from Chile - Ford Courier 1996, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34586538"
   },
   "Renault Fuego_delantera": {
     "fuente": "By Cjp24 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90527381"

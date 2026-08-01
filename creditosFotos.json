@@ -20910,69 +20910,180 @@
     "fuente": "By Jason Roberson - SPGP2008 594, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3860850"
   },
   "Holden 48-215_delantera": {
-    "fuente": ""
+    "fuente": "By NRMA Motoring and Services from Sydney, Australia - 2012 NRMA Motorfest, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18591115"
   },
   "Holden 48-215_trasera": {
-    "fuente": ""
+    "fuente": "By sv1ambo - 1951 Holden 48-215 (FX) sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38823821"
+  },
+  "Holden 50-2106_delantera": {
+    "fuente": "By Chris Keating from Melbourne, Australia - FX Holden ute, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3189134"
+  },
+  "Holden 50-2106_trasera": {
+    "fuente": "By Chris Keating from Melbourne, Australia - FX Holden ute (three-quarter rear), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3189148"
   },
   "Holden FJ_delantera": {
-    "fuente": ""
+    "fuente": "By -wuppertaler - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=162911405"
   },
   "Holden FJ_trasera": {
-    "fuente": ""
+    "fuente": "By -wuppertaler - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=162911413"
+  },
+  "Holden FJ Coupe Utility_delantera": {
+    "fuente": "By Pangalau - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=160922166"
+  },
+  "Holden FJ Coupe Utility_trasera": {
+    "fuente": "By Pangalau - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=160922170"
   },
   "Holden FE_delantera": {
-    "fuente": ""
+    "fuente": "By Jeremy from Sydney, Australia - Holden FE Special, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=47355355"
   },
   "Holden FE_trasera": {
-    "fuente": ""
+    "fuente": "By Jeremy from Sydney, Australia - Holden FE Special, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=47355334"
+  },
+  "Holden FE Utility_delantera": {
+    "fuente": "By sv1ambo - 1957 Holden FE utility, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38823550"
+  },
+  "Holden FE Utility_trasera": {
+    "fuente": "By sv1ambo - 1957 Holden FE utility, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38823551"
   },
   "Holden FC_delantera": {
-    "fuente": ""
+    "fuente": "By sv1ambo - 1958 Holden FC Special sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38824024"
   },
   "Holden FC_trasera": {
-    "fuente": ""
+    "fuente": "By sv1ambo - 1958 Holden FC Special, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38823768"
   },
-  "Holden FB_delantera": {
-    "fuente": ""
+  "Holden FC Wagon_delantera": {
+    "fuente": "By sv1ambo - 1959 Holden FC station wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38823560"
   },
-  "Holden FB_trasera": {
-    "fuente": ""
+  "Holden FC Wagon_trasera": {
+    "fuente": "By sv1ambo - 1959 Holden FC station wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38823558"
   },
-  "Holden EK_delantera": {
-    "fuente": ""
+  "Holden FC Utility_delantera": {
+    "fuente": "By Sicnag - 1959 Holden FC Utility, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40644602"
   },
-  "Holden EK_trasera": {
-    "fuente": ""
+  "Holden FC Utility_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden FC Ute, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37782654"
+  },
+  "Holden FB - EK_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden FB Special, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37782234"
+  },
+  "Holden FB - EK_trasera": {
+    "fuente": "By Steve Jackson JRG at English Wikipedia, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=9818579"
+  },
+  "Holden FB - EK Wagon_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden FB Special Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37781912"
+  },
+  "Holden FB - EK Wagon_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden FB Special Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37781911"
+  },
+  "Holden FB - EK Utility_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden FB Ute, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37780899"
+  },
+  "Holden FB - EK Utility_trasera": {
+    "fuente": "By sv1ambo - 1960 Holden FB utility, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38824036"
   },
   "Holden EJ_delantera": {
-    "fuente": ""
+    "fuente": "By Sicbird - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39178268"
   },
   "Holden EJ_trasera": {
-    "fuente": ""
+    "fuente": "By sv1ambo - 1963 Holden EJ Special sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38824042"
+  },
+  "Holden EJ Wagon_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden EJ Special Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43626110"
+  },
+  "Holden EJ Wagon_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden EJ Special Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43626102"
+  },
+  "Holden EJ Utility_delantera": {
+    "fuente": "By Museumsfotografierer - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5111947"
+  },
+  "Holden EJ Utility_trasera": {
+    "fuente": "By Bidgee, CC BY-SA 3.0 au, https://commons.wikimedia.org/w/index.php?curid=19134532"
   },
   "Holden EH_delantera": {
-    "fuente": ""
+    "fuente": "By FotoSleuth - Holden Standard, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=75933303"
   },
   "Holden EH_trasera": {
-    "fuente": ""
+    "fuente": "By Jeremy from Sydney, Australia - Holden EH Premier, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43626115"
+  },
+  "Holden EH Wagon_delantera": {
+    "fuente": "By Mightyrollaman (talk).Original uploader was Mightyrollaman at en.wikipedia - Transferred from en.wikipedia, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10873682"
+  },
+  "Holden EH Wagon_trasera": {
+    "fuente": "By Mightyrollaman (talk).Original uploader was Mightyrollaman at en.wikipedia - Transferred from en.wikipedia, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10873687"
   },
   "Holden HD_delantera": {
-    "fuente": ""
+    "fuente": "By Sicbird - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39178379"
   },
   "Holden HD_trasera": {
-    "fuente": ""
+    "fuente": "By sv1ambo - 1965 Holden HD Special, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38823627"
+  },
+  "Holden HD Wagon_delantera": {
+    "fuente": "By sv1ambo - 1965 Holden HD Premier station wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38823796"
+  },
+  "Holden HD Wagon_trasera": {
+    "fuente": "By sv1ambo - 1965 Holden HD Premier station wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38823802"
+  },
+  "Holden HD Utility_delantera": {
+    "fuente": "By Sicnag - 1965 Holden HD Utility, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=46872720"
+  },
+  "Holden HD Utility_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden HD X2 Ute, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43669143"
   },
   "Holden HR_delantera": {
-    "fuente": ""
+    "fuente": "By Sicbird - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39178583"
   },
   "Holden HR_trasera": {
+    "fuente": "By sv1ambo - 1967 Holden HR Premier 186S sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38824083"
+  },
+  "Holden HR Wagon_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden HR Special 186S Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37780992"
+  },
+  "Holden HR Wagon_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden HR Special 186S Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37782679"
+  },
+  "Holden HR Utility_delantera": {
+    "fuente": "By Sicnag - 1967 Holden HR Utility, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40644601"
+  },
+  "Holden HR Utility_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden HR Ute, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37782546"
+  },
+  "Holden Premier (HK)_delantera": {
+    "fuente": "By Riley from Christchurch, New Zealand - 1968 Holden Premier (HK), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64122972"
+  },
+  "Holden Premier (HK)_trasera": {
+    "fuente": "By Chris Keating from Melbourne, Victoria, Australia. - HK Holden Premier, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=6686111"
+  },
+  "Holden Belmont Utility (HK)_delantera": {
+    "fuente": "By Sicnag - Holden Belmont HK UtilityUploaded by OSX, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17241371"
+  },
+  "Holden Belmont Utility (HK)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden HK Belmont Ute, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39959290"
+  },
+  "Holden Belmont Wagon (HK)_delantera": {
+    "fuente": "By FotoSleuth - Holden Belmont stationwagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34729483"
+  },
+  "Holden Belmont Wagon (HK)_trasera": {
+    "fuente": "By FotoSleuth - Holden Belmont stationwagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34729481"
+  },
+  "Holden Kingswood (HK)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden Kingswood HK, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43625875"
+  },
+  "Holden Kingswood (HK)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Holden Kingswood HK, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43625855"
+  },
+  "Holden Kingswood Wagon (HK)_delantera": {
+    "fuente": "By GTHO - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44889365"
+  },
+  "Holden Brougham (HK)_delantera": {
+    "fuente": "By Sicbird - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39178671"
+  },
+  "Holden Brougham (HK)_trasera": {
+    "fuente": "By sv1ambo - 1968 Holden HK Brougham sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38824367"
+  },
+  "Holden Monaro (HK)_delantera": {
     "fuente": ""
   },
-  "Holden HK_delantera": {
-    "fuente": ""
-  },
-  "Holden HK_trasera": {
+  "Holden Monaro (HK)_trasera": {
     "fuente": ""
   },
   "Holden HT_delantera": {

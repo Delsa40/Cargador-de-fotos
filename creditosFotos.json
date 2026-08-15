@@ -2000,6 +2000,12 @@
   "IAME Justicialista Gran Sport_trasera": {
     "fuente": "By BugWarp - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138000809"
   },
+  "IAME Rastrojero (1° Gen.)_delantera": {
+    "fuente": "By BugWarp - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138000399"
+  },
+  "IAME Rastrojero (2° Gen.)_delantera": {
+    "fuente": "By BugWarp - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138002390"
+  },
   "Mercedes-Benz 170_delantera": {
     "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152580721"
   },
@@ -15098,6 +15104,18 @@
   "Mitsubishi Proudia (2° Gen.)_trasera": {
     "fuente": "By CEFICEFI - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25617182"
   },
+  "Mitsubishi Jeep_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3407609"
+  },
+  "Mitsubishi Jeep_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3410945"
+  },
+  "Mitsubishi Jeep Wagon_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3239476"
+  },
+  "Mitsubishi Jeep Wagon_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3239643"
+  },
   "Pontiac Chieftain - Star Chief (1953)_delantera": {
     "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167772458"
   },
@@ -22841,185 +22859,263 @@
   "Jeep FJ Fleetvan_delantera": {
     "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137632366"
   },
-  "Jeep Wagoneer (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Wagoneer (1963)_delantera": {
+    "fuente": "By Sicnag - 1964 Jeep SJ Wagoneer, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40646037"
   },
-  "Jeep Wagoneer (1° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Wagoneer (1967)_delantera": {
+    "fuente": "By Vetatur Fumare - 1967 Jeep Wagoneer, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=35601744"
   },
-  "Jeep Gladiator (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Wagoneer (1967)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=16381546"
   },
-  "Jeep Gladiator (1° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Wagoneer (1983)_delantera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195136085"
   },
-  "Jeep J-10 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Wagoneer (1983)_trasera": {
+    "fuente": "By Cutlass - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195136086"
   },
-  "Jeep J-10 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Wagoneer (1989)_delantera": {
+    "fuente": "By No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=520435"
   },
-  "Jeep J-20 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Wagoneer (1989)_trasera": {
+    "fuente": "By 2003Clio182 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138891473"
   },
-  "Jeep J-20 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Grand Wagoneer (1993)_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4379378"
   },
-  "Jeep Cherokee (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Grand Wagoneer (1993)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4379418"
   },
-  "Jeep Cherokee (1° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Wagoneer (2022)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151135449"
   },
-  "Jeep Grand Wagoneer (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Wagoneer (2022)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137217828"
   },
-  "Jeep Grand Wagoneer (1° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Wagoneer (2024)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=169268664"
   },
-  "Jeep Comanche (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Wagoneer (2024)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174631908"
   },
-  "Jeep Comanche (1° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Gladiator (1964)_delantera": {
+    "fuente": "By dave_7 from Lethbridge, Canada - Jeep Truck, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=38603293"
+  },
+  "Jeep Gladiator (1964)_trasera": {
+    "fuente": "By Greg Gjerdingen from Willmar, USA - 1967 Jeep J3000 Pick-Up, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=69238439"
+  },
+  "Jeep Gladiator (2020)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=133923689"
+  },
+  "Jeep Gladiator (2020)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=133948727"
+  },
+  "Jeep J-Series (1974)_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115160827"
+  },
+  "Jeep J-Series (1974)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=115160826"
+  },
+  "Jeep J-Series (1983)_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=22988714"
+  },
+  "Jeep J-Series (1983)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=22988721"
+  },
+  "Jeep Cherokee (1974)_delantera": {
+    "fuente": "Por CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6849269"
+  },
+  "Jeep Cherokee (1974)_trasera": {
+    "fuente": "Por CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6849291"
+  },
+  "Jeep Cherokee (1984)_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6629111"
+  },
+  "Jeep Cherokee (1984)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please also leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12065251"
+  },
+  "Jeep Cherokee (1987)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2334521"
+  },
+  "Jeep Cherokee (1987)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69989143"
+  },
+  "Jeep Cherokee - Liberty (2002)_delantera": {
+    "fuente": "Por Rudolf Stricker - Fotografía propia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2856697"
+  },
+  "Jeep Cherokee - Liberty (2002)_trasera": {
+    "fuente": "By National Highway Traffic Safety Administration - File, Description, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14571085"
+  },
+  "Jeep Cherokee - Liberty (2007)_delantera": {
+    "fuente": "Por CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be nice if this image is used anywhere other than Wikipedia. - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=5096268"
+  },
+  "Jeep Cherokee - Liberty (2007)_trasera": {
+    "fuente": "Por Thomas doerfer - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4776133"
+  },
+  "Jeep Cherokee (2013)_delantera": {
+    "fuente": "By Shadiac - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=29774442"
+  },
+  "Jeep Cherokee (2013)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=46006082"
+  },
+  "Jeep Cherokee (2019)_delantera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69577272"
+  },
+  "Jeep Cherokee (2019)_trasera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69577276"
+  },
+  "Jeep Cherokee (2026)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=193485336"
+  },
+  "Jeep Cherokee (2026)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=191156459"
+  },
+  "Jeep Cherokee Trailhawk (2019)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77471044"
+  },
+  "Jeep Cherokee Trailhawk (2019)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77471049"
+  },
+  "Jeep Comanche_delantera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12276867"
+  },
+  "Jeep Comanche_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you! - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12276879"
   },
   "Jeep Wrangler (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119539714"
   },
   "Jeep Wrangler (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=119539722"
+  },
+  "Jeep Wrangler (2° Gen.)_delantera": {
+    "fuente": "Por Bull-Doser - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2675129"
+  },
+  "Jeep Wrangler (2° Gen.)_trasera": {
+    "fuente": "By Makizox - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61658936"
+  },
+  "Jeep Wrangler (3° Gen.)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1488004"
+  },
+  "Jeep Wrangler (3° Gen.)_trasera": {
+    "fuente": "By Carluver23 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=46886110"
+  },
+  "Jeep Wrangler (4° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=173445404"
+  },
+  "Jeep Wrangler (4° Gen.)_trasera": {
+    "fuente": "By CZmarlin — Christopher Ziemnowicz — photo credit is required if this image is used anywhere other than Wikipedia. - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107643415"
   },
   "Jeep Grand Cherokee (1° Gen.)_delantera": {
-    "fuente": ""
+    "fuente": "Por Bull-Doser - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2645472"
   },
   "Jeep Grand Cherokee (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132375999"
   },
-  "Jeep Cherokee (2° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Grand Cherokee (2° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2154872"
   },
-  "Jeep Cherokee (2° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Grand Cherokee (2° Gen.)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3011063"
   },
-  "Jeep Liberty (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Grand Cherokee (3° Gen.)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1556768"
   },
-  "Jeep Liberty (1° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Grand Cherokee (3° Gen.)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72605993"
   },
-  "Jeep Commander (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Grand Cherokee SRT8 (2005)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2656327"
   },
-  "Jeep Commander (1° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Grand Cherokee SRT8 (2018)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156760979"
   },
-  "Jeep Compass (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Grand Cherokee (4° Gen.)(2010)_delantera": {
+    "fuente": "By U.S. National Highway Traffic Safety Administration - safercar.gov, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14575729"
   },
-  "Jeep Compass (1° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Grand Cherokee (4° Gen.)(2010)_trasera": {
+    "fuente": "By order_242 from Chile - Jeep Grand Cherokee 3.0 CRD Limited 2013, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34576296"
+  },
+  "Jeep Grand Cherokee (4° Gen.)(2013)_delantera": {
+    "fuente": "By Clément Bucco-Lechat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25254370"
+  },
+  "Jeep Grand Cherokee (4° Gen.)(2013)_trasera": {
+    "fuente": "By Clément Bucco-Lechat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=38140551"
+  },
+  "Jeep Grand Cherokee (5° Gen.)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116284607"
+  },
+  "Jeep Grand Cherokee (5° Gen.)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=116284610"
+  },
+  "Jeep Grand Cherokee L (5° Gen.)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=160070308"
+  },
+  "Jeep Grand Cherokee L (5° Gen.)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=160070347"
+  },
+  "Jeep Commander (2006)_delantera": {
+    "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=4237235"
+  },
+  "Jeep Commander (2006)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76331316"
+  },
+  "Jeep Grand Commander_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95444600"
+  },
+  "Jeep Grand Commander_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95444601"
+  },
+  "Jeep Commander (2021)_delantera": {
+    "fuente": "By Mateusmatsuda - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=148308510"
+  },
+  "Jeep Commander (2021)_trasera": {
+    "fuente": "By Garagem do Jabulas, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=111352207"
+  },
+  "Jeep Compass (2006)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136368599"
+  },
+  "Jeep Compass (2006)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136368598"
+  },
+  "Jeep Compass (2011)_delantera": {
+    "fuente": "By Michael Gil from Calgary, AB, Canada - 2011 Jeep Compass, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37165377"
+  },
+  "Jeep Compass (2011)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77511251"
+  },
+  "Jeep Compass (2017)_delantera": {
+    "fuente": "Por Navigator84 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59366314"
+  },
+  "Jeep Compass (2017)_trasera": {
+    "fuente": "Por Navigator84 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=58880199"
+  },
+  "Jeep Compass (2025)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=187401791"
+  },
+  "Jeep Compass (2025)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=187401813"
   },
   "Jeep Patriot_delantera": {
-    "fuente": ""
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122902949"
   },
   "Jeep Patriot_trasera": {
-    "fuente": ""
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66139415"
   },
-  "Jeep Renegade (1° Gen.)_delantera": {
-    "fuente": ""
+  "Jeep Renegade_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=39508745"
   },
-  "Jeep Renegade (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Jeep Gladiator (2° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Jeep Gladiator (2° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Jeep Wagoneer (2° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Jeep Wagoneer (2° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Jeep Grand Wagoneer (2° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Jeep Grand Wagoneer (2° Gen.)_trasera": {
-    "fuente": ""
+  "Jeep Renegade_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=39508362"
   },
   "Jeep Avenger_delantera": {
-    "fuente": ""
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=124443039"
   },
   "Jeep Avenger_trasera": {
-    "fuente": ""
-  },
-  "Jeep Wagoneer S_delantera": {
-    "fuente": ""
-  },
-  "Jeep Wagoneer S_trasera": {
-    "fuente": ""
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=124443031"
   },
   "Jeep Recon_delantera": {
-    "fuente": ""
-  },
-  "Jeep Recon_trasera": {
-    "fuente": ""
-  },
-  "Jeep Cherokee (3° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Jeep Cherokee (3° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Jeep CJ-4_delantera": {
-    "fuente": ""
-  },
-  "Jeep CJ-4_trasera": {
-    "fuente": ""
-  },
-  "Jeep DJ-3A_delantera": {
-    "fuente": ""
-  },
-  "Jeep DJ-3A_trasera": {
-    "fuente": ""
-  },
-  "Jeep DJ-5_delantera": {
-    "fuente": ""
-  },
-  "Jeep DJ-5_trasera": {
-    "fuente": ""
-  },
-  "Jeep DJ-6_delantera": {
-    "fuente": ""
-  },
-  "Jeep DJ-6_trasera": {
-    "fuente": ""
-  },
-  "Jeep Rural_delantera": {
-    "fuente": ""
-  },
-  "Jeep Rural_trasera": {
-    "fuente": ""
-  },
-  "Jeep FC-170 DRW_delantera": {
-    "fuente": ""
-  },
-  "Jeep FC-170 DRW_trasera": {
-    "fuente": ""
-  },
-  "Jeepster VJ_delantera": {
-    "fuente": ""
-  },
-  "Jeepster VJ_trasera": {
-    "fuente": ""
-  },
-  "Jeep Wagoneer Limited (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Jeep Wagoneer Limited (1° Gen.)_trasera": {
-    "fuente": ""
+    "fuente": "By Kidfly182 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=190604058"
   },
   "Opel Patentmotorwagen System Lutzmann_delantera": {
     "fuente": ""

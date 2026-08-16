@@ -13898,6 +13898,12 @@
   "Willys MB - Ford GPW_trasera": {
     "fuente": "By Iwao from Tokyo, Japan - Ford Model GPW - Jeep, 1943, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=182954151"
   },
+  "Mini_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3571694"
+  },
+  "Mini_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3571696"
+  },
   "Lotec Sirius_delantera": {
     "fuente": "By Pyrosuwu - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=185006599"
   },
@@ -24311,22 +24317,10 @@
   "Daewoo_trasera": {
     "fuente": ""
   },
-  "Mini viejo_delantera": {
-    "fuente": ""
-  },
-  "Mini viejo_trasera": {
-    "fuente": ""
-  },
   "Rambler_delantera": {
     "fuente": ""
   },
   "Rambler_trasera": {
-    "fuente": ""
-  },
-  "Vento - Bora - Jetta_delantera": {
-    "fuente": ""
-  },
-  "Vento - Bora - Jetta_trasera": {
     "fuente": ""
   },
   "Perodua_delantera": {
@@ -29588,6 +29582,192 @@
   "Volkswagen Amarok (2° Gen.)_trasera": {
     "fuente": "By MarcelX42 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128597071"
   },
+  "Volkswagen Jetta - Atlantic - Fox (1979)_delantera": {
+    "fuente": "By Sven Storbeck - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=304687"
+  },
+  "Volkswagen Jetta - Atlantic - Fox (1979)_trasera": {
+    "fuente": "By MARC912374 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32708762"
+  },
+  "Volkswagen Jetta (1984)_delantera": {
+    "fuente": "By User Bcirker on en.wikipedia - Own work (Original text: Self Made Photo.), CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=960996"
+  },
+  "Volkswagen Jetta (1984)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3217801"
+  },
+  "Volkswagen Jetta King (1997)_delantera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80205427"
+  },
+  "Volkswagen Jetta King (1997)_trasera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80205428"
+  },
+  "Volkswagen Jetta Pioneer (2010)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74770723"
+  },
+  "Volkswagen Jetta Pioneer (2010)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25006745"
+  },
+  "Volkswagen New Jetta (2013)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45174018"
+  },
+  "Volkswagen New Jetta (2013)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25006888"
+  },
+  "Volkswagen New Jetta (2017)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63016319"
+  },
+  "Volkswagen New Jetta (2017)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63016320"
+  },
+  "Volkswagen Vento - Jetta (1992)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3747182"
+  },
+  "Volkswagen Vento - Jetta (1992)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3747186"
+  },
+  "Volkswagen Bora - Jetta - Clásico (1999)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75345199"
+  },
+  "Volkswagen Bora - Jetta - Clásico (1999)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75345203"
+  },
+  "Volkswagen Bora Variant - Jetta Wagon (2001)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6651382"
+  },
+  "Volkswagen Bora Variant - Jetta Wagon (2001)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18737306"
+  },
+  "Volkswagen Bora - Jetta - Clásico (2008)_delantera": {
+    "fuente": "By Analogue Kid at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9373554"
+  },
+  "Volkswagen Bora - Jetta - Clásico (2008)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133149998"
+  },
+  "Volkswagen Vento - Bora - Jetta - Sagitar (2005)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15135631"
+  },
+  "Volkswagen Vento - Bora - Jetta - Sagitar (2005)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15135634"
+  },
+  "Volkswagen Vento - Bora - Jetta - Sagitar GLI (2005)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=19335915"
+  },
+  "Volkswagen Vento - Golf Variant - Jetta SportWagen (2007)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10131121"
+  },
+  "Volkswagen Vento - Golf Variant - Jetta SportWagen (2007)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10131148"
+  },
+  "Volkswagen Golf Variant - Jetta SportWagen (2010)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10934175"
+  },
+  "Volkswagen Golf Variant - Jetta SportWagen (2010)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10934339"
+  },
+  "Volkswagen Golf Plus_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86063197"
+  },
+  "Volkswagen Golf Plus_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3217769"
+  },
+  "Volkswagen CrossGolf_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15250521"
+  },
+  "Volkswagen CrossGolf_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15250539"
+  },
+  "Volkswagen Vento - Jetta - Sagitar (2010)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18737558"
+  },
+  "Volkswagen Vento - Jetta - Sagitar (2010)_trasera": {
+    "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=161109356"
+  },
+  "Volkswagen Vento - Jetta - Sagitar (2015)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45342594"
+  },
+  "Volkswagen Vento - Jetta - Sagitar (2015)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40021401"
+  },
+  "Volkswagen Vento - Jetta - Sagitar (2018)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77512856"
+  },
+  "Volkswagen Vento - Jetta - Sagitar (2018)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77512854"
+  },
+  "Volkswagen Vento - Jetta - Sagitar (2025)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164532143"
+  },
+  "Volkswagen Vento - Jetta - Sagitar (2025)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=164532140"
+  },
+  "Volkswagen Vento - Jetta - Sagitar GLI (2014)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134661035"
+  },
+  "Volkswagen Vento - Jetta - Sagitar GLI (2014)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134661036"
+  },
+  "Volkswagen Vento - Jetta - Sagitar GLI (2017)_delantera": {
+    "fuente": "By Alistair Fernandez - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=58302668"
+  },
+  "Volkswagen Vento - Jetta - Sagitar GLI (2017)_trasera": {
+    "fuente": "By Alistair Fernandez - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=58302670"
+  },
+  "Volkswagen Vento - Jetta - Sagitar GLI (2019)_delantera": {
+    "fuente": "By HJUdall - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=181140330"
+  },
+  "Volkswagen Vento - Jetta - Sagitar GLI (2019)_trasera": {
+    "fuente": "By Charles from Port Chester, New York - Volkswagen Jetta GLI 40th Anniversary Edition (2024), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=147122057"
+  },
+  "Volkswagen Vento - Jetta - Sagitar GLI (2025)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=161393293"
+  },
+  "Volkswagen Bora HS_delantera": {
+    "fuente": "By JamesYoung8167 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127661423"
+  },
+  "Volkswagen Bora HS_trasera": {
+    "fuente": "By JamesYoung8167 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=127661422"
+  },
+  "Volkswagen New Bora (2008)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25688114"
+  },
+  "Volkswagen New Bora (2008)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25688116"
+  },
+  "Volkswagen Bora (2013)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36887970"
+  },
+  "Volkswagen Bora (2013)_trasera": {
+    "fuente": "By H.C. - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26529184"
+  },
+  "Volkswagen Bora (2016)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50415969"
+  },
+  "Volkswagen Bora (2016)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71825361"
+  },
+  "Volkswagen C-Trek_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59418624"
+  },
+  "Volkswagen C-Trek_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59418622"
+  },
+  "Volkswagen Bora (2018)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78257464"
+  },
+  "Volkswagen Bora (2018)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78257465"
+  },
+  "Volkswagen Sagitar L_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=192768410"
+  },
+  "Volkswagen Sagitar L_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=175773092"
+  },
+  "Volkswagen Virtus_delantera": {
+    "fuente": "Por Darcius Oliveira - YouTube: https://www.youtube.com/watch?v=v3z3GwIEQLI – View/save archived versions on archive.org, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=92679145"
+  },
+  "Volkswagen Virtus_trasera": {
+    "fuente": "Por Darcius Oliveira - YouTube: https://www.youtube.com/watch?v=v3z3GwIEQLI – View/save archived versions on archive.org, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=92679144"
+  },
   "Peugeot 107_delantera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67146364"
   },
@@ -32506,6 +32686,9 @@
   },
   "Ferrari Testarossa_trasera": {
     "fuente": "Por Taisyo - photo taken by Taisyo, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=122228"
+  },
+  "Ferrari 849 Testarossa_delantera": {
+    "fuente": "By Andrew Bone from Weymouth, England, UK. - Flickr, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=194194034"
   },
   "Ferrari FF_delantera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=109992773"

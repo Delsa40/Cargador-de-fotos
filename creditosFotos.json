@@ -15881,6 +15881,30 @@
   "Pontiac Matiz (2007)_trasera": {
     "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=8609392"
   },
+  "Pontiac Wave Hatchback (2002)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125367399"
+  },
+  "Pontiac Wave Hatchback (2002)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125367400"
+  },
+  "Pontiac Wave Sedan (2002)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120746843"
+  },
+  "Pontiac Wave Sedan (2002)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=108277680"
+  },
+  "Pontiac Wave Sedan (2007)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2671857"
+  },
+  "Pontiac Wave Sedan (2007)_trasera": {
+    "fuente": "By Bull-Doser - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=10529312"
+  },
+  "Pontiac Wave Hatchback (2009)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120746863"
+  },
+  "Pontiac Wave Hatchback (2009)_trasera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125417409"
+  },
   "Suzuki Suzulight SS_delantera": {
     "fuente": "By Rainmaker47 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32104708"
   },
@@ -32150,6 +32174,54 @@
   "Ford Escape (2° Gen.)_trasera": {
     "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68333622"
   },
+  "Ford Territory (2004)_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=42596676"
+  },
+  "Ford Territory (2004)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=42596707"
+  },
+  "Ford Territory (2011)_delantera": {
+    "fuente": "By ArchipelagoOcean - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132825684"
+  },
+  "Ford Territory (2011)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=41199796"
+  },
+  "FPV F6X_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Ford FPV F6-X, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43664694"
+  },
+  "FPV F6X_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Ford FPV F6-X, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=43664657"
+  },
+  "Ford Territory (2018)_delantera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78147144"
+  },
+  "Ford Territory (2018)_trasera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78147143"
+  },
+  "Ford Territory - Equator Sport (2022)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=155223278"
+  },
+  "Ford Territory - Equator Sport (2022)_trasera": {
+    "fuente": "By Captainmorlypogi1959 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137176368"
+  },
+  "Ford Territory - Equator Sport (2025)_delantera": {
+    "fuente": "By Captainmorlypogi1959 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=190418040"
+  },
+  "Ford Territory - Equator Sport (2025)_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=179837630"
+  },
+  "Ford Equator (2022)_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=104141893"
+  },
+  "Ford Equator (2022)_trasera": {
+    "fuente": "By Zotyefan - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129261129"
+  },
+  "Ford Equator (2025)_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164250869"
+  },
+  "Ford Equator (2025)_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164250868"
+  },
   "Renault Fuego_delantera": {
     "fuente": "By Cjp24 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90527381"
   },
@@ -33505,6 +33577,111 @@
   },
   "Chevrolet Montana (3° Gen.)_trasera": {
     "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=143801656"
+  },
+  "Chevrolet Sonic - Aveo Hatchback (2011)_delantera": {
+    "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71212955"
+  },
+  "Chevrolet Sonic - Aveo Hatchback (2011)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69707717"
+  },
+  "Chevrolet Sonic - Aveo Sedan (2011)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123335240"
+  },
+  "Chevrolet Sonic - Aveo Sedan (2011)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123335241"
+  },
+  "Chevrolet Sonic - Aveo Hatchback (2017)_delantera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109436703"
+  },
+  "Chevrolet Sonic - Aveo Hatchback (2017)_trasera": {
+    "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109436702"
+  },
+  "Chevrolet Sonic - Aveo Sedan (2017)_delantera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68685455"
+  },
+  "Chevrolet Sonic - Aveo Sedan (2017)_trasera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68685456"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Hatchback (2002)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5101579"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Hatchback (2002)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5101583"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Sedan (2002)_delantera": {
+    "fuente": "By Elise240SX - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124622267"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Sedan (2002)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Chevrolet Aveo LT Sedan 2004, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76175417"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Hatchback (2007)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73685209"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Hatchback (2007)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968135"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Sedan (2007)_delantera": {
+    "fuente": "By order_242 from Chile - Chevrolet Aveo LT Sedan 2006, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34728673"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Sedan (2008)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2728253"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Sedan (2008)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4944622"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Hatchback (2009)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=19013263"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Hatchback (2009)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81616059"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Sedan (2012)_delantera": {
+    "fuente": "By Bull-Doser at English Wikipedia - Own work., Public Domain, https://commons.wikimedia.org/w/index.php?curid=22713545"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Sedan (2009)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86310175"
+  },
+  "Chevrolet Aveo - Kalos - Lova - Nexia Sedan (2009)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86310176"
+  },
+  "Chevrolet Aveo (2015)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39981024"
+  },
+  "Chevrolet Aveo (2015)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39981025"
+  },
+  "Chevrolet Sonic Hatchback RS (2019)_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=103428564"
+  },
+  "Chevrolet Sonic Hatchback RS (2019)_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=103429256"
+  },
+  "Chevrolet Sail Sedan (2010)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76099005"
+  },
+  "Chevrolet Sail Sedan (2010)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76099006"
+  },
+  "Chevrolet Sail Hatchback (2010)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76099004"
+  },
+  "Chevrolet Sail Hatchback (2010)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19932133"
+  },
+  "Chevrolet Sail - Aveo (2014)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86307292"
+  },
+  "Chevrolet Sail - Aveo (2014)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86307294"
+  },
+  "Chevrolet Sail - Aveo - Optra Hatchback (2023)_delantera": {
+    "fuente": "By Chevrolet México, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=132263256"
+  },
+  "Chevrolet Sail - Aveo - Optra Sedan (2023)_delantera": {
+    "fuente": "By Chevrolet México, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=132749580"
+  },
+  "Chevrolet Sail - Aveo - Optra Sedan (2023)_trasera": {
+    "fuente": "By Chevrolet México, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=132749608"
   },
   "Pagani Zonda_delantera": {
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77178985"

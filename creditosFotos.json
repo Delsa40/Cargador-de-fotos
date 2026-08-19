@@ -2270,6 +2270,12 @@
   "Mercedes-Benz S-Class (W222)_trasera": {
     "fuente": "By Benespit - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134673200"
   },
+  "Mercedes-Benz X-Class_delantera": {
+    "fuente": "Par Vauxford — Travail personnel, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67017981"
+  },
+  "Mercedes-Benz X-Class_trasera": {
+    "fuente": "Par Vauxford — Travail personnel, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67017982"
+  },
   "Mercedes-Benz CL-Class (C140)_delantera": {
     "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3899910"
   },
@@ -8773,6 +8779,12 @@
   },
   "Renault Caravelle - Floride_trasera": {
     "fuente": "Por Robotriot - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15911366"
+  },
+  "Renault Alaskan_delantera": {
+    "fuente": "Par Matti Blume — Travail personnel, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73765798"
+  },
+  "Renault Alaskan_trasera": {
+    "fuente": "Par Alexander Migl — Travail personnel, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62541482"
   },
   "Alpine A110 (1° Gen.)_delantera": {
     "fuente": "By Rundvald - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9462869"
@@ -24695,28 +24707,730 @@
   "Land Rover Defender Adventure Concept_trasera": {
     "fuente": ""
   },
-  "Saab_delantera": {
+  "Saab 92_delantera": {
     "fuente": ""
   },
-  "Saab_trasera": {
+  "Saab 92_trasera": {
     "fuente": ""
   },
-  "Isuzu_delantera": {
+  "Saab 93 (1° Gen.)_delantera": {
     "fuente": ""
   },
-  "Isuzu_trasera": {
+  "Saab 93 (1° Gen.)_trasera": {
     "fuente": ""
   },
-  "Tata_delantera": {
+  "Saab GT750_delantera": {
     "fuente": ""
   },
-  "Tata_trasera": {
+  "Saab GT750_trasera": {
     "fuente": ""
   },
-  "Lada_delantera": {
+  "Saab Sonett (1° Gen.)_delantera": {
     "fuente": ""
   },
-  "Lada_trasera": {
+  "Saab Sonett (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Saab 95_delantera": {
+    "fuente": ""
+  },
+  "Saab 95_trasera": {
+    "fuente": ""
+  },
+  "Saab 96_delantera": {
+    "fuente": ""
+  },
+  "Saab 96_trasera": {
+    "fuente": ""
+  },
+  "Saab 99 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Saab 99 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Saab 90_delantera": {
+    "fuente": ""
+  },
+  "Saab 90_trasera": {
+    "fuente": ""
+  },
+  "Saab-Lancia 600_delantera": {
+    "fuente": ""
+  },
+  "Saab-Lancia 600_trasera": {
+    "fuente": ""
+  },
+  "Saab 900 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Saab 900 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Saab 9000 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Saab 9000 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Saab 9-2X_delantera": {
+    "fuente": ""
+  },
+  "Saab 9-2X_trasera": {
+    "fuente": ""
+  },
+  "Saab 9-3 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Saab 9-3 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Saab 9-3X_delantera": {
+    "fuente": ""
+  },
+  "Saab 9-3X_trasera": {
+    "fuente": ""
+  },
+  "Saab 9-4X_delantera": {
+    "fuente": ""
+  },
+  "Saab 9-4X_trasera": {
+    "fuente": ""
+  },
+  "Saab 9-5 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Saab 9-5 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Saab 9-7X_delantera": {
+    "fuente": ""
+  },
+  "Saab 9-7X_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Bellel_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Bellel_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Bellett_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Bellett_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Florian_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Florian_trasera": {
+    "fuente": ""
+  },
+  "Isuzu 117 Coupé_delantera": {
+    "fuente": ""
+  },
+  "Isuzu 117 Coupé_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Faster (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Faster (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu KB (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu KB (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Gemini (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Gemini (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Piazza (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Piazza (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Aska (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Aska (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Trooper (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Trooper (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Fargo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Fargo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Amigo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Amigo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu MU (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu MU (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Rodeo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Rodeo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Wizard (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Wizard (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Panther (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Panther (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Geminett_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Geminett_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Geminett II_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Geminett II_trasera": {
+    "fuente": ""
+  },
+  "Isuzu VehiCROSS_delantera": {
+    "fuente": ""
+  },
+  "Isuzu VehiCROSS_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Hombre_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Hombre_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Oasis_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Oasis_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Axiom_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Axiom_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Ascender_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Ascender_trasera": {
+    "fuente": ""
+  },
+  "Isuzu MU-7_delantera": {
+    "fuente": ""
+  },
+  "Isuzu MU-7_trasera": {
+    "fuente": ""
+  },
+  "Isuzu D-Max (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu D-Max (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu MU-X (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu MU-X (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Filly (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Filly (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Vertex_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Vertex_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Vega_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Vega_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Midi_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Midi_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Traga_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Traga_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Bison_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Bison_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Campo_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Campo_trasera": {
+    "fuente": ""
+  },
+  "Isuzu LUV_delantera": {
+    "fuente": ""
+  },
+  "Isuzu LUV_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Pickup (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Pickup (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu TF (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu TF (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu i-Series_delantera": {
+    "fuente": ""
+  },
+  "Isuzu i-Series_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Reach_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Reach_trasera": {
+    "fuente": ""
+  },
+  "Isuzu ELF (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu ELF (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Forward (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Forward (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu GIGA (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu GIGA (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Journey-Q (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Journey-Q (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Journey-K (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Journey-K (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Journey-J (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Journey-J (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu Super Cruiser_delantera": {
+    "fuente": ""
+  },
+  "Isuzu Super Cruiser_trasera": {
+    "fuente": ""
+  },
+  "Isuzu GALA (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu GALA (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu GALA mio (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu GALA mio (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu ERGA (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu ERGA (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Isuzu ERGA mio (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Isuzu ERGA mio (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Tata Sierra_delantera": {
+    "fuente": ""
+  },
+  "Tata Sierra_trasera": {
+    "fuente": ""
+  },
+  "Tata Estate_delantera": {
+    "fuente": ""
+  },
+  "Tata Estate_trasera": {
+    "fuente": ""
+  },
+  "Tata Sumo_delantera": {
+    "fuente": ""
+  },
+  "Tata Sumo_trasera": {
+    "fuente": ""
+  },
+  "Tata Safari_delantera": {
+    "fuente": ""
+  },
+  "Tata Safari_trasera": {
+    "fuente": ""
+  },
+  "Tata Indica_delantera": {
+    "fuente": ""
+  },
+  "Tata Indica_trasera": {
+    "fuente": ""
+  },
+  "Tata Indigo_delantera": {
+    "fuente": ""
+  },
+  "Tata Indigo_trasera": {
+    "fuente": ""
+  },
+  "Tata Indigo Marina_delantera": {
+    "fuente": ""
+  },
+  "Tata Indigo Marina_trasera": {
+    "fuente": ""
+  },
+  "Tata Sumo Grande_delantera": {
+    "fuente": ""
+  },
+  "Tata Sumo Grande_trasera": {
+    "fuente": ""
+  },
+  "Tata Spacio_delantera": {
+    "fuente": ""
+  },
+  "Tata Spacio_trasera": {
+    "fuente": ""
+  },
+  "Tata Winger_delantera": {
+    "fuente": ""
+  },
+  "Tata Winger_trasera": {
+    "fuente": ""
+  },
+  "Tata Magic_delantera": {
+    "fuente": ""
+  },
+  "Tata Magic_trasera": {
+    "fuente": ""
+  },
+  "Tata Nano_delantera": {
+    "fuente": ""
+  },
+  "Tata Nano_trasera": {
+    "fuente": ""
+  },
+  "Tata Aria_delantera": {
+    "fuente": ""
+  },
+  "Tata Aria_trasera": {
+    "fuente": ""
+  },
+  "Tata Manza_delantera": {
+    "fuente": ""
+  },
+  "Tata Manza_trasera": {
+    "fuente": ""
+  },
+  "Tata Venture_delantera": {
+    "fuente": ""
+  },
+  "Tata Venture_trasera": {
+    "fuente": ""
+  },
+  "Tata Xenon_delantera": {
+    "fuente": ""
+  },
+  "Tata Xenon_trasera": {
+    "fuente": ""
+  },
+  "Tata Hexa_delantera": {
+    "fuente": ""
+  },
+  "Tata Hexa_trasera": {
+    "fuente": ""
+  },
+  "Tata Zest_delantera": {
+    "fuente": ""
+  },
+  "Tata Zest_trasera": {
+    "fuente": ""
+  },
+  "Tata Bolt_delantera": {
+    "fuente": ""
+  },
+  "Tata Bolt_trasera": {
+    "fuente": ""
+  },
+  "Tata Tiago_delantera": {
+    "fuente": ""
+  },
+  "Tata Tiago_trasera": {
+    "fuente": ""
+  },
+  "Tata Tigor_delantera": {
+    "fuente": ""
+  },
+  "Tata Tigor_trasera": {
+    "fuente": ""
+  },
+  "Tata Nexon_delantera": {
+    "fuente": ""
+  },
+  "Tata Nexon_trasera": {
+    "fuente": ""
+  },
+  "Tata Altroz_delantera": {
+    "fuente": ""
+  },
+  "Tata Altroz_trasera": {
+    "fuente": ""
+  },
+  "Tata Punch_delantera": {
+    "fuente": ""
+  },
+  "Tata Punch_trasera": {
+    "fuente": ""
+  },
+  "Tata Harrier_delantera": {
+    "fuente": ""
+  },
+  "Tata Harrier_trasera": {
+    "fuente": ""
+  },
+  "Tata Curvv_delantera": {
+    "fuente": ""
+  },
+  "Tata Curvv_trasera": {
+    "fuente": ""
+  },
+  "Tata Sierra (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Tata Sierra (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada 1200_delantera": {
+    "fuente": ""
+  },
+  "Lada 1200_trasera": {
+    "fuente": ""
+  },
+  "Lada 1300_delantera": {
+    "fuente": ""
+  },
+  "Lada 1300_trasera": {
+    "fuente": ""
+  },
+  "Lada 1500_delantera": {
+    "fuente": ""
+  },
+  "Lada 1500_trasera": {
+    "fuente": ""
+  },
+  "Lada 1600_delantera": {
+    "fuente": ""
+  },
+  "Lada 1600_trasera": {
+    "fuente": ""
+  },
+  "Lada 2101_delantera": {
+    "fuente": ""
+  },
+  "Lada 2101_trasera": {
+    "fuente": ""
+  },
+  "Lada 2102_delantera": {
+    "fuente": ""
+  },
+  "Lada 2102_trasera": {
+    "fuente": ""
+  },
+  "Lada 2103_delantera": {
+    "fuente": ""
+  },
+  "Lada 2103_trasera": {
+    "fuente": ""
+  },
+  "Lada 2104_delantera": {
+    "fuente": ""
+  },
+  "Lada 2104_trasera": {
+    "fuente": ""
+  },
+  "Lada 2105_delantera": {
+    "fuente": ""
+  },
+  "Lada 2105_trasera": {
+    "fuente": ""
+  },
+  "Lada 2106_delantera": {
+    "fuente": ""
+  },
+  "Lada 2106_trasera": {
+    "fuente": ""
+  },
+  "Lada 2107_delantera": {
+    "fuente": ""
+  },
+  "Lada 2107_trasera": {
+    "fuente": ""
+  },
+  "Lada Niva (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Niva (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada Oka_delantera": {
+    "fuente": ""
+  },
+  "Lada Oka_trasera": {
+    "fuente": ""
+  },
+  "Lada Samara (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Samara (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada 110 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada 110 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada 111_delantera": {
+    "fuente": ""
+  },
+  "Lada 111_trasera": {
+    "fuente": ""
+  },
+  "Lada 112_delantera": {
+    "fuente": ""
+  },
+  "Lada 112_trasera": {
+    "fuente": ""
+  },
+  "Lada Nadezhda_delantera": {
+    "fuente": ""
+  },
+  "Lada Nadezhda_trasera": {
+    "fuente": ""
+  },
+  "Lada Kalina (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Kalina (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada Priora (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Priora (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada Granta (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Granta (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada Largus (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Largus (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada Vesta (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Vesta (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada XRay_delantera": {
+    "fuente": ""
+  },
+  "Lada XRay_trasera": {
+    "fuente": ""
+  },
+  "Lada Niva Travel_delantera": {
+    "fuente": ""
+  },
+  "Lada Niva Travel_trasera": {
+    "fuente": ""
+  },
+  "Lada Niva Legend_delantera": {
+    "fuente": ""
+  },
+  "Lada Niva Legend_trasera": {
+    "fuente": ""
+  },
+  "Lada Aura_delantera": {
+    "fuente": ""
+  },
+  "Lada Aura_trasera": {
+    "fuente": ""
+  },
+  "Lada Iskra_delantera": {
+    "fuente": ""
+  },
+  "Lada Iskra_trasera": {
     "fuente": ""
   },
   "Noble_delantera": {
@@ -24737,16 +25451,814 @@
   "Zagato_trasera": {
     "fuente": ""
   },
-  "Daihatsu_delantera": {
+  "Daihatsu Compagno_delantera": {
     "fuente": ""
   },
-  "Daihatsu_trasera": {
+  "Daihatsu Compagno_trasera": {
     "fuente": ""
   },
-  "Daewoo_delantera": {
+  "Daihatsu Fellow (1° Gen.)_delantera": {
     "fuente": ""
   },
-  "Daewoo_trasera": {
+  "Daihatsu Fellow (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Charade (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Charade (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Mira (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Mira (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Leeza (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Leeza (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Applause (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Applause (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Opti (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Opti (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Move (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Move (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Naked_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Naked_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu YRV_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu YRV_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Terios (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Terios (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Sirion (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Sirion (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Copen (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Copen (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Atrai (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Atrai (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Hijet (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Hijet (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Tanto (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Tanto (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Boon (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Boon (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Sonica_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Sonica_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Esse_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Esse_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Be-go (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Be-go (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Materia_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Materia_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Tanto Exe (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Tanto Exe (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Mira Cocoa (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Mira Cocoa (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Mira e:S (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Mira e:S (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Wake_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Wake_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Cast (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Cast (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Thor (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Thor (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Rocky (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Rocky (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Taft (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Taft (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Taft (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Taft (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Tanto (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Tanto (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Gran Max (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Gran Max (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Luxio (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Luxio (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Zebra (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Zebra (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Feroza (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Feroza (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Rocky (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Rocky (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Xenia (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Xenia (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Ayla (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Ayla (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Sigra (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Sigra (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Terios (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Terios (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Luxio (2° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Luxio (2° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daihatsu Rocky (3° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daihatsu Rocky (3° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Rover 10_delantera": {
+    "fuente": ""
+  },
+  "Rover 10_trasera": {
+    "fuente": ""
+  },
+  "Rover 12_delantera": {
+    "fuente": ""
+  },
+  "Rover 12_trasera": {
+    "fuente": ""
+  },
+  "Rover 14_delantera": {
+    "fuente": ""
+  },
+  "Rover 14_trasera": {
+    "fuente": ""
+  },
+  "Rover 16_delantera": {
+    "fuente": ""
+  },
+  "Rover 16_trasera": {
+    "fuente": ""
+  },
+  "Rover 20_delantera": {
+    "fuente": ""
+  },
+  "Rover 20_trasera": {
+    "fuente": ""
+  },
+  "Rover 25_delantera": {
+    "fuente": ""
+  },
+  "Rover 25_trasera": {
+    "fuente": ""
+  },
+  "Rover 30_delantera": {
+    "fuente": ""
+  },
+  "Rover 30_trasera": {
+    "fuente": ""
+  },
+  "Rover 45_delantera": {
+    "fuente": ""
+  },
+  "Rover 45_trasera": {
+    "fuente": ""
+  },
+  "Rover 60_delantera": {
+    "fuente": ""
+  },
+  "Rover 60_trasera": {
+    "fuente": ""
+  },
+  "Rover 75_delantera": {
+    "fuente": ""
+  },
+  "Rover 75_trasera": {
+    "fuente": ""
+  },
+  "Rover 90_delantera": {
+    "fuente": ""
+  },
+  "Rover 90_trasera": {
+    "fuente": ""
+  },
+  "Rover 100_delantera": {
+    "fuente": ""
+  },
+  "Rover 100_trasera": {
+    "fuente": ""
+  },
+  "Rover 200 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Rover 200 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Rover 400 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Rover 400 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Rover 600 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Rover 600 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Rover 800 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Rover 800 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Rover SD1_delantera": {
+    "fuente": ""
+  },
+  "Rover SD1_trasera": {
+    "fuente": ""
+  },
+  "Rover P3_delantera": {
+    "fuente": ""
+  },
+  "Rover P3_trasera": {
+    "fuente": ""
+  },
+  "Rover P4_delantera": {
+    "fuente": ""
+  },
+  "Rover P4_trasera": {
+    "fuente": ""
+  },
+  "Rover P5_delantera": {
+    "fuente": ""
+  },
+  "Rover P5_trasera": {
+    "fuente": ""
+  },
+  "Rover P6_delantera": {
+    "fuente": ""
+  },
+  "Rover P6_trasera": {
+    "fuente": ""
+  },
+  "Rover P6 2000_delantera": {
+    "fuente": ""
+  },
+  "Rover P6 2000_trasera": {
+    "fuente": ""
+  },
+  "Rover P8_delantera": {
+    "fuente": ""
+  },
+  "Rover P8_trasera": {
+    "fuente": ""
+  },
+  "Rover 2000_delantera": {
+    "fuente": ""
+  },
+  "Rover 2000_trasera": {
+    "fuente": ""
+  },
+  "Rover 2200_delantera": {
+    "fuente": ""
+  },
+  "Rover 2200_trasera": {
+    "fuente": ""
+  },
+  "Rover 2300_delantera": {
+    "fuente": ""
+  },
+  "Rover 2300_trasera": {
+    "fuente": ""
+  },
+  "Rover 2600_delantera": {
+    "fuente": ""
+  },
+  "Rover 2600_trasera": {
+    "fuente": ""
+  },
+  "Rover 3500_delantera": {
+    "fuente": ""
+  },
+  "Rover 3500_trasera": {
+    "fuente": ""
+  },
+  "Rover Metro (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Rover Metro (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Rover Streetwise_delantera": {
+    "fuente": ""
+  },
+  "Rover Streetwise_trasera": {
+    "fuente": ""
+  },
+  "Rover CityRover_delantera": {
+    "fuente": ""
+  },
+  "Rover CityRover_trasera": {
+    "fuente": ""
+  },
+  "Rover Coupe_delantera": {
+    "fuente": ""
+  },
+  "Rover Coupe_trasera": {
+    "fuente": ""
+  },
+  "Rover Cabriolet_delantera": {
+    "fuente": ""
+  },
+  "Rover Cabriolet_trasera": {
+    "fuente": ""
+  },
+  "Rover 100 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Rover 100 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery QQ (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery QQ (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery QQ6_delantera": {
+    "fuente": ""
+  },
+  "Chery QQ6_trasera": {
+    "fuente": ""
+  },
+  "Chery Fulwin_delantera": {
+    "fuente": ""
+  },
+  "Chery Fulwin_trasera": {
+    "fuente": ""
+  },
+  "Chery Cowin_delantera": {
+    "fuente": ""
+  },
+  "Chery Cowin_trasera": {
+    "fuente": ""
+  },
+  "Chery A1_delantera": {
+    "fuente": ""
+  },
+  "Chery A1_trasera": {
+    "fuente": ""
+  },
+  "Chery A3 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery A3 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery A5_delantera": {
+    "fuente": ""
+  },
+  "Chery A5_trasera": {
+    "fuente": ""
+  },
+  "Chery A11_delantera": {
+    "fuente": ""
+  },
+  "Chery A11_trasera": {
+    "fuente": ""
+  },
+  "Chery E5_delantera": {
+    "fuente": ""
+  },
+  "Chery E5_trasera": {
+    "fuente": ""
+  },
+  "Chery Arrizo 3_delantera": {
+    "fuente": ""
+  },
+  "Chery Arrizo 3_trasera": {
+    "fuente": ""
+  },
+  "Chery Arrizo 5 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery Arrizo 5 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery Arrizo 7 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery Arrizo 7 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery Arrizo 8 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery Arrizo 8 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery Tiggo (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery Tiggo (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 3_delantera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 3_trasera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 4_delantera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 4_trasera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 5 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 5 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 7 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 7 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 8 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 8 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 9 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 9 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 2_delantera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 2_trasera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 6_delantera": {
+    "fuente": ""
+  },
+  "Chery Tiggo 6_trasera": {
+    "fuente": ""
+  },
+  "Chery Karry_delantera": {
+    "fuente": ""
+  },
+  "Chery Karry_trasera": {
+    "fuente": ""
+  },
+  "Chery Eastar (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery Eastar (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery Eastar Cross_delantera": {
+    "fuente": ""
+  },
+  "Chery Eastar Cross_trasera": {
+    "fuente": ""
+  },
+  "Chery V5_delantera": {
+    "fuente": ""
+  },
+  "Chery V5_trasera": {
+    "fuente": ""
+  },
+  "Chery M11 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Chery M11 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Chery M7_delantera": {
+    "fuente": ""
+  },
+  "Chery M7_trasera": {
+    "fuente": ""
+  },
+  "Chery Exeed TX_delantera": {
+    "fuente": ""
+  },
+  "Chery Exeed TX_trasera": {
+    "fuente": ""
+  },
+  "Chery Exeed VX_delantera": {
+    "fuente": ""
+  },
+  "Chery Exeed VX_trasera": {
+    "fuente": ""
+  },
+  "Chery Omoda 5_delantera": {
+    "fuente": ""
+  },
+  "Chery Omoda 5_trasera": {
+    "fuente": ""
+  },
+  "Chery Omoda 7_delantera": {
+    "fuente": ""
+  },
+  "Chery Omoda 7_trasera": {
+    "fuente": ""
+  },
+  "Chery Jaecoo 7_delantera": {
+    "fuente": ""
+  },
+  "Chery Jaecoo 7_trasera": {
+    "fuente": ""
+  },
+  "Chery Jaecoo 8_delantera": {
+    "fuente": ""
+  },
+  "Chery Jaecoo 8_trasera": {
+    "fuente": ""
+  },
+  "Daewoo LeMans_delantera": {
+    "fuente": ""
+  },
+  "Daewoo LeMans_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Racer_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Racer_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Cielo_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Cielo_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Espero_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Espero_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Tico_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Tico_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Damas_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Damas_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Labo_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Labo_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Prince_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Prince_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Super Salon_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Super Salon_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Arcadia_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Arcadia_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Nubira (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Nubira (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Lanos (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Lanos (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Leganza (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Leganza (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Matiz (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Matiz (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Rezzo_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Rezzo_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Magnus_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Magnus_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Kalos (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Kalos (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Tacuma_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Tacuma_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Winstorm_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Winstorm_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Tosca_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Tosca_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Gentra_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Gentra_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Veritas_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Veritas_trasera": {
+    "fuente": ""
+  },
+  "Daewoo G2X_delantera": {
+    "fuente": ""
+  },
+  "Daewoo G2X_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Alpheon_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Alpheon_trasera": {
+    "fuente": ""
+  },
+  "Daewoo Damas II_delantera": {
+    "fuente": ""
+  },
+  "Daewoo Damas II_trasera": {
     "fuente": ""
   },
   "Rambler_delantera": {
@@ -33505,6 +35017,120 @@
   },
   "Ferrari 500 Superfast_trasera": {
     "fuente": "By AlfvanBeem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=15791148"
+  },
+  "Ferrari Luce_delantera": {
+    "fuente": "Por Banhada - Trabajo propio, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=197715474"
+  },
+  "Ferrari 225 S_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=34674730"
+  },
+  "Ferrari 225 S_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=34674858"
+  },
+  "Ferrari 375 MM Spider_delantera": {
+    "fuente": "By Prova MO - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122552179"
+  },
+  "Ferrari 375 MM Spider_trasera": {
+    "fuente": "By Prova MO - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122552180"
+  },
+  "Ferrari 250 GT Coupe Pininfarina_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=71241118"
+  },
+  "Ferrari 250 GT Coupe Pininfarina_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=71241097"
+  },
+  "Ferrari 250 Europa GT_delantera": {
+    "fuente": "By Marco 56 - 372, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=73660791"
+  },
+  "Ferrari 250 GT Boano_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18306192"
+  },
+  "Ferrari 250 GT Boano_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18306197"
+  },
+  "Ferrari 365 California_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125316135"
+  },
+  "Ferrari 365 California_trasera": {
+    "fuente": "By Rex Gray - 1966 Ferrari 365 California Spyder - brown - rvl, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=53701515"
+  },
+  "Ferrari 365 GT 2+2_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27922795"
+  },
+  "Ferrari 365 GT 2+2_trasera": {
+    "fuente": "By Rex Gray - 1968 Ferrari 365 GT 2+2 - dark blue met - rvl2, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=72889972"
+  },
+  "Ferrari 365 GTC - GTS_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2955367"
+  },
+  "Ferrari Sergio_delantera": {
+    "fuente": "By Ank Kumar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=101593108"
+  },
+  "Ferrari Sergio_trasera": {
+    "fuente": "By Ank Kumar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=101593096"
+  },
+  "Ferrari Testarossa Spider_delantera": {
+    "fuente": "By Surreal Name Given - Ferrari Design Museum-28, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=80792264"
+  },
+  "Ferrari Testarossa Spider_trasera": {
+    "fuente": "By Alexandre Prevot from Nancy, France - Ferrari Testarossa Spider Valeo, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=133483287"
+  },
+  "Ferrari FX_delantera": {
+    "fuente": "By Pat Durkin - 1996 Ferrari FX - dk blu met - fvl, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=11693121"
+  },
+  "Ferrari 550 Barchetta Zagato_delantera": {
+    "fuente": "By John Tiffin - https://www.flickr.com/photos/148195721@N02/35264604066/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=99030082"
+  },
+  "Ferrari SP1_delantera": {
+    "fuente": "By massa0830 - https://www.flickr.com/photos/92234863@N08/15244877825/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=100803335"
+  },
+  "Ferrari P540 Superfast Aperta_delantera": {
+    "fuente": "By 350z33 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91323118"
+  },
+  "Ferrari 599 Superamerica 45_delantera": {
+    "fuente": "By Bryan S - https://www.flickr.com/photos/136435491@N07/23651652294/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=174525305"
+  },
+  "Ferrari 599 Superamerica 45_trasera": {
+    "fuente": "By Bryan S - https://www.flickr.com/photos/136435491@N07/23653019933/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=99886833"
+  },
+  "Ferrari SP12 EC_delantera": {
+    "fuente": "By F40org - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36223594"
+  },
+  "Ferrari SP30_delantera": {
+    "fuente": "By Alexandre Prevot - https://www.flickr.com/photos/alexprevot/48549453736/in/photolist-2gY9Dab, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=81539350"
+  },
+  "Ferrari SP FFX_delantera": {
+    "fuente": "By massa0830 - https://www.flickr.com/photos/92234863@N08/15058317957/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=100803337"
+  },
+  "Ferrari F12 TRS_delantera": {
+    "fuente": "By Ben - F12 TRS, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=66473574"
+  },
+  "Ferrari F12 TRS_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40636531"
+  },
+  "Ferrari SP America_delantera": {
+    "fuente": "By Bryan S - https://www.flickr.com/photos/136435491@N07/24279871385/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=99886827"
+  },
+  "Ferrari SP America_trasera": {
+    "fuente": "By Bryan S - https://www.flickr.com/photos/136435491@N07/23651612884/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=99886828"
+  },
+  "Ferrari 458 MM Speciale_delantera": {
+    "fuente": "By Matthew Lamb - FoS20162016_0623_090611AA, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=49764332"
+  },
+  "Ferrari SP275 RW Competizione_delantera": {
+    "fuente": "By 350z33 - https://en.wikipedia.org/wiki/File:Ferrari_SP275_RW_Competizione.jpg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=114986824"
+  },
+  "Ferrari SP38 Deborah_delantera": {
+    "fuente": "By Ank Kumar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102164708"
+  },
+  "Ferrari SP38 Deborah_trasera": {
+    "fuente": "By Ank Kumar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102164731"
+  },
+  "Ferrari SP3JC_delantera": {
+    "fuente": "By Bryan S - https://www.flickr.com/photos/136435491@N07/49611436238/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=99696208"
+  },
+  "Ferrari SP-8_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=153379460"
   },
   "Chevrolet Prizm_delantera": {
     "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=106992424"

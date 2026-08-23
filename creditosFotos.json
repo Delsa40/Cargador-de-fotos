@@ -9659,6 +9659,18 @@
   "Ram Rampage_trasera": {
     "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147603565"
   },
+  "Ram ProMaster (2014)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166019647"
+  },
+  "Ram ProMaster (2014)_trasera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166019648"
+  },
+  "Ram ProMaster (2023)_delantera": {
+    "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138107333"
+  },
+  "Ram ProMaster (2023)_trasera": {
+    "fuente": ""
+  },
   "Dodge Rampage_delantera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=83761824"
   },
@@ -24114,100 +24126,364 @@
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62541479"
   },
   "Opel Adam_delantera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=30636477"
   },
   "Opel Adam_trasera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=30636493"
   },
   "Opel Cascada_delantera": {
-    "fuente": ""
+    "fuente": "By KarleHorn - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25567600"
   },
   "Opel Cascada_trasera": {
-    "fuente": ""
+    "fuente": "By KarleHorn - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25567617"
   },
   "Opel Karl_delantera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44574733"
   },
   "Opel Karl_trasera": {
-    "fuente": ""
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44574747"
   },
-  "Opel Crossland (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Crossland X (2017)_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/50546024601/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=96219606"
   },
-  "Opel Crossland (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Crossland X (2017)_trasera": {
+    "fuente": "By KGC626 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71282163"
   },
-  "Opel Grandland (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Crossland (2022)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107394242"
   },
-  "Opel Grandland (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Crossland (2022)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107394246"
   },
-  "Opel Mokka (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Grandland X (2017)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95930772"
   },
-  "Opel Mokka (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Grandland X (2017)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=190651142"
+  },
+  "Opel Grandland (2021)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112311687"
+  },
+  "Opel Grandland (2021)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112311683"
+  },
+  "Opel Grandland (2024)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=170408512"
+  },
+  "Opel Grandland (2024)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=170408579"
+  },
+  "Opel Mokka (2012)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44207814"
+  },
+  "Opel Mokka (2012)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44207826"
+  },
+  "Opel Mokka X (2016)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=54420704"
+  },
+  "Opel Mokka X (2016)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=54420724"
+  },
+  "Opel Mokka (2021)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=190355456"
+  },
+  "Opel Mokka (2021)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=190355493"
   },
   "Opel Ampera_delantera": {
-    "fuente": ""
+    "fuente": "By Thomas doerfer - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=7869965"
   },
   "Opel Ampera_trasera": {
-    "fuente": ""
+    "fuente": "By Mic from Reading - Berkshire, United Kingdom - Mondial de l'Automobile 2010, Paris - France, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38715338"
   },
   "Opel Ampera-e_delantera": {
-    "fuente": ""
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106249990"
   },
   "Opel Ampera-e_trasera": {
-    "fuente": ""
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106250009"
   },
   "Opel Rocks-e_delantera": {
-    "fuente": ""
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130300156"
   },
   "Opel Rocks-e_trasera": {
-    "fuente": ""
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123688949"
   },
-  "Opel Astra (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Astra Hatchback (1991)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2944172"
   },
-  "Opel Astra (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Astra Hatchback (1991)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2944178"
   },
-  "Opel Vivaro (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Astra Sedan (1991)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3374460"
   },
-  "Opel Vivaro (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Astra Sedan (1991)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3374467"
   },
-  "Opel Movano (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Astra GSi (1991)_delantera": {
+    "fuente": "By Interesting.cars.insta - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136282657"
   },
-  "Opel Movano (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Astra GSi (1991)_trasera": {
+    "fuente": "By Interesting.cars.insta - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136282656"
   },
-  "Opel Combo (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Astra Cabrio (1994)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3780315"
   },
-  "Opel Combo (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Astra Cabrio (1994)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3780321"
   },
-  "Opel Blitz_delantera": {
-    "fuente": ""
+  "Opel Astra Wagon (1994)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2996810"
   },
-  "Opel Blitz_trasera": {
-    "fuente": ""
+  "Opel Astra Wagon (1994)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2996817"
+  },
+  "Opel Astra (1998)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=5299922"
+  },
+  "Opel Astra (1998)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15577537"
+  },
+  "Opel Astra Wagon (1998)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15333310"
+  },
+  "Opel Astra Wagon (1998)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15333330"
+  },
+  "Opel Astra Cabrio (1998)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11064501"
+  },
+  "Opel Astra Cabrio (1998)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3896439"
+  },
+  "Opel Astra Hatchback (2004)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10287749"
+  },
+  "Opel Astra Hatchback (2004)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10287757"
+  },
+  "Opel Astra Wagon (2004)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=17337989"
+  },
+  "Opel Astra Wagon (2004)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=17338015"
+  },
+  "Opel Astra Sedan (2004)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4973298"
+  },
+  "Opel Astra Sedan (2004)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4973320"
+  },
+  "Opel Astra GTC (2007)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15334847"
+  },
+  "Opel Astra GTC (2007)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15334859"
+  },
+  "Opel Astra OPC (2007)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3690502"
+  },
+  "Opel Astra OPC (2007)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3690504"
+  },
+  "Opel Astra TwinTop (2007)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15215406"
+  },
+  "Opel Astra TwinTop (2007)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=15215428"
+  },
+  "Opel Astra Hatchback (2009)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=16126004"
+  },
+  "Opel Astra Hatchback (2009)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11000602"
+  },
+  "Opel Astra Sedan (2013)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=25068276"
+  },
+  "Opel Astra Sedan (2013)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=25068297"
+  },
+  "Opel Astra Sports Tourer (2009)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=14915168"
+  },
+  "Opel Astra Sports Tourer (2009)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=14915200"
+  },
+  "Opel Astra GTC (2011)_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/55098165836/, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=184193712"
+  },
+  "Opel Astra GTC (2011)_trasera": {
+    "fuente": "By Throwawayacc222 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=174305076"
+  },
+  "Opel Astra OPC (2012)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Opel Astra OPC, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37781660"
+  },
+  "Opel Astra OPC (2012)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=34208194"
+  },
+  "Opel Astra (2015)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44207779"
+  },
+  "Opel Astra (2015)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44207791"
+  },
+  "Opel Astra Sports Tourer (2015)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=51844306"
+  },
+  "Opel Astra Sports Tourer (2015)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=51844548"
+  },
+  "Opel Astra Sports Tourer (2021)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122863722"
+  },
+  "Opel Astra Sports Tourer (2021)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122863713"
+  },
+  "Opel Astra (2021)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=156641861"
+  },
+  "Opel Astra (2021)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=156641896"
+  },
+  "Opel Vivaro (2001)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4771904"
+  },
+  "Opel Vivaro (2001)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4771918"
+  },
+  "Opel Vivaro (2014)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44093866"
+  },
+  "Opel Vivaro (2014)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44093882"
+  },
+  "Opel Vivaro (2019)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150331764"
+  },
+  "Opel Vivaro (2019)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166559922"
+  },
+  "Opel Movano (1998)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2993855"
+  },
+  "Opel Movano (1998)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2993858"
+  },
+  "Opel Movano (2003)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4352156"
+  },
+  "Opel Movano (2003)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4352157"
+  },
+  "Opel Movano (2010)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10811458"
+  },
+  "Opel Movano (2010)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10811470"
+  },
+  "Opel Movano (2021)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131384924"
+  },
+  "Opel Combo (1993)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4296038"
+  },
+  "Opel Combo (1993)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4296040"
+  },
+  "Opel Combo (2002)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4308595"
+  },
+  "Opel Combo (2002)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4308601"
+  },
+  "Opel Combo (2012)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=21123170"
+  },
+  "Opel Combo (2012)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=21123307"
+  },
+  "Opel Combo (2018)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94304308"
+  },
+  "Opel Combo (2018)_trasera": {
+    "fuente": "By Lüko Willms - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=72628711"
+  },
+  "Opel Combo (2023)_delantera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152923892"
   },
   "Opel Campo_delantera": {
-    "fuente": ""
+    "fuente": "By FaceMePLS from The Hague, The Netherlands,cropped and levels adjusted by uploader Mr.choppers - Opel Pick Up Crew Cab 1996, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=25298123"
   },
   "Opel Campo_trasera": {
-    "fuente": ""
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=64378387"
   },
-  "Opel Cascada Concept_delantera": {
-    "fuente": ""
+  "Opel 1 Litre (1932)_delantera": {
+    "fuente": "Por User:Jed - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2492750"
   },
-  "Opel Cascada Concept_trasera": {
-    "fuente": ""
+  "Opel 1-2 Litre (1934)_delantera": {
+    "fuente": "By Alf van Beem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=19109099"
+  },
+  "Opel P4 (1935)_delantera": {
+    "fuente": "Por Lothar Spurzem - Trabajo propio, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=19887192"
+  },
+  "Opel P4 (1935)_trasera": {
+    "fuente": "Por Lothar Spurzem - Trabajo propio, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=19887241"
+  },
+  "Opel Super 6 (1937)_delantera": {
+    "fuente": "By Berthold Werner - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7545249"
+  },
+  "Opel GT-W Geneve Concept_delantera": {
+    "fuente": "By Robert Basic from Germany - Opel 50 Jahre Design, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=35604235"
+  },
+  "Opel GT-W Geneve Concept_trasera": {
+    "fuente": "By Robert Basic from Germany - Opel 50 Jahre Design, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=35604234"
+  },
+  "Opel Frogster Concept_delantera": {
+    "fuente": "By Torana (Wikipedia)License: CC BY-SA 3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=164506494"
+  },
+  "Opel Junior Concept_delantera": {
+    "fuente": "By Torana (Wikipedia)License: CC BY-SA 3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112357315"
+  },
+  "Opel Junior Concept_trasera": {
+    "fuente": "By Torana (Wikipedia)License: CC BY-SA 3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112357306"
+  },
+  "Opel Manta B Designstudie Concept_delantera": {
+    "fuente": "By Torana (Wikipedia)License: CC BY-SA 3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112411644"
+  },
+  "Opel Manta B Designstudie Concept_trasera": {
+    "fuente": "By Torana (Wikipedia)License: CC BY-SA 3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112411676"
+  },
+  "Opel Maxx Concept_delantera": {
+    "fuente": "By Torana (Wikipedia)License: CC BY-SA 3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=164501434"
+  },
+  "Opel Maxx Concept_trasera": {
+    "fuente": "By Torana (Wikipedia)License: CC BY-SA 3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=164501439"
+  },
+  "Opel OSV 40 Concept_delantera": {
+    "fuente": "By Lexicar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50269644"
+  },
+  "Opel OSV 40 Concept_trasera": {
+    "fuente": "By Lexicar - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50269639"
+  },
+  "Opel Tech 1 Concept_delantera": {
+    "fuente": "By Torana (Wikipedia)License: CC BY-SA 3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=115901467"
+  },
+  "Opel Tech 1 Concept_trasera": {
+    "fuente": "By Torana (Wikipedia)License: CC BY-SA 3.0, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=115901458"
+  },
+  "Opel RAK2_delantera": {
+    "fuente": "By Gryffindor - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=622406"
+  },
+  "Opel 12 3-Liter-Rennwagen_delantera": {
+    "fuente": "By Martin308GTB - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=171752320"
+  },
+  "Opel Rennwagen_delantera": {
+    "fuente": "By nemor2 from Stuttgart, Germany - 1903 Opel Rennwagen_IMG_3123, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=19307683"
+  },
+  "Opel Grand Prix Rennwagen_delantera": {
+    "fuente": "By No machine-readable author provided. Gryffindor assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=622250"
   },
   "Skoda Voiturette A_delantera": {
     "fuente": ""

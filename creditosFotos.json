@@ -7730,6 +7730,12 @@
   "Subaru Lucra_trasera": {
     "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76994967"
   },
+  "Subaru Traviq_delantera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=39793723"
+  },
+  "Subaru Traviq_trasera": {
+    "fuente": "By Tokumeigakarinoaoshima - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=39793724"
+  },
   "Panoz Roadster_delantera": {
     "fuente": "By Nate Grigg - Panoz Roadster, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=173072821"
   },
@@ -23825,95 +23831,287 @@
   "Opel Corsa-e (2023)_trasera": {
     "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=169359529"
   },
-  "Opel Omega (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Omega (1986)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=6662912"
   },
-  "Opel Omega (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Omega (1986)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=6662918"
   },
-  "Opel Vectra (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Omega Wagon (1986)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2819027"
   },
-  "Opel Vectra (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Omega Wagon (1986)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2819033"
+  },
+  "Opel Omega (1994)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3061023"
+  },
+  "Opel Omega (1994)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3061033"
+  },
+  "Opel Omega Wagon (1994)_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2818039"
+  },
+  "Opel Omega Wagon (1994)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2818042"
+  },
+  "Opel Omega (1999)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10287340"
+  },
+  "Opel Omega (1999)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10287372"
+  },
+  "Opel Omega Wagon (1999)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1522599"
+  },
+  "Opel Omega Wagon (1999)_trasera": {
+    "fuente": "By Raf24~commonswiki - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132395197"
+  },
+  "Opel Vectra (1988)_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3010940"
+  },
+  "Opel Vectra (1988)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3010946"
+  },
+  "Opel Vectra (1992)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3326209"
+  },
+  "Opel Vectra (1992)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3326224"
+  },
+  "Opel Vectra (1995)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3600890"
+  },
+  "Opel Vectra (1995)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3600893"
+  },
+  "Opel Vectra (1999)_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3416930"
+  },
+  "Opel Vectra (1999)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3416933"
+  },
+  "Opel Vectra Wagon (1999)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3358899"
+  },
+  "Opel Vectra Wagon (1999)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3358903"
+  },
+  "Opel Vectra (2002)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3652110"
+  },
+  "Opel Vectra (2002)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7860644"
+  },
+  "Opel Vectra Wagon (2002)_delantera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6071122"
+  },
+  "Opel Vectra Wagon (2002)_trasera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6071134"
+  },
+  "Opel Vectra (2005)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4681433"
+  },
+  "Opel Vectra (2005)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4681437"
+  },
+  "Opel Vectra Wagon (2005)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4726203"
+  },
+  "Opel Vectra Wagon (2005)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4758185"
+  },
+  "Opel Vectra OPC (2005)_delantera": {
+    "fuente": "By No machine-readable author provided. Gryffindor assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=622513"
+  },
+  "Opel Vectra OPC (2005)_trasera": {
+    "fuente": "By Ecogarf - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10392282"
+  },
+  "Opel Vectra OPC Wagon (2005)_delantera": {
+    "fuente": "By Ecogarf - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10392284"
+  },
+  "Opel Vectra OPC Wagon (2005)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=10845307"
   },
   "Opel Calibra_delantera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2876533"
   },
   "Opel Calibra_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2876535"
   },
-  "Opel Tigra (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Tigra (1994)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3217725"
   },
-  "Opel Tigra (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Tigra (1994)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3217729"
+  },
+  "Opel Tigra (2004)_delantera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6745952"
+  },
+  "Opel Tigra (2004)_trasera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6745962"
   },
   "Opel Sintra_delantera": {
-    "fuente": ""
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2982164"
   },
   "Opel Sintra_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=23585900"
   },
   "Opel Arena_delantera": {
-    "fuente": ""
+    "fuente": "By Cschirp - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25223280"
   },
-  "Opel Arena_trasera": {
-    "fuente": ""
+  "Opel Frontera (1991)_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3123514"
   },
-  "Opel Frontera (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Frontera (1991)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3123516"
   },
-  "Opel Frontera (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Frontera (1999)_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=4471603"
   },
-  "Opel Monterey_delantera": {
-    "fuente": ""
+  "Opel Frontera (1999)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=4471607"
   },
-  "Opel Monterey_trasera": {
-    "fuente": ""
+  "Opel Frontera (2024)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=175074161"
   },
-  "Opel Agila (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Frontera (2024)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=175074200"
   },
-  "Opel Agila (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Monterey (1992)_delantera": {
+    "fuente": "By Vasconium - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=41422192"
   },
-  "Opel Zafira (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Monterey (1992)_trasera": {
+    "fuente": "By Txemari - https://www.flickr.com/photos/serrvill/50915022483/, CC0, https://commons.wikimedia.org/w/index.php?curid=109872225"
   },
-  "Opel Zafira (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Monterey (1998)_delantera": {
+    "fuente": "By Grünkohlaktionär - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132319847"
+  },
+  "Opel Monterey (1998)_trasera": {
+    "fuente": "By Grünkohlaktionär - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132319846"
+  },
+  "Opel Agila (2000)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3183804"
+  },
+  "Opel Agila (2000)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3183810"
+  },
+  "Opel Agila (2007)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=14827027"
+  },
+  "Opel Agila (2007)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=14827270"
+  },
+  "Opel Zafira (1999)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=8186421"
+  },
+  "Opel Zafira (1999)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=4546944"
+  },
+  "Opel Zafira OPC (1999)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=29043571"
+  },
+  "Opel Zafira OPC (1999)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=29043633"
+  },
+  "Opel Zafira (2005)_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=218871"
+  },
+  "Opel Zafira (2005)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=7878599"
+  },
+  "Opel Zafira (2011)_delantera": {
+    "fuente": "By Retired electrician - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=171907764"
+  },
+  "Opel Zafira (2011)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=170387040"
+  },
+  "Opel Zafira (2016)_delantera": {
+    "fuente": "By Charles01 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61637390"
   },
   "Opel Speedster_delantera": {
-    "fuente": ""
+    "fuente": "By Thomas doerfer - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=27889133"
   },
   "Opel Speedster_trasera": {
-    "fuente": ""
+    "fuente": "By Thomas doerfer - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=27889235"
   },
-  "Opel Signum_delantera": {
-    "fuente": ""
+  "Opel Signum (2003)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=6027587"
   },
-  "Opel Signum_trasera": {
-    "fuente": ""
+  "Opel Signum (2003)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=6027593"
   },
-  "Opel Meriva (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Signum (2008)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4352165"
   },
-  "Opel Meriva (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Signum (2008)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4438859"
+  },
+  "Opel Meriva (2003)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3151424"
+  },
+  "Opel Meriva (2003)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3151427"
+  },
+  "Opel Meriva OPC (2006)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3952238"
+  },
+  "Opel Meriva (2010)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18667216"
+  },
+  "Opel Meriva (2010)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=18667239"
   },
   "Opel Antara_delantera": {
-    "fuente": ""
+    "fuente": "By order_242 from Chile - Opel Antara 2.2 CDTi Cosmo 4x4 2015, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=38697071"
   },
   "Opel Antara_trasera": {
-    "fuente": ""
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3021104"
   },
-  "Opel Insignia (1° Gen.)_delantera": {
-    "fuente": ""
+  "Opel Insignia (2008)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=170386933"
   },
-  "Opel Insignia (1° Gen.)_trasera": {
-    "fuente": ""
+  "Opel Insignia (2008)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=170386978"
+  },
+  "Opel Insignia (2013)_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/23204932379/in/album-72157644972554454/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=48274991"
+  },
+  "Opel Insignia (2013)_trasera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/54804958174/, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175580374"
+  },
+  "Opel Insignia Sports Tourer (2008)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=14733381"
+  },
+  "Opel Insignia Sports Tourer (2008)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=14733407"
+  },
+  "Opel Insignia Country Tourer (2013)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44483562"
+  },
+  "Opel Insignia Country Tourer (2013)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=44483571"
+  },
+  "Opel Insignia (2017)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=58525221"
+  },
+  "Opel Insignia (2017)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=58525271"
+  },
+  "Opel Insignia Sports Tourer (2017)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=58833772"
+  },
+  "Opel Insignia Sports Tourer (2017)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=58833820"
+  },
+  "Opel Insignia Country Tourer (2017)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62456621"
+  },
+  "Opel Insignia Country Tourer (2017)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62456620"
+  },
+  "Opel Insignia GSi (2017)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62541479"
   },
   "Opel Adam_delantera": {
     "fuente": ""

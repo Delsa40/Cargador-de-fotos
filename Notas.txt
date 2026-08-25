@@ -3,6 +3,6 @@
 - Inicio de sesión
 - Corregir largo de los nombres de los autos
 - Qué pasa con los guardados si yo hago un cambio en el nombre/foto?
-- Aclarar que los años son de referencia y no son exactos
-- Que la búsqueda funcione con minúscula o tildes
+- Aclarar que los años son de referencia y no son exactos. Aclarar más cosas como lo de los concepts o descapotables
+- Que la búsqueda funcione con minúscula o tildes y que no necesariamente sea exacta (Mercedes-Benz)
 - Cambiar el texto del modal de falta un auto

@@ -24485,40 +24485,205 @@
   "Opel Grand Prix Rennwagen_delantera": {
     "fuente": "By No machine-readable author provided. Gryffindor assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=622250"
   },
-  "Skoda Voiturette A_delantera": {
+  "Skoda 418 Popular (1934)_delantera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36265505"
+  },
+  "Skoda 418 Popular (1934)_trasera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36265506"
+  },
+  "Skoda 420 Popular Special_delantera": {
+    "fuente": "By János Tamás - Skoda Popular Special, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=12228699"
+  },
+  "Skoda 420 Popular Special_trasera": {
+    "fuente": "By János Tamás - Skoda Popular Special, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=12228706"
+  },
+  "Skoda Popular (1935)_delantera": {
+    "fuente": "By Michael Barera, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=20308504"
+  },
+  "Skoda Popular (1935)_trasera": {
+    "fuente": "By Ralf Roletschek (talk) - Wissensmanagement mit Wikis - Own work, GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=18012019"
+  },
+  "Skoda Popular Sport Monte Carlo (1937)_delantera": {
+    "fuente": "By © Hilarmont (Kempten), CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=158279020"
+  },
+  "Skoda Popular Sport Monte Carlo (1937)_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18516399"
+  },
+  "Skoda Popular OHV (1937)_delantera": {
+    "fuente": "By User:Stahlkocher - photo taken by User:Stahlkocher, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3117178"
+  },
+  "Skoda Popular OHV (1937)_trasera": {
+    "fuente": "By User:Stahlkocher - photo taken by User:Stahlkocher, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2255702"
+  },
+  "Skoda Popular 1100 OHV (1939)_delantera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36265500"
+  },
+  "Skoda Popular 1100 OHV (1939)_trasera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36265511"
+  },
+  "Skoda Popular 995 (1939)_delantera": {
+    "fuente": "By Ralf Roletschek - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25525225"
+  },
+  "Skoda Popular 995 (1939)_trasera": {
+    "fuente": "By Ralf Roletschek - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25525209"
+  },
+  "Skoda Rapid (1935)_delantera": {
+    "fuente": "By Chung-wei from Kaoshiung 高雄 - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=1690535"
+  },
+  "Skoda Rapid Roadster_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18516414"
+  },
+  "Skoda Rapid Roadster_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=18516407"
+  },
+  "Skoda Rapid (1981)_delantera": {
+    "fuente": "By Dawid Skwarczeński - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32291842"
+  },
+  "Skoda Rapid (1981)_trasera": {
+    "fuente": "By Dawid Skwarczeński - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32291841"
+  },
+  "Skoda Rapid (2019)_delantera": {
+    "fuente": "By Dairokkan9 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132599925"
+  },
+  "Skoda Rapid (2019)_trasera": {
+    "fuente": "By Dairokkan9 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132599918"
+  },
+  "Skoda Rapid (2021)_delantera": {
+    "fuente": "Por Mike-fiesta - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113885421"
+  },
+  "Skoda Rapid (2021)_trasera": {
+    "fuente": "Por Mike-fiesta - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113885427"
+  },
+  "Skoda Rapid (2013)_delantera": {
+    "fuente": "Por Navigator84 - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25005900"
+  },
+  "Skoda Rapid (2013)_trasera": {
+    "fuente": "Por Kevauto - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94118798"
+  },
+  "Skoda Rapid Spaceback (2017)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87565243"
+  },
+  "Skoda Rapid Spaceback (2017)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65305939"
+  },
+  "Skoda Rapid Spaceback (2020)_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105236606"
+  },
+  "Skoda Rapid Spaceback (2020)_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=104257655"
+  },
+  "Skoda Favorit_delantera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36265862"
+  },
+  "Skoda Favorit_trasera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36265864"
+  },
+  "Skoda Forman_delantera": {
+    "fuente": "By Riley from Christchurch, New Zealand - 1996 Skoda Favorit Forman GLX Estate, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38922353"
+  },
+  "Skoda Forman_trasera": {
+    "fuente": "By Riley from Christchurch, New Zealand - 1996 Skoda Favorit Forman GLX Estate, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38922342"
+  },
+  "Skoda MTX Roadster_delantera": {
+    "fuente": "By Jakub Hałun - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24848180"
+  },
+  "Skoda Pick-up_delantera": {
+    "fuente": "By Stefan Trommer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=73293240"
+  },
+  "Skoda Pick-up_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Skoda Pick up LX 1995, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=94713171"
+  },
+  "Skoda Favorit Sedan_delantera": {
+    "fuente": "By Alofok - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15643412"
+  },
+  "Skoda Favorit Sedan_trasera": {
+    "fuente": "By Alofok - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15643415"
+  },
+  "Skoda Felicia (1960)_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=34890701"
+  },
+  "Skoda Felicia (1960)_trasera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=34890716"
+  },
+  "Karosa 440 Polytex_delantera": {
+    "fuente": "By Jan Polák, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=49576492"
+  },
+  "Skoda 450_delantera": {
+    "fuente": "By RomanM82 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26583707"
+  },
+  "Skoda 450_trasera": {
+    "fuente": "By RomanM82 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26583709"
+  },
+  "Skoda 440_delantera": {
+    "fuente": "By Harold - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15713833"
+  },
+  "Skoda 440_trasera": {
+    "fuente": "By Dawid Skwarczeński - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32290619"
+  },
+  "Skoda Felicia (1994)_delantera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36266059"
+  },
+  "Skoda Felicia (1994)_trasera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36266058"
+  },
+  "Skoda Felicia (1998)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66139348"
+  },
+  "Skoda Felicia (1998)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66139349"
+  },
+  "Skoda Felicia Combi (1994)_delantera": {
+    "fuente": "By alofokSprechzimmer - Own work (Original text: selbst erstellt), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11224599"
+  },
+  "Skoda Felicia Combi (1994)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67221527"
+  },
+  "Skoda Felicia Combi (1998)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64665658"
+  },
+  "Skoda Felicia Combi (1998)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64665659"
+  },
+  "Skoda Felicia VanPlus_delantera": {
+    "fuente": "By Grünkohlaktionär - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126931742"
+  },
+  "Skoda Felicia VanPlus_trasera": {
+    "fuente": "By Grünkohlaktionär - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126931741"
+  },
+  "Skoda Felicia Fun_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3651852"
+  },
+  "Skoda Felicia Fun_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3651864"
+  },
+  "Skoda Felicia Pickup_delantera": {
+    "fuente": "By Roman Mifek - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=150946707"
+  },
+  "Skoda Felicia Pickup_trasera": {
+    "fuente": "By DieselFordMondeo - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121455484"
+  },
+  "Skoda Octavia (1996)_delantera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3557028"
+  },
+  "Skoda Octavia (1996)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3557034"
+  },
+  "Skoda Octavia vRS (2005)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68208976"
+  },
+  "Skoda Octavia vRS (2005)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68208975"
+  },
+  "Skoda Octavia Combi (1996)_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2875896"
+  },
+  "Skoda Octavia Combi (1996)_trasera": {
+    "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2875902"
+  },
+  "Skoda Octavia (2004)_delantera": {
     "fuente": ""
   },
-  "Skoda Voiturette A_trasera": {
-    "fuente": ""
-  },
-  "Skoda Popular_delantera": {
-    "fuente": ""
-  },
-  "Skoda Popular_trasera": {
-    "fuente": ""
-  },
-  "Skoda Rapid (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Skoda Rapid (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Skoda Favorit (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Skoda Favorit (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Skoda Felicia (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Skoda Felicia (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Skoda Octavia (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Skoda Octavia (1° Gen.)_trasera": {
+  "Skoda Octavia (2004)_trasera": {
     "fuente": ""
   },
   "Skoda Superb (1° Gen.)_delantera": {
@@ -24705,18 +24870,6 @@
     "fuente": ""
   },
   "Skoda Rapid (1984)_trasera": {
-    "fuente": ""
-  },
-  "Skoda Forman_delantera": {
-    "fuente": ""
-  },
-  "Skoda Forman_trasera": {
-    "fuente": ""
-  },
-  "Skoda Pick-up_delantera": {
-    "fuente": ""
-  },
-  "Skoda Pick-up_trasera": {
     "fuente": ""
   },
   "Skoda Praktik_delantera": {

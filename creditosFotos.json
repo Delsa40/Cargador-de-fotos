@@ -2654,6 +2654,18 @@
   "Mercedes-Benz Citan (2° Gen.)_trasera": {
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117808555"
   },
+  "Mercedes-Benz 300 SLR_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=170468443"
+  },
+  "Mercedes-Benz 300 SLR_trasera": {
+    "fuente": "By Norbert Schnitzler from Aachen, Deutschland, NRW - 2015_12_05_Essen_175150, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=116228278"
+  },
+  "Mercedes-Benz 300 SLR Uhlenhaut Coupe_delantera": {
+    "fuente": "By Andrew Basterfield - Mecedes Benz 300 SLR, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=18191607"
+  },
+  "Mercedes-Benz 300 SLR Uhlenhaut Coupe_trasera": {
+    "fuente": "By Späth Chr. - Photographed by Späth Chr., Public Domain, https://commons.wikimedia.org/w/index.php?curid=588722"
+  },
   "Audi 50_delantera": {
     "fuente": "Por Ralf Roletschek (talk) - Wissensmanagement mit Wikis - Trabajo propio, FAL, https://commons.wikimedia.org/w/index.php?curid=17898723"
   },
@@ -24680,17 +24692,194 @@
   "Skoda Octavia Combi (1996)_trasera": {
     "fuente": "By Rudolf Stricker - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2875902"
   },
-  "Skoda Octavia (2004)_delantera": {
-    "fuente": ""
+  "Skoda Octavia - Laura (2004)_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=786499"
   },
-  "Skoda Octavia (2004)_trasera": {
-    "fuente": ""
+  "Skoda Octavia - Laura (2004)_trasera": {
+    "fuente": "By Mark H - Family photo, used with permission, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7262528"
   },
-  "Skoda Superb (1° Gen.)_delantera": {
-    "fuente": ""
+  "Skoda Octavia - Laura Combi (2004)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68800837"
   },
-  "Skoda Superb (1° Gen.)_trasera": {
-    "fuente": ""
+  "Skoda Octavia - Laura Combi (2004)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68800839"
+  },
+  "Skoda Octavia vRS (2004)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Skoda Octavia Type 1Z RS, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45564178"
+  },
+  "Skoda Octavia vRS (2004)_trasera": {
+    "fuente": "By HLW - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15517032"
+  },
+  "Skoda Octavia vRS Combi (2004)_delantera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4003908"
+  },
+  "Skoda Octavia vRS Combi (2004)_trasera": {
+    "fuente": "By M 93 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4003912"
+  },
+  "Skoda Octavia Scout (2004)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67146368"
+  },
+  "Skoda Octavia Scout (2004)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67146370"
+  },
+  "Skoda Octavia - Fantasia (2009)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68370691"
+  },
+  "Skoda Octavia - Fantasia (2009)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68370690"
+  },
+  "Skoda Octavia - Fantasia Combi (2009)_delantera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6662127"
+  },
+  "Skoda Octavia - Fantasia Combi (2009)_trasera": {
+    "fuente": "By M 93 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6662128"
+  },
+  "Skoda Octavia Scout (2009)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=30875970"
+  },
+  "Skoda Octavia Scout (2009)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=30875986"
+  },
+  "Skoda Octavia vRS Combi (2009)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11546567"
+  },
+  "Skoda Octavia vRS Combi (2009)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11546573"
+  },
+  "Skoda Octavia vRS (2009)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25005899"
+  },
+  "Skoda Octavia vRS (2009)_trasera": {
+    "fuente": "By HLW - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15517032"
+  },
+  "Skoda Octavia (2012)_delantera": {
+    "fuente": "By RL GNZLZ from Chile - Skoda Octavia 1.6 TDi Elegance 2015, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76101378"
+  },
+  "Skoda Octavia (2012)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36925549"
+  },
+  "Skoda Octavia Combi (2012)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75036254"
+  },
+  "Skoda Octavia Combi (2012)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75036256"
+  },
+  "Skoda Octavia Scout (2012)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68152488"
+  },
+  "Skoda Octavia Scout (2012)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68152489"
+  },
+  "Skoda Octavia vRS (2012)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69517790"
+  },
+  "Skoda Octavia vRS (2012)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69517792"
+  },
+  "Skoda Octavia vRS Combi (2012)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=33515079"
+  },
+  "Skoda Octavia vRS Combi (2012)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=33515091"
+  },
+  "Skoda Octavia (2017)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71711250"
+  },
+  "Skoda Octavia (2017)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71711252"
+  },
+  "Skoda Octavia Combi (2017)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75221338"
+  },
+  "Skoda Octavia Combi (2017)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75221341"
+  },
+  "Skoda Octavia vRS (2017)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72478004"
+  },
+  "Skoda Octavia vRS Combi (2017)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71893773"
+  },
+  "Skoda Octavia vRS Combi (2017)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71893777"
+  },
+  "Skoda Octavia (2020)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147299968"
+  },
+  "Skoda Octavia (2020)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147299969"
+  },
+  "Skoda Octavia Combi (2020)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147300046"
+  },
+  "Skoda Octavia Combi (2020)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=147300047"
+  },
+  "Skoda Octavia Scout (2020)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156760204"
+  },
+  "Skoda Octavia Scout (2020)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156760213"
+  },
+  "Skoda Octavia vRS (2020)_delantera": {
+    "fuente": "By MumblesToad01 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=171118464"
+  },
+  "Skoda Octavia vRS Combi (2020)_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=113086517"
+  },
+  "Skoda Octavia vRS Combi (2020)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106116567"
+  },
+  "Skoda Superb (2001)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4740964"
+  },
+  "Skoda Superb (2001)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4740966"
+  },
+  "Skoda Superb (2008)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71876614"
+  },
+  "Skoda Superb (2008)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71876628"
+  },
+  "Skoda Superb Combi (2008)_delantera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11604721"
+  },
+  "Skoda Superb Combi (2008)_trasera": {
+    "fuente": "By M 93 - Self-photographed, Attribution, https://commons.wikimedia.org/w/index.php?curid=11604740"
+  },
+  "Skoda Superb (2013)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65360631"
+  },
+  "Skoda Superb (2013)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65360633"
+  },
+  "Skoda Superb (2015)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69707728"
+  },
+  "Skoda Superb (2015)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82968619"
+  },
+  "Skoda Superb Combi (2015)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832416"
+  },
+  "Skoda Superb Combi (2015)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92832417"
+  },
+  "Skoda Superb Scout (2015)_delantera": {
+    "fuente": "By Trop86 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=187425923"
+  },
+  "Skoda Superb (2023)_delantera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=188998630"
+  },
+  "Skoda Superb (2023)_trasera": {
+    "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=188998740"
+  },
+  "Skoda Superb Combi (2023)_delantera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152663295"
+  },
+  "Skoda Superb Combi (2023)_trasera": {
+    "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152663231"
   },
   "Skoda Fabia (1° Gen.)_delantera": {
     "fuente": ""
@@ -32723,6 +32912,18 @@
   "Volkswagen Virtus_trasera": {
     "fuente": "Por Darcius Oliveira - YouTube: https://www.youtube.com/watch?v=v3z3GwIEQLI – View/save archived versions on archive.org, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=92679144"
   },
+  "Volkswagen Quantum (1994)_delantera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138541837"
+  },
+  "Volkswagen Quantum (1994)_trasera": {
+    "fuente": "By Maxi-Napo-99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=138541836"
+  },
+  "Volkswagen Quantum (1986)_delantera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4828585"
+  },
+  "Volkswagen Quantum (1986)_trasera": {
+    "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4828577"
+  },
   "Peugeot 107_delantera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67146364"
   },
@@ -36118,6 +36319,12 @@
   },
   "Ferrari SP-8_delantera": {
     "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=153379460"
+  },
+  "Ferrari 348 Challenge_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=138624918"
+  },
+  "Ferrari 348 Challenge_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84960196"
   },
   "Chevrolet Prizm_delantera": {
     "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=106992424"

@@ -14033,6 +14033,12 @@
   "OSCA MT4 TN Barchetta (1955)_trasera": {
     "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=36928156"
   },
+  "Trekka_delantera": {
+    "fuente": "By Buch-t - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=67875985"
+  },
+  "Trekka_trasera": {
+    "fuente": "By Buch-t - Own work, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=67875968"
+  },
   "Lotec Sirius_delantera": {
     "fuente": "By Pyrosuwu - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=185006599"
   },
@@ -24830,6 +24836,24 @@
   "Skoda Octavia vRS Combi (2020)_trasera": {
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106116567"
   },
+  "Skoda Superb 4000 (1934)_delantera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36265725"
+  },
+  "Skoda Superb 4000 (1934)_trasera": {
+    "fuente": "By Ralf Roletschek - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25525744"
+  },
+  "Skoda Superb OHV_delantera": {
+    "fuente": "By Alexandre Prevot from Nancy, France - Škoda Superb OHV, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=164044763"
+  },
+  "Skoda Superb OHV_trasera": {
+    "fuente": "By Thomas Vogt from Paderborn, Deutschland - Škoda Superb OHV, 1948, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=132199277"
+  },
+  "Skoda Superb 640_delantera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68079284"
+  },
+  "Skoda VOS_delantera": {
+    "fuente": "By Marcela (talk) - Own work, GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=6511484"
+  },
   "Skoda Superb (2001)_delantera": {
     "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4740964"
   },
@@ -25010,6 +25034,33 @@
   "Skoda Kamiq_trasera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95433590"
   },
+  "Skoda Kamiq (2018)_delantera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69870235"
+  },
+  "Skoda Kamiq (2018)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78586248"
+  },
+  "Skoda Kamiq GT_delantera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97116104"
+  },
+  "Skoda Kamiq GT_trasera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97116105"
+  },
+  "Skoda Kushaq_delantera": {
+    "fuente": "By Gpkp - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178496662"
+  },
+  "Skoda Kushaq_trasera": {
+    "fuente": "By Saiphani02 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=162880789"
+  },
+  "Skoda Kylaq_delantera": {
+    "fuente": "By Gpkp - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178496660"
+  },
+  "Skoda Slavia_delantera": {
+    "fuente": "By Athira Murali, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=112878999"
+  },
+  "Skoda Slavia_trasera": {
+    "fuente": "By Saiphani02 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148674749"
+  },
   "Skoda Scala (2018)_delantera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86063328"
   },
@@ -25052,137 +25103,128 @@
   "Skoda Elroq_trasera": {
     "fuente": "By M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=159451404"
   },
-  "Skoda 420 Popular_delantera": {
-    "fuente": ""
-  },
-  "Skoda 420 Popular_trasera": {
-    "fuente": ""
-  },
   "Skoda 422_delantera": {
-    "fuente": ""
-  },
-  "Skoda 422_trasera": {
-    "fuente": ""
+    "fuente": "By de:Benutzer:Ralf Roletschek - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2658833"
   },
   "Skoda 430_delantera": {
-    "fuente": ""
-  },
-  "Skoda 430_trasera": {
-    "fuente": ""
+    "fuente": "Von Ladislav Luppa - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=51356077"
   },
   "Skoda 633_delantera": {
-    "fuente": ""
-  },
-  "Skoda 633_trasera": {
-    "fuente": ""
+    "fuente": "By de:Benutzer:Ralf Roletschek - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2658863"
   },
   "Skoda 935 Dynamic_delantera": {
-    "fuente": ""
+    "fuente": "By Triple-green - Skoda, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=66279455"
   },
-  "Skoda 935 Dynamic_trasera": {
-    "fuente": ""
+  "Skoda 1101 Sport (1950)_delantera": {
+    "fuente": "By nemor2 from Stuttgart, Germany - 1950 Skoda 1101 Sport_IMG_3047, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=19309252"
   },
-  "Skoda 1101 Tudor_delantera": {
-    "fuente": ""
+  "Skoda 1101 Sport (1950)_trasera": {
+    "fuente": "By nemor2 from Stuttgart, Germany - 1950 Skoda 1101 Sport_IMG_3026, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=19309247"
   },
-  "Skoda 1101 Tudor_trasera": {
-    "fuente": ""
+  "Skoda Supersport (1950)_delantera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36266870"
   },
-  "Skoda 1200_delantera": {
-    "fuente": ""
+  "Skoda Supersport (1950)_trasera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36266871"
   },
-  "Skoda 1200_trasera": {
-    "fuente": ""
+  "Skoda 1101 - 1102_delantera": {
+    "fuente": "By Andrew Bone from Weymouth, England - Skoda 1101 Cabrio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39078548"
   },
-  "Skoda 1201_delantera": {
-    "fuente": ""
+  "Skoda 1101 - 1102_trasera": {
+    "fuente": "By Andrew Bone from Weymouth, England - Skoda 1101 Cabrio, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39078551"
   },
-  "Skoda 1201_trasera": {
-    "fuente": ""
-  },
-  "Skoda 440 Spartak_delantera": {
-    "fuente": ""
-  },
-  "Skoda 440 Spartak_trasera": {
-    "fuente": ""
+  "Skoda 1200 - 1201_delantera": {
+    "fuente": "By AlfvanBeem - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=20410884"
   },
   "Skoda Octavia (1959)_delantera": {
-    "fuente": ""
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36266649"
   },
   "Skoda Octavia (1959)_trasera": {
-    "fuente": ""
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36266652"
   },
-  "Skoda Felicia (1959)_delantera": {
-    "fuente": ""
+  "Skoda Octavia Combi (1961)_delantera": {
+    "fuente": "By Ralf Roletschek - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25525187"
   },
-  "Skoda Felicia (1959)_trasera": {
-    "fuente": ""
+  "Skoda Octavia Combi (1961)_trasera": {
+    "fuente": "By Ralf Roletschek - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25525201"
   },
-  "Skoda 1000 MB_delantera": {
-    "fuente": ""
+  "Skoda 1000 MB - 1100 MB_delantera": {
+    "fuente": "By Ralf Roletschek - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25525890"
   },
-  "Skoda 1000 MB_trasera": {
-    "fuente": ""
+  "Skoda 1000 MB - 1100 MB_trasera": {
+    "fuente": "By Ralf Roletschek - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25525780"
   },
-  "Skoda 100_delantera": {
-    "fuente": ""
+  "Skoda 100 - 110_delantera": {
+    "fuente": "By Dawid Skwarczeński - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32291351"
   },
-  "Skoda 100_trasera": {
-    "fuente": ""
+  "Skoda 100 - 110_trasera": {
+    "fuente": "By Dawid Skwarczeński - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32291352"
   },
   "Skoda 110 R_delantera": {
-    "fuente": ""
+    "fuente": "By granada_turnier - Traktormajális, Bokor 2011.05.07. 120, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18107805"
   },
   "Skoda 110 R_trasera": {
-    "fuente": ""
+    "fuente": "By granada_turnier - Traktormajális, Bokor 2011.05.07. 122, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18107801"
   },
-  "Skoda 105_delantera": {
-    "fuente": ""
+  "Skoda 130 RS_delantera": {
+    "fuente": "By Mark Harkin - Skoda 130rs, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=31888087"
   },
-  "Skoda 105_trasera": {
-    "fuente": ""
+  "Skoda 130 RS_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=122510996"
   },
-  "Skoda 120_delantera": {
-    "fuente": ""
+  "Skoda 130 RS (739)_delantera": {
+    "fuente": "By Alofok - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15643327"
   },
-  "Skoda 120_trasera": {
-    "fuente": ""
+  "Skoda 130 RS (739)_trasera": {
+    "fuente": "By János Tamás - Flickr: Skoda 130 RS, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=14552767"
+  },
+  "Skoda 130 RS (738)_delantera": {
+    "fuente": "By Alofok - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15643328"
+  },
+  "Skoda 105 - 120 (1980)_delantera": {
+    "fuente": "By granada_turnier - Skoda 105S, 1980, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17316861"
+  },
+  "Skoda 105 - 120 (1980)_trasera": {
+    "fuente": "By granada_turnier - Skoda 105S, 1980, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17316895"
+  },
+  "Skoda 105 - 120 - 125 - 130 - 135 - Estelle (1983)_delantera": {
+    "fuente": "By Stahlkocher, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=536321"
+  },
+  "Skoda 105 - 120 - 125 - 130 - 135 - Estelle (1983)_trasera": {
+    "fuente": "By Abrimaal - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=38713888"
+  },
+  "Skoda 130 LR_delantera": {
+    "fuente": "By Ralf Roletschek - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25525214"
+  },
+  "Skoda 130 LR_trasera": {
+    "fuente": "By Ralf Roletschek - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25526316"
   },
   "Skoda Garde_delantera": {
-    "fuente": ""
+    "fuente": "By Harold - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10223458"
   },
   "Skoda Garde_trasera": {
-    "fuente": ""
+    "fuente": "By Ondrej Ertl - Own work, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=12450246"
   },
-  "Skoda Rapid (1984)_delantera": {
-    "fuente": ""
+  "Skoda 1100 OHC_delantera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36267401"
   },
-  "Skoda Rapid (1984)_trasera": {
-    "fuente": ""
+  "Skoda 1100 OHC_trasera": {
+    "fuente": "By Cherubino - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36267402"
   },
-  "Skoda Praktik_delantera": {
-    "fuente": ""
+  "Skoda 1202_delantera": {
+    "fuente": "By Harold - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12472016"
   },
-  "Skoda Praktik_trasera": {
-    "fuente": ""
+  "Skoda 1202_trasera": {
+    "fuente": "By Harold - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12472012"
   },
-  "Skoda Trekka_delantera": {
-    "fuente": ""
+  "Skoda 1203_delantera": {
+    "fuente": "By Dezidor - Self-photographed, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=6651406"
   },
-  "Skoda Trekka_trasera": {
-    "fuente": ""
+  "Skoda 1203_trasera": {
+    "fuente": "By Jiří Erben - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=87899994"
   },
-  "Skoda 706 RT_delantera": {
-    "fuente": ""
-  },
-  "Skoda 706 RT_trasera": {
-    "fuente": ""
-  },
-  "Skoda 706 RTO_delantera": {
-    "fuente": ""
-  },
-  "Skoda 706 RTO_trasera": {
-    "fuente": ""
+  "Skoda Favorit (1936)_delantera": {
+    "fuente": "By Oostblokblik - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76031623"
   },
   "Mercury Eight_delantera": {
     "fuente": ""

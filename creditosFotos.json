@@ -14054,6 +14054,30 @@
   "Kimera K39_delantera": {
     "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=197317560"
   },
+  "Mirage GR7_delantera": {
+    "fuente": "By Thesupermat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14717993"
+  },
+  "Mirage GR7_trasera": {
+    "fuente": "By alaindelaunoy;Cropped and adjusted by uploader Mr.choppers - DSC_0320.JPG, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16506487"
+  },
+  "Mirage GR8_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=144691167"
+  },
+  "Mirage M2_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=71064126"
+  },
+  "Mirage M6_delantera": {
+    "fuente": "By Missvain - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=41095544"
+  },
+  "Howmet TX_delantera": {
+    "fuente": "By The359 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3481799"
+  },
+  "Howmet TX_trasera": {
+    "fuente": "By Brian Snelson from Hockley, Essex, England - Biggest exhausts of the show, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=17790519"
+  },
+  "McKee Mk7_delantera": {
+    "fuente": "By TaurusEmerald - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=158195389"
+  },
   "Lotec Sirius_delantera": {
     "fuente": "By Pyrosuwu - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=185006599"
   },
@@ -26840,12 +26864,6 @@
   "Lada Iskra_trasera": {
     "fuente": ""
   },
-  "Noble_delantera": {
-    "fuente": ""
-  },
-  "Noble_trasera": {
-    "fuente": ""
-  },
   "Piaggio_delantera": {
     "fuente": ""
   },
@@ -27698,6 +27716,24 @@
   "Meteor automobiles_trasera": {
     "fuente": ""
   },
+  "Ligier_delantera": {
+    "fuente": ""
+  },
+  "Ligier_trasera": {
+    "fuente": ""
+  },
+  "Matra_delantera": {
+    "fuente": ""
+  },
+  "Matra_trasera": {
+    "fuente": ""
+  },
+  "Lola_delantera": {
+    "fuente": ""
+  },
+  "Lola_trasera": {
+    "fuente": ""
+  },
   "Lancia Hyena_delantera": {
     "fuente": "By loudumo - https://www.flickr.com/photos/18581204@N06/52101333741/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=118361719"
   },
@@ -28120,6 +28156,30 @@
   },
   "Hennessey Venom F5_trasera": {
     "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=125431615"
+  },
+  "Noble M12_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123364151"
+  },
+  "Noble M12_trasera": {
+    "fuente": "By Andrew Basterfield - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=134478693"
+  },
+  "Noble M15_delantera": {
+    "fuente": "By robad0b (Flickr User) - https://www.flickr.com/photos/robadob/196001746/in/photostream/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=8812196"
+  },
+  "Noble M400_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=138341166"
+  },
+  "Noble M400_trasera": {
+    "fuente": "By Kieran White from Manchester, England - 2004 Noble M400, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=132212323"
+  },
+  "Noble M600_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111458924"
+  },
+  "Noble M600_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=158528819"
+  },
+  "Noble M500_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175299158"
   },
   "DS 3 Crossback_delantera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86796960"
@@ -30491,6 +30551,27 @@
   "Ford GT (2° Gen.)_trasera": {
     "fuente": "Por Norbert Aepli, Switzerland, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=38710939"
   },
+  "Ford GTX1_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=112649475"
+  },
+  "Ford GT40 Mark IV_delantera": {
+    "fuente": "By Nathan Bittinger from Rochester, NY, USA (uploaded by Micap) - 1967 Ford GT40 Mk IV, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=11056838"
+  },
+  "Ford GT40 Mark IV_trasera": {
+    "fuente": "By Pat Durkin (uploaded by Micap) - 1967 Ford GT 40 Mk IV coupe - red - rvr, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=11056699"
+  },
+  "Ford GT40 Mark III_delantera": {
+    "fuente": "By TaurusEmerald - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157746670"
+  },
+  "Ford GT40 Mark III_trasera": {
+    "fuente": "By Norbert Aepli, Switzerland, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=38710894"
+  },
+  "Ford GT Mark IV_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=198172826"
+  },
+  "Ford GT Mark IV_trasera": {
+    "fuente": ""
+  },
   "Ford Capri MK1_delantera": {
     "fuente": "By PhG - Photographie en provenance de mon site par Utilisateur:hornman sur la page http://www.capri-legend.com, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1411252"
   },
@@ -31360,6 +31441,9 @@
   },
   "Lotus Eletre_trasera": {
     "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129663040"
+  },
+  "Radford-Lotus Type 62-2_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175380094"
   },
   "Toyota Avensis - Corona Sedan (1° Gen.)_delantera": {
     "fuente": "By order_242 from Chile - Toyota Corona Avensis 2.0 1999, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=133845793"
@@ -36589,6 +36673,12 @@
   },
   "Ferrari Daytona_trasera": {
     "fuente": "By Alexandre Prévot from Nancy, France - Ferrari 365 Daytona, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=148210660"
+  },
+  "Ferrari Dino 246 GTS_delantera": {
+    "fuente": "By Zairon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137402786"
+  },
+  "Ferrari Dino 246 GTS_trasera": {
+    "fuente": "By Zairon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137402796"
   },
   "Ferrari 400_delantera": {
     "fuente": "Di nakhon100 - Ferrari 400i, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=154840734"

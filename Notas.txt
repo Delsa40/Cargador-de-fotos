@@ -6,3 +6,4 @@
 - Aclarar que los años son de referencia y no son exactos. Aclarar más cosas como lo de los concepts o descapotables
 - Que la búsqueda funcione con minúscula o tildes y que no necesariamente sea exacta (Mercedes-Benz)
 - Cambiar el texto del modal de falta un auto
+- Que las claves de Cloudinary (o todas las que haya) estén ocultas y seguras ante hackeos

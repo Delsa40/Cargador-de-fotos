@@ -2,7 +2,8 @@
 - Inicio de sesión
 - Qué pasa con los guardados si yo hago un cambio en el nombre/foto?
 - Que la búsqueda funcione con minúscula o tildes y que no necesariamente sea exacta (Mercedes-Benz)
-- Que las claves de Cloudinary (o todas las que haya) estén ocultas y seguras ante hackeos
+- Que las claves de Cloudinary (o todas las que haya) estén ocultas y seguras ante hackeos. En la app y en 
+el cargador de img.
 - Traducir
 - Subir el Mclaren
 - Arreglar largo de los nombres de los autos (ver subaru impreza y alfa romeo).

@@ -4,7 +4,7 @@
 - Que la búsqueda funcione con minúscula o tildes y que no necesariamente sea exacta (Mercedes-Benz)
 - Que las claves de Cloudinary (o todas las que haya) estén ocultas y seguras ante hackeos
 - Traducir
-- Subir el Valen y el Mclaren
+- Subir el Mclaren
 - Arreglar largo de los nombres de los autos (ver subaru impreza y alfa romeo).
 - Testear cómo se ven los textos cuando el usuario tiene el tamaño más grande o más chico.
 - Analizar si funciona en todos los celulares.

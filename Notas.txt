@@ -8,3 +8,11 @@ el cargador de img.
 - Testear cómo se ven los textos cuando el usuario tiene el tamaño más grande o más chico.
 - Analizar si funciona en todos los celulares.
 - Arreglar confirmación de mail (es necesaria?)
+- Que el usuario acepte los términos y condiciones al registrarse
+- Avisarle que el registro es rápido y fácil
+- Archivar publicaciones de IG
+- Falta un auto
+- Hay que agregar la opción de eliminar cuenta para cumplir con normas de Google y Apple
+
+- Hacer commits por cada cambio
+- Antes de publicar la app hay que reemplazar la URL HTTP local por la dirección HTTPS del backend desplegado

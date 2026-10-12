@@ -5909,6 +5909,18 @@
   "Spyker 12-16HP_delantera": {
     "fuente": "By Zairon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=55924547"
   },
+  "Honda Concerto (1989)_delantera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2943586"
+  },
+  "Honda Concerto (1989)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2943596"
+  },
+  "Honda Concerto (1991)_delantera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=40551001"
+  },
+  "Honda Concerto (1991)_trasera": {
+    "fuente": "By OSX - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=40551203"
+  },
   "Honda WR-V - Elevate_delantera": {
     "fuente": "By Tokumeigakarinoaoshima - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=144982227"
   },
@@ -27077,173 +27089,353 @@
   "Tata Altroz_trasera": {
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77402160"
   },
-  "Lada 1200_delantera": {
-    "fuente": ""
+  "Rover 6 (1905)_delantera": {
+    "fuente": "By Web Master - DSCN0871, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=44676052"
   },
-  "Lada 1200_trasera": {
-    "fuente": ""
+  "Rover 8 (1904)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68628874"
   },
-  "Lada 1300_delantera": {
-    "fuente": ""
+  "Rover 8 (1904)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68628880"
   },
-  "Lada 1300_trasera": {
-    "fuente": ""
+  "Rover 8 (1922)_delantera": {
+    "fuente": "By Andrew Bone - https://www.flickr.com/photos/andreboeni/48687162117/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=97076431"
   },
-  "Lada 1500_delantera": {
-    "fuente": ""
+  "Rover 8 (1922)_trasera": {
+    "fuente": "By Andrew Bone - https://www.flickr.com/photos/andreboeni/48687161247/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=97076425"
   },
-  "Lada 1500_trasera": {
-    "fuente": ""
+  "Rover 9 (1926)_delantera": {
+    "fuente": "By Clive Barker from Selsey, West Sussex, U.K. - 1926 Rover 9-20 2-seater Tourer (replica bodywork), CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=44974706"
   },
-  "Lada 1600_delantera": {
-    "fuente": ""
+  "Rover 10 (1939)_delantera": {
+    "fuente": "By SG2012 - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=57386849"
   },
-  "Lada 1600_trasera": {
-    "fuente": ""
+  "Rover 10 (1939)_trasera": {
+    "fuente": "By SG2012 - https://www.flickr.com/photos/57664366@N08/15228183770/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=57386848"
   },
-  "Lada 2101_delantera": {
-    "fuente": ""
+  "Rover 10 (1933)_delantera": {
+    "fuente": "By Steve Glover from Bolton, Lancs., England - Rover 10 Special (1933), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=44306300"
   },
-  "Lada 2101_trasera": {
-    "fuente": ""
+  "Rover 10 (1933)_trasera": {
+    "fuente": "By Steve Glover from Bolton, Lancs., England - Rover 10 Special (1933), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=44306369"
   },
-  "Lada 2102_delantera": {
-    "fuente": ""
+  "Rover 10 (1928)_delantera": {
+    "fuente": "By Clive Barker from Selsey, West Sussex, U.K. - 1928ish Rover 10, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=44957666"
   },
-  "Lada 2102_trasera": {
-    "fuente": ""
+  "Rover 10 (1928)_trasera": {
+    "fuente": "By Clive Barker from Selsey, West Sussex, U.K. - 1920s Rover 10 Tourer, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=44957624"
   },
-  "Lada 2103_delantera": {
-    "fuente": ""
+  "Rover 12 (1914)_delantera": {
+    "fuente": "By Peter Turvey from Marlborough, UK - IMG_1826, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=44975025"
   },
-  "Lada 2103_trasera": {
-    "fuente": ""
+  "Rover 12 (1921)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65804501"
   },
-  "Lada 2104_delantera": {
-    "fuente": ""
+  "Rover 14 (1937)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=184396830"
   },
-  "Lada 2104_trasera": {
-    "fuente": ""
+  "Rover 16 (1927)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65804525"
   },
-  "Lada 2105_delantera": {
-    "fuente": ""
+  "Rover 16 (1927)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=65804528"
   },
-  "Lada 2105_trasera": {
-    "fuente": ""
+  "Rover Light Six (1929)_delantera": {
+    "fuente": "By MilborneOne - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6820526"
   },
-  "Lada 2106_delantera": {
-    "fuente": ""
+  "Rover Light Six (1929)_trasera": {
+    "fuente": "By Matthias v.d. Elbe - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=42364566"
   },
-  "Lada 2106_trasera": {
-    "fuente": ""
+  "Rover 20 (1907)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68628894"
   },
-  "Lada 2107_delantera": {
-    "fuente": ""
+  "Rover P4 (1950)_delantera": {
+    "fuente": "CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1389808"
   },
-  "Lada 2107_trasera": {
-    "fuente": ""
+  "Rover P4 (1950)_trasera": {
+    "fuente": "By Mark Brown from Hampton, New Brunswick, Canada - 1950 Rover 75 (P4), CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=10630926"
   },
-  "Lada Niva (1° Gen.)_delantera": {
-    "fuente": ""
+  "Rover P4 (1955)_delantera": {
+    "fuente": "By EurovisionNim - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=38489269"
   },
-  "Lada Niva (1° Gen.)_trasera": {
-    "fuente": ""
+  "Rover P4 (1955)_trasera": {
+    "fuente": "By sv1ambo - 1955 Rover P4 90 sedan, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38836718"
   },
-  "Lada Oka_delantera": {
-    "fuente": ""
+  "Rover P4 (1959)_delantera": {
+    "fuente": "By Redsimon at English Wikipedia, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=17588494"
   },
-  "Lada Oka_trasera": {
-    "fuente": ""
+  "Rover P4 (1959)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Rover 100, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37782826"
   },
-  "Lada Samara (1° Gen.)_delantera": {
-    "fuente": ""
+  "Rover 100 Series - Metro (1994)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64955878"
   },
-  "Lada Samara (1° Gen.)_trasera": {
-    "fuente": ""
+  "Rover 100 Series - Metro (1994)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64955880"
   },
-  "Lada 110 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Rover 100 Series - Metro (1989)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133281326"
   },
-  "Lada 110 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Rover 100 Series - Metro (1995)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63799339"
   },
-  "Lada 111_delantera": {
-    "fuente": ""
+  "Rover 100 Series - Metro (1995)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63799338"
   },
-  "Lada 111_trasera": {
-    "fuente": ""
+  "Rover 25 (1999)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76463810"
   },
-  "Lada 112_delantera": {
-    "fuente": ""
+  "Rover 25 (1999)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67017937"
   },
-  "Lada 112_trasera": {
-    "fuente": ""
+  "Rover 25 (2004)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69870488"
   },
-  "Lada Nadezhda_delantera": {
-    "fuente": ""
+  "Rover 25 (2004)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=69870494"
   },
-  "Lada Nadezhda_trasera": {
-    "fuente": ""
+  "Rover 45 Hatchback (1999)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63317919"
   },
-  "Lada Kalina (1° Gen.)_delantera": {
-    "fuente": ""
+  "Rover 45 Hatchback (1999)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102656009"
   },
-  "Lada Kalina (1° Gen.)_trasera": {
-    "fuente": ""
+  "Rover 45 Sedan (1999)_delantera": {
+    "fuente": "By DieselFordMondeo - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121429987"
   },
-  "Lada Priora (1° Gen.)_delantera": {
-    "fuente": ""
+  "Rover 45 Sedan (1999)_trasera": {
+    "fuente": "By DieselFordMondeo - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121429986"
   },
-  "Lada Priora (1° Gen.)_trasera": {
-    "fuente": ""
+  "Rover 45 (2004)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75221312"
   },
-  "Lada Granta (1° Gen.)_delantera": {
-    "fuente": ""
+  "Rover 45 (2004)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64450622"
   },
-  "Lada Granta (1° Gen.)_trasera": {
-    "fuente": ""
+  "Rover P3 (1948)_delantera": {
+    "fuente": "By Steve Glover from Bolton, Lancs., England - Rover 75 P3 (1948), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=44533264"
   },
-  "Lada Largus (1° Gen.)_delantera": {
-    "fuente": ""
+  "Rover P3 (1948)_trasera": {
+    "fuente": "By Steve Glover from Bolton, Lancs., England - Rover 75 P3 (1948), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=44533234"
   },
-  "Lada Largus (1° Gen.)_trasera": {
-    "fuente": ""
+  "Rover JET 1_delantera": {
+    "fuente": "By Andrea Boano - https://www.flickr.com/photos/65344061@N06/55178245434/, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=187561944"
   },
-  "Lada Vesta (1° Gen.)_delantera": {
-    "fuente": ""
+  "Rover JET 1_trasera": {
+    "fuente": "By Andrea Boano - https://www.flickr.com/photos/65344061@N06/55178245159/, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=187561950"
   },
-  "Lada Vesta (1° Gen.)_trasera": {
-    "fuente": ""
+  "Rover 75 (1999)_delantera": {
+    "fuente": "By Makizox - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=62359240"
   },
-  "Lada XRay_delantera": {
-    "fuente": ""
+  "Rover 75 (1999)_trasera": {
+    "fuente": "By DieselFordMondeo - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118761558"
   },
-  "Lada XRay_trasera": {
-    "fuente": ""
+  "Rover 75 (2004)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68643122"
   },
-  "Lada Niva Travel_delantera": {
-    "fuente": ""
+  "Rover 75 (2004)_trasera": {
+    "fuente": "By Chacha15 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18567824"
   },
-  "Lada Niva Travel_trasera": {
-    "fuente": ""
+  "Rover 75 Tourer (2001)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64665697"
   },
-  "Lada Niva Legend_delantera": {
-    "fuente": ""
+  "Rover 75 Tourer (2001)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64665706"
   },
-  "Lada Niva Legend_trasera": {
-    "fuente": ""
+  "Rover 75 Tourer (2004)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68740478"
   },
-  "Lada Aura_delantera": {
-    "fuente": ""
+  "Rover 75 Tourer (2004)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68740480"
   },
-  "Lada Aura_trasera": {
-    "fuente": ""
+  "Rover 90 by Pininfarina (1953)_delantera": {
+    "fuente": "By Andrew Bone from Weymouth, England - Rover P4 Pininfarina Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39080341"
   },
-  "Lada Iskra_delantera": {
-    "fuente": ""
+  "Rover 90 by Pininfarina (1953)_trasera": {
+    "fuente": "By Andrew Bone from Weymouth, England - Rover P4 Pininfarina Convertible, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39080347"
   },
-  "Lada Iskra_trasera": {
-    "fuente": ""
+  "Rover 200 Series (1989)_delantera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=784070"
+  },
+  "Rover 200 Series (1989)_trasera": {
+    "fuente": "CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=784068"
+  },
+  "Rover 200 Series (1990)_delantera": {
+    "fuente": "By Kieran White from Manchester, England - 1990 Rover 216 GSi, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=130562402"
+  },
+  "Rover 200 Series (1990)_trasera": {
+    "fuente": "By DieselFordMondeo - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130399830"
+  },
+  "Rover 200 Series (1995)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71594146"
+  },
+  "Rover 200 Series (1995)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71594147"
+  },
+  "Rover 200 Series (1998)_delantera": {
+    "fuente": "By Makizox - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=60479434"
+  },
+  "Rover 200 Series (1998)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68152442"
+  },
+  "Rover 200 BRM (1999)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=176322042"
+  },
+  "Rover 416i (1986)_delantera": {
+    "fuente": "By Jeremy from Sydney, Australia - Rover 416i, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45565495"
+  },
+  "Rover 416i (1986)_trasera": {
+    "fuente": "By Jeremy from Sydney, Australia - Rover 416i, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=45565516"
+  },
+  "Rover 400 Series (1990)_delantera": {
+    "fuente": "By Kieran White from Manchester, England - 1991 Rover 416 GSi Auto, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=67225559"
+  },
+  "Rover 400 Series (1990)_trasera": {
+    "fuente": "By Alessandro Antonelli - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=10258895"
+  },
+  "Rover 400 Series (1993)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85850934"
+  },
+  "Rover 400 Series (1993)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85850935"
+  },
+  "Rover 400 Series Tourer (1995)_delantera": {
+    "fuente": "By Spanish Coches - Rover 418SLD Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38114835"
+  },
+  "Rover 400 Series Tourer (1995)_trasera": {
+    "fuente": "By Spanish Coches - Rover 418SLD Wagon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=56410724"
+  },
+  "Rover 400 Series Sedan (1995)_delantera": {
+    "fuente": "By Alessandro Antonelli - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=15511192"
+  },
+  "Rover 400 Series Sedan (1995)_trasera": {
+    "fuente": "By Rudolf Stricker - Self-photographed, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2648600"
+  },
+  "Rover 400 Series Hatchback (1995)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63195524"
+  },
+  "Rover 400 Series Hatchback (1995)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=63195526"
+  },
+  "Rover 600 Series (1993)_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70162459"
+  },
+  "Rover 600 Series (1993)_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70162458"
+  },
+  "Rover 800 Series (1986)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=184310501"
+  },
+  "Rover 800 Series (1986)_trasera": {
+    "fuente": "By Toquehusk - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=151331473"
+  },
+  "Rover 800 Series (1991)_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5881422"
+  },
+  "Rover 800 Series (1991)_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5881427"
+  },
+  "Rover SD1_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=120396875"
+  },
+  "Rover SD1_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=120274003"
+  },
+  "Rover SD1 Estate_delantera": {
+    "fuente": "By Karen Roe - British Motor Museum 09-2016, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=110860700"
+  },
+  "Rover SD1 Estate_trasera": {
+    "fuente": "By andreboeni - https://www.flickr.com/photos/65344061@N06/53238351595/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=139474149"
+  },
+  "Rover P5 (1968)_delantera": {
+    "fuente": "By Randall Ferry - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157091421"
+  },
+  "Rover P5 (1968)_trasera": {
+    "fuente": "By Randall Ferry - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157091420"
+  },
+  "Rover 2000 TCZ (1967)_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151259640"
+  },
+  "Rover 2000 TCZ (1967)_trasera": {
+    "fuente": "By Andrew Bone from Weymouth, England - Rover TCZ (P6 2000 by Zagato), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39080718"
+  },
+  "Rover P6_delantera": {
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21964864"
+  },
+  "Rover P6_trasera": {
+    "fuente": "By Detectandpreserve - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21964866"
+  },
+  "Rover P6 Estate_delantera": {
+    "fuente": "By Redsimon - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=5624764"
+  },
+  "Rover P6 Estate_trasera": {
+    "fuente": "By Redsimon - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=5624804"
+  },
+  "Rover Streetwise_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66018729"
+  },
+  "Rover Streetwise_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=66018731"
+  },
+  "Rover CityRover_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64108447"
+  },
+  "Rover CityRover_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64108445"
+  },
+  "Rover Montego_delantera": {
+    "fuente": "By No machine-readable author provided. Kroelleboelle assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4651057"
+  },
+  "Rover Montego_trasera": {
+    "fuente": "By Kroelleboelle - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10358160"
+  },
+  "Rover Montego Estate_delantera": {
+    "fuente": "By DeFacto - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1751385"
+  },
+  "Rover Montego Estate_trasera": {
+    "fuente": "By DieselFordMondeo - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=121456001"
+  },
+  "Rover Quintet_delantera": {
+    "fuente": "By Cus07 at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9804162"
+  },
+  "Rover Quintet_trasera": {
+    "fuente": "By TuRbO_J from Adelaide, Australia - Rover Qunitet, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=38717153"
+  },
+  "Rover T3 Concept_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68632967"
+  },
+  "Rover T3 Concept_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68632965"
+  },
+  "Rover T4 Concept_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68632992"
+  },
+  "Rover T4 Concept_trasera": {
+    "fuente": "By andreboeni - https://www.flickr.com/photos/65344061@N06/53238389465/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=139474637"
+  },
+  "Rover-Alvis P6BS Concept_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68633016"
+  },
+  "Rover-Alvis P6BS Concept_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68633017"
+  },
+  "Rover-Alvis Gladys Concept_delantera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68633014"
+  },
+  "Rover-Alvis Gladys Concept_trasera": {
+    "fuente": "By andreboeni - https://www.flickr.com/photos/65344061@N06/53238269379/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=139474641"
+  },
+  "Rover CCV Concept_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152674408"
+  },
+  "Rover CCV Concept_trasera": {
+    "fuente": "By andreboeni - https://www.flickr.com/photos/65344061@N06/53246902370/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=139474667"
+  },
+  "Rover-BRM Concept_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120677591"
+  },
+  "Rover-BRM Concept_trasera": {
+    "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=68633010"
   },
   "Daihatsu Compagno_delantera": {
     "fuente": ""
@@ -27495,210 +27687,6 @@
     "fuente": ""
   },
   "Daihatsu Rocky (3° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Rover 10_delantera": {
-    "fuente": ""
-  },
-  "Rover 10_trasera": {
-    "fuente": ""
-  },
-  "Rover 12_delantera": {
-    "fuente": ""
-  },
-  "Rover 12_trasera": {
-    "fuente": ""
-  },
-  "Rover 14_delantera": {
-    "fuente": ""
-  },
-  "Rover 14_trasera": {
-    "fuente": ""
-  },
-  "Rover 16_delantera": {
-    "fuente": ""
-  },
-  "Rover 16_trasera": {
-    "fuente": ""
-  },
-  "Rover 20_delantera": {
-    "fuente": ""
-  },
-  "Rover 20_trasera": {
-    "fuente": ""
-  },
-  "Rover 25_delantera": {
-    "fuente": ""
-  },
-  "Rover 25_trasera": {
-    "fuente": ""
-  },
-  "Rover 30_delantera": {
-    "fuente": ""
-  },
-  "Rover 30_trasera": {
-    "fuente": ""
-  },
-  "Rover 45_delantera": {
-    "fuente": ""
-  },
-  "Rover 45_trasera": {
-    "fuente": ""
-  },
-  "Rover 60_delantera": {
-    "fuente": ""
-  },
-  "Rover 60_trasera": {
-    "fuente": ""
-  },
-  "Rover 75_delantera": {
-    "fuente": ""
-  },
-  "Rover 75_trasera": {
-    "fuente": ""
-  },
-  "Rover 90_delantera": {
-    "fuente": ""
-  },
-  "Rover 90_trasera": {
-    "fuente": ""
-  },
-  "Rover 100_delantera": {
-    "fuente": ""
-  },
-  "Rover 100_trasera": {
-    "fuente": ""
-  },
-  "Rover 200 (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Rover 200 (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Rover 400 (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Rover 400 (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Rover 600 (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Rover 600 (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Rover 800 (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Rover 800 (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Rover SD1_delantera": {
-    "fuente": ""
-  },
-  "Rover SD1_trasera": {
-    "fuente": ""
-  },
-  "Rover P3_delantera": {
-    "fuente": ""
-  },
-  "Rover P3_trasera": {
-    "fuente": ""
-  },
-  "Rover P4_delantera": {
-    "fuente": ""
-  },
-  "Rover P4_trasera": {
-    "fuente": ""
-  },
-  "Rover P5_delantera": {
-    "fuente": ""
-  },
-  "Rover P5_trasera": {
-    "fuente": ""
-  },
-  "Rover P6_delantera": {
-    "fuente": ""
-  },
-  "Rover P6_trasera": {
-    "fuente": ""
-  },
-  "Rover P6 2000_delantera": {
-    "fuente": ""
-  },
-  "Rover P6 2000_trasera": {
-    "fuente": ""
-  },
-  "Rover P8_delantera": {
-    "fuente": ""
-  },
-  "Rover P8_trasera": {
-    "fuente": ""
-  },
-  "Rover 2000_delantera": {
-    "fuente": ""
-  },
-  "Rover 2000_trasera": {
-    "fuente": ""
-  },
-  "Rover 2200_delantera": {
-    "fuente": ""
-  },
-  "Rover 2200_trasera": {
-    "fuente": ""
-  },
-  "Rover 2300_delantera": {
-    "fuente": ""
-  },
-  "Rover 2300_trasera": {
-    "fuente": ""
-  },
-  "Rover 2600_delantera": {
-    "fuente": ""
-  },
-  "Rover 2600_trasera": {
-    "fuente": ""
-  },
-  "Rover 3500_delantera": {
-    "fuente": ""
-  },
-  "Rover 3500_trasera": {
-    "fuente": ""
-  },
-  "Rover Metro (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Rover Metro (1° Gen.)_trasera": {
-    "fuente": ""
-  },
-  "Rover Streetwise_delantera": {
-    "fuente": ""
-  },
-  "Rover Streetwise_trasera": {
-    "fuente": ""
-  },
-  "Rover CityRover_delantera": {
-    "fuente": ""
-  },
-  "Rover CityRover_trasera": {
-    "fuente": ""
-  },
-  "Rover Coupe_delantera": {
-    "fuente": ""
-  },
-  "Rover Coupe_trasera": {
-    "fuente": ""
-  },
-  "Rover Cabriolet_delantera": {
-    "fuente": ""
-  },
-  "Rover Cabriolet_trasera": {
-    "fuente": ""
-  },
-  "Rover 100 (1° Gen.)_delantera": {
-    "fuente": ""
-  },
-  "Rover 100 (1° Gen.)_trasera": {
     "fuente": ""
   },
   "Chery QQ (1° Gen.)_delantera": {
@@ -28113,6 +28101,174 @@
     "fuente": ""
   },
   "Zagato_trasera": {
+    "fuente": ""
+  },
+  "Lada 1200_delantera": {
+    "fuente": ""
+  },
+  "Lada 1200_trasera": {
+    "fuente": ""
+  },
+  "Lada 1300_delantera": {
+    "fuente": ""
+  },
+  "Lada 1300_trasera": {
+    "fuente": ""
+  },
+  "Lada 1500_delantera": {
+    "fuente": ""
+  },
+  "Lada 1500_trasera": {
+    "fuente": ""
+  },
+  "Lada 1600_delantera": {
+    "fuente": ""
+  },
+  "Lada 1600_trasera": {
+    "fuente": ""
+  },
+  "Lada 2101_delantera": {
+    "fuente": ""
+  },
+  "Lada 2101_trasera": {
+    "fuente": ""
+  },
+  "Lada 2102_delantera": {
+    "fuente": ""
+  },
+  "Lada 2102_trasera": {
+    "fuente": ""
+  },
+  "Lada 2103_delantera": {
+    "fuente": ""
+  },
+  "Lada 2103_trasera": {
+    "fuente": ""
+  },
+  "Lada 2104_delantera": {
+    "fuente": ""
+  },
+  "Lada 2104_trasera": {
+    "fuente": ""
+  },
+  "Lada 2105_delantera": {
+    "fuente": ""
+  },
+  "Lada 2105_trasera": {
+    "fuente": ""
+  },
+  "Lada 2106_delantera": {
+    "fuente": ""
+  },
+  "Lada 2106_trasera": {
+    "fuente": ""
+  },
+  "Lada 2107_delantera": {
+    "fuente": ""
+  },
+  "Lada 2107_trasera": {
+    "fuente": ""
+  },
+  "Lada Niva (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Niva (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada Oka_delantera": {
+    "fuente": ""
+  },
+  "Lada Oka_trasera": {
+    "fuente": ""
+  },
+  "Lada Samara (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Samara (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada 110 (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada 110 (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada 111_delantera": {
+    "fuente": ""
+  },
+  "Lada 111_trasera": {
+    "fuente": ""
+  },
+  "Lada 112_delantera": {
+    "fuente": ""
+  },
+  "Lada 112_trasera": {
+    "fuente": ""
+  },
+  "Lada Nadezhda_delantera": {
+    "fuente": ""
+  },
+  "Lada Nadezhda_trasera": {
+    "fuente": ""
+  },
+  "Lada Kalina (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Kalina (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada Priora (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Priora (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada Granta (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Granta (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada Largus (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Largus (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada Vesta (1° Gen.)_delantera": {
+    "fuente": ""
+  },
+  "Lada Vesta (1° Gen.)_trasera": {
+    "fuente": ""
+  },
+  "Lada XRay_delantera": {
+    "fuente": ""
+  },
+  "Lada XRay_trasera": {
+    "fuente": ""
+  },
+  "Lada Niva Travel_delantera": {
+    "fuente": ""
+  },
+  "Lada Niva Travel_trasera": {
+    "fuente": ""
+  },
+  "Lada Niva Legend_delantera": {
+    "fuente": ""
+  },
+  "Lada Niva Legend_trasera": {
+    "fuente": ""
+  },
+  "Lada Aura_delantera": {
+    "fuente": ""
+  },
+  "Lada Aura_trasera": {
+    "fuente": ""
+  },
+  "Lada Iskra_delantera": {
+    "fuente": ""
+  },
+  "Lada Iskra_trasera": {
     "fuente": ""
   },
   "Lancia Hyena_delantera": {

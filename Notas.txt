@@ -1,5 +1,4 @@
 - Políticas
-- Qué pasa con los guardados si yo hago un cambio en el nombre/foto? Probarlo.
 - Que la búsqueda funcione con minúscula o tildes y que no necesariamente sea exacta (Mercedes-Benz)
 - Que las claves de Cloudinary (o todas las que haya) estén ocultas y seguras ante hackeos. En la app y en 
 el cargador de img.
@@ -13,6 +12,8 @@ el cargador de img.
 - Archivar publicaciones de IG
 - Falta un auto
 - Hay que agregar la opción de eliminar cuenta para cumplir con normas de Google y Apple
+- Qué pasa con los guardados si yo hago un cambio en el nombre/foto? Probarlo.
+- Ir testeando qué pasa si agrego nuevos autos a Supabase. Si modifico o elimino en Cloudinary.
 
 - Hacer commits por cada cambio
 - Antes de publicar la app hay que reemplazar la URL HTTP local por la dirección HTTPS del backend desplegado

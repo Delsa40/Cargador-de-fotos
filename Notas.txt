@@ -1,19 +1,18 @@
 - Políticas
-- Que la búsqueda funcione con minúscula o tildes y que no necesariamente sea exacta (Mercedes-Benz)
 - Que las claves de Cloudinary (o todas las que haya) estén ocultas y seguras ante hackeos. En la app y en 
 el cargador de img.
-- Traducir
-- Arreglar largo de los nombres de los autos (ver subaru impreza y alfa romeo). Seguir testeando
 - Testear cómo se ven los textos cuando el usuario tiene el tamaño más grande o más chico.
 - Analizar si funciona en todos los celulares.
 - Arreglar confirmación de mail (es necesaria?)
 - Que el usuario acepte los términos y condiciones al registrarse
 - Avisarle que el registro es rápido y fácil
 - Archivar publicaciones de IG
-- Falta un auto
+- Lógica de Falta un auto
 - Hay que agregar la opción de eliminar cuenta para cumplir con normas de Google y Apple
 - Qué pasa con los guardados si yo hago un cambio en el nombre/foto? Probarlo.
 - Ir testeando qué pasa si agrego nuevos autos a Supabase. Si modifico o elimino en Cloudinary.
 
 - Hacer commits por cada cambio
+- Arreglar largo de los nombres de los autos (ver subaru impreza y alfa romeo). Seguir testeando
+- Traducir (a lo último)
 - Antes de publicar la app hay que reemplazar la URL HTTP local por la dirección HTTPS del backend desplegado

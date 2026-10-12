@@ -7781,6 +7781,12 @@
   "Panoz Esperante GTR-1_delantera": {
     "fuente": "By ERIC SALARD from Paris, FRANCE - PANOZ ESPERANTE CTR-1 RETROMOBIEL 2023, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=128577008"
   },
+  "Mazda RX-500 Concept_delantera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8258566"
+  },
+  "Mazda RX-500 Concept_trasera": {
+    "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8258575"
+  },
   "Mazda AZ-Offroad_delantera": {
     "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5285547"
   },
@@ -14089,6 +14095,51 @@
   },
   "McKee Mk7_delantera": {
     "fuente": "By TaurusEmerald - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=158195389"
+  },
+  "Riich G3_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20166064"
+  },
+  "Riich G3_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25005696"
+  },
+  "Riich G5_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=34822688"
+  },
+  "Riich G5_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59418457"
+  },
+  "Riich G6_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23555480"
+  },
+  "Riich G6_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23555481"
+  },
+  "Riich M1_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=88391493"
+  },
+  "Riich M1_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=88391491"
+  },
+  "Riich X1_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19643743"
+  },
+  "Riich X1_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19643766"
+  },
+  "Lanzante 95-59 (2025)_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=171065535"
+  },
+  "Sin R1_delantera": {
+    "fuente": "By Own workMichelin LIVE UK - picture - This image has been extracted from another file, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=172920993"
+  },
+  "Capricorn 01 Zagato (2026)_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=183102984"
+  },
+  "LCC Rocket_delantera": {
+    "fuente": "By Tony Harrison from Farnborough, UK;cropped, sticker removed and rotated slightly by uploader Mr.choppers - Snetterton 300 Trackday April 17th 2011 opentrack DSC_2391, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=16038313"
+  },
+  "LCC Rocket_trasera": {
+    "fuente": "By Tony Harrison from Farnborough, UK;cropped, foreign objects undrawn by uploader Mr.choppers - Snetterton 300 Trackday April 17th 2011 opentrack DSC_3186, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=16038336"
   },
   "Lotec Sirius_delantera": {
     "fuente": "By Pyrosuwu - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=185006599"
@@ -27695,119 +27746,164 @@
   "Chery Tiggo 3x Plus (2023)_trasera": {
     "fuente": "By Quzhouliulian - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=146674546"
   },
-  "Chery Tiggo 4_delantera": {
-    "fuente": ""
+  "Chery Tiggo 3 - 4 - Cross - 5x (2017)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89238867"
   },
-  "Chery Tiggo 4_trasera": {
-    "fuente": ""
+  "Chery Tiggo 3 - 4 - Cross - 5x (2017)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89238869"
   },
-  "Chery Tiggo 5 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chery Tiggo 3 - 4 - Cross - 5x (2019)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91895721"
   },
-  "Chery Tiggo 5 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chery Tiggo 3 - 4 - Cross - 5x (2019)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91895720"
   },
-  "Chery Tiggo 7 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chery Tiggo 3 - 4 - Cross - 5x (2024)_delantera": {
+    "fuente": "By Throwawayacc222 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=184866054"
   },
-  "Chery Tiggo 7 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chery Tiggo 3 - 4 - Cross - 5x (2024)_trasera": {
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=148110617"
   },
-  "Chery Tiggo 8 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chery Tiggo 5 - Grand Tiggo (2013)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=42348114"
   },
-  "Chery Tiggo 8 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chery Tiggo 5 - Grand Tiggo (2013)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=42348120"
   },
-  "Chery Tiggo 9 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chery Tiggo 7 (2016)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73641131"
   },
-  "Chery Tiggo 9 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chery Tiggo 7 (2016)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73641130"
   },
-  "Chery Tiggo 2_delantera": {
-    "fuente": ""
+  "Chery Tiggo 7 (2023)_delantera": {
+    "fuente": "By Throwawayacc222 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=177776250"
   },
-  "Chery Tiggo 2_trasera": {
-    "fuente": ""
+  "Chery Tiggo 7 (2023)_trasera": {
+    "fuente": "By RL GNZLZ from Chile - Chery Tiggo7 Pro 2023, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=156878784"
   },
-  "Chery Tiggo 6_delantera": {
-    "fuente": ""
+  "Chery Tiggo 7 C-DM (2025)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167350494"
   },
-  "Chery Tiggo 6_trasera": {
-    "fuente": ""
+  "Chery Tiggo 7 C-DM (2025)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167350493"
+  },
+  "Chery Tiggo 5S (2026)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=190326284"
+  },
+  "Chery Tiggo 5S (2026)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=190326289"
+  },
+  "Chery Tiggo 6 - eQ7 (2023)_delantera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133765578"
+  },
+  "Chery Tiggo 6 - eQ7 (2023)_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130951275"
+  },
+  "Chery Tiggo 8 (2018)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89223731"
+  },
+  "Chery Tiggo 8 (2018)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89223734"
+  },
+  "Chery Tiggo 8 Pro - Plus (2020)_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=104205043"
+  },
+  "Chery Tiggo 8 Pro - Plus (2020)_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=104205042"
+  },
+  "Chery Tiggo 8 Plus - Fulwin T8 (2024)_delantera": {
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=147769603"
+  },
+  "Chery Tiggo 8 Plus - Fulwin T8 (2024)_trasera": {
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=147769605"
+  },
+  "Chery Tiggo 8 Pro (2024)_delantera": {
+    "fuente": "By MoCars - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=149574621"
+  },
+  "Chery Tiggo 8 Pro (2024)_trasera": {
+    "fuente": "By MoCars - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=149574622"
+  },
+  "Chery Tiggo 8 - Fulwin T8 (2025)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=192745010"
+  },
+  "Chery Tiggo 8 - Fulwin T8 (2025)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=192744995"
+  },
+  "Chery Tiggo 9 - Fulwin T10 (2025)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=179611560"
+  },
+  "Chery Tiggo 9 - Fulwin T10 (2025)_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=155242816"
   },
   "Chery Karry_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30947340"
   },
   "Chery Karry_trasera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30947341"
   },
-  "Chery Eastar (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chery Eastar (2004)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24720941"
   },
-  "Chery Eastar (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chery Eastar (2004)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=93433910"
   },
-  "Chery Eastar Cross_delantera": {
-    "fuente": ""
+  "Chery Cowin 5 (2012)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24700700"
   },
-  "Chery Eastar Cross_trasera": {
-    "fuente": ""
+  "Chery Eastar - E8 (2014)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24701007"
   },
-  "Chery V5_delantera": {
-    "fuente": ""
+  "Chery Eastar - E8 (2014)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19991657"
   },
-  "Chery V5_trasera": {
-    "fuente": ""
+  "Chery Arrizo M7 - Maxime_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74491211"
   },
-  "Chery M11 (1° Gen.)_delantera": {
-    "fuente": ""
+  "Chery Arrizo M7 - Maxime_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74491212"
   },
-  "Chery M11 (1° Gen.)_trasera": {
-    "fuente": ""
+  "Chery Eastar Cross - V5 - B14 - Boss - Destiny (2006)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19309217"
   },
-  "Chery M7_delantera": {
-    "fuente": ""
-  },
-  "Chery M7_trasera": {
-    "fuente": ""
-  },
-  "Chery Exeed TX_delantera": {
-    "fuente": ""
-  },
-  "Chery Exeed TX_trasera": {
-    "fuente": ""
-  },
-  "Chery Exeed VX_delantera": {
-    "fuente": ""
-  },
-  "Chery Exeed VX_trasera": {
-    "fuente": ""
+  "Chery Eastar Cross - V5 - B14 - Boss - Destiny (2006)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19309215"
   },
   "Chery Omoda 5_delantera": {
-    "fuente": ""
+    "fuente": "By Andra Febrian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133826034"
   },
   "Chery Omoda 5_trasera": {
-    "fuente": ""
+    "fuente": "By Andra Febrian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133826035"
   },
-  "Chery Omoda 7_delantera": {
-    "fuente": ""
+  "Chery eQ1 - iCar (2017)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87868664"
   },
-  "Chery Omoda 7_trasera": {
-    "fuente": ""
+  "Chery eQ1 - iCar (2017)_trasera": {
+    "fuente": "By JamesYoung8167 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=126611575"
   },
-  "Chery Jaecoo 7_delantera": {
-    "fuente": ""
+  "Chery eQ5 (2020)_delantera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95567584"
   },
-  "Chery Jaecoo 7_trasera": {
-    "fuente": ""
+  "Chery eQ5 (2020)_trasera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95567622"
   },
-  "Chery Jaecoo 8_delantera": {
-    "fuente": ""
+  "Chery Transcom (2013)_delantera": {
+    "fuente": "By Aero7, CC BY-SA 2.5 my, https://commons.wikimedia.org/w/index.php?curid=38454633"
   },
-  "Chery Jaecoo 8_trasera": {
-    "fuente": ""
+  "Chery Transcom (2013)_trasera": {
+    "fuente": "By Aero7, CC BY-SA 2.5 my, https://commons.wikimedia.org/w/index.php?curid=38454634"
+  },
+  "Chery Wujie Pro (2022)_delantera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133765576"
+  },
+  "Chery Wujie Pro (2022)_trasera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133765577"
+  },
+  "Chery X1 - Beat - IndiS (2014)_delantera": {
+    "fuente": "By Throwawayacc222 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=177783478"
+  },
+  "Chery X1 - Beat - IndiS (2014)_trasera": {
+    "fuente": "By Throwawayacc222 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=177783474"
   },
   "Daihatsu Compagno_delantera": {
     "fuente": ""
@@ -37111,6 +37207,21 @@
   },
   "Lamborghini Revuelto_trasera": {
     "fuente": "By Alexander-93 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=140120821"
+  },
+  "Ferrari CZ26_delantera": {
+    "fuente": "By HJUdall - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=199722759"
+  },
+  "Ferrari HC25_delantera": {
+    "fuente": "By TKOIII - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=192260845"
+  },
+  "Ferrari HC25_trasera": {
+    "fuente": "By TKOIII - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=192260614"
+  },
+  "Ferrari SC40_delantera": {
+    "fuente": "By HJUdall - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=199722674"
+  },
+  "Ferrari SP48 Unica_delantera": {
+    "fuente": "By HJUdall - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=199085718"
   },
   "Ferrari 499P_delantera": {
     "fuente": "Por MarcelX42 - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132171252"

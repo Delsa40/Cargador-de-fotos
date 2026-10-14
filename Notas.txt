@@ -13,6 +13,7 @@ el cargador de img.
 - Ir testeando qué pasa si agrego nuevos autos a Supabase. Si modifico o elimino en Cloudinary.
 - Terminar de subir Ford, Chevrolet y Toyota
 
+- Cloudinary tiene opciones para conseguir más créditos
 - Hacer commits por cada cambio
 - Arreglar largo de los nombres de los autos (ver subaru impreza y alfa romeo). Seguir testeando
 - Traducir (a lo último)

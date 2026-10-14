@@ -11,6 +11,7 @@ el cargador de img.
 - Hay que agregar la opción de eliminar cuenta para cumplir con normas de Google y Apple
 - Qué pasa con los guardados si yo hago un cambio en el nombre/foto? Probarlo.
 - Ir testeando qué pasa si agrego nuevos autos a Supabase. Si modifico o elimino en Cloudinary.
+- Terminar de subir Ford, Chevrolet y Toyota
 
 - Hacer commits por cada cambio
 - Arreglar largo de los nombres de los autos (ver subaru impreza y alfa romeo). Seguir testeando

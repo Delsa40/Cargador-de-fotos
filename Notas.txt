@@ -12,6 +12,7 @@ el cargador de img.
 - Qué pasa con los guardados si yo hago un cambio en el nombre/foto? Probarlo.
 - Ir testeando qué pasa si agrego nuevos autos a Supabase. Si modifico o elimino en Cloudinary.
 - Terminar de subir Ford, Chevrolet y Toyota
+- Agregar publicidad
 
 - Cloudinary tiene opciones para conseguir más créditos
 - Hacer commits por cada cambio

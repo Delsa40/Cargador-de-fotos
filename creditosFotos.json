@@ -7781,6 +7781,18 @@
   "Panoz Esperante GTR-1_delantera": {
     "fuente": "By ERIC SALARD from Paris, FRANCE - PANOZ ESPERANTE CTR-1 RETROMOBIEL 2023, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=128577008"
   },
+  "Mazda CX-6e - EZ-60_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=192866877"
+  },
+  "Mazda CX-6e - EZ-60_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164142883"
+  },
+  "Mazda 6e - EZ-6_delantera": {
+    "fuente": "By Dinkun Chen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157119556"
+  },
+  "Mazda 6e - EZ-6_trasera": {
+    "fuente": "By Dinkun Chen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157119551"
+  },
   "Mazda RX-500 Concept_delantera": {
     "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8258566"
   },
@@ -15358,6 +15370,24 @@
   },
   "Mitsubishi Jeep Wagon_trasera": {
     "fuente": "By Tennen-Gas - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3239643"
+  },
+  "Pontiac Firefly Hatchback (1990)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1787989"
+  },
+  "Pontiac Firefly Convertible (1990)_delantera": {
+    "fuente": "By Trekphiler - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=4526368"
+  },
+  "Pontiac Firefly Sedan (1990)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2050540"
+  },
+  "Pontiac Firefly Hatchback (1995)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3107914"
+  },
+  "Pontiac Firefly Hatchback (1995)_trasera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1254508"
+  },
+  "Pontiac Firefly Sedan (1995)_delantera": {
+    "fuente": "By Bull-Doser - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3937574"
   },
   "Pontiac Chieftain - Star Chief (1953)_delantera": {
     "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=167772458"
@@ -29832,70 +29862,199 @@
     "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=191281309"
   },
   "Arcfox Lite_delantera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80631858"
   },
   "Arcfox Lite_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80631859"
   },
-  "Arcfox Alpha S6_delantera": {
-    "fuente": ""
+  "Arcfox Alpha S_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=104069923"
   },
-  "Arcfox Alpha S6_trasera": {
-    "fuente": ""
+  "Arcfox Alpha S_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123399539"
   },
-  "Arcfox Alpha T6_delantera": {
-    "fuente": ""
+  "Arcfox Alpha T_delantera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95892552"
   },
-  "Arcfox Alpha T6_trasera": {
-    "fuente": ""
+  "Arcfox Alpha T_trasera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133643884"
   },
-  "Arcfox Alpha T5_delantera": {
-    "fuente": ""
+  "Arcfox Alpha T5 (2023)_delantera": {
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156797730"
   },
-  "Arcfox Alpha T5_trasera": {
-    "fuente": ""
+  "Arcfox Alpha T5 (2023)_trasera": {
+    "fuente": "By S5A-0043 - (CHN-Guangdong) Showcar Arcfox Alpha T5 No-plate 2024-05-24, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=148903188"
   },
   "Arcfox Alpha S5_delantera": {
-    "fuente": ""
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=156797729"
   },
   "Arcfox Alpha S5_trasera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=197505081"
   },
   "Arcfox Kaola_delantera": {
-    "fuente": ""
+    "fuente": "By Michge - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=147337033"
   },
   "Arcfox Kaola_trasera": {
-    "fuente": ""
-  },
-  "Arcfox Kaola S_delantera": {
-    "fuente": ""
-  },
-  "Arcfox Kaola S_trasera": {
-    "fuente": ""
+    "fuente": "By Michge - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=147337031"
   },
   "Arcfox T1_delantera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164171073"
   },
   "Arcfox T1_trasera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164171072"
   },
-  "Arcfox S3_delantera": {
-    "fuente": ""
+  "Arcfox Beta T1_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=197505277"
   },
-  "Arcfox S3_trasera": {
-    "fuente": ""
+  "Arcfox Beta T1_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=197505278"
+  },
+  "Arcfox Beta S3_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=198897766"
+  },
+  "Arcfox Beta S3_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195087010"
   },
   "Arcfox Alpha T7_delantera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=200622724"
   },
   "Arcfox Alpha T7_trasera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=200481153"
   },
   "Arcfox Wendao V9_delantera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195087060"
   },
   "Arcfox Wendao V9_trasera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195087059"
+  },
+  "Arcfox GT_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77677067"
+  },
+  "Arcfox GT_trasera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77184557"
+  },
+  "Arcfox GT Race Edition_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77677058"
+  },
+  "Arcfox GT Race Edition_trasera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77184572"
+  },
+  "Zeekr 001_delantera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=188329375"
+  },
+  "Zeekr 001_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=188329373"
+  },
+  "Zeekr 001 FR_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177630956"
+  },
+  "Zeekr 001 FR_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177630995"
+  },
+  "Zeekr 007_delantera": {
+    "fuente": "By S5A-0043 - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=156430813"
+  },
+  "Zeekr 007_trasera": {
+    "fuente": "By S5A-0043 - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=156430812"
+  },
+  "Zeekr 007 GT - 7GT_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165658080"
+  },
+  "Zeekr 007 GT - 7GT_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165658084"
+  },
+  "Zeekr 009_delantera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=193152129"
+  },
+  "Zeekr 009_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=193152132"
+  },
+  "Zeekr X_delantera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133767875"
+  },
+  "Zeekr X_trasera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133767874"
+  },
+  "Zeekr 7X_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178393637"
+  },
+  "Zeekr 7X_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=178393626"
+  },
+  "Zeekr 8X_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=188612977"
+  },
+  "Zeekr 8X_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=188612976"
+  },
+  "Zeekr 9X_delantera": {
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=180036839"
+  },
+  "Zeekr 9X_trasera": {
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=180036837"
+  },
+  "Zeekr MIX_delantera": {
+    "fuente": "By S5A-0043 - Own work, Attribution, https://commons.wikimedia.org/w/index.php?curid=156430141"
+  },
+  "Zeekr MIX_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=163379101"
+  },
+  "Waymo Ojai_delantera": {
+    "fuente": "By TaurusEmerald - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=151788271"
+  },
+  "Deepal SL03 - L07_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=141274913"
+  },
+  "Deepal SL03 - L07_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=141274914"
+  },
+  "Deepal L06_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=191622665"
+  },
+  "Deepal L06_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=191622664"
+  },
+  "Deepal S05_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=155238747"
+  },
+  "Deepal S05_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=155238748"
+  },
+  "Deepal S07 - S7_delantera": {
+    "fuente": "By Randall Ferry - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=163194525"
+  },
+  "Deepal S07 - S7__trasera": {
+    "fuente": "By Randall Ferry - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=163194526"
+  },
+  "Deepal S09_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164142364"
+  },
+  "Deepal S09_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164142365"
+  },
+  "Deepal G318_delantera": {
+    "fuente": "By Autosdeprimera, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=147769626"
+  },
+  "Deepal G318_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=147812460"
+  },
+  "Changan Nevo E07 - Deepal E07_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=155242150"
+  },
+  "Changan Nevo E07 - Deepal E07_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=155242148"
+  },
+  "Changan Nevo Hunter K50 - Deepal Hunter K50_delantera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=186100934"
+  },
+  "Changan Nevo Hunter K50 - Deepal Hunter K50_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=186100945"
+  },
+  "Firefly EV_delantera": {
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=180036673"
+  },
+  "Firefly EV_trasera": {
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=180036674"
   },
   "BAIC D20 ()_delantera": {
     "fuente": ""
@@ -30009,6 +30168,108 @@
     "fuente": ""
   },
   "BAIC EU400_trasera": {
+    "fuente": ""
+  },
+  "Beijing U5 ()_delantera": {
+    "fuente": ""
+  },
+  "Beijing U5 ()_trasera": {
+    "fuente": ""
+  },
+  "Beijing U5 Plus_delantera": {
+    "fuente": ""
+  },
+  "Beijing U5 Plus_trasera": {
+    "fuente": ""
+  },
+  "Beijing EU5_delantera": {
+    "fuente": ""
+  },
+  "Beijing EU5_trasera": {
+    "fuente": ""
+  },
+  "Beijing EU5 Plus_delantera": {
+    "fuente": ""
+  },
+  "Beijing EU5 Plus_trasera": {
+    "fuente": ""
+  },
+  "Beijing EU7_delantera": {
+    "fuente": ""
+  },
+  "Beijing EU7_trasera": {
+    "fuente": ""
+  },
+  "Beijing EU8_delantera": {
+    "fuente": ""
+  },
+  "Beijing EU8_trasera": {
+    "fuente": ""
+  },
+  "Beijing X3_delantera": {
+    "fuente": ""
+  },
+  "Beijing X3_trasera": {
+    "fuente": ""
+  },
+  "Beijing X5 ()_delantera": {
+    "fuente": ""
+  },
+  "Beijing X5 ()_trasera": {
+    "fuente": ""
+  },
+  "Beijing X6_delantera": {
+    "fuente": ""
+  },
+  "Beijing X6_trasera": {
+    "fuente": ""
+  },
+  "Beijing X7_delantera": {
+    "fuente": ""
+  },
+  "Beijing X7_trasera": {
+    "fuente": ""
+  },
+  "Beijing Mofang_delantera": {
+    "fuente": ""
+  },
+  "Beijing Mofang_trasera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ212 ()_delantera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ212 ()_trasera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ30 ()_delantera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ30 ()_trasera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ40 ()_delantera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ40 ()_trasera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ60_delantera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ60_trasera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ80 ()_delantera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ80 ()_trasera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ90_delantera": {
+    "fuente": ""
+  },
+  "Beijing Off-road BJ90_trasera": {
     "fuente": ""
   },
   "Baojun 310_delantera": {
@@ -30153,108 +30414,6 @@
     "fuente": ""
   },
   "Baojun Huajing S_trasera": {
-    "fuente": ""
-  },
-  "Beijing U5 ()_delantera": {
-    "fuente": ""
-  },
-  "Beijing U5 ()_trasera": {
-    "fuente": ""
-  },
-  "Beijing U5 Plus_delantera": {
-    "fuente": ""
-  },
-  "Beijing U5 Plus_trasera": {
-    "fuente": ""
-  },
-  "Beijing EU5_delantera": {
-    "fuente": ""
-  },
-  "Beijing EU5_trasera": {
-    "fuente": ""
-  },
-  "Beijing EU5 Plus_delantera": {
-    "fuente": ""
-  },
-  "Beijing EU5 Plus_trasera": {
-    "fuente": ""
-  },
-  "Beijing EU7_delantera": {
-    "fuente": ""
-  },
-  "Beijing EU7_trasera": {
-    "fuente": ""
-  },
-  "Beijing EU8_delantera": {
-    "fuente": ""
-  },
-  "Beijing EU8_trasera": {
-    "fuente": ""
-  },
-  "Beijing X3_delantera": {
-    "fuente": ""
-  },
-  "Beijing X3_trasera": {
-    "fuente": ""
-  },
-  "Beijing X5 ()_delantera": {
-    "fuente": ""
-  },
-  "Beijing X5 ()_trasera": {
-    "fuente": ""
-  },
-  "Beijing X6_delantera": {
-    "fuente": ""
-  },
-  "Beijing X6_trasera": {
-    "fuente": ""
-  },
-  "Beijing X7_delantera": {
-    "fuente": ""
-  },
-  "Beijing X7_trasera": {
-    "fuente": ""
-  },
-  "Beijing Mofang_delantera": {
-    "fuente": ""
-  },
-  "Beijing Mofang_trasera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ212 ()_delantera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ212 ()_trasera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ30 ()_delantera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ30 ()_trasera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ40 ()_delantera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ40 ()_trasera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ60_delantera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ60_trasera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ80 ()_delantera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ80 ()_trasera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ90_delantera": {
-    "fuente": ""
-  },
-  "Beijing Off-road BJ90_trasera": {
     "fuente": ""
   },
   "Bestune B30_delantera": {
@@ -31130,12 +31289,6 @@
   "Changan Honor S_trasera": {
     "fuente": ""
   },
-  "Changan Hunter_delantera": {
-    "fuente": ""
-  },
-  "Changan Hunter_trasera": {
-    "fuente": ""
-  },
   "Changan Lantuozhe_delantera": {
     "fuente": ""
   },
@@ -31292,70 +31445,10 @@
   "Changan Nevo A07_trasera": {
     "fuente": ""
   },
-  "Changan Nevo E07_delantera": {
-    "fuente": ""
-  },
-  "Changan Nevo E07_trasera": {
-    "fuente": ""
-  },
   "Changan Nevo Q05_delantera": {
     "fuente": ""
   },
   "Changan Nevo Q05_trasera": {
-    "fuente": ""
-  },
-  "Deepal SL03_delantera": {
-    "fuente": ""
-  },
-  "Deepal SL03_trasera": {
-    "fuente": ""
-  },
-  "Deepal L07_delantera": {
-    "fuente": ""
-  },
-  "Deepal L07_trasera": {
-    "fuente": ""
-  },
-  "Deepal L06_delantera": {
-    "fuente": ""
-  },
-  "Deepal L06_trasera": {
-    "fuente": ""
-  },
-  "Deepal S05_delantera": {
-    "fuente": ""
-  },
-  "Deepal S05_trasera": {
-    "fuente": ""
-  },
-  "Deepal S07_delantera": {
-    "fuente": ""
-  },
-  "Deepal S07_trasera": {
-    "fuente": ""
-  },
-  "Deepal S09_delantera": {
-    "fuente": ""
-  },
-  "Deepal S09_trasera": {
-    "fuente": ""
-  },
-  "Deepal G318_delantera": {
-    "fuente": ""
-  },
-  "Deepal G318_trasera": {
-    "fuente": ""
-  },
-  "Deepal E07_delantera": {
-    "fuente": ""
-  },
-  "Deepal E07_trasera": {
-    "fuente": ""
-  },
-  "Deepal Hunter K50_delantera": {
-    "fuente": ""
-  },
-  "Deepal Hunter K50_trasera": {
     "fuente": ""
   },
   "Dongfeng Fengshen S30_delantera": {
@@ -32070,18 +32163,6 @@
     "fuente": ""
   },
   "Fangchengbao S GT_trasera": {
-    "fuente": ""
-  },
-  "Firefly firefly_delantera": {
-    "fuente": ""
-  },
-  "Firefly firefly_trasera": {
-    "fuente": ""
-  },
-  "Firefly haven_delantera": {
-    "fuente": ""
-  },
-  "Firefly haven_trasera": {
     "fuente": ""
   },
   "FAW Oley_delantera": {
@@ -35994,60 +36075,6 @@
     "fuente": ""
   },
   "Roewe iMAX8 EV_trasera": {
-    "fuente": ""
-  },
-  "Zeekr 001_delantera": {
-    "fuente": ""
-  },
-  "Zeekr 001_trasera": {
-    "fuente": ""
-  },
-  "Zeekr 007_delantera": {
-    "fuente": ""
-  },
-  "Zeekr 007_trasera": {
-    "fuente": ""
-  },
-  "Zeekr 007 GT - 7GT_delantera": {
-    "fuente": ""
-  },
-  "Zeekr 007 GT - 7GT_trasera": {
-    "fuente": ""
-  },
-  "Zeekr 009_delantera": {
-    "fuente": ""
-  },
-  "Zeekr 009_trasera": {
-    "fuente": ""
-  },
-  "Zeekr X_delantera": {
-    "fuente": ""
-  },
-  "Zeekr X_trasera": {
-    "fuente": ""
-  },
-  "Zeekr 7X_delantera": {
-    "fuente": ""
-  },
-  "Zeekr 7X_trasera": {
-    "fuente": ""
-  },
-  "Zeekr 8X_delantera": {
-    "fuente": ""
-  },
-  "Zeekr 8X_trasera": {
-    "fuente": ""
-  },
-  "Zeekr 9X_delantera": {
-    "fuente": ""
-  },
-  "Zeekr 9X_trasera": {
-    "fuente": ""
-  },
-  "Zeekr MIX_delantera": {
-    "fuente": ""
-  },
-  "Zeekr MIX_trasera": {
     "fuente": ""
   },
   "Vauxhall Prince Henry_delantera": {
@@ -45733,6 +45760,12 @@
   },
   "Volkswagen Quantum (1986)_trasera": {
     "fuente": "By IFCAR - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4828577"
+  },
+  "Peugeot Landtrek_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/54657821698/, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=170715616"
+  },
+  "Peugeot Landtrek_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=191038963"
   },
   "Peugeot 107_delantera": {
     "fuente": "By Vauxford - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67146364"

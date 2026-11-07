@@ -9,7 +9,6 @@ sea de una determinada manera
 - Qué pasa con los guardados si yo hago un cambio en el nombre/foto? Probarlo.
 - Ir testeando qué pasa si agrego nuevos autos a Supabase. Si modifico o elimino en Cloudinary (probar Pagani
 Zonda).
-- Terminar de subir Ford, Chevrolet y Toyota
 - Agregar publicidad
 
 - Arreglar largo de los nombres de los autos (ver subaru impreza y alfa romeo). Seguir testeando

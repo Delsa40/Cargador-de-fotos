@@ -1163,6 +1163,12 @@
   "Hyundai Pony Pickup (2° Gen.)_trasera": {
     "fuente": "By Damian B Oh - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133789223"
   },
+  "Maserati A8GCS Berlinetta_delantera": {
+    "fuente": "By The Car Spy - Salon Privé London 2012Uploaded by tm, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146809998"
+  },
+  "Maserati A8GCS Berlinetta_trasera": {
+    "fuente": "By The Car Spy - Salon Privé London 2012Uploaded by tm, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=146810007"
+  },
   "Maserati 3500 GT_delantera": {
     "fuente": "By Abehn - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=20546615"
   },
@@ -5335,6 +5341,9 @@
   },
   "Chaparral 2K_trasera": {
     "fuente": "By Andrew Basterfield - Chaparral-Cosworth 2K, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=18192692"
+  },
+  "Bugatti Brouillard_delantera": {
+    "fuente": "By 6Na PI0 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=201255902"
   },
   "Bugatti Type 13 Sport_delantera": {
     "fuente": "By Zairon - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47592867"
@@ -10250,11 +10259,20 @@
   "Pininfarina Battista_trasera": {
     "fuente": "Por Vauxford - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85855583"
   },
+  "Soleil Anadi_delantera": {
+    "fuente": "By Clément Bucco-Lechat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25177706"
+  },
+  "Soleil Anadi_trasera": {
+    "fuente": "By Clément Bucco-Lechat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25177698"
+  },
   "Gumpert Apollo_delantera": {
     "fuente": "By Norbert Aepli, Switzerland, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24996961"
   },
   "Gumpert Apollo_trasera": {
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67879766"
+  },
+  "Gumpert Tornante_delantera": {
+    "fuente": "By The Car Spy - Salon Privé London 2012Uploaded by tm, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=26515776"
   },
   "Apollo Arrow Concept_delantera": {
     "fuente": "Por El monty - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=48033938"
@@ -14158,6 +14176,75 @@
   },
   "LCC Rocket_trasera": {
     "fuente": "By Tony Harrison from Farnborough, UK;cropped, foreign objects undrawn by uploader Mr.choppers - Snetterton 300 Trackday April 17th 2011 opentrack DSC_3186, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=16038336"
+  },
+  "Elfin MS8 Streamliner_delantera": {
+    "fuente": "By Tom Reynolds from Melbourne, Australia - DSC_0543, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=136956846"
+  },
+  "Elfin MS8 Streamliner_trasera": {
+    "fuente": "By Tom Reynolds from Melbourne, Australia - DSC_0490, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=136956835"
+  },
+  "Elfin MS8 Clubman_delantera": {
+    "fuente": "By Thomasrdotorg at English Wikipedia, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=4489431"
+  },
+  "Elfin MS8 Clubman_trasera": {
+    "fuente": "By Tom Reynolds from Melbourne, Australia - DSC_0188, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=136956983"
+  },
+  "Elfin Streamliner_delantera": {
+    "fuente": "By Sicnag - 1961 Elfin Streamliner Sports, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40644575"
+  },
+  "Elfin 400_delantera": {
+    "fuente": "By Yu Chu Chin - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=185398203"
+  },
+  "Elfin Clubman_delantera": {
+    "fuente": "By GTHO - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16215707"
+  },
+  "Callaway C12_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=151336704"
+  },
+  "Callaway C12_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=151854695"
+  },
+  "Callaway Sledgehammer - Twin Turbo Corvette_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=155222895"
+  },
+  "Callaway Sledgehammer - Twin Turbo Corvette_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=155222655"
+  },
+  "Callaway Twin Turbo Speedster_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=151342953"
+  },
+  "Callaway Twin Turbo Speedster_trasera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=117591559"
+  },
+  "Callaway C16 Speedster_delantera": {
+    "fuente": "By Mr.choppers - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=197276141"
+  },
+  "Laffite LM1_delantera": {
+    "fuente": "By Acoubidou - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=182912302"
+  },
+  "Brabus Bodo_delantera": {
+    "fuente": "By HJUdall - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=199068051"
+  },
+  "Pambuffetti PJ-01_delantera": {
+    "fuente": "By Gtb2 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=165392037"
+  },
+  "Pambuffetti PJ-01_trasera": {
+    "fuente": "By Saggittarius A - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=106516369"
+  },
+  "Touring Superleggera Arese RH95_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=111459047"
+  },
+  "Touring Superleggera Arese RH95_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=114994494"
+  },
+  "Touring Superleggera AERO 3_delantera": {
+    "fuente": "By Joshua Hickey - From Discord server - With their permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94900371"
+  },
+  "Touring Superleggera AERO 3_trasera": {
+    "fuente": "By Liam Walker - From Discord server - With their permission, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94875168"
+  },
+  "Touring Superleggera Veloce12_delantera": {
+    "fuente": "By MrWalkr - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=196906089"
   },
   "Lotec Sirius_delantera": {
     "fuente": "By Pyrosuwu - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=185006599"
@@ -31430,257 +31517,287 @@
   "Baojun RM-5_trasera": {
     "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=89839529"
   },
-  "Bestune B30_delantera": {
-    "fuente": ""
+  "Besturn B30_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869310"
   },
-  "Bestune B30_trasera": {
-    "fuente": ""
+  "Besturn B30_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869311"
   },
-  "Bestune B50 ()_delantera": {
-    "fuente": ""
+  "Besturn B50 (2009)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19133725"
   },
-  "Bestune B50 ()_trasera": {
-    "fuente": ""
+  "Besturn B50 (2009)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19133722"
   },
-  "Bestune B70 ()_delantera": {
-    "fuente": ""
+  "Besturn B50 (2016)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869314"
   },
-  "Bestune B70 ()_trasera": {
-    "fuente": ""
+  "Besturn B50 (2016)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869317"
   },
-  "Bestune B70S_delantera": {
-    "fuente": ""
+  "Besturn B50 (2018)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869318"
   },
-  "Bestune B70S_trasera": {
-    "fuente": ""
+  "Besturn B50 (2018)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869322"
   },
-  "Bestune B90_delantera": {
-    "fuente": ""
+  "Besturn B70 (2006)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869333"
   },
-  "Bestune B90_trasera": {
-    "fuente": ""
+  "Besturn B70 (2006)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869336"
   },
-  "Bestune X40_delantera": {
-    "fuente": ""
+  "Besturn B70 (2012)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869335"
   },
-  "Bestune X40_trasera": {
-    "fuente": ""
+  "Besturn B70 (2012)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869334"
   },
-  "Bestune X80_delantera": {
-    "fuente": ""
+  "Besturn-Bestune B70 (2014)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50502247"
   },
-  "Bestune X80_trasera": {
-    "fuente": ""
+  "Besturn-Bestune B70 (2014)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869338"
+  },
+  "Bestune B70 (2020)_delantera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95890436"
+  },
+  "Bestune B70 (2020)_trasera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95890435"
+  },
+  "Besturn B90_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36699473"
+  },
+  "Besturn B90_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36699475"
+  },
+  "Besturn X40_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59415372"
+  },
+  "Besturn X40_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91869342"
+  },
+  "Besturn X80 (2013)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33712543"
+  },
+  "Besturn X80 (2013)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33712544"
+  },
+  "Besturn X80 (2017)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=60344653"
   },
   "Bestune T33_delantera": {
-    "fuente": ""
+    "fuente": "By FAWFTW - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105105635"
   },
   "Bestune T33_trasera": {
-    "fuente": ""
+    "fuente": "By FAWFTW - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105105630"
   },
   "Bestune T55_delantera": {
-    "fuente": ""
+    "fuente": "By FAWFTW - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105104254"
   },
   "Bestune T55_trasera": {
-    "fuente": ""
+    "fuente": "By FAWFTW - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105104252"
   },
   "Bestune T77_delantera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156913939"
   },
   "Bestune T77_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156913937"
   },
   "Bestune T90_delantera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131214956"
   },
   "Bestune T90_trasera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131214955"
   },
   "Bestune T99_delantera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131215061"
   },
   "Bestune T99_trasera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131215059"
   },
   "Bestune E01_delantera": {
-    "fuente": ""
+    "fuente": "By FAWFTW - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105105237"
   },
   "Bestune E01_trasera": {
-    "fuente": ""
+    "fuente": "By FAWFTW - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=105105235"
   },
-  "Bestune NAT_delantera": {
-    "fuente": ""
+  "Bestune NAT - E05_delantera": {
+    "fuente": "By GZrex - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120284509"
   },
-  "Bestune NAT_trasera": {
-    "fuente": ""
+  "Bestune NAT - E05_trasera": {
+    "fuente": "By GZrex - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=120284508"
   },
   "Bestune M9_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=183636147"
   },
   "Bestune M9_trasera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=183636153"
   },
-  "Bestune Pony_delantera": {
-    "fuente": ""
+  "Bestune Pony - Xiaoma_delantera": {
+    "fuente": "By Wide Awake! - Self-photographed, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=176051571"
   },
-  "Bestune Pony_trasera": {
-    "fuente": ""
+  "Bestune Pony - Xiaoma_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164475118"
   },
   "Bestune Yueyi 03_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165870497"
   },
   "Bestune Yueyi 03_trasera": {
-    "fuente": ""
-  },
-  "Bestune Yueyi 07_delantera": {
-    "fuente": ""
-  },
-  "Bestune Yueyi 07_trasera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164475041"
   },
   "Bestune Yueyi 08_delantera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164474902"
   },
   "Bestune Yueyi 08_trasera": {
-    "fuente": ""
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164474900"
   },
-  "Brilliance Dolphin_delantera": {
-    "fuente": ""
+  "Bestune B70S_delantera": {
+    "fuente": "By FAWFTW - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123273899"
   },
-  "Brilliance Dolphin_trasera": {
-    "fuente": ""
+  "Bestune B70S_trasera": {
+    "fuente": "By FAWFTW - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123273900"
   },
-  "Brilliance FRV_delantera": {
-    "fuente": ""
+  "Brilliance Tun - Dolphin_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79543445"
   },
-  "Brilliance FRV_trasera": {
-    "fuente": ""
+  "Brilliance Tun - Dolphin_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79543447"
   },
-  "Brilliance FRV Cross_delantera": {
-    "fuente": ""
+  "Brilliance FRV - Junjie Cross_delantera": {
+    "fuente": "By order_242 from Chile - Brilliance FRV 1.5 Cross Deluxe 2013, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34585551"
   },
-  "Brilliance FRV Cross_trasera": {
-    "fuente": ""
+  "Brilliance FRV - Junjie Cross_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81302589"
+  },
+  "Brilliance BS2 - FRV_delantera": {
+    "fuente": "By LSDSL 15:25, 26 September 2007 (UTC) - Own work, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=2817414"
+  },
+  "Brilliance BS2 - FRV_trasera": {
+    "fuente": "By LSDSL - Own work, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=2817418"
   },
   "Brilliance FSV_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19295555"
   },
   "Brilliance FSV_trasera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19295556"
   },
-  "Brilliance BS4_delantera": {
-    "fuente": ""
+  "Brilliance BS4 - M2 - Junjie (2007)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81680253"
   },
-  "Brilliance BS4_trasera": {
-    "fuente": ""
+  "Brilliance BS4 - M2 - Junjie (2007)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81680251"
   },
-  "Brilliance BS6_delantera": {
-    "fuente": ""
+  "Brilliance BS4 - M2 - Junjie Wagon (2007)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20745496"
   },
-  "Brilliance BS6_trasera": {
-    "fuente": ""
+  "Brilliance BS4 - M2 - Junjie Wagon (2007)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20745495"
   },
-  "Brilliance BC3_delantera": {
-    "fuente": ""
+  "Brilliance Junjie - Splendor (2012)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81681624"
   },
-  "Brilliance BC3_trasera": {
-    "fuente": ""
+  "Brilliance Junjie - Splendor (2012)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81681625"
+  },
+  "Brilliance Junjie - Splendor Wagon (2012)_delantera": {
+    "fuente": "By order_242 from Chile - Brilliance Splendor 2.0 Deluxe Wagon Cross 2014, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=34575324"
+  },
+  "Brilliance Junjie - Splendor Wagon (2012)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86076270"
+  },
+  "Brilliance BS6 - Zunchi - Zhonghua - M1_delantera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6410758"
+  },
+  "Brilliance BS6 - Zunchi - Zhonghua - M1_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4740981"
+  },
+  "Brilliance BC3 - Coupé - M3 - Kouper_delantera": {
+    "fuente": "By Swoolverton - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=80236726"
+  },
+  "Brilliance BC3 - Coupé - M3 - Kouper_trasera": {
+    "fuente": "By Thomas doerfer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2982285"
   },
   "Brilliance H220_delantera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81301436"
   },
   "Brilliance H220_trasera": {
-    "fuente": ""
+    "fuente": "By RL GNZLZ from Chile - Brilliance H220 2015, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=76193132"
   },
   "Brilliance H230_delantera": {
-    "fuente": ""
+    "fuente": "By JamesYoung8167 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130626960"
   },
   "Brilliance H230_trasera": {
-    "fuente": ""
+    "fuente": "By JamesYoung8167 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=130626958"
   },
   "Brilliance H320_delantera": {
-    "fuente": ""
-  },
-  "Brilliance H320_trasera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=55336978"
   },
   "Brilliance H330_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37799884"
   },
   "Brilliance H330_trasera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36887258"
   },
-  "Brilliance H530_delantera": {
-    "fuente": ""
+  "Brilliance H530 - Euphoria (2011)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19133884"
   },
-  "Brilliance H530_trasera": {
-    "fuente": ""
+  "Brilliance H530 (2014)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50316331"
+  },
+  "Brilliance H530 (2014)_trasera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73854529"
   },
   "Brilliance H3_delantera": {
-    "fuente": ""
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73312936"
   },
   "Brilliance H3_trasera": {
-    "fuente": ""
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73312937"
   },
-  "Brilliance M1 Zunchi ()_delantera": {
-    "fuente": ""
+  "Brilliance V3 (2015)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81304667"
   },
-  "Brilliance M1 Zunchi ()_trasera": {
-    "fuente": ""
+  "Brilliance V3 (2015)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81304661"
   },
-  "Brilliance M2 Junjie ()_delantera": {
-    "fuente": ""
+  "Brilliance V3 (2017)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81304911"
   },
-  "Brilliance M2 Junjie ()_trasera": {
-    "fuente": ""
+  "Brilliance V3 (2017)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81304910"
   },
-  "Brilliance M2 Junjie Cross_delantera": {
-    "fuente": ""
+  "Brilliance V5 (2011)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24995486"
   },
-  "Brilliance M2 Junjie Cross_trasera": {
-    "fuente": ""
+  "Brilliance V5 (2011)_trasera": {
+    "fuente": "By NaBUru38 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=45765832"
   },
-  "Brilliance M2 Junjie FRV_delantera": {
-    "fuente": ""
+  "Brilliance V5 (2014)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50413478"
   },
-  "Brilliance M2 Junjie FRV_trasera": {
-    "fuente": ""
-  },
-  "Brilliance M2 Junjie FSV_delantera": {
-    "fuente": ""
-  },
-  "Brilliance M2 Junjie FSV_trasera": {
-    "fuente": ""
-  },
-  "Brilliance M3 Kubao_delantera": {
-    "fuente": ""
-  },
-  "Brilliance M3 Kubao_trasera": {
-    "fuente": ""
-  },
-  "Brilliance V3_delantera": {
-    "fuente": ""
-  },
-  "Brilliance V3_trasera": {
-    "fuente": ""
-  },
-  "Brilliance V5_delantera": {
-    "fuente": ""
-  },
-  "Brilliance V5_trasera": {
-    "fuente": ""
+  "Brilliance V5 (2014)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=32718874"
   },
   "Brilliance V6_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72060200"
   },
   "Brilliance V6_trasera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=74697373"
   },
   "Brilliance V7_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78177142"
   },
   "Brilliance V7_trasera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78177141"
+  },
+  "Brilliance Konect_delantera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/51189887922/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=108376057"
+  },
+  "Brilliance Konect_trasera": {
+    "fuente": "By RL GNZLZ - https://www.flickr.com/photos/juanelo242a/49723985308/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=95207288"
+  },
+  "Brilliance Xinri i03_delantera": {
+    "fuente": "By East Asia Car Freak - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117987119"
   },
   "BYD F0_delantera": {
     "fuente": ""
@@ -42890,9 +43007,6 @@
   "Lancia Beta (1909)_delantera": {
     "fuente": "By Semnoz - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=625173"
   },
-  "Lancia Beta (1909)_trasera": {
-    "fuente": "By Semnoz - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=625155"
-  },
   "Lancia Theta_delantera": {
     "fuente": "By Thomas's Pics - Lancia Theta, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=50667335"
   },
@@ -44155,6 +44269,15 @@
   },
   "Isdera Commendatore 112i_trasera": {
     "fuente": "Por Mr.choppers - Trabajo propio, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=117660361"
+  },
+  "Isdera Autobahnkurier_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109679694"
+  },
+  "Isdera Autobahnkurier_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=109679753"
+  },
+  "Isdera Spyder 036i_delantera": {
+    "fuente": "By Maujak - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7532864"
   },
   "DMC DeLorean_delantera": {
     "fuente": "By Oleg Yunakov, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=172118449"
@@ -46238,9 +46361,6 @@
   "Ford Bronco (2° Gen.)_delantera": {
     "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6270269"
   },
-  "Ford Bronco (2° Gen.)_trasera": {
-    "fuente": "Por Magley64 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=3481167"
-  },
   "Ford Bronco (3° Gen.)_delantera": {
     "fuente": "By MercurySable99 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=137321458"
   },
@@ -46249,9 +46369,6 @@
   },
   "Ford Bronco (4° Gen.)_delantera": {
     "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2958554"
-  },
-  "Ford Bronco (4° Gen.)_trasera": {
-    "fuente": "By Accord14 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=60746393"
   },
   "Ford Bronco (5° Gen.)_delantera": {
     "fuente": "Por IFCAR - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=2954575"
@@ -54969,7 +55086,7 @@
     "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77178985"
   },
   "Pagani Zonda_trasera": {
-    "fuente": "Von Damian Morys from New York City, United States - C12 S., CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=49164962"
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77178980"
   },
   "Pagani Zonda Monza_delantera": {
     "fuente": "By Bryan S - https://www.flickr.com/photos/136435491@N07/49437460187/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=101284113"

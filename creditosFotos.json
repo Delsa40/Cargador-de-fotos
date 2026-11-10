@@ -31799,77 +31799,308 @@
   "Brilliance Xinri i03_delantera": {
     "fuente": "By East Asia Car Freak - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=117987119"
   },
-  "BYD F0_delantera": {
-    "fuente": ""
+  "BYD F0 - F1_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25480725"
   },
-  "BYD F0_trasera": {
-    "fuente": ""
+  "BYD F0 - F1_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25480727"
+  },
+  "BYD e1_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77899843"
+  },
+  "BYD e1_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77899845"
   },
   "BYD Flyer_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=60124266"
   },
-  "BYD Flyer_trasera": {
-    "fuente": ""
+  "BYD Dolphin G_delantera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=197615610"
   },
-  "BYD F3 ()_delantera": {
-    "fuente": ""
+  "BYD Dolphin G_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=197615592"
   },
-  "BYD F3 ()_trasera": {
-    "fuente": ""
+  "BYD Dolphin Mini-Surf - Seagull - Atto 1 (2023)_delantera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133889350"
   },
-  "BYD F3R_delantera": {
-    "fuente": ""
+  "BYD Dolphin Mini-Surf - Seagull - Atto 1 (2023)_trasera": {
+    "fuente": "By Alexander Migl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=175919837"
   },
-  "BYD F3R_trasera": {
-    "fuente": ""
+  "BYD Qin L EV - Seal 6 EV_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165455318"
+  },
+  "BYD Qin L EV - Seal 6 EV_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165455317"
+  },
+  "BYD Seal 5 DM-i - Destroyer 05 - Chazor - King_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=169780351"
+  },
+  "BYD Seal 5 DM-i - Destroyer 05 - Chazor - King_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=169780350"
+  },
+  "BYD Dolphin - New E2 (2021)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=152948126"
+  },
+  "BYD Dolphin - New E2 (2021)_trasera": {
+    "fuente": "By Kazyakuruma - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=137828220"
+  },
+  "BYD Dolphin - New E2 X (2025)_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164176109"
+  },
+  "BYD Dolphin - New E2 X (2025)_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164176111"
+  },
+  "BYD Frigate 07_delantera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133889351"
+  },
+  "BYD Frigate 07_trasera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=133889348"
+  },
+  "BYD Seal 6 DM-i_delantera": {
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=181502266"
+  },
+  "BYD Seal 6 DM-i_trasera": {
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=181502267"
+  },
+  "BYD Seal 6 DM-i Touring_delantera": {
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=181502264"
+  },
+  "BYD Seal 6 DM-i Touring_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164225266"
+  },
+  "BYD Seal (BEV)_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=143654571"
+  },
+  "BYD Seal (BEV)_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=191652816"
+  },
+  "BYD Seal 05 DM-i - King (2025)_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164532739"
+  },
+  "BYD Seal 05 DM-i - King (2025)_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164146556"
+  },
+  "BYD Seal 06 EV (2025)_delantera": {
+    "fuente": "By iMoD Official, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=164534461"
+  },
+  "BYD Seal 06 EV (2025)_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164176909"
+  },
+  "BYD Seal 06 GT_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166150410"
+  },
+  "BYD Seal 06 GT_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=166150409"
+  },
+  "BYD Qin L DM-i - Seal 6 DM-i_delantera": {
+    "fuente": "By User3204 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=149401998"
+  },
+  "BYD Qin L DM-i - Seal 6 DM-i_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=147819225"
+  },
+  "BYD Seal 07 - DM-i EV (2026)_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195601302"
+  },
+  "BYD Seal 07 - DM-i EV (2026)_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195601295"
+  },
+  "BYD Seal 07 - DM-i PHEV (2023)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148203164"
+  },
+  "BYD Seal 07 - DM-i PHEV (2023)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=148203163"
+  },
+  "BYD Seal 08_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195600916"
+  },
+  "BYD Seal 08_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=201289144"
+  },
+  "BYD Sealion 05 DM-i (2024)_delantera": {
+    "fuente": "By Randall Ferry - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157026302"
+  },
+  "BYD Sealion 05 DM-i (2024)_trasera": {
+    "fuente": "By Randall Ferry - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=157026301"
+  },
+  "BYD Sealion 05 DM-i (2025)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165609698"
+  },
+  "BYD Sealion 05 DM-i (2025)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=165609695"
+  },
+  "BYD Sealion 05 EV (2025)_delantera": {
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=180440971"
+  },
+  "BYD Sealion 05 EV (2025)_trasera": {
+    "fuente": "By S5A-0043 - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=180441112"
+  },
+  "BYD Sealion 05 EV (2026)_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195601473"
+  },
+  "BYD Sealion 05 EV (2026)_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=195601472"
+  },
+  "BYD Sealion 06 EV - Song Plus_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164532837"
+  },
+  "BYD Sealion 06 EV - Song Plus_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164176757"
+  },
+  "BYD Sealion 07 DM-i_delantera": {
+    "fuente": "By iMoD Official, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=164534455"
+  },
+  "BYD Sealion 07 DM-i_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=164146056"
+  },
+  "BYD Sealion 07_delantera": {
+    "fuente": "By Matti Blume - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=177621961"
+  },
+  "BYD Sealion 07_trasera": {
+    "fuente": "By Ethan Llamas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=189008154"
+  },
+  "BYD Sealion 08_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=202988040"
+  },
+  "BYD Sealion 08_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=202207715"
+  },
+  "BYD Shark 6_delantera": {
+    "fuente": "By iMoD Official, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=158662060"
+  },
+  "BYD Shark 6_trasera": {
+    "fuente": "By iMoD Official, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=158662066"
+  },
+  "BYD F3R (2008)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=53985469"
+  },
+  "BYD F3R (2008)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85618043"
+  },
+  "BYD F3R - G3R (2012)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23981109"
+  },
+  "BYD F3R - G3R (2012)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23981113"
+  },
+  "BYD F3 (2005)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85617770"
+  },
+  "BYD F3 (2005)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85617769"
+  },
+  "BYD F3 (2014)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=42319795"
+  },
+  "BYD F3 (2014)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=42319796"
+  },
+  "BYD L3 - F5 - F3 Plus (2010)_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19985939"
+  },
+  "BYD L3 - F5 - F3 Plus (2010)_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19985940"
+  },
+  "BYD G3 (2010)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85608856"
+  },
+  "BYD G3 (2010)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85608857"
+  },
+  "BYD Surui - e5 (2017)_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85714612"
+  },
+  "BYD Surui - e5 (2017)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85714614"
+  },
+  "BYD Qin (2019)_delantera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95534764"
+  },
+  "BYD Qin (2019)_trasera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95534763"
+  },
+  "BYD Qin (2012)_delantera": {
+    "fuente": "By El monty - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=28252869"
+  },
+  "BYD Qin (2012)_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85769631"
+  },
+  "BYD Qin Pro_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=101995477"
+  },
+  "BYD Qin Pro_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=101995478"
+  },
+  "BYD Qin Plus_delantera": {
+    "fuente": "By SAIC GM sucks - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=140884003"
+  },
+  "BYD Qin Plus_trasera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=102437697"
+  },
+  "BYD Qin Max_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=200540097"
+  },
+  "BYD Qin Max_trasera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=200540095"
   },
   "BYD F6_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30352431"
   },
   "BYD F6_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=76098503"
   },
-  "BYD F8_delantera": {
-    "fuente": ""
+  "BYD S8 - F8_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86077207"
   },
-  "BYD F8_trasera": {
-    "fuente": ""
-  },
-  "BYD G3_delantera": {
-    "fuente": ""
-  },
-  "BYD G3_trasera": {
-    "fuente": ""
-  },
-  "BYD G3R_delantera": {
-    "fuente": ""
-  },
-  "BYD G3R_trasera": {
-    "fuente": ""
+  "BYD S8 - F8_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86077206"
   },
   "BYD G5_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=33001768"
   },
   "BYD G5_trasera": {
-    "fuente": ""
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=85714610"
   },
   "BYD G6_delantera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25340024"
   },
   "BYD G6_trasera": {
-    "fuente": ""
+    "fuente": "By Navigator84 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19678625"
   },
-  "BYD L3_delantera": {
-    "fuente": ""
+  "BYD Sirui_delantera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50877020"
   },
-  "BYD L3_trasera": {
-    "fuente": ""
+  "BYD Sirui_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50877023"
   },
-  "BYD Surui_delantera": {
-    "fuente": ""
+  "BYD e3_delantera": {
+    "fuente": "By Zotyefan - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=110423401"
   },
-  "BYD Surui_trasera": {
-    "fuente": ""
+  "BYD e3_trasera": {
+    "fuente": "By Zotyefan - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=110423404"
+  },
+  "BYD e2_delantera": {
+    "fuente": "By JustAnotherCarDesigner - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=136464910"
+  },
+  "BYD e2_trasera": {
+    "fuente": "By Navigator84 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=131422459"
+  },
+  "BYD Han DM - e9_delantera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=97301791"
+  },
+  "BYD Han DM - e9_trasera": {
+    "fuente": "By Jengtingchen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=98188694"
+  },
+  "BYD Han DM-i_delantera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156915740"
+  },
+  "BYD Han DM-i_trasera": {
+    "fuente": "By Kevauto - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=156915741"
+  },
+  "BYD Han EV_delantera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134567555"
+  },
+  "BYD Han EV_trasera": {
+    "fuente": "By Calreyn88 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=134567569"
   },
   "BYD S1_delantera": {
     "fuente": ""
@@ -31899,24 +32130,6 @@
     "fuente": ""
   },
   "BYD S8_trasera": {
-    "fuente": ""
-  },
-  "BYD e1_delantera": {
-    "fuente": ""
-  },
-  "BYD e1_trasera": {
-    "fuente": ""
-  },
-  "BYD e2_delantera": {
-    "fuente": ""
-  },
-  "BYD e2_trasera": {
-    "fuente": ""
-  },
-  "BYD e3_delantera": {
-    "fuente": ""
-  },
-  "BYD e3_trasera": {
     "fuente": ""
   },
   "BYD e5_delantera": {
@@ -31973,12 +32186,6 @@
   "BYD Qin L_trasera": {
     "fuente": ""
   },
-  "BYD Qin Plus_delantera": {
-    "fuente": ""
-  },
-  "BYD Qin Plus_trasera": {
-    "fuente": ""
-  },
   "BYD Han ()_delantera": {
     "fuente": ""
   },
@@ -31991,54 +32198,6 @@
   "BYD Han L_trasera": {
     "fuente": ""
   },
-  "BYD Seal_delantera": {
-    "fuente": ""
-  },
-  "BYD Seal_trasera": {
-    "fuente": ""
-  },
-  "BYD Seal 05_delantera": {
-    "fuente": ""
-  },
-  "BYD Seal 05_trasera": {
-    "fuente": ""
-  },
-  "BYD Seal 06_delantera": {
-    "fuente": ""
-  },
-  "BYD Seal 06_trasera": {
-    "fuente": ""
-  },
-  "BYD Seal 07_delantera": {
-    "fuente": ""
-  },
-  "BYD Seal 07_trasera": {
-    "fuente": ""
-  },
-  "BYD Seal 08_delantera": {
-    "fuente": ""
-  },
-  "BYD Seal 08_trasera": {
-    "fuente": ""
-  },
-  "BYD Dolphin_delantera": {
-    "fuente": ""
-  },
-  "BYD Dolphin_trasera": {
-    "fuente": ""
-  },
-  "BYD Seagull_delantera": {
-    "fuente": ""
-  },
-  "BYD Seagull_trasera": {
-    "fuente": ""
-  },
-  "BYD Destroyer 05_delantera": {
-    "fuente": ""
-  },
-  "BYD Destroyer 05_trasera": {
-    "fuente": ""
-  },
   "BYD Song ()_delantera": {
     "fuente": ""
   },
@@ -32049,12 +32208,6 @@
     "fuente": ""
   },
   "BYD Song Pro_trasera": {
-    "fuente": ""
-  },
-  "BYD Song Plus_delantera": {
-    "fuente": ""
-  },
-  "BYD Song Plus_trasera": {
     "fuente": ""
   },
   "BYD Song Max_delantera": {
@@ -32093,12 +32246,6 @@
   "BYD Yuan Pro_trasera": {
     "fuente": ""
   },
-  "BYD Atto 1_delantera": {
-    "fuente": ""
-  },
-  "BYD Atto 1_trasera": {
-    "fuente": ""
-  },
   "BYD Atto 2_delantera": {
     "fuente": ""
   },
@@ -32123,30 +32270,6 @@
   "BYD Seal U_trasera": {
     "fuente": ""
   },
-  "BYD Sealion 5_delantera": {
-    "fuente": ""
-  },
-  "BYD Sealion 5_trasera": {
-    "fuente": ""
-  },
-  "BYD Sealion 6_delantera": {
-    "fuente": ""
-  },
-  "BYD Sealion 6_trasera": {
-    "fuente": ""
-  },
-  "BYD Sealion 7_delantera": {
-    "fuente": ""
-  },
-  "BYD Sealion 7_trasera": {
-    "fuente": ""
-  },
-  "BYD Sealion 8_delantera": {
-    "fuente": ""
-  },
-  "BYD Sealion 8_trasera": {
-    "fuente": ""
-  },
   "BYD Xia_delantera": {
     "fuente": ""
   },
@@ -32157,18 +32280,6 @@
     "fuente": ""
   },
   "BYD Ti7_trasera": {
-    "fuente": ""
-  },
-  "BYD Shark_delantera": {
-    "fuente": ""
-  },
-  "BYD Shark_trasera": {
-    "fuente": ""
-  },
-  "BYD Shark 6_delantera": {
-    "fuente": ""
-  },
-  "BYD Shark 6_trasera": {
     "fuente": ""
   },
   "Changan BenBen ()_delantera": {
